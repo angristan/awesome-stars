@@ -1,9 +1,8 @@
 name: 'Update by stargazed'
-# This workflow runs at 00:30 everyday
 on:
   schedule:
     -
-      cron: '30 0 * * *'
+      cron: '00 10 * * 1'
 jobs:
   build:
     name: 'stargazed update'
@@ -24,4 +23,4 @@ jobs:
         name: 'Update Repo'
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'stargazed --username  "angristan" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
+        run: 'stargazed --username  "angristan" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "Automatic weekly update" --sort'

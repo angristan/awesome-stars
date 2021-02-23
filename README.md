@@ -130,6 +130,7 @@
 
 ## C 
 
+- [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [Cub3d-Linux](https://github.com/Emmabrdt/Cub3d-Linux) - This is my final 42's project Cub3d
 - [hekate](https://github.com/kerneis/hekate) - Hekate, a highly-concurrent BitTorrent seeder
 - [NAT-TCP-test](https://github.com/AndersTrier/NAT-TCP-test) - 
@@ -1677,8 +1678,8 @@
 ## JavaScript 
 
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 29 stars 6 forks.
-- [This-Repo-Has-1010-Stars](https://github.com/RealPeha/This-Repo-Has-1010-Stars) - Yes, it's true
+- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 32 stars 6 forks.
+- [This-Repo-Has-1196-Stars](https://github.com/RealPeha/This-Repo-Has-1196-Stars) - Yes, it's true :orange_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3427,7 +3428,7 @@
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [lxdsnap](https://github.com/jdavid/lxdsnap) - Automatic LXD snapshotting
-- [netplan](https://github.com/CanonicalLtd/netplan) - Backend-agnostic network configuration in YAML
+- [netplan](https://github.com/canonical/netplan) - Backend-agnostic network configuration in YAML
 - [ccvpn3](https://github.com/CCrypto/ccvpn3) - CCrypto VPN - Version 3, with Django. Our current site. (mirror of https://git.ccrypto.org/CCrypto/ccvpn3 )
 - [pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) - A distributed transcoding backend for Plex
@@ -3758,7 +3759,7 @@
 - [foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [feedbin-docker](https://github.com/thomas-illiet/feedbin-docker) - Feedbin is a simple, fast and nice looking RSS reader
 - [lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
-- [feedbin](https://github.com/feedbin/feedbin) - Follow your passions with RSS, email newsletters, and Twitter.
+- [feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [homebrew-tap](https://github.com/nextdns/homebrew-tap) - 
 - [truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
 - [homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk) - AdoptOpenJDK HomeBrew Tap

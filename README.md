@@ -130,6 +130,7 @@
 
 ## C 
 
+- [touchpaint](https://github.com/kdrag0n/touchpaint) - An experimental Linux kernel module that demonstrates the lowest possible input latency on modern smartphones. Not for Android or production use.
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [Cub3d-Linux](https://github.com/Emmabrdt/Cub3d-Linux) - This is my final 42's project Cub3d
 - [hekate](https://github.com/kerneis/hekate) - Hekate, a highly-concurrent BitTorrent seeder
@@ -140,7 +141,6 @@
 - [hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application
 - [xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
 - [pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
-- [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -1040,7 +1040,6 @@
 - [awesome-hangul](https://github.com/lqez/awesome-hangul) - An awesome list of Hangul/Korean related libraries and modules
 - [gate](https://github.com/minekube/gate) - A high performant & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support - ready for the cloud!
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [console](https://github.com/minio/console) - MinIO Console UI
 - [tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
@@ -1678,8 +1677,8 @@
 ## JavaScript 
 
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 32 stars 6 forks.
-- [This-Repo-Has-1196-Stars](https://github.com/RealPeha/This-Repo-Has-1196-Stars) - Yes, it's true :orange_heart:
+- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 34 stars 6 forks.
+- [This-Repo-Has-1325-Stars](https://github.com/RealPeha/This-Repo-Has-1325-Stars) - Yes, it's true :orange_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -1688,7 +1687,7 @@
 - [android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
-- [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
+- [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
@@ -3230,7 +3229,7 @@
 - [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [Trading212-CSV-Exporter](https://github.com/praveendath92/Trading212-CSV-Exporter) - Exports Trading 212 transactions
 - [AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-- [chain-main](https://github.com/crypto-com/chain-main) - Crypto.com Chain⛓: Croeseid Testnet and beyond development
+- [chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
 - [minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
 - [Atomagical_Plex_Remote_Quality](https://github.com/TheHumanRobot/Atomagical_Plex_Remote_Quality) - Automagically sets remote client playback quality
 - [projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
@@ -4420,6 +4419,7 @@
 - [Slide-iOS](https://github.com/ccrama/Slide-iOS) - A beautiful Reddit browser for iOS
 - [seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
+- [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [qrcreator](https://github.com/charleslanier/qrcreator) - QR Creator allows you to create personalised QR Codes in a few seconds
 - [shopapp-ios](https://github.com/rubygarage/shopapp-ios) - ShopApp is an application that transfers an online store into a mobile app
 - [eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -4522,6 +4522,7 @@
 - [vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3
 - [image-zoom](https://github.com/rpearce/image-zoom) - 🔎 Medium.com style image zoom for React 🔍
 - [TypeScript-Website](https://github.com/microsoft/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
+- [console](https://github.com/minio/console) - MinIO Console UI
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI

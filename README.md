@@ -130,6 +130,7 @@
 
 ## C 
 
+- [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [touchpaint](https://github.com/kdrag0n/touchpaint) - An experimental Linux kernel module that demonstrates the lowest possible input latency on modern smartphones. Not for Android or production use.
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [Cub3d-Linux](https://github.com/Emmabrdt/Cub3d-Linux) - This is my final 42's project Cub3d
@@ -843,7 +844,6 @@
 - [caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
 - [mastodon-infra](https://github.com/ykzts/mastodon-infra) - A manifest of Kubernetes for ykzts.technology.
 - [fahclient](https://github.com/codingCoffee/fahclient) - Dockerized Folding@home client with NVIDIA GPU support to help battle COVID-19
-- [image-debian](https://github.com/scaleway/image-debian) - 🐧 Official Debian Linux image for Scaleway Elements Instance
 - [image-builder](https://github.com/scaleway/image-builder) - :triangular_ruler: build server images on Scaleway
 - [docker](https://github.com/NixOS/docker) - Dockerfiles to package Nix in a minimal docker container
 - [furry-happiness](https://github.com/Xe/furry-happiness) - A proof of concept dockerfile that uses user mode linux
@@ -911,6 +911,7 @@
 
 ## Go 
 
+- [elasticsearch_exporter](https://github.com/justwatchcom/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [go-grpc-prometheus](https://github.com/grpc-ecosystem/go-grpc-prometheus) - Prometheus monitoring for your gRPC Go servers.
 - [ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
@@ -1677,8 +1678,8 @@
 ## JavaScript 
 
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 34 stars 6 forks.
-- [This-Repo-Has-1325-Stars](https://github.com/RealPeha/This-Repo-Has-1325-Stars) - Yes, it's true :orange_heart:
+- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
+- [This-Repo-Has-1417-Stars](https://github.com/RealPeha/This-Repo-Has-1417-Stars) - Yes, it's true :orange_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2598,6 +2599,7 @@
 
 ## Others 
 
+- [soft-era-iterm2](https://github.com/soft-aesthetic/soft-era-iterm2) - 🌸 soft era for iTerm2 ~  Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 - [NCoC](https://github.com/domgetter/NCoC) - No Code of Conduct: A Code of Conduct for Adults in Open Source Software
 - [Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
 - [jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
@@ -3213,6 +3215,7 @@
 
 ## Python 
 
+- [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [nano_prom_exporter](https://github.com/nanocurrency/nano_prom_exporter) - Prometheus Exporter for nano_node
 - [pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
@@ -3844,7 +3847,7 @@
 - [solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
 - [language-ruby](https://github.com/atom/language-ruby) - Ruby package for Atom
 - [berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager
-- [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [switch_point](https://github.com/eagletmt/switch_point) - Switching database connection between readonly one and writable one
 - [postal](https://github.com/postalhq/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [gistapp](https://github.com/stephanyan/gistapp) - A very simple fake GitHubGist app
@@ -4261,7 +4264,7 @@
 - [Docker](https://github.com/CachetHQ/Docker) - A Dockerized version of Cachet.
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [percona](https://github.com/docker-library/percona) - DEPRECATED Docker Official Image packaging for Percona Server, new repo:
-- [mariadb](https://github.com/docker-library/mariadb) - Docker Official Image packaging for MariaDB
+- [mariadb-docker](https://github.com/MariaDB/mariadb-docker) - Docker Official Image packaging for MariaDB
 - [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [dockerfiles](https://github.com/rlister/dockerfiles) - Collection of dockerfiles for hub.docker.com/u/rlister
 - [docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
@@ -4499,7 +4502,7 @@
 - [francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
 - [uniswap-interface](https://github.com/Uniswap/uniswap-interface) - 🦄 An open source interface for the Uniswap protocol
 - [overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
-- [pancake-swap-interface](https://github.com/pancakeswap/pancake-swap-interface) - Pancake AMM
+- [pancake-swap-interface](https://github.com/pancakeswap/pancake-swap-interface) - :pancakes: Pancake trading interface
 - [walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [gatsby-source-s3](https://github.com/robinmetral/gatsby-source-s3) - A Gatsby plugin to source objects and images from AWS S3

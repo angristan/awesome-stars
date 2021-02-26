@@ -130,6 +130,7 @@
 
 ## C 
 
+- [generic-print](https://github.com/exebook/generic-print) - Convenient generic print() for C
 - [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [touchpaint](https://github.com/kdrag0n/touchpaint) - An experimental Linux kernel module that demonstrates the lowest possible input latency on modern smartphones. Not for Android or production use.
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
@@ -315,6 +316,7 @@
 - [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [gtk-examples](https://github.com/steshaw/gtk-examples) - Examples from "Developing Linux Applications with GTK+ and GDK" by Eric Harlow
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression
 - [exfat](https://github.com/relan/exfat) - Free exFAT file system implementation
@@ -1399,6 +1401,7 @@
 
 ## HTML 
 
+- [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [nano-docs](https://github.com/nanocurrency/nano-docs) - Documentation for the Nano protocol
 - [niu-ending](https://github.com/Miaourt/niu-ending) - End of niu.moe - the credit animation
 - [terminalcheatsheet](https://github.com/devadvance/terminalcheatsheet) - All the knowledge you need to get up and running on terminals across operating systems. If you are contributing to open issue on this repo, please ask to be assigned to the issue so people know you are working on it.
@@ -1555,7 +1558,7 @@
 - [cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
 - [aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
-- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
 - [armageddon](https://github.com/as-capabl/armageddon) - GUI mastodon client written in Haskell
@@ -1586,7 +1589,6 @@
 - [cosbench](https://github.com/intel-cloud/cosbench) - a benchmark tool for cloud object storage service
 - [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [rest-cms-java](https://github.com/robiiinos/rest-cms-java) - A RESTful API for a Content Management System, built in JAVA.
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [JFoenix](https://github.com/sshahine/JFoenix) - JavaFX Material Design Library
 - [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
@@ -1677,9 +1679,10 @@
 
 ## JavaScript 
 
+- [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
-- [This-Repo-Has-1417-Stars](https://github.com/RealPeha/This-Repo-Has-1417-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1460-Stars](https://github.com/RealPeha/This-Repo-Has-1460-Stars) - Yes, it's true :orange_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -1999,7 +2002,6 @@
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.
 - [buttercup-mobile](https://github.com/buttercup/buttercup-mobile) - :iphone: React-Native mobile application for Buttercup
 - [buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension
@@ -2555,6 +2557,7 @@
 ## OCaml 
 
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
@@ -2579,7 +2582,7 @@
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
 - [NepTunes](https://github.com/rurza/NepTunes) - simple and reliable Last.fm scrobbler for iTunes and Spotify for macOS
 - [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
-- [Sloth](https://github.com/sveinbjornt/Sloth) - Native Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.
@@ -2827,7 +2830,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [optifine](https://github.com/sp614x/optifine) - 
-- [ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide) - A community-driven Ruby coding style guide
+- [ruby-style-guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide
 - [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [admission_post_bac](https://github.com/jeantil/admission_post_bac) - 
 - [others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux

@@ -841,7 +841,6 @@
 - [curl](https://github.com/wei/curl) - Wraps the curl CLI to be used in Github Actions
 - [docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker
 - [dockerfiles](https://github.com/j8r/dockerfiles) - Repository for my dockerfiles
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
 - [mastodon-infra](https://github.com/ykzts/mastodon-infra) - A manifest of Kubernetes for ykzts.technology.
@@ -1682,7 +1681,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
-- [This-Repo-Has-1460-Stars](https://github.com/RealPeha/This-Repo-Has-1460-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1486-Stars](https://github.com/RealPeha/This-Repo-Has-1486-Stars) - Yes, it's true :orange_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2065,7 +2064,7 @@
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
-- [artillery](https://github.com/artilleryio/artillery) - ARTILLERY - a modern load testing and functional testing toolkit. Loved by developers, QA engineers and SREs around the world.
+- [artillery](https://github.com/artilleryio/artillery) - ARTILLERY - modern load and smoke testing for SRE
 - [ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -3218,6 +3217,7 @@
 
 ## Python 
 
+- [python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [nano_prom_exporter](https://github.com/nanocurrency/nano_prom_exporter) - Prometheus Exporter for nano_node
@@ -4077,6 +4077,7 @@
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [dist](https://github.com/caddyserver/dist) - Resources for packaging and distributing Caddy
 - [USG_Orange](https://github.com/shisva/USG_Orange) - Remplacer sa Livebox par un routeur Ubiquiti USG/USGPRO
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [actions](https://github.com/bltavares/actions) - Collection of linters and fixers as Github Actions - Alpha

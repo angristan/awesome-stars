@@ -1681,7 +1681,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
-- [This-Repo-Has-1486-Stars](https://github.com/RealPeha/This-Repo-Has-1486-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1507-Stars](https://github.com/RealPeha/This-Repo-Has-1507-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService

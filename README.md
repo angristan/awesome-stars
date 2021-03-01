@@ -130,6 +130,7 @@
 
 ## C 
 
+- [trickle](https://github.com/mariusae/trickle) - Trickle is a userland bandwidth shaper for Unix-like systems.
 - [generic-print](https://github.com/exebook/generic-print) - Convenient generic print() for C
 - [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [touchpaint](https://github.com/kdrag0n/touchpaint) - An experimental Linux kernel module that demonstrates the lowest possible input latency on modern smartphones. Not for Android or production use.
@@ -1681,7 +1682,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
-- [This-Repo-Has-1507-Stars](https://github.com/RealPeha/This-Repo-Has-1507-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1530-Stars](https://github.com/RealPeha/This-Repo-Has-1530-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3077,7 +3078,6 @@
 - [McAfee-Shill-Bot](https://github.com/mattiasgeniar/McAfee-Shill-Bot) - This bot monitors @officialmcafee's tweets, parses their text & images (using OCR), extracts the coin-ticker and buys them on BitTrex.
 - [cloudflare-bypass](https://github.com/KyranRana/cloudflare-bypass) - A new and improved PHP library which bypasses the Cloudflare IUAM page using cURL
 - [dashboard](https://github.com/nextcloud/dashboard) - ARCHIVED, new Dashboard is in the server
-- [checksum](https://github.com/westberliner/checksum) - Plugin for Nextcloud and ownCloud to create hashes of files.
 - [nextcloud-metadata](https://github.com/gino0631/nextcloud-metadata) - A Nextcloud plugin for displaying file metadata.
 - [unsplash](https://github.com/nextcloud/unsplash) - 📸🔀☁️ Random Nextcloud log in background from Unsplash
 - [bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
@@ -3217,6 +3217,7 @@
 
 ## Python 
 
+- [librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
 - [python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
@@ -3424,7 +3425,7 @@
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [caddy-ansible](https://github.com/antoiner77/caddy-ansible) - Ansible playbook for caddy
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
@@ -4077,7 +4078,7 @@
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [dist](https://github.com/caddyserver/dist) - Resources for packaging and distributing Caddy
 - [USG_Orange](https://github.com/shisva/USG_Orange) - Remplacer sa Livebox par un routeur Ubiquiti USG/USGPRO
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [actions](https://github.com/bltavares/actions) - Collection of linters and fixers as Github Actions - Alpha
@@ -4836,6 +4837,7 @@
 - [dnscrypt-website](https://github.com/DNSCrypt/dnscrypt-website) - DNSCrypt website
 - [dockeron](https://github.com/dockeron/dockeron) - 🤖🤖🤖 Electron + Vue.js for Docker
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [checksum](https://github.com/westberliner/checksum) - Plugin for Nextcloud and ownCloud to create hashes of files.
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 ## YAML 

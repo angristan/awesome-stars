@@ -1681,8 +1681,8 @@
 
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
-- [This-Repo-Has-1530-Stars](https://github.com/RealPeha/This-Repo-Has-1530-Stars) - Yes, it's true :purple_heart:
+- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
+- [This-Repo-Has-1549-Stars](https://github.com/RealPeha/This-Repo-Has-1549-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3178,7 +3178,6 @@
 - [nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx
 - [SReview](https://github.com/yoe/SReview) - sreview review system
 - [check_netapp_ontap](https://github.com/OutsideIT/check_netapp_ontap) - :four_leaf_clover: Check NetApp Ontap :four_leaf_clover:
-- [dank-selfhosted](https://github.com/cullum/dank-selfhosted) - Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD.
 - [nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer

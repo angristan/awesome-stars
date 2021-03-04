@@ -1012,7 +1012,7 @@
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [covid-alert-server](https://github.com/cds-snc/covid-alert-server) - Exposure Notification: Diagnosis Server implementation / Notification d’exposition : Mise en œuvre du serveur de diagnostic
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed blob store and file system to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
@@ -1042,6 +1042,7 @@
 - [awesome-hangul](https://github.com/lqez/awesome-hangul) - An awesome list of Hangul/Korean related libraries and modules
 - [gate](https://github.com/minekube/gate) - A high performant & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support - ready for the cloud!
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [console](https://github.com/minio/console) - Management UI for MinIO and MinIO operator
 - [tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
@@ -1402,6 +1403,7 @@
 
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [nano-docs](https://github.com/nanocurrency/nano-docs) - Documentation for the Nano protocol
+- [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [niu-ending](https://github.com/Miaourt/niu-ending) - End of niu.moe - the credit animation
 - [terminalcheatsheet](https://github.com/devadvance/terminalcheatsheet) - All the knowledge you need to get up and running on terminals across operating systems. If you are contributing to open issue on this repo, please ask to be assigned to the issue so people know you are working on it.
 - [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
@@ -1534,7 +1536,7 @@
 - [docker-alpine-nginx](https://github.com/Evild67/docker-alpine-nginx) - Minimalistic Docker image with Nginx
 - [html](https://github.com/w3c/html) - Deliverables of the HTML Working Group until October 2018
 - [0rc](https://github.com/cgm616/0rc) - Website if using 0net locally:
-- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
+- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [hackazon](https://github.com/rapid7/hackazon) - A modern vulnerable web app
 - [no-nonsense](https://github.com/mihneadb/no-nonsense) - Fully featured, content-focused Ghost theme
 
@@ -1681,7 +1683,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1564-Stars](https://github.com/RealPeha/This-Repo-Has-1564-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1570-Stars](https://github.com/RealPeha/This-Repo-Has-1570-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -1726,7 +1728,7 @@
 - [Never-Consent](https://github.com/MathRobin/Never-Consent) - Never consent to any GDPR consent management platform
 - [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
 - [quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+- [22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
@@ -1809,7 +1811,7 @@
 - [superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 - [generator](https://github.com/musicorum-app/generator) - The image generator for musicorum app
 - [code-du-travail-numerique](https://github.com/SocialGouv/code-du-travail-numerique) - Code du Travail Numérique
-- [lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and fixing lint errors
+- [lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [fallback-image](https://github.com/binance-academy/fallback-image) - Display a fallback while an image is loading
@@ -1907,7 +1909,7 @@
 - [gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 - [clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [thelounge](https://github.com/thelounge/thelounge) - 💬 Modern, responsive, cross-platform, self-hosted web IRC client
 - [gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world) - Starter with the bare essentials needed for a Gatsby site
@@ -2040,7 +2042,7 @@
 - [refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
 - [guess-next](https://github.com/mgechev/guess-next) - 🔮 Demo application showing the integration of Guess.js with Next.js
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
+- [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 - [vscode-nginx-conf-hint](https://github.com/hangxingliu/vscode-nginx-conf-hint) - :pencil: VS Code extension: Nginx config file hint(auto-completion)
 - [agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -2099,7 +2101,7 @@
 - [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 - [supertest](https://github.com/visionmedia/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.
-- [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
+- [svgo](https://github.com/svg/svgo) - :gear: Node.js tool for optimizing SVG files
 - [expect](https://github.com/mjackson/expect) - Write better assertions
 - [mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -3216,6 +3218,7 @@
 
 ## Python 
 
+- [netaddr](https://github.com/netaddr/netaddr) - A network address manipulation library for Python
 - [librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
 - [python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
@@ -3228,7 +3231,6 @@
 - [pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [MyAnimeList.bundle](https://github.com/Fribb/MyAnimeList.bundle) - Plex Media Server Metadata Agent for MyAnimeList.net
 - [AMSA](https://github.com/Dingmatt/AMSA) - A Plex anime agent using TVDB and AniDB data
-- [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [Trakt2Letterboxd](https://github.com/anoopsankar/Trakt2Letterboxd) - Script to export your movies from Trakt to Letterboxd
@@ -4528,7 +4530,6 @@
 - [vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3
 - [image-zoom](https://github.com/rpearce/image-zoom) - 🔎 Medium.com style image zoom for React 🔍
 - [TypeScript-Website](https://github.com/microsoft/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
-- [console](https://github.com/minio/console) - MinIO Console UI
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI

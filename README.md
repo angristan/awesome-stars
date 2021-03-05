@@ -147,7 +147,7 @@
 - [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
-- [cups](https://github.com/apple/cups) - Official CUPS Sources
+- [cups](https://github.com/apple/cups) - Apple CUPS Sources
 - [criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [chibicc](https://github.com/rui314/chibicc) - A small C compiler
@@ -1330,7 +1330,7 @@
 - [lxd](https://github.com/lxc/lxd) - Daemon based on liblxc offering a REST API to manage containers
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [speedtest](https://github.com/zpeters/speedtest) - Command line client for speedtest.net written in Go
-- [linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
+- [linx-server](https://github.com/linx-server/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [journey](https://github.com/kabukky/journey) - A blog engine written in Go, compatible with Ghost themes.
@@ -1683,7 +1683,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1570-Stars](https://github.com/RealPeha/This-Repo-Has-1570-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1573-Stars](https://github.com/RealPeha/This-Repo-Has-1573-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -1705,7 +1705,7 @@
 - [gatsby-remark-classes](https://github.com/chrisg86/gatsby-remark-classes) - Automatically add class attributes to markdown elements
 - [next.js](https://github.com/vercel/next.js) - The React Framework
 - [Discord-Emoji-Downloader](https://github.com/ThaTiemsz/Discord-Emoji-Downloader) - Get all emojis from a server in a ZIP file.
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [airbnb-price-per-night-correcter](https://github.com/davidsawyer/airbnb-price-per-night-correcter) - Gives you the real price per night of an Airbnb stay after accounting for any and all fees
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
@@ -3218,6 +3218,8 @@
 
 ## Python 
 
+- [python-ipy](https://github.com/autocracy/python-ipy) - IPy are a Python class and tools for handling of IPv4 and IPv6 addresses and networks. It is similar to Net::IP Perl module.
+- [XBMCnfoMoviesImporter.bundle](https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle) - 
 - [netaddr](https://github.com/netaddr/netaddr) - A network address manipulation library for Python
 - [librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
 - [python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
@@ -3729,7 +3731,7 @@
 - [bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster
 - [super_diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [geon.github.com](https://github.com/geon/geon.github.com) - This would be my website, I guess.
-- [rubocop-rspec](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
+- [rubocop-rspec](https://github.com/rubocop/rubocop-rspec) - Code style checking for RSpec files
 - [webdrivers](https://github.com/titusfortner/webdrivers) - Keep your Selenium WebDrivers updated automatically
 - [simplecov-console](https://github.com/chetan/simplecov-console) - Simple console output formatter for SimpleCov
 - [simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
@@ -4046,7 +4048,7 @@
 - [qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A build script for qBittorent nox static.
 - [swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
-- [chain-docs](https://github.com/crypto-com/chain-docs) - Docs for http://github.com/crypto-com/chain-main/
+- [chain-docs](https://github.com/crypto-org-chain/chain-docs) - Docs for http://github.com/crypto-com/chain-main/
 - [vscode-mdx](https://github.com/mdx-js/vscode-mdx) - MDX extension for Visual Studio Code
 - [rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
 - [docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host

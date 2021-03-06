@@ -135,7 +135,7 @@
 - [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [touchpaint](https://github.com/kdrag0n/touchpaint) - An experimental Linux kernel module that demonstrates the lowest possible input latency on modern smartphones. Not for Android or production use.
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
-- [Cub3d-Linux](https://github.com/Emmabrdt/Cub3d-Linux) - This is my final 42's project Cub3d
+- [Cub3d-Linux](https://github.com/iciamyplant/Cub3d-Linux) - This is my final 42's project Cub3d
 - [hekate](https://github.com/kerneis/hekate) - Hekate, a highly-concurrent BitTorrent seeder
 - [NAT-TCP-test](https://github.com/AndersTrier/NAT-TCP-test) - 
 - [redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
@@ -1042,7 +1042,6 @@
 - [awesome-hangul](https://github.com/lqez/awesome-hangul) - An awesome list of Hangul/Korean related libraries and modules
 - [gate](https://github.com/minekube/gate) - A high performant & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support - ready for the cloud!
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [console](https://github.com/minio/console) - Management UI for MinIO and MinIO operator
 - [tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
@@ -1683,7 +1682,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1573-Stars](https://github.com/RealPeha/This-Repo-Has-1573-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1583-Stars](https://github.com/RealPeha/This-Repo-Has-1583-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2968,7 +2967,7 @@
 - [blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers.
 - [EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email address validator
 - [laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel
-- [firewall](https://github.com/akaunting/firewall) - Web Application Firewall (WAF) package for Laravel
+- [laravel-firewall](https://github.com/akaunting/laravel-firewall) - Web Application Firewall (WAF) package for Laravel
 - [laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML parser
 - [laravel-uuid](https://github.com/binarycabin/laravel-uuid) - A wrapper for webpatser/laravel-uuid with additional integration
@@ -4532,6 +4531,7 @@
 - [vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3
 - [image-zoom](https://github.com/rpearce/image-zoom) - 🔎 Medium.com style image zoom for React 🔍
 - [TypeScript-Website](https://github.com/microsoft/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
+- [console](https://github.com/minio/console) - Management UI for MinIO and MinIO operator
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI

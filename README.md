@@ -168,7 +168,6 @@
 - [wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
 - [printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
-- [Fizeau](https://github.com/averne/Fizeau) - Adjust the color of your Nintendo Switch screen
 - [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) - Utilities for archiving JPEGs for long term storage.
 - [sqltorrent](https://github.com/bittorrent/sqltorrent) - 
 - [rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
@@ -521,6 +520,7 @@
 - [dejavu_cpp_port](https://github.com/salsowelim/dejavu_cpp_port) - c++ implementation of the fingerprinting algorithm suggested in the dejavu audio fingerprinting project
 - [libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
+- [Fizeau](https://github.com/averne/Fizeau) - Adjust the color of your Nintendo Switch screen
 - [SpeedTest](https://github.com/taganaka/SpeedTest) - Yet another unofficial speedtest.net client cli interface
 - [sand](https://github.com/sand-lang/sand) - A strictly-typed programming language
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
@@ -1215,6 +1215,7 @@
 - [ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [cf-terraforming](https://github.com/cloudflare/cf-terraforming) - 
 - [pihole_exporter](https://github.com/nlamirault/pihole_exporter) - Prometheus exporter for PiHole metrics
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
 - [caddy-cache](https://github.com/nicolasazrak/caddy-cache) - Caching middleware for caddy
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
@@ -1685,7 +1686,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1592-Stars](https://github.com/RealPeha/This-Repo-Has-1592-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1602-Stars](https://github.com/RealPeha/This-Repo-Has-1602-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2437,6 +2438,7 @@
 
 ## Kotlin 
 
+- [plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
 - [dotenv-kotlin](https://github.com/cdimascio/dotenv-kotlin) - 🗝️ Dotenv is a module that loads environment variables from a .env file
 - [SubKt](https://github.com/Myaamori/SubKt) - SubKt is a highly configurable toolkit for fansubbing automation written in Kotlin for Gradle. Documentation can be found at https://github.com/Myaamori/SubKt/blob/master/docs/subkt/index.md
 - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
@@ -2588,7 +2590,6 @@
 - [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
-- [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [react-native-touchbar](https://github.com/ptmt/react-native-touchbar) - TouchBar for react-native-macos
@@ -3220,6 +3221,7 @@
 
 ## Python 
 
+- [NanoPython](https://github.com/Shinevision/NanoPython) - Python to NANO network API using websockets.
 - [prometheus-qbittorrent-exporter](https://github.com/esanchezm/prometheus-qbittorrent-exporter) - A prometheus exporter for qbittorrent written in Python. Simple. Works. Docker image
 - [python-ipy](https://github.com/autocracy/python-ipy) - IPy are a Python class and tools for handling of IPv4 and IPv6 addresses and networks. It is similar to Net::IP Perl module.
 - [XBMCnfoMoviesImporter.bundle](https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle) - 
@@ -3334,7 +3336,6 @@
 - [hent-AI](https://github.com/natethegreate/hent-AI) - Automation of censor bar detection
 - [Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA)
 - [Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders...
-- [Plex-Anime-Scanner](https://github.com/StancuFlorin/Plex-Anime-Scanner) - A simple Plex Anime Scanner
 - [s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
 - [s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones
 - [neko-box](https://github.com/RangerDigital/neko-box) - 😺 Pinnable dynamic Gist with your latest AniList activity.
@@ -3565,7 +3566,6 @@
 - [acme-certificate](https://github.com/felixfontein/acme-certificate) - An Ansible role template for using Let's Encrypt to issue TLS/SSL certificates which requires no code to be run on your webserver.
 - [alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
 - [sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
-- [raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
@@ -4162,7 +4162,7 @@
 - [installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
 - [bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [bitbar-plugins](https://github.com/matryer/bitbar-plugins) - Plugin repository for BitBar
+- [xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for BitBar
 - [pgbouncer_userlist_generator](https://github.com/chuckyz/pgbouncer_userlist_generator) - 
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [mitm-router](https://github.com/brannondorsey/mitm-router) - ☠ Man-in-the-middle wireless access point inside a docker container 🐳
@@ -4291,6 +4291,7 @@
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH and zgen
+- [raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [lxd-forward](https://github.com/jorgeluiztaioque/lxd-forward) - A simple script to simplify port forward for LXC or LXD containers.
 - [nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...

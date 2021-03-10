@@ -552,7 +552,7 @@
 - [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
 - [robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [openjdk-jfx](https://github.com/javafxports/openjdk-jfx) - The openjfx repo has moved to:
-- [node-gtk](https://github.com/romgrk/node-gtk) - GNOME Gtk+ bindings for NodeJS
+- [node-gtk](https://github.com/romgrk/node-gtk) - GTK+ bindings for NodeJS (via GObject introspection)
 - [wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -912,6 +912,7 @@
 
 ## Go 
 
+- [httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
 - [web-frontend-demo](https://github.com/philippta/web-frontend-demo) - 
 - [go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
 - [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
@@ -1686,7 +1687,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1602-Stars](https://github.com/RealPeha/This-Repo-Has-1602-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1613-Stars](https://github.com/RealPeha/This-Repo-Has-1613-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2220,7 +2221,7 @@
 - [lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
 - [umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
 - [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
-- [cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
+- [cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
 - [scriptsafe](https://github.com/andryou/scriptsafe) - a browser extension to bring security and privacy to chrome, firefox, and opera
 - [dstatuspage](https://github.com/paulogr/dstatuspage) - Decentralized Status Page
 - [vscode-pdfviewer](https://github.com/tomoki1207/vscode-pdfviewer) - Show PDF preview in VSCode.
@@ -3595,7 +3596,7 @@
 - [grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
 - [nixstatsagent](https://github.com/NIXStats/nixstatsagent) - NIXStats monitoring agent
 - [hitbtc-api](https://github.com/hitbtc-com/hitbtc-api) - HitBTC API
-- [golem](https://github.com/golemfactory/golem) - Golem is creating a global market for computing power.
+- [clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
 - [math](https://github.com/wglas85/math) - Mathematical Tools for Python3
 - [lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
 - [cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.

@@ -473,7 +473,7 @@
 - [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
-- [jellyfin-plugin-anime](https://github.com/jellyfin/jellyfin-plugin-anime) - Anime Metadata Provider for Jellyfin
+- [jellyfin-plugin-anime](https://github.com/jellyfin-archive/jellyfin-plugin-anime) - Anime Metadata Provider for Jellyfin
 - [win-app](https://github.com/ProtonVPN/win-app) - Official ProtonVPN Windows app
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [httpstatus](https://github.com/Readify/httpstatus) - Easily generate different HTTP responses for testing
@@ -1687,7 +1687,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1613-Stars](https://github.com/RealPeha/This-Repo-Has-1613-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1617-Stars](https://github.com/RealPeha/This-Repo-Has-1617-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3222,6 +3222,7 @@
 
 ## Python 
 
+- [community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [NanoPython](https://github.com/Shinevision/NanoPython) - Python to NANO network API using websockets.
 - [prometheus-qbittorrent-exporter](https://github.com/esanchezm/prometheus-qbittorrent-exporter) - A prometheus exporter for qbittorrent written in Python. Simple. Works. Docker image
 - [python-ipy](https://github.com/autocracy/python-ipy) - IPy are a Python class and tools for handling of IPv4 and IPv6 addresses and networks. It is similar to Net::IP Perl module.

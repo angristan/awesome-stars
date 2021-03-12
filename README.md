@@ -1508,6 +1508,7 @@
 - [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [ansible-role-influxdb](https://github.com/manala/ansible-role-influxdb) - [READ-ONLY] Ansible role dealing installation and configuration of InfluxDB time-series database
+- [telegraf](https://github.com/rossmcdonald/telegraf) - Ansible role for installing, configuring, and maintaining Telegraf
 - [ansible-telegraf](https://github.com/dj-wasabi/ansible-telegraf) - Installing and configuring Telegraf via Ansible for RedHat/Debian/Ubuntu/Windows/Suse.
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
@@ -1687,7 +1688,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1617-Stars](https://github.com/RealPeha/This-Repo-Has-1617-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1616-Stars](https://github.com/RealPeha/This-Repo-Has-1616-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2857,7 +2858,6 @@
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [nginx](https://github.com/bennojoy/nginx) - ansible role nginx
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [telegraf](https://github.com/rossmcdonald/telegraf) - Ansible role for installing, configuring, and maintaining Telegraf
 - [ansible-role-tzdata](https://github.com/pkorobeinikov/ansible-role-tzdata) - Timezone configuration.
 - [grav-skeleton-rtfm-site](https://github.com/getgrav/grav-skeleton-rtfm-site) - Grav RTFM Skeleton
 - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
@@ -3222,6 +3222,7 @@
 
 ## Python 
 
+- [ledcapture](https://github.com/danhab99/ledcapture) - Flashes keyboard leds on incoming/outgoing network packets
 - [community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [NanoPython](https://github.com/Shinevision/NanoPython) - Python to NANO network API using websockets.
 - [prometheus-qbittorrent-exporter](https://github.com/esanchezm/prometheus-qbittorrent-exporter) - A prometheus exporter for qbittorrent written in Python. Simple. Works. Docker image
@@ -4164,7 +4165,7 @@
 - [installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
 - [bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for BitBar
+- [xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [pgbouncer_userlist_generator](https://github.com/chuckyz/pgbouncer_userlist_generator) - 
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [mitm-router](https://github.com/brannondorsey/mitm-router) - ☠ Man-in-the-middle wireless access point inside a docker container 🐳

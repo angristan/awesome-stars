@@ -141,7 +141,6 @@
 - [NAT-TCP-test](https://github.com/AndersTrier/NAT-TCP-test) - 
 - [redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
 - [pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
-- [socat](https://github.com/craSH/socat) - socat - Multipurpose relay (cloned from git://repo.or.cz/socat.git) - I am not the project owner, please submit bugs to socat@dest-unreach.org
 - [hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application
 - [xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
 - [pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
@@ -259,7 +258,6 @@
 - [linux-apfs](https://github.com/linux-apfs/linux-apfs) - APFS module for linux, with experimental write support. This tree is just for development, please use linux-apfs-oot instead.
 - [vzkernel](https://github.com/OpenVZ/vzkernel) - [mirror] Virtuozzo Linux kernel
 - [opengit](https://github.com/khanzf/opengit) - OpenGit - A BSD licensed clone of Git for FreeBSD (under heavy development)
-- [spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [Libc](https://github.com/Apple-FOSS-Mirror/Libc) - 
 - [ngx_http_geoip2_module](https://github.com/leev/ngx_http_geoip2_module) - Nginx GeoIP2 module
@@ -912,6 +910,7 @@
 
 ## Go 
 
+- [semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
 - [web-frontend-demo](https://github.com/philippta/web-frontend-demo) - 
 - [go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
@@ -1688,7 +1687,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1616-Stars](https://github.com/RealPeha/This-Repo-Has-1616-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1618-Stars](https://github.com/RealPeha/This-Repo-Has-1618-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2440,6 +2439,7 @@
 
 ## Kotlin 
 
+- [projector-client](https://github.com/JetBrains/projector-client) - Common and client-related code for running Swing applications remotely
 - [plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
 - [dotenv-kotlin](https://github.com/cdimascio/dotenv-kotlin) - 🗝️ Dotenv is a module that loads environment variables from a .env file
 - [SubKt](https://github.com/Myaamori/SubKt) - SubKt is a highly configurable toolkit for fansubbing automation written in Kotlin for Gradle. Documentation can be found at https://github.com/Myaamori/SubKt/blob/master/docs/subkt/index.md
@@ -2495,6 +2495,7 @@
 - [twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 13 emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux (read-only mirror)
+- [spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [yolo](https://github.com/Airblader/yolo) - Kill a random process
@@ -4050,6 +4051,7 @@
 
 ## Shell 
 
+- [projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website's cache via the Cloudflare API
 - [qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A build script for qBittorent nox static.
 - [swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution

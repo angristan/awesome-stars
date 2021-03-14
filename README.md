@@ -130,6 +130,7 @@
 
 ## C 
 
+- [mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [trickle](https://github.com/mariusae/trickle) - Trickle is a userland bandwidth shaper for Unix-like systems.
 - [generic-print](https://github.com/exebook/generic-print) - Convenient generic print() for C
@@ -910,6 +911,8 @@
 
 ## Go 
 
+- [timefmt-go](https://github.com/itchyny/timefmt-go) - Efficient time formatting library (strftime, strptime) for Golang
+- [prometheus-by-example](https://github.com/scotwells/prometheus-by-example) - Examples of adding Prometheus Monitoring to your Golang applications 📈
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
 - [web-frontend-demo](https://github.com/philippta/web-frontend-demo) - 
@@ -1687,7 +1690,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1618-Stars](https://github.com/RealPeha/This-Repo-Has-1618-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1622-Stars](https://github.com/RealPeha/This-Repo-Has-1622-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -1752,7 +1755,6 @@
 - [handwritten.js](https://github.com/alias-rahil/handwritten.js) - Convert typed text to realistic handwriting!
 - [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
-- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [all-contributors-cli](https://github.com/all-contributors/all-contributors-cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
 - [commenter](https://github.com/viorelsfetea/commenter) - A web-extension that takes the URL you're visiting and searches submissions on other websites.
 - [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -2825,6 +2827,7 @@
 - [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
 - [nginx-tuning](https://github.com/denji/nginx-tuning) - NGINX tuning for best performance
 - [microsoft-drop-ice](https://github.com/selfagency/microsoft-drop-ice) - Tell Microsoft to drop ICE as a client or lose us as GitHub users
+- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [IF_MS_BUYS_GITHUB_IMMA_OUT](https://github.com/upend/IF_MS_BUYS_GITHUB_IMMA_OUT) - GitHub has sold us out. Time to get out.
 - [forgefed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
@@ -3173,6 +3176,7 @@
 
 ## Pascal 
 
+- [MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 
 ## Perl 
@@ -3223,6 +3227,7 @@
 
 ## Python 
 
+- [qbittorrent-api](https://github.com/rmartin16/qbittorrent-api) - Python client implementation for qBittorrent's Web API
 - [ledcapture](https://github.com/danhab99/ledcapture) - Flashes keyboard leds on incoming/outgoing network packets
 - [community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [NanoPython](https://github.com/Shinevision/NanoPython) - Python to NANO network API using websockets.
@@ -3909,6 +3914,7 @@
 
 ## Rust 
 
+- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -4243,7 +4249,6 @@
 - [void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
 - [plugin-nvm](https://github.com/derekstavis/plugin-nvm) - Node version manager wrapper for Fish shell
 - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [gitleaks-ci](https://github.com/zricethezav/gitleaks-ci) - gitleaks, but for PRs
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -4544,6 +4549,7 @@
 - [TypeScript-Website](https://github.com/microsoft/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
 - [console](https://github.com/minio/console) - Management UI for MinIO and MinIO operator
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [vscode-shellcheck](https://github.com/timonwong/vscode-shellcheck) - An extension to use shellcheck linter in vscode

@@ -465,6 +465,7 @@
 
 ## C# # 
 
+- [Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 - [fmbot](https://github.com/fmbot-discord/fmbot) - Discord bot built with Discord.NET in C# use to access stats from last.fm.
 - [Imgbot](https://github.com/dabutvin/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once it's done, ImgBot will open a pull request for you to review and merge. help@imgbot.net
@@ -1494,7 +1495,6 @@
 - [ansible-role-composer](https://github.com/geerlingguy/ansible-role-composer) - Ansible Role - Composer PHP Dependency Manager
 - [learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
-- [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [project-website](https://github.com/pixelfed/project-website) - deprecated by https://github.com/pixelfedLabs/delta
 - [dom](https://github.com/whatwg/dom) - DOM Standard
 - [ansible-relayor](https://github.com/nusenu/ansible-relayor) - An Ansible Role for Tor Relay Operators
@@ -1691,7 +1691,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1623-Stars](https://github.com/RealPeha/This-Repo-Has-1623-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1625-Stars](https://github.com/RealPeha/This-Repo-Has-1625-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2136,6 +2136,7 @@
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [ledger-live-desktop](https://github.com/LedgerHQ/ledger-live-desktop) - Ledger Live (Desktop)
+- [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [app](https://github.com/wip/app) - The WIP GitHub App
 - [chrome-url-alias](https://github.com/karan/chrome-url-alias) - Chrome extension to set URL aliases ("m/" goes to "mail.google.com" etc)
@@ -3790,7 +3791,7 @@
 - [kaminari](https://github.com/kaminari/kaminari) - ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
 - [simple_form](https://github.com/heartcombo/simple_form) - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
 - [devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
-- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) - 
 - [api_on_rails](https://github.com/madeindjs/api_on_rails) - Learn best practices to build an API using Ruby on Rails 5/6
 - [foodcritic](https://github.com/Foodcritic/foodcritic) - Lint tool for Chef cookbooks.
@@ -4058,6 +4059,9 @@
 
 ## Shell 
 
+- [centos2ol](https://github.com/oracle/centos2ol) - Script and documentation to switch CentOS Linux to Oracle Linux
+- [scw-s3-action](https://github.com/remyleone/scw-s3-action) - 
+- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website's cache via the Cloudflare API
 - [qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A build script for qBittorent nox static.

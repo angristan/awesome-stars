@@ -912,6 +912,7 @@
 
 ## Go 
 
+- [enumer](https://github.com/alvaroloes/enumer) - A Go tool to auto generate methods for your enums
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [timefmt-go](https://github.com/itchyny/timefmt-go) - Efficient time formatting library (strftime, strptime) for Golang
 - [prometheus-by-example](https://github.com/scotwells/prometheus-by-example) - Examples of adding Prometheus Monitoring to your Golang applications 📈
@@ -1220,7 +1221,7 @@
 - [ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [cf-terraforming](https://github.com/cloudflare/cf-terraforming) - 
 - [pihole_exporter](https://github.com/nlamirault/pihole_exporter) - Prometheus exporter for PiHole metrics
-- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [caddy-cache](https://github.com/nicolasazrak/caddy-cache) - Caching middleware for caddy
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
@@ -1688,14 +1689,15 @@
 
 ## JavaScript 
 
+- [gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1625-Stars](https://github.com/RealPeha/This-Repo-Has-1625-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1628-Stars](https://github.com/RealPeha/This-Repo-Has-1628-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
-- [docker-login](https://github.com/Azure/docker-login) - Enable GitHub developers to deploy to Kubernetes service using GitHub Actions
+- [docker-login](https://github.com/Azure/docker-login) - GitHub action to log in to Azure Container Registry (ACR) or any private container registry
 - [webapps-deploy](https://github.com/Azure/webapps-deploy) - Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
 - [android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
@@ -2576,6 +2578,7 @@
 
 ## Objective-C 
 
+- [xcode-wakatime](https://github.com/wakatime/xcode-wakatime) - Xcode plugin for automatic time tracking and metrics generated from your programming activity.
 - [apple_sensors](https://github.com/fermion-star/apple_sensors) - temperature sensor for Apple Silicon M1
 - [DisplayBacklight](https://github.com/xythobuz/DisplayBacklight) - Ambilight clone for macOS made with Arduino and WS2812 stripes
 - [vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
@@ -3229,6 +3232,7 @@
 
 ## Python 
 
+- [gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
 - [qbittorrent-api](https://github.com/rmartin16/qbittorrent-api) - Python client implementation for qBittorrent's Web API
 - [ledcapture](https://github.com/danhab99/ledcapture) - Flashes keyboard leds on incoming/outgoing network packets
 - [community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
@@ -4443,6 +4447,9 @@
 
 ## Swift 
 
+- [focus-ios](https://github.com/mozilla-mobile/focus-ios) - Firefox Focus for iOS
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+- [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) - 📱The official Wikipedia iOS app.
 - [TwidereX-iOS](https://github.com/TwidereProject/TwidereX-iOS) - Next generation of Twidere for iOS.
 - [AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
 - [Alertmanager](https://github.com/ricoberger/Alertmanager) - Alertmanager for macOS.

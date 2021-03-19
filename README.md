@@ -130,6 +130,7 @@
 
 ## C 
 
+- [CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 - [FastCFS](https://github.com/happyfish100/FastCFS) - A high performance distributed file system which can be used as the back-end storage of databases, K8s and VM.
 - [mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
@@ -913,6 +914,8 @@
 
 ## Go 
 
+- [yml2dot](https://github.com/lucasepe/yml2dot) - Turn YAML into beautiful Graph
+- [requestbin](https://github.com/fiatjaf/requestbin) - an HTTP server that does nothing but log requests you send to it
 - [runj](https://github.com/samuelkarp/runj) - runj is an experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails.
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [enumer](https://github.com/alvaroloes/enumer) - A Go tool to auto generate methods for your enums
@@ -929,7 +932,7 @@
 - [ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
 - [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
-- [golang-repo-template](https://github.com/moul/golang-repo-template) - A template for creating new Golang + Docker + Canonical Domain + Badges + Renovate + Golangci + Goreleaser + CircleCI + ...
+- [golang-repo-template](https://github.com/moul/golang-repo-template) - 🌀 A template for creating new Golang + Docker + Canonical Domain + Badges + Dependabot + Renovate + GolangCI-lint + Goreleaser + GitHub Actions + Gitpod + Depaware + Git Hooks + ...
 - [gistfs](https://github.com/jhchabran/gistfs) - A Go io/fs filesystem implementation for reading files in a Github gists.
 - [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 - [what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
@@ -1700,7 +1703,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1630-Stars](https://github.com/RealPeha/This-Repo-Has-1630-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1636-Stars](https://github.com/RealPeha/This-Repo-Has-1636-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3737,6 +3740,7 @@
 
 ## Ruby 
 
+- [git-scraper-extractor](https://github.com/dbreunig/git-scraper-extractor) - Pull out versions of specific files from a gitscraping repo into individual files.
 - [transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2) - Pagination Generator for Jekyll 3 (enhanced replacement for the old built-in jekyll-paginate gem) ⛺
 - [jekyll-import](https://github.com/jekyll/jekyll-import) - :inbox_tray: The "jekyll import" command for importing from various blogs to Jekyll format.
@@ -4869,7 +4873,7 @@
 - [is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [covid19](https://github.com/tokyo-metropolitan-gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
 - [wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [drone-ui](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server

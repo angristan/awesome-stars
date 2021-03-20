@@ -914,6 +914,8 @@
 
 ## Go 
 
+- [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider
+- [gotest](https://github.com/rakyll/gotest) - go test with colors
 - [yml2dot](https://github.com/lucasepe/yml2dot) - Turn YAML into beautiful Graph
 - [requestbin](https://github.com/fiatjaf/requestbin) - an HTTP server that does nothing but log requests you send to it
 - [runj](https://github.com/samuelkarp/runj) - runj is an experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails.
@@ -931,7 +933,7 @@
 - [go-grpc-prometheus](https://github.com/grpc-ecosystem/go-grpc-prometheus) - Prometheus monitoring for your gRPC Go servers.
 - [ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
-- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
+- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [golang-repo-template](https://github.com/moul/golang-repo-template) - 🌀 A template for creating new Golang + Docker + Canonical Domain + Badges + Dependabot + Renovate + GolangCI-lint + Goreleaser + GitHub Actions + Gitpod + Depaware + Git Hooks + ...
 - [gistfs](https://github.com/jhchabran/gistfs) - A Go io/fs filesystem implementation for reading files in a Github gists.
 - [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
@@ -975,6 +977,7 @@
 - [scaleway_exporter](https://github.com/YoannMa/scaleway_exporter) - Prometheus exporter for Scaleway Elements metrics (LB, Database).
 - [realip](https://github.com/kirsch33/realip) - realip module for Caddy v2
 - [doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
+- [chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
 - [revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
 - [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - Agent to enable remote management of your Amazon EC2 instance configuration.
@@ -1588,6 +1591,7 @@
 
 ## Java 
 
+- [yahoofinance-api](https://github.com/sstrickx/yahoofinance-api) - Java Client API for Yahoo Finance
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
@@ -1697,6 +1701,8 @@
 
 ## JavaScript 
 
+- [scaleway-lib](https://github.com/scaleway/scaleway-lib) - scaleway-lib is a set of NPM packages used at Scaleway
+- [setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [forever-iz](https://github.com/delta-kor/forever-iz) - FOREVER*IZ Interactive Video #아이즈원 #IZ*ONE #WIZ*ONE #WithYouIZONE
 - [gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
@@ -3269,7 +3275,6 @@
 - [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [Trading212-CSV-Exporter](https://github.com/praveendath92/Trading212-CSV-Exporter) - Exports Trading 212 transactions
 - [AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-- [chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
 - [minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
 - [Atomagical_Plex_Remote_Quality](https://github.com/TheHumanRobot/Atomagical_Plex_Remote_Quality) - Automagically sets remote client playback quality
 - [projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
@@ -4466,7 +4471,7 @@
 - [TwidereX-iOS](https://github.com/TwidereProject/TwidereX-iOS) - Next generation of Twidere for iOS.
 - [AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
 - [Alertmanager](https://github.com/ricoberger/Alertmanager) - Alertmanager for macOS.
-- [Slide-iOS](https://github.com/ccrama/Slide-iOS) - A beautiful Reddit browser for iOS
+- [Slide-iOS](https://github.com/ccrama/Slide-iOS) - A powerful new way to Reddit on iOS
 - [seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
@@ -4532,6 +4537,7 @@
 
 ## TypeScript 
 
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [browser-ext-github-monaco](https://github.com/hediet/browser-ext-github-monaco) - This extension brings the famous Monaco editor to Github

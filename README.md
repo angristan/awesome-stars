@@ -914,6 +914,7 @@
 
 ## Go 
 
+- [go-nonblockingchan](https://github.com/hectane/go-nonblockingchan) - Non-blocking channel for Go
 - [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider
 - [gotest](https://github.com/rakyll/gotest) - go test with colors
 - [yml2dot](https://github.com/lucasepe/yml2dot) - Turn YAML into beautiful Graph
@@ -1709,7 +1710,7 @@
 - [sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [This-Repo-Has-1636-Stars](https://github.com/RealPeha/This-Repo-Has-1636-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1635-Stars](https://github.com/RealPeha/This-Repo-Has-1635-Stars) - Yes, it's true :purple_heart:
 - [NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [login](https://github.com/Azure/login) - Connect to Azure
 - [appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2004,6 +2005,7 @@
 - [vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+- [happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
 - [THREE.Tree](https://github.com/mattatz/THREE.Tree) - a Tree geometry generator for three.js.
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -2779,7 +2781,6 @@
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [crypto-hall-of-shame](https://github.com/nurkiewicz/crypto-hall-of-shame) - Scams, hacks and fails of cryptocurrencies
 - [ansible-styleguide](https://github.com/whitecloud/ansible-styleguide) - Ansible styleguide used at WhiteCloud
-- [happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
 - [awesome-gtk](https://github.com/unrelentingtech/awesome-gtk) - List of awesome GTK+ (gtk3) applications
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -4457,12 +4458,14 @@
 
 ## Svelte 
 
+- [modheader](https://github.com/bewisse/modheader) - ModHeader browser extension
 - [kaiak-wallet](https://github.com/Kaiak/kaiak-wallet) - A secure and fast way to send and receive Nano cryptocurrency in KaiOS.
 - [wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 - [Magane](https://github.com/Pitu/Magane) - Bringing LINE's sticker to Discord in a chaotic way.
 
 ## Swift 
 
+- [ballast](https://github.com/jamsinclair/ballast) - Keep your audio balance from drifting! OSX Status Bar App
 - [AppleTime](https://github.com/twostraws/AppleTime) - A tiny program to use 9:41 in your iOS simulators.
 - [esgi-swift-4al1-2021](https://github.com/eLud/esgi-swift-4al1-2021) - 
 - [focus-ios](https://github.com/mozilla-mobile/focus-ios) - Firefox Focus for iOS

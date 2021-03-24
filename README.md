@@ -844,6 +844,7 @@
 
 ## Dockerfile 
 
+- [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [wei/curl](https://github.com/wei/curl) - Wraps the curl CLI to be used in Github Actions
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker
 - [j8r/dockerfiles](https://github.com/j8r/dockerfiles) - Repository for my dockerfiles
@@ -918,6 +919,9 @@
 
 ## Go 
 
+- [sillygod/cdp-cache](https://github.com/sillygod/cdp-cache) - a caddy 2 proxy cache plugin
+- [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy
+- [lindenlab/caddy-s3-proxy](https://github.com/lindenlab/caddy-s3-proxy) - s3 proxy plugin for caddy
 - [mattn/go-nulltype](https://github.com/mattn/go-nulltype) - Null friendly types
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd
 - [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.
@@ -1427,6 +1431,7 @@
 
 ## HTML 
 
+- [shalzz/zola-deploy-action](https://github.com/shalzz/zola-deploy-action) - Github action for building a Zola site and deploying to Github Pages
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -1710,6 +1715,10 @@
 
 ## JavaScript 
 
+- [cloudflare/cloudflare-docs-engine](https://github.com/cloudflare/cloudflare-docs-engine) - A documentation engine built on Gatsby, powering Cloudflare’s docs https://github.com/cloudflare/cloudflare-docs
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
+- [chrisdwheatley/netlify-plugin-image-optim](https://github.com/chrisdwheatley/netlify-plugin-image-optim) - Optimize images as part of your Netlify build process. Optimizes PNG, JPEG, GIF and SVG file formats.
+- [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles
 - [quantumsheep/7speaking-bot](https://github.com/quantumsheep/7speaking-bot) - 
 - [scaleway/scaleway-lib](https://github.com/scaleway/scaleway-lib) - scaleway-lib is a set of NPM packages used at Scaleway
@@ -1720,7 +1729,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1636-Stars](https://github.com/RealPeha/This-Repo-Has-1636-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1638-Stars](https://github.com/RealPeha/This-Repo-Has-1638-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2645,6 +2654,7 @@
 
 ## Others 
 
+- [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [soft-aesthetic/soft-era-iterm2](https://github.com/soft-aesthetic/soft-era-iterm2) - 🌸 soft era for iTerm2 ~  Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 - [domgetter/NCoC](https://github.com/domgetter/NCoC) - No Code of Conduct: A Code of Conduct for Adults in Open Source Software
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
@@ -2748,7 +2758,7 @@
 - [laravel/ideas](https://github.com/laravel/ideas) - Issues board used for Laravel internals discussions.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [laravel/docs](https://github.com/laravel/docs) - 
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@zimbatm]
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [lduck11007/kim-jong-un-dataset](https://github.com/lduck11007/kim-jong-un-dataset) - A dataset of labelled images of Kim Jong Un staring at objects
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [motherboardgithub/bxaq](https://github.com/motherboardgithub/bxaq) - 
@@ -3344,7 +3354,7 @@
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
 - [2020PB/police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [baicunko/scanyourpdf](https://github.com/baicunko/scanyourpdf) - Repository for the Scan Your Pdf community
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
@@ -3359,7 +3369,7 @@
 - [20c/vaping](https://github.com/20c/vaping) - vaping is a healthy alternative to SmokePing!
 - [timeflux/timeflux](https://github.com/timeflux/timeflux) - The programming interface for your body and mind
 - [matomo-org/matomo-log-analytics](https://github.com/matomo-org/matomo-log-analytics) - Import any kind of server logs in Matomo for powerful log analytics. Universal log file parsing and reporting.
-- [ProtonVPN/linux-gui](https://github.com/ProtonVPN/linux-gui) - GTK3 GUI client with systray, for ProtonVPN. Works on top of linux-cli.
+- [ProtonVPN/linux-gui](https://github.com/ProtonVPN/linux-gui) - (Archived in preparation of fully new GUI implementation) GTK3 GUI client with systray, for ProtonVPN. Works on top of linux-cli.
 - [plamere/spotipy](https://github.com/plamere/spotipy) - A light weight Python library for the Spotify Web API
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto 3.
@@ -4557,6 +4567,8 @@
 
 ## TypeScript 
 
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
+- [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [karuna/tera-vscode](https://github.com/karuna/tera-vscode) - Tera Template Syntax Highlighting for Visual Studio Code
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
@@ -4888,6 +4900,7 @@
 
 ## Vue 
 
+- [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
 - [Kylart/KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans

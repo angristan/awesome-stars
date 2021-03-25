@@ -253,7 +253,7 @@
 - [GNOME/gtk](https://github.com/GNOME/gtk) - Read-only mirror of https://gitlab.gnome.org/GNOME/gtk
 - [wingtk/gvsbuild](https://github.com/wingtk/gvsbuild) - GTK+ 3 stack for Windows
 - [Apress/foundations-of-gtk-dev](https://github.com/Apress/foundations-of-gtk-dev) - Source code for 'Foundations of GTK+ Development' by Andrew Krause
-- [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is an open source ad blocker for Android using the hosts file.
+- [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [moosefs/moosefs](https://github.com/moosefs/moosefs) - MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System (Software-Defined Storage)
 - [fvwmorg/fvwm](https://github.com/fvwmorg/fvwm) - Official FVWM repository
@@ -919,6 +919,10 @@
 
 ## Go 
 
+- [aldor007/mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go
+- [cactus/go-camo](https://github.com/cactus/go-camo) - A secure image proxy server
+- [bertrandmartel/media-optimizer](https://github.com/bertrandmartel/media-optimizer) - Automatically optimize your images & videos hosted on AWS S3 when an S3 event is detected
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [sillygod/cdp-cache](https://github.com/sillygod/cdp-cache) - a caddy 2 proxy cache plugin
 - [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy
 - [lindenlab/caddy-s3-proxy](https://github.com/lindenlab/caddy-s3-proxy) - s3 proxy plugin for caddy
@@ -1431,6 +1435,7 @@
 
 ## HTML 
 
+- [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [shalzz/zola-deploy-action](https://github.com/shalzz/zola-deploy-action) - Github action for building a Zola site and deploying to Github Pages
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -1520,6 +1525,7 @@
 - [geerlingguy/ansible-role-composer](https://github.com/geerlingguy/ansible-role-composer) - Ansible Role - Composer PHP Dependency Manager
 - [workshopper/learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [pixelfed/project-website](https://github.com/pixelfed/project-website) - deprecated by https://github.com/pixelfedLabs/delta
 - [whatwg/dom](https://github.com/whatwg/dom) - DOM Standard
 - [nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor) - An Ansible Role for Tor Relay Operators
@@ -1729,7 +1735,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1638-Stars](https://github.com/RealPeha/This-Repo-Has-1638-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1639-Stars](https://github.com/RealPeha/This-Repo-Has-1639-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2113,7 +2119,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - ARTILLERY - modern load and smoke testing for SREs
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-native performance & reliability testing for developers and SREs
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -2175,7 +2181,6 @@
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [LedgerHQ/ledger-live-desktop](https://github.com/LedgerHQ/ledger-live-desktop) - Ledger Live (Desktop)
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [karan/chrome-url-alias](https://github.com/karan/chrome-url-alias) - Chrome extension to set URL aliases ("m/" goes to "mail.google.com" etc)
@@ -2654,7 +2659,6 @@
 
 ## Others 
 
-- [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [soft-aesthetic/soft-era-iterm2](https://github.com/soft-aesthetic/soft-era-iterm2) - 🌸 soft era for iTerm2 ~  Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 - [domgetter/NCoC](https://github.com/domgetter/NCoC) - No Code of Conduct: A Code of Conduct for Adults in Open Source Software
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
@@ -3769,6 +3773,7 @@
 
 ## Ruby 
 
+- [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers
 - [dbreunig/git-scraper-extractor](https://github.com/dbreunig/git-scraper-extractor) - Pull out versions of specific files from a gitscraping repo into individual files.
 - [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [sverrirs/jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2) - Pagination Generator for Jekyll 3 (enhanced replacement for the old built-in jekyll-paginate gem) ⛺
@@ -3960,6 +3965,8 @@
 
 ## Rust 
 
+- [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Node.js, Python, Java, and Ruby
+- [jaredforth/webp](https://github.com/jaredforth/webp) - WebP Image Conversion Library
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -4796,7 +4803,7 @@
 - [quantumsheep/vscode-esgiheader](https://github.com/quantumsheep/vscode-esgiheader) - ESGI header for VSCode https://www.esgi.fr
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [miniorg/miniverse](https://github.com/miniorg/miniverse) - Miniverse is a microblogging software.
-- [syuilo/misskey](https://github.com/syuilo/misskey) - 🌎 A interplanetary blogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A interplanetary communication platform 🚀
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
 - [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
 - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
@@ -4900,6 +4907,7 @@
 
 ## Vue 
 
+- [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
 - [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.

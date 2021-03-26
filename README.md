@@ -919,6 +919,8 @@
 
 ## Go 
 
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [aldor007/mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go
 - [cactus/go-camo](https://github.com/cactus/go-camo) - A secure image proxy server
 - [bertrandmartel/media-optimizer](https://github.com/bertrandmartel/media-optimizer) - Automatically optimize your images & videos hosted on AWS S3 when an S3 event is detected
@@ -1005,7 +1007,7 @@
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 - [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) - protoc plugin to generate polyglot message validators
 - [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations.
-- [loadimpact/k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize product feedback
@@ -1471,6 +1473,7 @@
 - [LAB-MI/deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19) - Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [skullface/girlgroupsdotnet](https://github.com/skullface/girlgroupsdotnet) - 📲 Mobile wallpapers of 🚺K-pop idols.
+- [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 - [jekyller/jasper2](https://github.com/jekyller/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [njh/google-ipv6](https://github.com/njh/google-ipv6) - Per-country ranking table based on data from Google IPv6 Statistics page
@@ -1735,11 +1738,10 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1639-Stars](https://github.com/RealPeha/This-Repo-Has-1639-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1643-Stars](https://github.com/RealPeha/This-Repo-Has-1643-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
-- [Azure/docker-login](https://github.com/Azure/docker-login) - GitHub action to log in to Azure Container Registry (ACR) or any private container registry
 - [Azure/webapps-deploy](https://github.com/Azure/webapps-deploy) - Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
@@ -3273,6 +3275,7 @@
 
 ## Python 
 
+- [blackle/mastodon-data-viewer.py](https://github.com/blackle/mastodon-data-viewer.py) - a viewer for mastodon export data
 - [k-acper/lastfm](https://github.com/k-acper/lastfm) - 
 - [pkkid/python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API.
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
@@ -3413,7 +3416,6 @@
 - [open-io/oio-sds](https://github.com/open-io/oio-sds) - High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift
 - [minio/docs](https://github.com/minio/docs) - MinIO Object Storage Documentation
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
-- [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [jrosebr1/imutils](https://github.com/jrosebr1/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
@@ -4190,7 +4192,7 @@
 - [elementary/os](https://github.com/elementary/os) - The OS build system
 - [elementary/actions](https://github.com/elementary/actions) - Reusable GitHub Actions for elementary apps
 - [digitalocean/OpenVPN-Pihole](https://github.com/digitalocean/OpenVPN-Pihole) - https://marketplace.digitalocean.com/apps/openvpn-pihole
-- [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) - GitHub Action for running ansible-lint as part of your workflows! [ https://github.com/marketplace/actions/ansible-lint ]
+- [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) - [NOT OFFICIALLY SUPPORTED BY RED HAT BUT BY VOLUNTEERS] | GitHub Action for running ansible-lint as part of your workflows! [ https://github.com/marketplace/actions/ansible-lint ] | PLEASE REPORT `ansible-lint` BUGS TO https://github.com/ansible-community/ansible-lint
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [GoogleCloudPlatform/compute-archlinux-image-builder](https://github.com/GoogleCloudPlatform/compute-archlinux-image-builder) - A tool to build a Arch Linux Image for GCE
 - [kriansa/ansible-bundler](https://github.com/kriansa/ansible-bundler) - Turn Ansible playbooks into executable files
@@ -4499,6 +4501,8 @@
 
 ## Swift 
 
+- [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor
+- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur menu bar color by appending a solid color or gradient rectangle to a wallpaper image
 - [jamsinclair/ballast](https://github.com/jamsinclair/ballast) - Keep your audio balance from drifting! OSX Status Bar App
 - [twostraws/AppleTime](https://github.com/twostraws/AppleTime) - A tiny program to use 9:41 in your iOS simulators.
 - [eLud/esgi-swift-4al1-2021](https://github.com/eLud/esgi-swift-4al1-2021) - 
@@ -4582,6 +4586,7 @@
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [hediet/browser-ext-github-monaco](https://github.com/hediet/browser-ext-github-monaco) - This extension brings the famous Monaco editor to Github
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [Azure/docker-login](https://github.com/Azure/docker-login) - GitHub action to log in to Azure Container Registry (ACR) or any private container registry
 - [JonnyBurger/remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
 - [eskatos/gradle-command-action](https://github.com/eskatos/gradle-command-action) - Execute Gradle Command Github Action
 - [actions/setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
@@ -4921,7 +4926,7 @@
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [drone/drone-ui](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server

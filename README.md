@@ -353,7 +353,7 @@
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [softwareengineer1/YourFriendlyDNS](https://github.com/softwareengineer1/YourFriendlyDNS) - A really awesome multi-platform (lin,win,mac,android) local caching and proxying dns server!
-- [codahale/bcrypt-ruby](https://github.com/codahale/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
+- [bcrypt-ruby/bcrypt-ruby](https://github.com/bcrypt-ruby/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
 - [dimkr/nss-tls](https://github.com/dimkr/nss-tls) - A DNS over HTTPS resolver for glibc
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
@@ -915,10 +915,14 @@
 
 ## Gherkin 
 
+- [eloyesp/jekyll_ghost_importer](https://github.com/eloyesp/jekyll_ghost_importer) - Post importer from Ghost backup files.
 - [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud X and Infinite Scale
 
 ## Go 
 
+- [Kriechi/aws-s3-reverse-proxy](https://github.com/Kriechi/aws-s3-reverse-proxy) - reverse-proxy all incoming S3 API calls to the public AWS S3 backend
+- [maaslalani/typer](https://github.com/maaslalani/typer) - Typing test in your terminal
+- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [aldor007/mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go
@@ -1294,6 +1298,7 @@
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [abh/geodns](https://github.com/abh/geodns) - DNS server with per-client targeted responses
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
+- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Cluster-wide aggregator of resource usage data.
@@ -1654,7 +1659,7 @@
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [kcochibili/TinyDB--Android-Shared-Preferences-Turbo](https://github.com/kcochibili/TinyDB--Android-Shared-Preferences-Turbo) - This class simplifies calls to SharedPreferences in a line of code. It can also do more like: saving a list of Strings, ints, and saving images. All in 1 line of code!
 - [wallabag/android-app](https://github.com/wallabag/android-app) - Android application to read your articles saved in your wallabag. You can also easily add new articles.
-- [LawnchairLauncher/Lawnchair](https://github.com/LawnchairLauncher/Lawnchair) - No clever tagline needed
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -1724,6 +1729,7 @@
 
 ## JavaScript 
 
+- [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [cloudflare/cloudflare-docs-engine](https://github.com/cloudflare/cloudflare-docs-engine) - A documentation engine built on Gatsby, powering Cloudflare’s docs https://github.com/cloudflare/cloudflare-docs
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
 - [chrisdwheatley/netlify-plugin-image-optim](https://github.com/chrisdwheatley/netlify-plugin-image-optim) - Optimize images as part of your Netlify build process. Optimizes PNG, JPEG, GIF and SVG file formats.
@@ -1738,7 +1744,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1643-Stars](https://github.com/RealPeha/This-Repo-Has-1643-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1650-Stars](https://github.com/RealPeha/This-Repo-Has-1650-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -1800,6 +1806,7 @@
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript functions that do just do one thing.
 - [atomheartother/wanwan-html5](https://github.com/atomheartother/wanwan-html5) - HTML5 version of the flash animation WAN WAN INTENSIFIES.swf
 - [alias-rahil/handwritten.js](https://github.com/alias-rahil/handwritten.js) - Convert typed text to realistic handwriting!
+- [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [replicatedhq/dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [all-contributors/all-contributors-cli](https://github.com/all-contributors/all-contributors-cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
@@ -1940,7 +1947,7 @@
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [truedread/netflix-1080p](https://github.com/truedread/netflix-1080p) - Chrome extension to play Netflix in 1080p and 5.1
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (January 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (March 2021)
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [dfrankland/pokemonsay](https://github.com/dfrankland/pokemonsay) - 👾 Pokemon version of cowsay with CLI and API.
 - [ian13456/mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
@@ -2086,7 +2093,6 @@
 - [robiiinos/crypto-addr-lurker](https://github.com/robiiinos/crypto-addr-lurker) - Watch any address involved in transactions (incoming and outgoing) on a cryptocurrency network.
 - [flxwu/maintainerswanted.com](https://github.com/flxwu/maintainerswanted.com) - No time to maintain your open source project? Find a new maintainer!
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [dgraham/eslint-plugin-jquery](https://github.com/dgraham/eslint-plugin-jquery) - Disallow jQuery functions with native equivalents.
 - [ghuser-io/ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
@@ -3275,6 +3281,7 @@
 
 ## Python 
 
+- [prometheus/client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
 - [blackle/mastodon-data-viewer.py](https://github.com/blackle/mastodon-data-viewer.py) - a viewer for mastodon export data
 - [k-acper/lastfm](https://github.com/k-acper/lastfm) - 
 - [pkkid/python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API.
@@ -3336,7 +3343,6 @@
 - [tomoncle/prometheus-http-client](https://github.com/tomoncle/prometheus-http-client) - Prometheus service http client， Use wrapper Automatic selection query mode, there is no need for any implementation
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
-- [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
 - [pibooth/pibooth](https://github.com/pibooth/pibooth) - The pibooth project provides a Photo Booth application out-of-the-box for Raspberry Pi and opencv compatible devices
 - [thaidn/bluezone](https://github.com/thaidn/bluezone) - 
@@ -3499,7 +3505,7 @@
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [jdavid/lxdsnap](https://github.com/jdavid/lxdsnap) - Automatic LXD snapshotting
 - [canonical/netplan](https://github.com/canonical/netplan) - Backend-agnostic network configuration in YAML
 - [CCrypto/ccvpn3](https://github.com/CCrypto/ccvpn3) - CCrypto VPN - Version 3, with Django. Our current site. (mirror of https://git.ccrypto.org/CCrypto/ccvpn3 )
@@ -3534,7 +3540,6 @@
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
 - [ruped24/toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
-- [deeppomf/DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring Hentai with Deep Neural Networks
 - [pereorga/csvfaker](https://github.com/pereorga/csvfaker) - Generate CSV files with fake data from the command line
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [leapsecurity/libssh-scanner](https://github.com/leapsecurity/libssh-scanner) - Script to identify hosts vulnerable to CVE-2018-10933
@@ -3674,7 +3679,7 @@
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
-- [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey Linux system tool
+- [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
 - [kudelskisecurity/EdDSA-fault-attack](https://github.com/kudelskisecurity/EdDSA-fault-attack) - Fault attack agaisnt EdDSA demonstrated on an Arduino Nano board, allowing for partial key recovery and fake signatures.
 - [TheEnigmaBlade/holo](https://github.com/TheEnigmaBlade/holo) - Episode discussion bot for /r/anime.
 - [kianby/stacosys](https://github.com/kianby/stacosys) - Static sites need a Commenting System
@@ -3775,6 +3780,8 @@
 
 ## Ruby 
 
+- [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown
+- [jm/toml](https://github.com/jm/toml) - Parse TOML.  Like a bawss.
 - [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers
 - [dbreunig/git-scraper-extractor](https://github.com/dbreunig/git-scraper-extractor) - Pull out versions of specific files from a gitscraping repo into individual files.
 - [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
@@ -3831,7 +3838,6 @@
 - [fog/fog-aws](https://github.com/fog/fog-aws) - Module for the 'fog' gem to support Amazon Web Services http://aws.amazon.com/
 - [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library.
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
-- [thomas-illiet/feedbin-docker](https://github.com/thomas-illiet/feedbin-docker) - Feedbin is a simple, fast and nice looking RSS reader
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [nextdns/homebrew-tap](https://github.com/nextdns/homebrew-tap) - 
@@ -3967,6 +3973,10 @@
 
 ## Rust 
 
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+- [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, resource-friendly link checker written in Rust. Finds broken hyperlinks and mail addresses inside Markdown, HTML, reStructuredText, and more!
+- [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Node.js, Python, Java, and Ruby
 - [jaredforth/webp](https://github.com/jaredforth/webp) - WebP Image Conversion Library
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
@@ -4516,7 +4526,7 @@
 - [neilalexander/seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
-- [charleslanier/qrcreator](https://github.com/charleslanier/qrcreator) - QR Creator allows you to create personalised QR Codes in a few seconds
+- [negativehoro/qrcreator](https://github.com/negativehoro/qrcreator) - QR Creator allows you to create personalised QR Codes in a few seconds
 - [rubygarage/shopapp-ios](https://github.com/rubygarage/shopapp-ios) - ShopApp is an application that transfers an online store into a mobile app
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
@@ -4578,6 +4588,9 @@
 
 ## TypeScript 
 
+- [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+- [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [karuna/tera-vscode](https://github.com/karuna/tera-vscode) - Tera Template Syntax Highlighting for Visual Studio Code
@@ -4926,7 +4939,7 @@
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [drone/drone-ui](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server

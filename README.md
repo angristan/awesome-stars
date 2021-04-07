@@ -929,6 +929,8 @@
 
 ## Go 
 
+- [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) - 
+- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure storage for personal records built to comply with GDPR
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
@@ -1303,7 +1305,7 @@
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [mthbernardes/GTRS](https://github.com/mthbernardes/GTRS) - GTRS - Google Translator Reverse Shell
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
-- [writeas/writefreely](https://github.com/writeas/writefreely) - Build a digital writing community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Build a digital writing community.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [hacdias/caddy-v1-minify](https://github.com/hacdias/caddy-v1-minify) - :page_facing_up: Caddy plugin that provides file minification
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -1754,6 +1756,7 @@
 
 ## JavaScript 
 
+- [eduardoboucas/gitemon](https://github.com/eduardoboucas/gitemon) - 👾 Gotta Catch 'Em All!
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [cloudflare/cloudflare-docs-engine](https://github.com/cloudflare/cloudflare-docs-engine) - A documentation engine built on Gatsby, powering Cloudflare’s docs https://github.com/cloudflare/cloudflare-docs
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
@@ -1769,7 +1772,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1651-Stars](https://github.com/RealPeha/This-Repo-Has-1651-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2093,7 +2096,7 @@
 - [buttercup/buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension
 - [cjgammon/diving-in](https://github.com/cjgammon/diving-in) - Diving in Tutorial Examples
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
 - [dariusk/rss-to-activitypub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter.
 - [apaszke/tcp-ping](https://github.com/apaszke/tcp-ping) - TCP ping utility for node.js
@@ -3093,7 +3096,7 @@
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 77 languages for Laravel Framework 4, 5, 6, 7 and 8,  Laravel Jetstream and Laravel Fortify.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 77 languages for Laravel Framework 4, 5, 6, 7 and 8,  Laravel Jetstream , Laravel Fortify, Laravel Cashier and Laravel Nova.
 - [fideloper/TrustedProxy](https://github.com/fideloper/TrustedProxy) - Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.
 - [afrazahmmad/clear-all-cached-data](https://github.com/afrazahmmad/clear-all-cached-data) - Laravel 5 Package to clear all cached data in single command. e.g. cache, views, config and routes.
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin

@@ -2104,6 +2104,7 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
 - [dariusk/rss-to-activitypub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter.
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [apaszke/tcp-ping](https://github.com/apaszke/tcp-ping) - TCP ping utility for node.js
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [el1t/uBlock-Safari](https://github.com/el1t/uBlock-Safari) - uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean.
@@ -2701,6 +2702,7 @@
 
 ## Others 
 
+- [microsoft/openjdk](https://github.com/microsoft/openjdk) - Microsoft Build of OpenJDK
 - [denisidoro/cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur
 - [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges.  With the rollout of vaccines for COVID-19, these synthetic mRNAs have become broadly distributed RNA species in numerous human populations.  Despite their ubiquity, sequences are not always available for such RNAs.  Standard methods facilitate such sequencing.  In this note, we provide experimental sequence information for the RNA components of the initial Moderna (https://pubmed.ncbi.nlm.nih.gov/32756549/) and Pfizer/BioNTech (https://pubmed.ncbi.nlm.nih.gov/33301246/) COVID-19 vaccines, allowing a working assembly of the former and a confirmation of previously reported sequence information for the latter RNA.  Sharing of sequence information for broadly used therapeutics has the benefit of allowing any researchers or clinicians using sequencing approaches to rapidly identify such sequences as therapeutic-derived rather than host or infectious in origin.   For this work, RNAs were obtained as discards from the small portions of vaccine doses that remained in vials after immunization; such portions would have been required to be otherwise discarded and were analyzed under FDA authorization for research use.  To obtain the small amounts of RNA needed for characterization, vaccine remnants were phenol-chloroform extracted using TRIzol Reagent (Invitrogen), with intactness assessed by Agilent 2100 Bioanalyzer before and after extraction.    Although our analysis mainly focused on RNAs obtained as soon as possible following discard, we also analyzed samples which had been refrigerated (~4 ℃) for up to 42 days with and without the addition of EDTA.  Interestingly a substantial fraction of the RNA remained intact in these preparations.  We note that the formulation of the vaccines includes numerous key chemical components which are quite possibly unstable under these conditions-- so these data certainly do not suggest that the vaccine as a biological agent is stable.  But it is of interest that chemical stability of RNA itself is not sufficient to preclude eventual development of vaccines with a much less involved cold-chain storage and transportation.   For further analysis, the initial RNAs were fragmented by heating to 94℃, primed with a random hexamer-tailed adaptor, amplified through a template-switch protocol (Takara SMARTerer Stranded RNA-seq kit), and sequenced using a MiSeq instrument (Illumina) with paired end 78-per end sequencing.  As a reference material in specific assays, we included RNA of known concentration and sequence (from bacteriophage MS2).  From these data, we obtained partial information on strandedness and a set of segments that could be used for assembly.  This was particularly useful for the Moderna vaccine, for which the original vaccine RNA sequence was not available at the time our study was carried out.  Contigs encoding full-length spikes were assembled from the Moderna and Pfizer datasets.  The Pfizer/BioNTech data [Figure 1] verified the reported sequence for that vaccine (https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/), while the Moderna sequence [Figure 2] could not be checked against a published reference.   RNA preparations lacking dsRNA are desirable in generating vaccine formulations as these will minimize an otherwise dramatic biological (and nonspecific) response that vertebrates have to double stranded character in RNA (https://www.nature.com/articles/nrd.2017.243).  In the sequence data that we analyzed, we found that the vast majority of reads were from the expected sense strand.  In addition, the minority of antisense reads appeared different from sense reads in lacking the characteristic extensions expected from the template switching protocol.  Examining only the reads with an evident template switch (as an indicator for strand-of-origin), we observed that both vaccines overwhelmingly yielded sense reads (&gt;99.99%).  Independent sequencing assays and other experimental measurements are ongoing and will be needed to determine whether this template-switched sense read fraction in the SmarterSeq protocol indeed represents the actual dsRNA content in the original material.  This work provides an initial assessment of two RNAs that are now a part of the human ecosystem and that are likely to appear in numerous other high throughput RNA-seq studies in which a fraction of the individuals may have previously been vaccinated.  ProtoAcknowledgements: Thanks to our colleagues for help and suggestions (Nimit Jain, Emily Greenwald, Lamia Wahba, William Wang, Amisha Kumar, Sameer Sundrani, David Lipman, Bijoyita Roy).  Figure 1: Spike-encoding contig assembled from BioNTech/Pfizer BNT-162b2 vaccine.  Although the full coding region is included, the nature of the methodology used for sequencing and assembly is such that the assembled contig could lack some sequence from the ends of the RNA.  Within the assembled sequence, this hypothetical sequence shows a perfect match to the corresponding sequence from documents available online derived from manufacturer communications with the World Health Organization [as reported by https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/].  The 5’ end for the assembly matches the start site noted in these documents, while the read-based assembly lacks an interrupted polyA tail (A30(GCATATGACT)A70) that is expected to be present in the mRNA.
@@ -2807,7 +2809,7 @@
 - [jhedev/awesome-nix](https://github.com/jhedev/awesome-nix) - List of resource about Nix/NixOS
 - [laravel/ideas](https://github.com/laravel/ideas) - Issues board used for Laravel internals discussions.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-- [laravel/docs](https://github.com/laravel/docs) - 
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [lduck11007/kim-jong-un-dataset](https://github.com/lduck11007/kim-jong-un-dataset) - A dataset of labelled images of Kim Jong Un staring at objects
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
@@ -3044,7 +3046,7 @@
 - [robiiinos/laravel-time](https://github.com/robiiinos/laravel-time) - Register a '/time' endpoint to your Laravel API.
 - [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-- [laravel/jetstream](https://github.com/laravel/jetstream) - 
+- [laravel/jetstream](https://github.com/laravel/jetstream) - Tailwind scaffolding for the Laravel framework.
 - [DevDavido/performance-audit-plugin](https://github.com/DevDavido/performance-audit-plugin) - Daily performance audits of all your sites in Matomo.
 - [ssouphron/TodoList](https://github.com/ssouphron/TodoList) - 
 - [centreon/centreon](https://github.com/centreon/centreon) - Centreon is a network, system and application monitoring tool. Centreon is the only AIOps Platform Providing Holistic Visibility to Complex IT Workflows from Cloud to Edge.
@@ -3084,7 +3086,7 @@
 - [Protoqol/Prequel](https://github.com/Protoqol/Prequel) - Prequel for Laravel. Clear and concise database management.
 - [goldspecdigital/laravel-eloquent-uuid](https://github.com/goldspecdigital/laravel-eloquent-uuid) - A simple drop-in solution for providing UUID support for the IDs of your Eloquent models.
 - [LaravelCollective/html](https://github.com/LaravelCollective/html) - HTML and Form Builders for the Laravel Framework
-- [laravel/telescope](https://github.com/laravel/telescope) - 
+- [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework.
 - [rap2hpoutre/laravel-log-viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - :dromedary_camel: Laravel log viewer
 - [kristijanhusak/laravel-form-builder](https://github.com/kristijanhusak/laravel-form-builder) - Laravel Form builder for version 5+!
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
@@ -3106,7 +3108,7 @@
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - Laravel IDE Helper
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
-- [laravel/tinker](https://github.com/laravel/tinker) - 
+- [laravel/tinker](https://github.com/laravel/tinker) - Powerful REPL for the Laravel framework.
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel Debugbar (Integrates PHP Debug Bar)
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [thedevsaddam/laravel-schema](https://github.com/thedevsaddam/laravel-schema) - Display the connected database information from Terminal.
@@ -3120,7 +3122,7 @@
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [changeweb/Unifiedtransform](https://github.com/changeweb/Unifiedtransform) - A school management Software
 - [SagarMaheshwary/laravel-basics](https://github.com/SagarMaheshwary/laravel-basics) - Laravel project tutorial code for beginners.
-- [laravel/lumen](https://github.com/laravel/lumen) - 
+- [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 - [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 - [VasylTech/flarum-algolia-search](https://github.com/VasylTech/flarum-algolia-search) - Replaces the default Flarum forum search with Algolia search
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
@@ -3192,8 +3194,8 @@
 - [bolt/bolt](https://github.com/bolt/bolt) - Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.
 - [owncloud/music](https://github.com/owncloud/music) - :notes: Music app for ownCloud
 - [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server) - PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
-- [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans
-- [laravel/framework](https://github.com/laravel/framework) - 
+- [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [azlux/mymonitor](https://github.com/azlux/mymonitor) - Personnal monitor used on raspberry
 - [Automattic/regenerate-thumbnails](https://github.com/Automattic/regenerate-thumbnails) - WordPress plugin for regenerating thumbnails of uploaded images. Over 1 million active users and counting.
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
@@ -3825,6 +3827,7 @@
 
 ## Ruby 
 
+- [hostolab/covidliste](https://github.com/hostolab/covidliste) - 0 doses perdues.
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown
 - [jm/toml](https://github.com/jm/toml) - Parse TOML.  Like a bawss.
 - [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers
@@ -3935,7 +3938,6 @@
 - [logstash-plugins/logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core) - 
 - [net-ssh/net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
-- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [openware/peatio](https://github.com/openware/peatio) - Open-source crypto currency exchange software (https://openware.com)
 - [logstash-plugins/logstash-input-google_pubsub](https://github.com/logstash-plugins/logstash-input-google_pubsub) - Logstash input for pulling events from Google Pub/Sub service
 - [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
@@ -4998,7 +5000,7 @@
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [drone/drone-ui](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server

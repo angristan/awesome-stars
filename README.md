@@ -1043,7 +1043,6 @@
 - [YoannMa/scaleway_exporter](https://github.com/YoannMa/scaleway_exporter) - Prometheus exporter for Scaleway Elements metrics (LB, Database).
 - [kirsch33/realip](https://github.com/kirsch33/realip) - realip module for Caddy v2
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
-- [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
 - [nmapx/revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - Agent to enable remote management of your Amazon EC2 instance configuration.
@@ -1592,7 +1591,6 @@
 - [rossmcdonald/telegraf](https://github.com/rossmcdonald/telegraf) - Ansible role for installing, configuring, and maintaining Telegraf
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [dev-sec/ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
-- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [geerlingguy/ansible-role-munin-node](https://github.com/geerlingguy/ansible-role-munin-node) - Ansible Role - Munin node
 - [geerlingguy/ansible-role-php](https://github.com/geerlingguy/ansible-role-php) - Ansible Role - PHP
 - [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
@@ -2524,6 +2522,7 @@
 - [dj-wasabi/ansible-telegraf](https://github.com/dj-wasabi/ansible-telegraf) - Installing and configuring Telegraf via Ansible for RedHat/Debian/Ubuntu/Windows/Suse.
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
 
@@ -3386,6 +3385,7 @@
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [praveendath92/Trading212-CSV-Exporter](https://github.com/praveendath92/Trading212-CSV-Exporter) - Exports Trading 212 transactions
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+- [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
 - [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
 - [TheHumanRobot/Atomagical_Plex_Remote_Quality](https://github.com/TheHumanRobot/Atomagical_Plex_Remote_Quality) - Automagically sets remote client playback quality
 - [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
@@ -4399,7 +4399,7 @@
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [thefederationinfo/federation-tests](https://github.com/thefederationinfo/federation-tests) - WE MOVED TO FENEAS
-- [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish from Zsh.
+- [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish from Zsh.fish theme prompt fish-theme fish-prompt
 - [wmchris/DellXPS15-9550-OSX](https://github.com/wmchris/DellXPS15-9550-OSX) - Tutorial for a full working Mac OS (10.11 up to 11.0) enviroment on the Dell XPS 15 (9550)
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
@@ -4709,7 +4709,7 @@
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
 - [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface) - 🦄 An open source interface for the Uniswap protocol
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
-- [pancakeswap/pancake-swap-interface](https://github.com/pancakeswap/pancake-swap-interface) - :pancakes: Pancake trading interface
+- [pancakeswap/pancake-swap-interface-v1](https://github.com/pancakeswap/pancake-swap-interface-v1) - :pancakes: Pancake trading interface V1
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [robinmetral/gatsby-source-s3](https://github.com/robinmetral/gatsby-source-s3) - A Gatsby plugin to source objects and images from AWS S3

@@ -159,6 +159,7 @@
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
+- [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -1024,6 +1025,7 @@
 - [modfy/go-fluent-ffmpeg](https://github.com/modfy/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
+- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example application written in Go.
@@ -1324,7 +1326,7 @@
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [mthbernardes/GTRS](https://github.com/mthbernardes/GTRS) - GTRS - Google Translator Reverse Shell
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Build a digital writing community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Simple blogging platform made just for writers. Write together, and build a community.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [hacdias/caddy-v1-minify](https://github.com/hacdias/caddy-v1-minify) - :page_facing_up: Caddy plugin that provides file minification
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -1789,7 +1791,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1649-Stars](https://github.com/RealPeha/This-Repo-Has-1649-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -1799,7 +1801,6 @@
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
-- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
 - [crash0verride11/DarkLight-qBittorent-WebUI](https://github.com/crash0verride11/DarkLight-qBittorent-WebUI) - A version of the default webUI that supports OS Dark Mode and is toggle-able, made using CSS properties and SASS.
 - [Micdu70/geoip2-rutorrent](https://github.com/Micdu70/geoip2-rutorrent) - New geoip plugin for ruTorrent working with GeoLite2 (MaxMind DB Files)
@@ -3390,7 +3391,7 @@
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [anoopsankar/Trakt2Letterboxd](https://github.com/anoopsankar/Trakt2Letterboxd) - Script to export your movies from Trakt to Letterboxd
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
-- [praveendath92/Trading212-CSV-Exporter](https://github.com/praveendath92/Trading212-CSV-Exporter) - Exports Trading 212 transactions
+- [pkpio/Trading212-CSV-Exporter](https://github.com/pkpio/Trading212-CSV-Exporter) - Exports Trading 212 transactions
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
 - [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
@@ -4216,6 +4217,7 @@
 
 ## Shell 
 
+- [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
 - [vhf/redis-sentinel-docker-example](https://github.com/vhf/redis-sentinel-docker-example) - 
 - [TheMickeyMike/raspberrypi-temperature-telegraf](https://github.com/TheMickeyMike/raspberrypi-temperature-telegraf) - Collect RaspberryPi CPU and GPU temperature with telegraf
 - [robcowart/elastiflow](https://github.com/robcowart/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
@@ -4620,7 +4622,6 @@
 - [ccrama/Slide-iOS](https://github.com/ccrama/Slide-iOS) - A powerful new way to Reddit on iOS
 - [neilalexander/seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
-- [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [negativehoro/qrcreator](https://github.com/negativehoro/qrcreator) - QR Creator allows you to create personalised QR Codes in a few seconds
 - [rubygarage/shopapp-ios](https://github.com/rubygarage/shopapp-ios) - ShopApp is an application that transfers an online store into a mobile app
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.

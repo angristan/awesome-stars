@@ -812,7 +812,7 @@
 - [littlebee/git-time-machine](https://github.com/littlebee/git-time-machine) - Atom package that allows you to travel back in commit history
 - [akonwi/git-plus](https://github.com/akonwi/git-plus) - vim-fugitive like package for atom. make commits and other git things without the terminal
 - [Chris911/Ask-Stack-Atom](https://github.com/Chris911/Ask-Stack-Atom) - Ask Stack Overflow for Atom
-- [Glavin001/atom-beautify](https://github.com/Glavin001/atom-beautify) - :lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )
+- [Glavin001/atom-beautify](https://github.com/Glavin001/atom-beautify) - :mega: Help Wanted - Looking for Maintainer: https://github.com/Glavin001/atom-beautify/issues/2572 | :lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )
 - [mrodalgaard/atom-expose](https://github.com/mrodalgaard/atom-expose) - Quick tab overview of open files in the Atom editor
 - [lee-dohm/autocomplete-html-entities](https://github.com/lee-dohm/autocomplete-html-entities) - An autocomplete-plus 2.0 provider for HTML entities
 - [atom/language-c](https://github.com/atom/language-c) - C support in Atom
@@ -937,6 +937,9 @@
 
 ## Go 
 
+- [firecracker-microvm/firecracker-go-sdk](https://github.com/firecracker-microvm/firecracker-go-sdk) - An SDK in Go for the Firecracker microVM API
+- [firecracker-microvm/firectl](https://github.com/firecracker-microvm/firectl) - firectl is a command-line tool to run Firecracker microVMs
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - High level CLI utility for restic
 - [storj/drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [vmihailenco/msgpack](https://github.com/vmihailenco/msgpack) - msgpack.org[Go] MessagePack encoding for Golang
@@ -1588,7 +1591,6 @@
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [martenbjork/sign-up-for-facebook](https://github.com/martenbjork/sign-up-for-facebook) - A summary of what data Facebook collects and how it can be used
-- [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [manala/ansible-role-influxdb](https://github.com/manala/ansible-role-influxdb) - [READ-ONLY] Ansible role dealing installation and configuration of InfluxDB time-series database
@@ -1769,6 +1771,7 @@
 
 ## JavaScript 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
 - [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript
@@ -1793,7 +1796,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2293,6 +2296,7 @@
 - [quantumsheep/MyGes-MarkCalculator](https://github.com/quantumsheep/MyGes-MarkCalculator) - Calculateur de moyenne et de gains d'ECTS pour MyGES (Intranet du groupe GES)
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [pfn/keepasshttp](https://github.com/pfn/keepasshttp) - KeePass plugin to expose password entries securely (256bit AES/CBC) over HTTP
+- [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
 - [AtomLinter/linter-docker](https://github.com/AtomLinter/linter-docker) - Linter plugin for Dockerfile, using dockerlint
@@ -2469,7 +2473,6 @@
 - [SpaceK33z/plex2netflix](https://github.com/SpaceK33z/plex2netflix) - See how much of your media from Plex is available on Netflix.
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [QuadPiece/club-quad](https://github.com/QuadPiece/club-quad) - Orphan of the club-Swizards ruTorrent theme.
-- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [AniDevTwitter/animeopenings](https://github.com/AniDevTwitter/animeopenings) - Displays random anime openings
@@ -4117,7 +4120,7 @@
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [tootsuite/flodgatt](https://github.com/tootsuite/flodgatt) - A blazingly fast drop-in replacement for the Mastodon streaming API server
-- [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A rust-vmm based cloud hypervisor
+- [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [symphorien/nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
@@ -4692,6 +4695,7 @@
 
 ## TypeScript 
 
+- [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3.
 - [KnisterPeter/vscode-github](https://github.com/KnisterPeter/vscode-github) - :octocat: GitHub Support for vscode
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - Open source visualization dashboards for OpenSearch.
@@ -4971,6 +4975,7 @@
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 - [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
+- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [bnjjj/my-infra](https://github.com/bnjjj/my-infra) - My infra is a mobile application to manage some of the OVH products and services.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [kresusapp/kresus](https://github.com/kresusapp/kresus) - Get rich, or die codin'

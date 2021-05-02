@@ -936,6 +936,7 @@
 
 ## Go 
 
+- [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team.
 - [xelabs/go-mydumper](https://github.com/xelabs/go-mydumper) - A multi-threaded MySQL backup and restore tool, faster than mysqldump
 - [thomas-maurice/dnsbin2](https://github.com/thomas-maurice/dnsbin2) - I have literally no idea why I did that - Pastebin over DNS
@@ -1773,6 +1774,7 @@
 
 ## JavaScript 
 
+- [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
@@ -2607,6 +2609,7 @@
 
 ## Makefile 
 
+- [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [thenickdude/KVM-Opencore](https://github.com/thenickdude/KVM-Opencore) - OpenCore disk image for Proxmox/QEMU
 - [fniephaus/alfred-network](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands

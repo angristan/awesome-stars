@@ -936,6 +936,7 @@
 
 ## Go 
 
+- [sno6/gosane](https://github.com/sno6/gosane) - A sane and simple Go REST API template.
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team.
 - [xelabs/go-mydumper](https://github.com/xelabs/go-mydumper) - A multi-threaded MySQL backup and restore tool, faster than mysqldump
@@ -1800,7 +1801,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2923,7 +2924,7 @@
 - [nikolas/github-drama](https://github.com/nikolas/github-drama) - "locked and limited conversation to collaborators"
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
 - [vbarbaresi/MetroGit](https://github.com/vbarbaresi/MetroGit) - Paris Metro lines on a Git graph
-- [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker and wiki for Codewars
+- [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker for Codewars
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [aeris/gdpr](https://github.com/aeris/gdpr) - GDPR letter template
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
@@ -3142,7 +3143,7 @@
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 77 languages for Laravel Framework 4, 5, 6, 7 and 8,  Laravel Jetstream , Laravel Fortify, Laravel Cashier and Laravel Nova.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 77 languages for Laravel Framework 4, 5, 6, 7 and 8,  Laravel Jetstream , Laravel Fortify, Laravel Cashier, Laravel Nova and Laravel Spark.
 - [fideloper/TrustedProxy](https://github.com/fideloper/TrustedProxy) - Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.
 - [afrazahmmad/clear-all-cached-data](https://github.com/afrazahmmad/clear-all-cached-data) - Laravel 5 Package to clear all cached data in single command. e.g. cache, views, config and routes.
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
@@ -4065,6 +4066,7 @@
 
 ## Rust 
 
+- [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [containers/krunvm](https://github.com/containers/krunvm) - Manage lightweight VMs created from OCI images
 - [ogham/rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
@@ -4581,7 +4583,7 @@
 - [PatrolServer/bashscanner](https://github.com/PatrolServer/bashscanner) - A fast way to scan your server for outdated software and potential exploits.
 - [sigo/asus-zenfone-5-root](https://github.com/sigo/asus-zenfone-5-root) - Little script, which will root your ASUS Zenfone 5
 - [shevabam/ezservermonitor-sh](https://github.com/shevabam/ezservermonitor-sh) - eZ Server Monitor`sh - A simple and lightweight dashboard for Linux
-- [chr15m/gitnonymous](https://github.com/chr15m/gitnonymous) - Pseudonymous Git commits over Tor
+- [chr15m/gitnonymous](https://github.com/chr15m/gitnonymous) - Make pseudonymous Git commits over Tor
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
@@ -4703,6 +4705,7 @@
 
 ## TypeScript 
 
+- [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3.
 - [KnisterPeter/vscode-github](https://github.com/KnisterPeter/vscode-github) - :octocat: GitHub Support for vscode
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code

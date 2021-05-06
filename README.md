@@ -936,6 +936,7 @@
 
 ## Go 
 
+- [onrik/logrus](https://github.com/onrik/logrus) - Hooks for logrus logging
 - [evalphobia/logrus_sentry](https://github.com/evalphobia/logrus_sentry) - sentry hook for logrus
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [jessevdk/go-flags](https://github.com/jessevdk/go-flags) - go command line option parser
@@ -1806,7 +1807,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -1873,7 +1874,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [binance-academy/slugify](https://github.com/binance-academy/slugify) - Generate a slug from a string
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
-- [sand-lang/playground](https://github.com/sand-lang/playground) - Xenon interractive playground
+- [sand-lang/playground](https://github.com/sand-lang/playground) - Sand interractive playground
 - [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [LiveCoronaDetector/livecod](https://github.com/LiveCoronaDetector/livecod) - Live Corona Map
@@ -2676,7 +2677,6 @@
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [mbbx6spp/mbp-nixos](https://github.com/mbbx6spp/mbp-nixos) - Instructions and scripts related to getting NixOS running on a newer generation MBP
 - [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
-- [JohnAZoidberg/nix-konfiguriert](https://github.com/JohnAZoidberg/nix-konfiguriert) - NixOS configuration for all my computers/servers (except, sadly, my phone...)
 - [manveru/dotfiles](https://github.com/manveru/dotfiles) - Just my dotfiles for home-manager
 - [tmplt/nixos-config](https://github.com/tmplt/nixos-config) - NixOS configuration for my machines
 - [BrianHicks/dotfiles.nix](https://github.com/BrianHicks/dotfiles.nix) - 
@@ -2790,7 +2790,7 @@
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-- [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language. The code here is out of date, please follow our blog
+- [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - A faster and highly-compatible implementation of the Python programming language. The code here is out of date, please follow our blog
 - [738/awesome-sushi](https://github.com/738/awesome-sushi) - 🍣 국내 스시 오마카세 맛집 리스트
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [MuxaJlbl4/Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita
@@ -3511,6 +3511,7 @@
 - [deanishe/alfred-pwgen](https://github.com/deanishe/alfred-pwgen) - Generate passwords with Alfred
 - [deanishe/alfred-vpn-manager](https://github.com/deanishe/alfred-vpn-manager) - Manage Tunnelblick & Viscosity VPN connections from Alfred
 - [deanishe/alfred-fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data in Alfred
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [rhlsthrm/alfred-crypto-tracker](https://github.com/rhlsthrm/alfred-crypto-tracker) - Quickly check cryptocurrency prices with Alfred
 - [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
 - [fniephaus/alfred-brightness](https://github.com/fniephaus/alfred-brightness) - Adjust your display's brightness with Alfred
@@ -4072,6 +4073,7 @@
 
 ## Rust 
 
+- [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -4309,7 +4311,6 @@
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le)
 - [eventi/noreallyjustfuckingstopalready](https://github.com/eventi/noreallyjustfuckingstopalready) - Please OS X (or whatever your name is) just fucking reset your DNS cache please
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [BenziAhamed/alfred-battery](https://github.com/BenziAhamed/alfred-battery) - An Alfred app workflow to display battery levels of your Apple devices
 - [anmolnagpal/alfred-docker-workflows](https://github.com/anmolnagpal/alfred-docker-workflows) - Alfred workflow for DevOps
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
@@ -4631,6 +4632,7 @@
 
 ## Swift 
 
+- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 - [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur menu bar color by appending a solid color or gradient rectangle to a wallpaper image
 - [jamsinclair/ballast](https://github.com/jamsinclair/ballast) - Keep your audio balance from drifting! OSX Status Bar App

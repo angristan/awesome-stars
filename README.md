@@ -1112,7 +1112,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [cds-snc/covid-alert-server](https://github.com/cds-snc/covid-alert-server) - Exposure Notification: Diagnosis Server implementation / Notification d’exposition : Mise en œuvre du serveur de diagnostic
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data warehouse, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data lake, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
@@ -1608,7 +1608,6 @@
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [dev-sec/ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
 - [geerlingguy/ansible-role-munin-node](https://github.com/geerlingguy/ansible-role-munin-node) - Ansible Role - Munin node
-- [geerlingguy/ansible-role-php](https://github.com/geerlingguy/ansible-role-php) - Ansible Role - PHP
 - [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [jpescador/hugo-future-imperfect](https://github.com/jpescador/hugo-future-imperfect) - A ported theme with some extras for the Hugo static website engine
@@ -1807,7 +1806,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1654-Stars](https://github.com/RealPeha/This-Repo-Has-1654-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -1860,7 +1859,7 @@
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana + InfluxDB + Speedtest.net results
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
-- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js
+- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js 2.0 and 3.0, the most popular charting library 📊
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [song940/node-dns](https://github.com/song940/node-dns) - :globe_with_meridians:  DNS Server and Client Implementation in Pure JavaScript with no dependencies.
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript functions that do just do one thing.
@@ -2129,7 +2128,7 @@
 - [buttercup/buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension
 - [cjgammon/diving-in](https://github.com/cjgammon/diving-in) - Diving in Tutorial Examples
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
 - [dariusk/rss-to-activitypub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter.
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
@@ -2547,6 +2546,7 @@
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+- [geerlingguy/ansible-role-php](https://github.com/geerlingguy/ansible-role-php) - Ansible Role - PHP
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
 

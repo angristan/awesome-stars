@@ -4079,6 +4079,10 @@
 
 ## Rust 
 
+- [devashishdxt/cli-table](https://github.com/devashishdxt/cli-table) - Rust crate for printing tables on command line.
+- [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) - A rust library to print aligned and formatted tables
+- [Stebalien/term](https://github.com/Stebalien/term) - A Rust library for terminfo parsing and terminal colors.
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
@@ -4719,6 +4723,7 @@
 
 ## TypeScript 
 
+- [remjx/coindrop](https://github.com/remjx/coindrop) - The easiest way to accept donations & tips anywhere
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3

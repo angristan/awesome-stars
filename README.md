@@ -138,6 +138,7 @@
 
 ## C 
 
+- [wayland-project/wayland](https://github.com/wayland-project/wayland) - Core Wayland protocol and libraries
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
@@ -145,7 +146,7 @@
 - [benjojo/iptables-uwu](https://github.com/benjojo/iptables-uwu) - iptables target that uwu's outgoing packets
 - [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
-- [happyfish100/FastCFS](https://github.com/happyfish100/FastCFS) - A high performance distributed file system which can be used as the back-end storage of databases, K8s and VM.
+- [happyfish100/FastCFS](https://github.com/happyfish100/FastCFS) - A high performance distributed file system which can be used as the back-end storage of databases, K8s and VM etc.
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [mariusae/trickle](https://github.com/mariusae/trickle) - Trickle is a userland bandwidth shaper for Unix-like systems.
 - [exebook/generic-print](https://github.com/exebook/generic-print) - Convenient generic print() for C
@@ -939,6 +940,9 @@
 
 ## Go 
 
+- [awslabs/tc-redirect-tap](https://github.com/awslabs/tc-redirect-tap) - 
+- [brawer/certmon](https://github.com/brawer/certmon) - Monitors the expiration date of TLS certificates
+- [jgrahamc/webwatch](https://github.com/jgrahamc/webwatch) - Small program to download a web page, see if a string appears in it and send email if it does
 - [streadway/amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [imroc/req](https://github.com/imroc/req) - a golang http request library for humans
@@ -1791,10 +1795,14 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [squaremo/amqp.node](https://github.com/squaremo/amqp.node) - AMQP 0-9-1 library and client for Node.JS
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript
 - [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
 - [OwlCarousel2/OwlCarousel2](https://github.com/OwlCarousel2/OwlCarousel2) - DEPRECATED jQuery Responsive Carousel.
@@ -4085,6 +4093,7 @@
 
 ## Rust 
 
+- [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [devashishdxt/cli-table](https://github.com/devashishdxt/cli-table) - Rust crate for printing tables on command line.
 - [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) - A rust library to print aligned and formatted tables
@@ -4509,7 +4518,7 @@
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH and zgen
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH and zgenom
 - [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [jorgeluiztaioque/lxd-forward](https://github.com/jorgeluiztaioque/lxd-forward) - A simple script to simplify port forward for LXC or LXD containers.
@@ -4648,6 +4657,7 @@
 
 ## Swift 
 
+- [metabolist/metatext](https://github.com/metabolist/metatext) - A free, open-source iOS Mastodon client.
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 - [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur menu bar color by appending a solid color or gradient rectangle to a wallpaper image
@@ -5042,6 +5052,7 @@
 
 ## Vim script 
 
+- [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 - [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - Tutorial for vim-go
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim

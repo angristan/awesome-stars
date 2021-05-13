@@ -138,6 +138,7 @@
 
 ## C 
 
+- [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
 - [wayland-project/wayland](https://github.com/wayland-project/wayland) - Core Wayland protocol and libraries
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
@@ -273,7 +274,7 @@
 - [fvwmorg/fvwm](https://github.com/fvwmorg/fvwm) - Official FVWM repository
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [aws/s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
-- [linux-apfs/linux-apfs](https://github.com/linux-apfs/linux-apfs) - APFS module for linux, with experimental write support. This tree is just for development, please use linux-apfs-oot instead.
+- [linux-apfs/linux-apfs](https://github.com/linux-apfs/linux-apfs) - This tree is no longer updated, please use linux-apfs-rw instead.
 - [OpenVZ/vzkernel](https://github.com/OpenVZ/vzkernel) - [mirror] Virtuozzo Linux kernel
 - [khanzf/opengit](https://github.com/khanzf/opengit) - OpenGit - A BSD licensed clone of Git for FreeBSD (under heavy development)
 - [vurtun/nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
@@ -940,6 +941,7 @@
 
 ## Go 
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [awslabs/tc-redirect-tap](https://github.com/awslabs/tc-redirect-tap) - 
 - [brawer/certmon](https://github.com/brawer/certmon) - Monitors the expiration date of TLS certificates
 - [jgrahamc/webwatch](https://github.com/jgrahamc/webwatch) - Small program to download a web page, see if a string appears in it and send email if it does
@@ -1795,6 +1797,7 @@
 
 ## JavaScript 
 
+- [scaleway/serverless-scaleway-functions](https://github.com/scaleway/serverless-scaleway-functions) - Plugin for Serverless Framework to allow users to deploy their serverless applications on Scaleway Functions
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -2531,6 +2534,7 @@
 - [tabalinas/jssocials](https://github.com/tabalinas/jssocials) - Social Network Sharing jQuery Plugin
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) - Yoast SEO for WordPress
 - [ivanseidel/IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
@@ -3309,7 +3313,6 @@
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [CamTosh/ToastBox](https://github.com/CamTosh/ToastBox) - A Cakebox Like
 - [devryan/GamePanelX-V3](https://github.com/devryan/GamePanelX-V3) - The Original Free and Open Source Game Control Panel
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) - Yoast SEO for WordPress
 - [keycdn/php-keycdn-api](https://github.com/keycdn/php-keycdn-api) - PHP Library for the KeyCDN API
 - [phpsysinfo/phpsysinfo](https://github.com/phpsysinfo/phpsysinfo) - phpSysInfo: a customizable PHP script that displays information about your system nicely
 - [shevabam/ezservermonitor-web](https://github.com/shevabam/ezservermonitor-web) - eZ Server Monitor`Web - A simple and lightweight dashboard for Linux
@@ -4093,6 +4096,15 @@
 
 ## Rust 
 
+- [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
+- [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - 
+- [oconnor663/duct.rs](https://github.com/oconnor663/duct.rs) - a Rust library for running child processes
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
+- [sebasmagri/rust-concurrency-patterns](https://github.com/sebasmagri/rust-concurrency-patterns) - Examples of concurrency patterns implemented in Rust
+- [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [devashishdxt/cli-table](https://github.com/devashishdxt/cli-table) - Rust crate for printing tables on command line.

@@ -942,6 +942,8 @@
 
 ## Go 
 
+- [pokemium/magia](https://github.com/pokemium/magia) - magia is GBA emulator written in golang. (renamed from Mettaur)
+- [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
 - [Sh4d1/scaleway-k8s-node-coffee](https://github.com/Sh4d1/scaleway-k8s-node-coffee) - 
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [commander-cli/cmd](https://github.com/commander-cli/cmd) - A simple package to execute shell commands on linux, windows and osx
@@ -1833,7 +1835,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1656-Stars](https://github.com/RealPeha/This-Repo-Has-1656-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1657-Stars](https://github.com/RealPeha/This-Repo-Has-1657-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2485,7 +2487,7 @@
 - [soulaklabs/bitoduc.fr](https://github.com/soulaklabs/bitoduc.fr) - A website about french words for computer concepts.
 - [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
 - [flagrow/flarum-ext-guardian](https://github.com/flagrow/flarum-ext-guardian) - 
-- [qiaeru/lang-french](https://github.com/qiaeru/lang-french) - French language pack to localize the Flarum forum software.
+- [qiaeru/lang-french](https://github.com/qiaeru/lang-french) - French language pack to localize the Flarum forum software, its official extensions and bundled libraries.
 - [Avatar4eg/flarum-ext-share-social](https://github.com/Avatar4eg/flarum-ext-share-social) - Add share social button.
 - [tutula1/vingle-share-social](https://github.com/tutula1/vingle-share-social) - Add share social button.
 - [FriendsOfFlarum/analytics](https://github.com/FriendsOfFlarum/analytics) - A Flarum extension that provides your forum piwik's and google's analytics features
@@ -2697,7 +2699,6 @@
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [jeaye/nix-files](https://github.com/jeaye/nix-files) - NixOS for my VPS
 - [input-output-hk/cardano-haskell](https://github.com/input-output-hk/cardano-haskell) - Top level repository for building the Cardano Haskell node and related components and dependencies.
-- [nix-dot-dev/nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with Nix.
 - [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL) - NixOS on WSL(2)
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [nix-community/aarch64-build-box](https://github.com/nix-community/aarch64-build-box) - Config for the Community aarch64 NixOS box [maintainer=@grahamc]
@@ -3480,6 +3481,7 @@
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [wrjlewis/notion-search-alfred-workflow](https://github.com/wrjlewis/notion-search-alfred-workflow) - An Alfred workflow to search Notion with instant results
+- [nix-dot-dev/nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
 - [anaclumos/hangulbreak](https://github.com/anaclumos/hangulbreak) - 👨‍💻 Playing with Hangul 한글
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
@@ -4102,6 +4104,7 @@
 
 ## Rust 
 
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 - [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - 
@@ -4677,6 +4680,7 @@
 
 ## Swift 
 
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [metabolist/metatext](https://github.com/metabolist/metatext) - A free, open-source iOS Mastodon client.
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 - [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor

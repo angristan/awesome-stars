@@ -140,7 +140,7 @@
 
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
 - [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
-- [wayland-project/wayland](https://github.com/wayland-project/wayland) - Core Wayland protocol and libraries
+- [wayland-project/wayland](https://github.com/wayland-project/wayland) - Core Wayland protocol and libraries (mirror)
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
@@ -1693,6 +1693,7 @@
 
 ## Java 
 
+- [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [Forge Mod] Building Tools and Aesthetic Technology
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
@@ -4783,6 +4784,7 @@
 
 ## TypeScript 
 
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
 - [remjx/coindrop](https://github.com/remjx/coindrop) - The easiest way to accept donations & tips anywhere
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.

@@ -946,7 +946,7 @@
 - [auxten/go-sqldb](https://github.com/auxten/go-sqldb) - A pure golang SQL database for learning database theory
 - [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go
 - [pokemium/magia](https://github.com/pokemium/magia) - magia is GBA emulator written in golang.
-- [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
+- [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [Sh4d1/scaleway-k8s-node-coffee](https://github.com/Sh4d1/scaleway-k8s-node-coffee) - 
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [commander-cli/cmd](https://github.com/commander-cli/cmd) - A simple package to execute shell commands on linux, windows and osx
@@ -4113,6 +4113,7 @@
 
 ## Rust 
 
+- [hpjansson/fornalder](https://github.com/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
 - [utam0k/youki](https://github.com/utam0k/youki) - Experimental implementation of the oci-runtime in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
@@ -5023,7 +5024,7 @@
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [angular/angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
+- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web

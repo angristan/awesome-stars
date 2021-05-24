@@ -94,7 +94,6 @@
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [VimL](#viml)
-  - [Visual Basic](#visual-basic)
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
   - [YAML](#yaml)
@@ -731,6 +730,7 @@
 - [trwnh/mastomods](https://github.com/trwnh/mastomods) - CSS tweaks and custom themes for Mastodon.
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [popey/makealinux.app](https://github.com/popey/makealinux.app) - Source for makealinux app website
+- [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [cheeaun/hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
 - [attio/google-ad-fixer](https://github.com/attio/google-ad-fixer) - 
@@ -953,6 +953,7 @@
 
 ## Go 
 
+- [vishvananda/netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [nelhage/llama](https://github.com/nelhage/llama) - 
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go]
@@ -1565,7 +1566,6 @@
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [marvinroger/nanocurrency-js](https://github.com/marvinroger/nanocurrency-js) - 🔗 A toolkit for the Nano cryptocurrency, allowing you to derive keys, generate seeds, hashes, signatures, proofs of work and blocks.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 3)
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
@@ -1823,6 +1823,11 @@
 
 ## JavaScript 
 
+- [wagoid/commitlint-github-action](https://github.com/wagoid/commitlint-github-action) - Lints Pull Request commits with commitlint
+- [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
+- [semantic-release/github](https://github.com/semantic-release/github) - :octocat:  semantic-release plugin to publish a GitHub release and comment on released Pull Requests/Issues
+- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog
+- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [Paratron/hookrouter](https://github.com/Paratron/hookrouter) - The flexible, and fast router for react that is entirely based on hooks
@@ -1860,7 +1865,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2797,6 +2802,8 @@
 
 ## Others 
 
+- [actions-rs/meta](https://github.com/actions-rs/meta) - 🦀 GitHub Actions for Rust - recipes, discussions, questions and ideas
+- [yoshuawuyts/rust-for-js-peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [Dashlane/password-changer-well-known](https://github.com/Dashlane/password-changer-well-known) - Documentation for using Dashlane's password changer .well-known
@@ -4134,6 +4141,7 @@
 
 ## Rust 
 
+- [matthunz/typed-sql](https://github.com/matthunz/typed-sql) - 
 - [TaKO8Ki/frum](https://github.com/TaKO8Ki/frum) - A little bit fast and modern Ruby version manager written in Rust
 - [svartalf/unbound-telemetry](https://github.com/svartalf/unbound-telemetry) - Prometheus exporter for Unbound DNS resolver
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
@@ -4145,7 +4153,7 @@
 - [tailhook/self-meter](https://github.com/tailhook/self-meter) - A tiny library to measure resource usage of the process it's used in
 - [hpjansson/fornalder](https://github.com/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
-- [utam0k/youki](https://github.com/utam0k/youki) - Experimental implementation of the oci-runtime in Rust
+- [utam0k/youki](https://github.com/utam0k/youki) - An experimental container runtime written in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [rambler-digital-solutions/actix-web-validator](https://github.com/rambler-digital-solutions/actix-web-validator) - Rust library for providing validation mechanism to actix-web with Validator crate.
 - [passcod/cargo-watch](https://github.com/passcod/cargo-watch) - 🔭🚢 Watches over your Cargo project's source.
@@ -4340,6 +4348,8 @@
 
 ## Shell 
 
+- [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions
+- [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action.
 - [weaveworks/wks-quickstart-firekube](https://github.com/weaveworks/wks-quickstart-firekube) - Example configuration to create Kubernetes clusters powered by ignite and gitops
 - [firecracker-microvm/firecracker-demo](https://github.com/firecracker-microvm/firecracker-demo) - A demo running 4000 Firecracker microVMs.
 - [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
@@ -4731,6 +4741,7 @@
 
 ## Swift 
 
+- [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [metabolist/metatext](https://github.com/metabolist/metatext) - A free, open-source iOS Mastodon client.
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
@@ -4815,6 +4826,10 @@
 
 ## TypeScript 
 
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
+- [google/semantic-release-replace-plugin](https://github.com/google/semantic-release-replace-plugin) - Update version strings with semantic-release.
+- [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [nestjs/bull](https://github.com/nestjs/bull) - Bull module for Nest framework (node.js) :cow:
 - [skunight/nestjs-redis](https://github.com/skunight/nestjs-redis) - nestjs redis module
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
@@ -5175,13 +5190,10 @@
 
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 
-## Visual Basic 
-
-- [ImminentFate/CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function
-
 ## Visual Basic .NET 
 
 - [KyleBanks/XOREncryption](https://github.com/KyleBanks/XOREncryption) - XOR encryption implementations for several languages.
+- [ImminentFate/CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function
 
 ## Vue 
 

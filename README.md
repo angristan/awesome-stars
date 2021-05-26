@@ -147,7 +147,6 @@
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
 - [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
 - [wayland-project/wayland](https://github.com/wayland-project/wayland) - Core Wayland protocol and libraries (mirror)
-- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [luisomoreau/ESP32-cam-MQTT](https://github.com/luisomoreau/ESP32-cam-MQTT) - Scaleway photobooth project using the ESP32 cam (AI thinker)
@@ -201,7 +200,7 @@
 - [taviso/avscript](https://github.com/taviso/avscript) - Avast JavaScript Interactive Shell
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [archiecobbs/s3backer](https://github.com/archiecobbs/s3backer) - FUSE-based single file backing store via Amazon S3
-- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [kfix/ddcctl](https://github.com/kfix/ddcctl) - DDC monitor controls (brightness) for Mac OSX command line
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -1571,7 +1570,7 @@
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [marvinroger/nanocurrency-js](https://github.com/marvinroger/nanocurrency-js) - 🔗 A toolkit for the Nano cryptocurrency, allowing you to derive keys, generate seeds, hashes, signatures, proofs of work and blocks.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 3)
+- [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [dieulot/ip.dog](https://github.com/dieulot/ip.dog) - The fastest way to get your IP address 🐶
@@ -1584,7 +1583,7 @@
 - [skullface/girlgroupsdotnet](https://github.com/skullface/girlgroupsdotnet) - 📲 Mobile wallpapers of 🚺K-pop idols.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
-- [jekyller/jasper2](https://github.com/jekyller/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
+- [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [njh/google-ipv6](https://github.com/njh/google-ipv6) - Per-country ranking table based on data from Google IPv6 Statistics page
 - [AwsGeek/aws-history](https://github.com/AwsGeek/aws-history) - 
 - [paquettg/php-html-parser](https://github.com/paquettg/php-html-parser) - An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.
@@ -1873,7 +1872,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1673-Stars](https://github.com/RealPeha/This-Repo-Has-1673-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1674-Stars](https://github.com/RealPeha/This-Repo-Has-1674-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2951,7 +2950,7 @@
 - [nid666/PiracyArchive](https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit r/Piracy sub
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Zhuinden/guide-to-kotlin](https://github.com/Zhuinden/guide-to-kotlin) - [GUIDE] This tutorial assumes all you know is Java, but you want to learn Kotlin.
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. Join Kotlin release event: https://kotl.in/15-event
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [WHMCS/developer-docs](https://github.com/WHMCS/developer-docs) - Developer documentation portal content
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
@@ -3609,7 +3608,7 @@
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [pallets/flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
-- [lepture/flask-wtf](https://github.com/lepture/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
+- [wtforms/flask-wtf](https://github.com/wtforms/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
 - [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog) - A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 - [skt7/dominant-colors-in-an-image-using-k-means-clustering](https://github.com/skt7/dominant-colors-in-an-image-using-k-means-clustering) - 
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
@@ -4148,6 +4147,7 @@
 
 ## Rust 
 
+- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [matthunz/typed-sql](https://github.com/matthunz/typed-sql) - 
 - [TaKO8Ki/frum](https://github.com/TaKO8Ki/frum) - A little bit fast and modern Ruby version manager written in Rust
 - [svartalf/unbound-telemetry](https://github.com/svartalf/unbound-telemetry) - Prometheus exporter for Unbound DNS resolver

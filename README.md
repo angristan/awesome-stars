@@ -954,6 +954,7 @@
 
 ## Go 
 
+- [abiosoft/caddy-json-schema](https://github.com/abiosoft/caddy-json-schema) - JSON schema generator for Caddy v2
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
@@ -1146,7 +1147,7 @@
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go
 - [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
-- [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast golang library for MIME type and file extension detection, based on magic numbers
+- [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
 - [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [povilasv/systemd_exporter](https://github.com/povilasv/systemd_exporter) - Exporter for systemd unit metrics
 - [distatus/battery](https://github.com/distatus/battery) - cross-platform, normalized battery information library
@@ -1880,7 +1881,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1676-Stars](https://github.com/RealPeha/This-Repo-Has-1676-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1675-Stars](https://github.com/RealPeha/This-Repo-Has-1675-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2080,7 +2081,7 @@
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [truedread/netflix-1080p](https://github.com/truedread/netflix-1080p) - Chrome extension to play Netflix in 1080p and 5.1
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (May 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2021)
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [dfrankland/pokemonsay](https://github.com/dfrankland/pokemonsay) - 👾 Pokemon version of cowsay with CLI and API.
 - [ian13456/mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
@@ -2103,7 +2104,7 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [clearlinux/clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬 Modern, responsive, cross-platform, self-hosted web IRC client
@@ -2814,6 +2815,7 @@
 
 ## Others 
 
+- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [actions-rs/meta](https://github.com/actions-rs/meta) - 🦀 GitHub Actions for Rust - recipes, discussions, questions and ideas
@@ -3445,6 +3447,7 @@
 
 ## Python 
 
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [rbignon/doctoshotgun](https://github.com/rbignon/doctoshotgun) - Script to automatically book a vaccine slot on Doctolib for today or tomorrow, following rules from the French Government.
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
@@ -4154,6 +4157,7 @@
 
 ## Rust 
 
+- [tyrchen/rust-training](https://github.com/tyrchen/rust-training) - my rust training to the team.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.

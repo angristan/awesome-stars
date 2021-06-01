@@ -60,6 +60,7 @@
   - [NSIS](#nsis)
   - [Nim](#nim)
   - [Nix](#nix)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
@@ -143,6 +144,7 @@
 
 ## C 
 
+- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
 - [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
@@ -1620,7 +1622,6 @@
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [zadewg/LIVEBOX-0DAY](https://github.com/zadewg/LIVEBOX-0DAY) - Arcadyan ARV7519RW22-A-L T VR9 1.2 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [DiscoverBSD/BSDHistory](https://github.com/DiscoverBSD/BSDHistory) - twitter-sized facts about BSDs
 - [freebsd/freebsd-doc](https://github.com/freebsd/freebsd-doc) - FreeBSD doc tree (read-only mirror)
 - [paracycle/slackthemes](https://github.com/paracycle/slackthemes) - A Slack sidebar theme browser
@@ -2769,6 +2770,10 @@
 - [NixOS/nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! Use NixOS/nixpkgs repository instead.
 - [kalbasit/shabka](https://github.com/kalbasit/shabka) - Shabka. Declaritive description of my network, workstations and servers.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
+## Nunjucks 
+
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## OCaml 
 
@@ -5226,6 +5231,7 @@
 
 ## Vue 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
 - [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.

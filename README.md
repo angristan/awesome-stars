@@ -970,6 +970,7 @@
 
 ## Go 
 
+- [stephank/lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [nanovms/ops-examples](https://github.com/nanovms/ops-examples) - A repository of basic and advanced examples using Ops
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
@@ -1039,7 +1040,7 @@
 - [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) - 
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
-- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure storage for personal records built to comply with GDPR
+- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure vault for customer records built to comply with GDPR
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -4193,6 +4194,7 @@
 
 ## Rust 
 
+- [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
@@ -4342,7 +4344,7 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [ha-shine/rustagram](https://github.com/ha-shine/rustagram) - Instagram filters in Rust 💫
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
-- [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust (doh-proxy).
+- [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust (doh-proxy).
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [vbrandl/nginx-http2-push-generator](https://github.com/vbrandl/nginx-http2-push-generator) - Parse a HTML file and generate a HTTP2 push configuration for nginx

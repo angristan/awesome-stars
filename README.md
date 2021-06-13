@@ -890,6 +890,7 @@
 
 ## Dockerfile 
 
+- [jakejarvis/hugo-build-action](https://github.com/jakejarvis/hugo-build-action) - ✏️ Hugo as a GitHub Action. Supports legacy versions back to v0.27 for compatibility.
 - [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [wei/curl](https://github.com/wei/curl) - Wraps the curl CLI to be used in Github Actions
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker
@@ -972,6 +973,7 @@
 
 ## Go 
 
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [jbarone/ghostToHugo](https://github.com/jbarone/ghostToHugo) - Convert Ghost blog export to Hugo posts
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
@@ -1868,6 +1870,7 @@
 
 ## JavaScript 
 
+- [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks that all of the hyperlinks in a markdown text to determine if they are alive or dead
 - [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 - [Tom-Bonnike/netlify-plugin-inline-critical-css](https://github.com/Tom-Bonnike/netlify-plugin-inline-critical-css) - A Netlify plugin to inline your critical CSS, built on top of the `critical` package.
 - [miromannino/Justified-Gallery](https://github.com/miromannino/Justified-Gallery) - Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well as the photography community 500px.
@@ -1924,7 +1927,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2731,6 +2734,7 @@
 
 ## Makefile 
 
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [yvan-sraka/rust.systems](https://github.com/yvan-sraka/rust.systems) - 
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -2825,6 +2829,7 @@
 
 ## Objective-C 
 
+- [kharrison/CodeExamples](https://github.com/kharrison/CodeExamples) - Code Examples
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
 - [wakatime/xcode-wakatime](https://github.com/wakatime/xcode-wakatime) - Xcode plugin for automatic time tracking and metrics generated from your programming activity.
 - [fermion-star/apple_sensors](https://github.com/fermion-star/apple_sensors) - temperature sensor for Apple Silicon M1
@@ -3447,7 +3452,7 @@
 
 ## Perl 
 
-- [pragma-/pbot](https://github.com/pragma-/pbot) - A pragmatic Perl IRC Bot
+- [pragma-/pbot](https://github.com/pragma-/pbot) - A pragmatic Perl IRCv3 Bot
 - [convos-chat/convos](https://github.com/convos-chat/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [autodl-community/autodl-irssi](https://github.com/autodl-community/autodl-irssi) - A community-driven fork of autodl-irssi
@@ -3497,6 +3502,7 @@
 
 ## Python 
 
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [tmrowco/electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers.
@@ -4438,6 +4444,7 @@
 
 ## Shell 
 
+- [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [netlify/build-image](https://github.com/netlify/build-image) - This is the build image used for running automated builds
 - [nix-community/nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - collection of one-shot scripts to install NixOS on various server hosters and other hardware. [maintainer=@happysalada]
 - [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions
@@ -4835,6 +4842,8 @@
 
 ## Swift 
 
+- [belozierov/SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS, macOS and Linux.
+- [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [norio-nomura/action-swiftlint](https://github.com/norio-nomura/action-swiftlint) - GitHub Action for SwiftLint
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
@@ -4923,6 +4932,7 @@
 
 ## TypeScript 
 
+- [petli-full/json-to-yaml-and-more-vscode](https://github.com/petli-full/json-to-yaml-and-more-vscode) - convert the types: json, yaml, xml, csv, hjson, json5, ini, toml, and hocon.
 - [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [NiklasPor/prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) - Fixes prettier formatting for go templates.
 - [JohnWeisz/TypedJSON](https://github.com/JohnWeisz/TypedJSON) - Typed JSON parsing and serializing for TypeScript that preserves type information.

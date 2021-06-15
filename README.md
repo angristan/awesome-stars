@@ -653,6 +653,7 @@
 - [0xcafed00d/tracetcp](https://github.com/0xcafed00d/tracetcp) - tracetcp. Traceroute utility that uses tcp syn packets to trace network routes.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [jasperla/openbsd-wip](https://github.com/jasperla/openbsd-wip) - OpenBSD work in progress ports
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer 🎧
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
 - [gosu/gosu](https://github.com/gosu/gosu) - 2D game development library for Ruby and C++
 - [bilelmoussaoui/sni-qt](https://github.com/bilelmoussaoui/sni-qt) - Patched version of sni-qt
@@ -973,6 +974,8 @@
 
 ## Go 
 
+- [ahmdrz/goinsta](https://github.com/ahmdrz/goinsta) - Unofficial Instagram API written in Golang
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [jbarone/ghostToHugo](https://github.com/jbarone/ghostToHugo) - Convert Ghost blog export to Hugo posts
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -2107,7 +2110,7 @@
 - [mlbrgl/ghost-algolia](https://github.com/mlbrgl/ghost-algolia) - Provides integration between Ghost (CMS) and Algolia (Search as a Service)
 - [HauntedThemes/ghost-search](https://github.com/HauntedThemes/ghost-search) - A simple but powerful search library for Ghost Blogging Platform.
 - [jamalneufeld/ghostHunter](https://github.com/jamalneufeld/ghostHunter) - A Ghost blog search engine
-- [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap 4 / jQuery plugin to create input spinner elements for number input
+- [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [greyli/bootstrap-flask](https://github.com/greyli/bootstrap-flask) - Bootstrap 4 helper for Flask/Jinja2.
 - [xiaodoudou/PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) - This app simulate a DVR device for Plex by providing a layer to any IPTV provider (that provide a m3u8 playlist)
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
@@ -2573,7 +2576,7 @@
 - [soulaklabs/bitoduc.fr](https://github.com/soulaklabs/bitoduc.fr) - A website about french words for computer concepts.
 - [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
 - [flagrow/flarum-ext-guardian](https://github.com/flagrow/flarum-ext-guardian) - 
-- [qiaeru/lang-french](https://github.com/qiaeru/lang-french) - French language pack to localize the Flarum forum software, its official extensions and bundled libraries.
+- [flarum-lang/french](https://github.com/flarum-lang/french) - French language pack to localize the Flarum forum software plus its official and third-party extensions.
 - [Avatar4eg/flarum-ext-share-social](https://github.com/Avatar4eg/flarum-ext-share-social) - Add share social button.
 - [tutula1/vingle-share-social](https://github.com/tutula1/vingle-share-social) - Add share social button.
 - [FriendsOfFlarum/analytics](https://github.com/FriendsOfFlarum/analytics) - A Flarum extension that provides your forum piwik's and google's analytics features
@@ -3921,7 +3924,7 @@
 - [lepture/python-livereload](https://github.com/lepture/python-livereload) - livereload server in python (MAINTAINERS NEEDED)
 - [AmirAzodi/cloudflare_ddns](https://github.com/AmirAzodi/cloudflare_ddns) - Python-based Dynamic DNS client for CloudFlare.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
@@ -4911,7 +4914,6 @@
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
-- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer 🎧
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [zorgiepoo/Komet](https://github.com/zorgiepoo/Komet) - Cocoa editor for creating commit messages
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.

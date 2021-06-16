@@ -974,6 +974,7 @@
 
 ## Go 
 
+- [shkh/lastfm-go](https://github.com/shkh/lastfm-go) - Golang wrapper for the Last.fm API 2.0
 - [ahmdrz/goinsta](https://github.com/ahmdrz/goinsta) - Unofficial Instagram API written in Golang
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -4221,6 +4222,7 @@
 
 ## Rust 
 
+- [dmfutcher/rustfm-scrobble](https://github.com/dmfutcher/rustfm-scrobble) - Last.fm Scrobble API for Rust
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [davidpdrsn/assert-json-diff](https://github.com/davidpdrsn/assert-json-diff) - Easily compare two JSON values and get great output
 - [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
@@ -4448,6 +4450,7 @@
 
 ## Shell 
 
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [netlify/build-image](https://github.com/netlify/build-image) - This is the build image used for running automated builds
 - [nix-community/nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - collection of one-shot scripts to install NixOS on various server hosters and other hardware. [maintainer=@happysalada]
@@ -4531,7 +4534,7 @@
 - [phallstrom/AlfredDig](https://github.com/phallstrom/AlfredDig) - A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.
 - [danhper/fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) - 
 - [icyphox/shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
-- [fwartner/homebrew-mac-cleanup](https://github.com/fwartner/homebrew-mac-cleanup) - 🗑️ Cleanup script for OSX
+- [fwartner/mac-cleanup](https://github.com/fwartner/mac-cleanup) - 🗑️ Cleanup script for macOS
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [NieDzejkob/cursedfs](https://github.com/NieDzejkob/cursedfs) - Make a disk image formatted with both ext2 and FAT at once
 - [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) - Fish shell tool for managing Python virtual environments
@@ -4701,7 +4704,7 @@
 - [geerlingguy/ansible-role-backup](https://github.com/geerlingguy/ansible-role-backup) - Ansible Role - Backup for simple servers
 - [peterhurford/git-it-on.zsh](https://github.com/peterhurford/git-it-on.zsh) - Quickly navigate GitHub from the command line.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -4846,6 +4849,7 @@
 
 ## Swift 
 
+- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [belozierov/SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS, macOS and Linux.
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [norio-nomura/action-swiftlint](https://github.com/norio-nomura/action-swiftlint) - GitHub Action for SwiftLint

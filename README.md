@@ -918,6 +918,7 @@
 - [osminogin/docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
 - [matomo-org/docker](https://github.com/matomo-org/docker) - Official Docker project for Matomo Analytics
 - [rlister/dockerfiles](https://github.com/rlister/dockerfiles) - Collection of dockerfiles for hub.docker.com/u/rlister
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [docker-library/httpd](https://github.com/docker-library/httpd) - Docker Official Image packaging for Apache HTTP Server
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -974,6 +975,7 @@
 
 ## Go 
 
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [shkh/lastfm-go](https://github.com/shkh/lastfm-go) - Golang wrapper for the Last.fm API 2.0
 - [ahmdrz/goinsta](https://github.com/ahmdrz/goinsta) - Unofficial Instagram API written in Golang
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -2161,6 +2163,7 @@
 - [davidmaillo/instagram-images-download-extension](https://github.com/davidmaillo/instagram-images-download-extension) - Google Chrome extension that helps you to download all the images from an Instagram's user profile page in a click, without API. Directly from browser. A very useful tool to backup your photos or from another user.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [mpiannucci/gnome-shell-extended-gestures](https://github.com/mpiannucci/gnome-shell-extended-gestures) - Better touchpad gesture handling for GNOME
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [Android-Messages-For-Desktop/android-messages-for-desktop](https://github.com/Android-Messages-For-Desktop/android-messages-for-desktop) - An Electron wrapper around android messages web interface enhanced with native notifications and badges
 - [gabLaroche/death-to-ie11](https://github.com/gabLaroche/death-to-ie11) - Countdown for IE11 end of support
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
@@ -4697,7 +4700,6 @@
 - [MariaDB/mariadb-docker](https://github.com/MariaDB/mariadb-docker) - Docker Official Image packaging for MariaDB
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [ByScripts/fish-config](https://github.com/ByScripts/fish-config) - Fish Shell configuration files
 - [zsh-users/fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
@@ -4939,9 +4941,12 @@
 
 ## TypeScript 
 
+- [lexanth/python-ast](https://github.com/lexanth/python-ast) - Python (3) Parser for JavaScript/TypeScript (based on antlr4ts)
+- [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
 - [petli-full/json-to-yaml-and-more-vscode](https://github.com/petli-full/json-to-yaml-and-more-vscode) - convert the types: json, yaml, xml, csv, hjson, json5, ini, toml, and hocon.
 - [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
-- [NiklasPor/prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) - Fixes prettier formatting for go templates.
+- [NiklasPor/prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) - Fixes prettier formatting for go templates 🐹
 - [JohnWeisz/TypedJSON](https://github.com/JohnWeisz/TypedJSON) - Typed JSON parsing and serializing for TypeScript that preserves type information.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [gcanti/io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
@@ -5289,7 +5294,6 @@
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [wklken/vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
 - [LnL7/vim-nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix http://nixos.org/nix
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [pearofducks/ansible-vim](https://github.com/pearofducks/ansible-vim) - A vim plugin for syntax highlighting Ansible's common filetypes
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager

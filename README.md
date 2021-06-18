@@ -2175,7 +2175,7 @@
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 - [developit/express-es6-rest-api](https://github.com/developit/express-es6-rest-api) - :battery: Starter project for an ES6 RESTful Express API.
 - [brianschardt/node_rest_api_mysql](https://github.com/brianschardt/node_rest_api_mysql) - 
-- [szmarczak/http2-wrapper](https://github.com/szmarczak/http2-wrapper) - Use HTTP2 the same way like HTTP1
+- [szmarczak/http2-wrapper](https://github.com/szmarczak/http2-wrapper) - Use HTTP/2 the same way like HTTP/1
 - [uploadexpress/app](https://github.com/uploadexpress/app) - ⬆️ An open-source file sharing software built in React and Go
 - [vodkhard/vodeclic-fastpass](https://github.com/vodkhard/vodeclic-fastpass) - Chrome extension for speedup your vodeclic formation
 - [aws-samples/aws-reinvent-2019-trivia-game](https://github.com/aws-samples/aws-reinvent-2019-trivia-game) - Sample trivia game built with AWS Fargate. See https://www.reinvent-trivia.com
@@ -3524,7 +3524,7 @@
 - [andymccurdy/redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [Alfex4936/python-bigO-calculator](https://github.com/Alfex4936/python-bigO-calculator) - Python sorting functions time complexity calculator
 - [Fumaz/haveibeenfacebooked-api](https://github.com/Fumaz/haveibeenfacebooked-api) - 
-- [jina-ai/jina](https://github.com/jina-ai/jina) - An easier way to build neural search on the cloud
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for any kind of data
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -4242,7 +4242,7 @@
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
 - [tyrchen/rust-training](https://github.com/tyrchen/rust-training) - my rust training to the team.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [matthunz/typed-sql](https://github.com/matthunz/typed-sql) - 
 - [TaKO8Ki/frum](https://github.com/TaKO8Ki/frum) - A little bit fast and modern Ruby version manager written in Rust

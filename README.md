@@ -131,7 +131,6 @@
 - [causal-agent/tetrasm](https://github.com/causal-agent/tetrasm) - Tetris for x86 in NASM
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [blackbird71SR/Hello-World](https://github.com/blackbird71SR/Hello-World) - Hello World in all possible programmnig languages
-- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [pooler/cpuminer](https://github.com/pooler/cpuminer) - CPU miner for Litecoin and Bitcoin
 
 ## Awk 
@@ -446,6 +445,7 @@
 - [GrapheneOS/linux-hardened](https://github.com/GrapheneOS/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable history. Shared IRC channel with KSPP: irc.freenode.net ##linux-hardened. Currently maintained at https://github.com/anthraxx/linux-hardened.
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
+- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 - [vozlt/nginx-module-sysguard](https://github.com/vozlt/nginx-module-sysguard) - Nginx sysguard module
@@ -474,7 +474,7 @@
 - [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
-- [JFreegman/toxic](https://github.com/JFreegman/toxic) - A ncurses-based Tox messaging and video chat client
+- [JFreegman/toxic](https://github.com/JFreegman/toxic) - A Tox-based instant messaging and video chat client
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
@@ -789,7 +789,6 @@
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [JensPiegsa/docker-cheat-sheet](https://github.com/JensPiegsa/docker-cheat-sheet) - A collection of recipes for docker.
 - [odewahn/docker-jumpstart](https://github.com/odewahn/docker-jumpstart) - A quick introduction to Docker
-- [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Naereen/Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) - A :iphone: responsive theme for Nginx Fancyindex module :wrench:. Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form :mag_right:, aims to handle thousands of files without any problems :open_file_folder:
 - [db0company/paysdu42](https://github.com/db0company/paysdu42) - Le Pays du 42 vous apprend à programmer rapidement et sans détours
 - [xiaoluoboding/ghost-theme-kaldorei](https://github.com/xiaoluoboding/ghost-theme-kaldorei) - 🎨 A Simple And Elegant Ghost Theme Derive From Default Theme Casper
@@ -4448,6 +4447,7 @@
 - [TryGhost/Massively](https://github.com/TryGhost/Massively) - A free, open source theme for Ghost
 - [drone/docs](https://github.com/drone/docs) - Documentation for the Drone Continuous Integration project
 - [linuxfrorg/linuxfr.org](https://github.com/linuxfrorg/linuxfr.org) - The new version of LinuxFr.org will be in Ruby on Rails. It was NoNo's resolution for 2009 (well, achieved!). You may add other enhancements at http://linuxfr.org/suivi/ as you have a look at the  website
+- [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [dxprog/anime-bracket](https://github.com/dxprog/anime-bracket) - The code that runs animebracket.com
 - [tootsuite/documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
@@ -4876,6 +4876,7 @@
 
 ## Swift 
 
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [belozierov/SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS, macOS and Linux.
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
@@ -4966,6 +4967,7 @@
 
 ## TypeScript 
 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Serverless reverse proxy and load balancer library built for Cloudflare Workers.
 - [Xetera/simp.pics](https://github.com/Xetera/simp.pics) - A Kpop image aggregator
 - [South-Paw/action-netlify-deploy](https://github.com/South-Paw/action-netlify-deploy) - 🙌 Netlify deployments via GitHub actions
@@ -5228,7 +5230,7 @@
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
-- [vuejs/vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence

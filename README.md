@@ -1035,7 +1035,7 @@
 - [evalphobia/logrus_sentry](https://github.com/evalphobia/logrus_sentry) - sentry hook for logrus
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [jessevdk/go-flags](https://github.com/jessevdk/go-flags) - go command line option parser
-- [NithinChintala/amalloc](https://github.com/NithinChintala/amalloc) - 
+- [NithinChintala/amalloc](https://github.com/NithinChintala/amalloc) - Terminal based visualization of malloc
 - [sno6/gosane](https://github.com/sno6/gosane) - A sane and simple Go REST API template.
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team.
@@ -4276,7 +4276,7 @@
 - [containers/youki](https://github.com/containers/youki) - An experimental container runtime written in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [rambler-digital-solutions/actix-web-validator](https://github.com/rambler-digital-solutions/actix-web-validator) - Rust library for providing validation mechanism to actix-web with Validator crate.
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - 🔭🚢 Watches over your Cargo project's source.
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://christine.website
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
@@ -4350,7 +4350,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
 - [brauner/rlxc](https://github.com/brauner/rlxc) - LXC binary written in Rust
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [simao/spotify-backup](https://github.com/simao/spotify-backup) - 
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool

@@ -978,6 +978,8 @@
 
 ## Go 
 
+- [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft (Java-Version) server on different cloud provider.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [benjojo/sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
 - [minio/mint](https://github.com/minio/mint) - Collection of tests to detect overall correctness of MinIO server.
@@ -1600,6 +1602,7 @@
 ## HTML 
 
 - [tailwindtoolbox/Profile-Card](https://github.com/tailwindtoolbox/Profile-Card) - Tailwind CSS Starter Template - Profile Card (Single page website for your profile/links)
+- [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - A website to list all French speakers content creators talking about Technologies.
 - [internetarchive/sandcrawler](https://github.com/internetarchive/sandcrawler) - Backend, IA-specific tools for crawling and processing the scholarly web. Content ends up in https://fatcat.wiki
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices
@@ -1622,6 +1625,7 @@
 - [nanocurrency/nano-docs](https://github.com/nanocurrency/nano-docs) - Documentation for the Nano protocol
 - [Miaourt/niu-ending](https://github.com/Miaourt/niu-ending) - End of niu.moe - the credit animation
 - [devadvance/terminalcheatsheet](https://github.com/devadvance/terminalcheatsheet) - All the knowledge you need to get up and running on terminals across operating systems. If you are contributing to open issue on this repo, please ask to be assigned to the issue so people know you are working on it.
+- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [mpsq/arewewaylandyet](https://github.com/mpsq/arewewaylandyet) - Sources for https://arewewaylandyet.com
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
@@ -3321,7 +3325,7 @@
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [thedevsaddam/laravel-schema](https://github.com/thedevsaddam/laravel-schema) - Display the connected database information from Terminal.
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds static analysis to Laravel improving developer productivity and code quality
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds static analysis to Laravel improving developer productivity and code quality.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [furey/tinx](https://github.com/furey/tinx) - ⛔️ Laravel Tinx is archived and no longer maintained.
@@ -4443,13 +4447,11 @@
 
 ## SCSS 
 
-- [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - A website to list all French speakers content creators talking about Technologies.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 - [getzola/book](https://github.com/getzola/book) - Gitbook theme for Zola
 - [getzola/after-dark](https://github.com/getzola/after-dark) - A dark theme for Zola
 - [mrprofessor/rudra.dev](https://github.com/mrprofessor/rudra.dev) - Personal ramblings.
-- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [bennettfeely/bennett](https://github.com/bennettfeely/bennett) - My portfolio at https://bennettfeely.com
@@ -4984,6 +4986,7 @@
 
 ## TypeScript 
 
+- [vechai/vechaiui](https://github.com/vechai/vechaiui) - Collection of accessible React UI components with the built-in dark theme using TailwindCSS. Pre-designed headless ui and radix-ui.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Serverless reverse proxy and load balancer library built for Cloudflare Workers.
 - [Xetera/simp.pics](https://github.com/Xetera/simp.pics) - Kpop image aggregator

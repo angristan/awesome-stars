@@ -439,7 +439,7 @@
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [fhanau/Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool) - Fast and effective C++ file optimizer
 - [lmatteis/torrent-net](https://github.com/lmatteis/torrent-net) - Distributed search engines using BitTorrent and SQLite
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
 - [akhilnarang/device_oneplus_oneplus3](https://github.com/akhilnarang/device_oneplus_oneplus3) - OnePlus3/3T device tree for Oreo - May be force pushed anytime!
 - [cloudflare/cloudflare-blog](https://github.com/cloudflare/cloudflare-blog) - Cloudflare Blog code samples
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
@@ -978,8 +978,9 @@
 
 ## Go 
 
+- [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft (Java-Version) server on different cloud provider.
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft (java or bedrock) server on different cloud provider.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [benjojo/sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
 - [minio/mint](https://github.com/minio/mint) - Collection of tests to detect overall correctness of MinIO server.
@@ -1224,7 +1225,7 @@
 - [vultr/govultr](https://github.com/vultr/govultr) - Vultr Go API client
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉
 - [bojand/ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
@@ -1960,7 +1961,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2137,7 +2138,7 @@
 - [kingRayhan/ghost-finder](https://github.com/kingRayhan/ghost-finder) - The most advanced ghost search plugin
 - [mlbrgl/ghost-algolia](https://github.com/mlbrgl/ghost-algolia) - Provides integration between Ghost (CMS) and Algolia (Search as a Service)
 - [HauntedThemes/ghost-search](https://github.com/HauntedThemes/ghost-search) - A simple but powerful search library for Ghost Blogging Platform.
-- [jamalneufeld/ghostHunter](https://github.com/jamalneufeld/ghostHunter) - A Ghost blog search engine
+- [jamwise/ghostHunter](https://github.com/jamwise/ghostHunter) - A Ghost blog search engine
 - [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [greyli/bootstrap-flask](https://github.com/greyli/bootstrap-flask) - Bootstrap 4 helper for Flask/Jinja2.
 - [xiaodoudou/PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) - This app simulate a DVR device for Plex by providing a layer to any IPTV provider (that provide a m3u8 playlist)
@@ -4256,6 +4257,7 @@
 
 ## Rust 
 
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [Qovery/scaleway-api-rs](https://github.com/Qovery/scaleway-api-rs) - Rust lib for Scaleway API
@@ -4895,6 +4897,7 @@
 
 ## Swift 
 
+- [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [belozierov/SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS, macOS and Linux.
@@ -4986,7 +4989,8 @@
 
 ## TypeScript 
 
-- [vechai/vechaiui](https://github.com/vechai/vechaiui) - Collection of accessible React UI components with the built-in dark theme using TailwindCSS. Pre-designed headless ui and radix-ui.
+- [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
+- [vechai/vechaiui](https://github.com/vechai/vechaiui) - Collection of accessible React UI components with the built-in dark theme using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Serverless reverse proxy and load balancer library built for Cloudflare Workers.
 - [Xetera/simp.pics](https://github.com/Xetera/simp.pics) - Kpop image aggregator
@@ -5016,7 +5020,7 @@
 - [skunight/nestjs-redis](https://github.com/skunight/nestjs-redis) - nestjs redis module
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [microsoft/typed-rest-client](https://github.com/microsoft/typed-rest-client) - Node Rest and Http Clients with typings for use with TypeScript
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - A nestjs module that provide a cli to your application.

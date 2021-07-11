@@ -391,6 +391,7 @@
 - [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [softwareengineer1/YourFriendlyDNS](https://github.com/softwareengineer1/YourFriendlyDNS) - A really awesome multi-platform (lin,win,mac,android) local caching and proxying dns server!
 - [bcrypt-ruby/bcrypt-ruby](https://github.com/bcrypt-ruby/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer 🎧
 - [dimkr/nss-tls](https://github.com/dimkr/nss-tls) - A DNS over HTTPS resolver for glibc
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
@@ -657,7 +658,6 @@
 - [0xcafed00d/tracetcp](https://github.com/0xcafed00d/tracetcp) - tracetcp. Traceroute utility that uses tcp syn packets to trace network routes.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [jasperla/openbsd-wip](https://github.com/jasperla/openbsd-wip) - OpenBSD work in progress ports
-- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer 🎧
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
 - [gosu/gosu](https://github.com/gosu/gosu) - 2D game development library for Ruby and C++
 - [bilelmoussaoui/sni-qt](https://github.com/bilelmoussaoui/sni-qt) - Patched version of sni-qt
@@ -978,6 +978,7 @@
 
 ## Go 
 
+- [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft (java or bedrock) server on different cloud provider.
@@ -1141,7 +1142,7 @@
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example application written in Go.
 - [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
@@ -1603,6 +1604,7 @@
 ## HTML 
 
 - [tailwindtoolbox/Profile-Card](https://github.com/tailwindtoolbox/Profile-Card) - Tailwind CSS Starter Template - Profile Card (Single page website for your profile/links)
+- [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - A website to list all French speakers content creators talking about Technologies.
 - [internetarchive/sandcrawler](https://github.com/internetarchive/sandcrawler) - Backend, IA-specific tools for crawling and processing the scholarly web. Content ends up in https://fatcat.wiki
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices
@@ -1757,6 +1759,7 @@
 
 ## Haskell 
 
+- [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [input-output-hk/cardano-node](https://github.com/input-output-hk/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
 - [honest-technology/api.unverified.email](https://github.com/honest-technology/api.unverified.email) - A service to help with testing of sending the right emails
 - [Xetera/placewaifu](https://github.com/Xetera/placewaifu) - 🎀 An incredibly cute placeholder service
@@ -2899,8 +2902,10 @@
 
 ## Others 
 
+- [mattm/sql-style-guide](https://github.com/mattm/sql-style-guide) - An opinionated guide for writing clean, maintainable SQL.
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
 - [bibinwilson/kubernetes-prometheus](https://github.com/bibinwilson/kubernetes-prometheus) - Configuration files for setting up prometheus monitoring on Kubernetes cluster.
-- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - List of most active GitHub users based on public, private contributions and number of followers by country. Don't forget to star ⭐ this repository.
+- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Get the list of most active GitHub users based on public, private contributions and number of followers by country. Don't forget to star ⭐ this repository.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
@@ -3540,6 +3545,7 @@
 
 ## Python 
 
+- [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [snobear/ec2-retirement-bulk-fix](https://github.com/snobear/ec2-retirement-bulk-fix) - A tool that lists EC2 instances scheduled for retirement and optionally stop/start all in bulk
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
 - [gitless-vcs/gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
@@ -4053,6 +4059,7 @@
 
 ## Reason 
 
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
 ## Rich Text Format 
@@ -4259,8 +4266,9 @@
 
 ## Rust 
 
+- [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
-- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [Qovery/scaleway-api-rs](https://github.com/Qovery/scaleway-api-rs) - Rust lib for Scaleway API
@@ -4297,7 +4305,7 @@
 - [tailhook/self-meter](https://github.com/tailhook/self-meter) - A tiny library to measure resource usage of the process it's used in
 - [hpjansson/fornalder](https://github.com/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
-- [containers/youki](https://github.com/containers/youki) - An experimental container runtime written in Rust
+- [containers/youki](https://github.com/containers/youki) - Container runtime written in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [rambler-digital-solutions/actix-web-validator](https://github.com/rambler-digital-solutions/actix-web-validator) - Rust library for providing validation mechanism to actix-web with Validator crate.
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
@@ -4452,7 +4460,6 @@
 
 ## SCSS 
 
-- [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - A website to list all French speakers content creators talking about Technologies.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 - [getzola/book](https://github.com/getzola/book) - Gitbook theme for Zola

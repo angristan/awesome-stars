@@ -978,6 +978,7 @@
 
 ## Go 
 
+- [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
@@ -1334,7 +1335,7 @@
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [tootsuite/gamo](https://github.com/tootsuite/gamo) - An image proxy and optimization server
+- [mastodon/gamo](https://github.com/mastodon/gamo) - An image proxy and optimization server
 - [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
@@ -1604,7 +1605,7 @@
 ## HTML 
 
 - [tailwindtoolbox/Profile-Card](https://github.com/tailwindtoolbox/Profile-Card) - Tailwind CSS Starter Template - Profile Card (Single page website for your profile/links)
-- [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - A website to list all French speakers content creators talking about Technologies.
+- [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
 - [internetarchive/sandcrawler](https://github.com/internetarchive/sandcrawler) - Backend, IA-specific tools for crawling and processing the scholarly web. Content ends up in https://fatcat.wiki
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices
@@ -2531,7 +2532,7 @@
 - [kewitz/dat-medium](https://github.com/kewitz/dat-medium) - P2P Markdown Blog for Beaker inspired by Medium.
 - [EtherbitHQ/donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [tootsuite/joinmastodon](https://github.com/tootsuite/joinmastodon) - Moved to https://source.joinmastodon.org/mastodon/joinmastodon
+- [mastodon/joinmastodon](https://github.com/mastodon/joinmastodon) - Moved to https://source.joinmastodon.org/mastodon/joinmastodon
 - [Multibit-Legacy/read-multibit-wallet-file](https://github.com/Multibit-Legacy/read-multibit-wallet-file) - A simple command line tool that exports the private Keys from a Multibit wallet file. The reason this tool exists is because Multibit is out of date and has known bugs. Exporting the private keys or wallet words from Multibit and importing them into another wallet may be the only effective way to access your funds.
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
@@ -4251,9 +4252,9 @@
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails 6.
 - [pixiv/mastodon](https://github.com/pixiv/mastodon) - A GNU Social-compatible microblogging server
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for concurrency
-- [tootsuite/mastodon-api](https://github.com/tootsuite/mastodon-api) - A ruby interface for the Mastodon API
-- [tootsuite/mastodon-bridge](https://github.com/tootsuite/mastodon-bridge) - Moved to https://source.joinmastodon.org/mastodon/bridge
-- [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [mastodon/mastodon-api](https://github.com/mastodon/mastodon-api) - A ruby interface for the Mastodon API
+- [mastodon/mastodon-bridge](https://github.com/mastodon/mastodon-bridge) - Moved to https://source.joinmastodon.org/mastodon/bridge
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [marienfressinaud/taglibro](https://github.com/marienfressinaud/taglibro) - Un réseau social… anonyme.
 - [mispy/twitter_ebooks](https://github.com/mispy/twitter_ebooks) - Better twitterbots for all your friends~
@@ -4396,7 +4397,7 @@
 - [Shopify/shadowenv](https://github.com/Shopify/shadowenv) - reversible directory-local environment variable manipulations
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [tootsuite/flodgatt](https://github.com/tootsuite/flodgatt) - A blazingly fast drop-in replacement for the Mastodon streaming API server
+- [mastodon/flodgatt](https://github.com/mastodon/flodgatt) - A blazingly fast drop-in replacement for the Mastodon streaming API server
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [symphorien/nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
@@ -4481,7 +4482,7 @@
 - [linuxfrorg/linuxfr.org](https://github.com/linuxfrorg/linuxfr.org) - The new version of LinuxFr.org will be in Ruby on Rails. It was NoNo's resolution for 2009 (well, achieved!). You may add other enhancements at http://linuxfr.org/suivi/ as you have a look at the  website
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [dxprog/anime-bracket](https://github.com/dxprog/anime-bracket) - The code that runs animebracket.com
-- [tootsuite/documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
+- [mastodon/documentation](https://github.com/mastodon/documentation) - Full documentation repository for Mastodon
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [zutrinken/bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 
@@ -4908,6 +4909,8 @@
 
 ## Swift 
 
+- [thislooksfun/SwiftlySearch](https://github.com/thislooksfun/SwiftlySearch) - A small, lightweight UISearchController wrapper for SwiftUI
+- [BLCKBIRDS/Search-Bar-in-SwiftUI](https://github.com/BLCKBIRDS/Search-Bar-in-SwiftUI) - Search Bar built with SwiftUI. Tutorial: https://blckbirds.com/post/how-to-create-a-search-bar-with-swiftui/
 - [siteline/SwiftUIRefresh](https://github.com/siteline/SwiftUIRefresh) - Pull To Refresh for SwiftUI lists
 - [scenee/FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.

@@ -1145,7 +1145,7 @@
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example application written in Go.
 - [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
@@ -4912,6 +4912,9 @@
 
 ## Swift 
 
+- [alfa-laboratory/YARCH](https://github.com/alfa-laboratory/YARCH) - YARCH iOS Architecture
+- [maustinstar/swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [thislooksfun/SwiftlySearch](https://github.com/thislooksfun/SwiftlySearch) - A small, lightweight UISearchController wrapper for SwiftUI
 - [BLCKBIRDS/Search-Bar-in-SwiftUI](https://github.com/BLCKBIRDS/Search-Bar-in-SwiftUI) - Search Bar built with SwiftUI. Tutorial: https://blckbirds.com/post/how-to-create-a-search-bar-with-swiftui/
 - [siteline/SwiftUIRefresh](https://github.com/siteline/SwiftUIRefresh) - Pull To Refresh for SwiftUI lists
@@ -5118,7 +5121,7 @@
 - [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminBro is an admin panel for apps written in node.js
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [woowa-techcamp-2020/woowahan-chart](https://github.com/woowa-techcamp-2020/woowahan-chart) - A simple HTML chart generator leveraging the power of CSS and DOM API combined with the TypeScript
+- [woowa-techcamp-2020/woowahan-chart](https://github.com/woowa-techcamp-2020/woowahan-chart) - A simple HTML chart generator leveraging the power of CSS and DOM
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [soundhive/api](https://github.com/soundhive/api) - Soundhive's API, powered by NestJS
 - [soundhive/front](https://github.com/soundhive/front) - Soundhive's front-end, powered by Angular

@@ -915,7 +915,6 @@
 - [Poludo/docker-plex-remote-transcoder](https://github.com/Poludo/docker-plex-remote-transcoder) - Plex Media Server + Transcoder that can be deployed on remote nodes
 - [silvio/matrix-riot-docker](https://github.com/silvio/matrix-riot-docker) - riot.im webclient in a container
 - [AVENTER-UG/docker-matrix-riot](https://github.com/AVENTER-UG/docker-matrix-riot) - riot.im webclient in a container
-- [pedrocesar-ti/internet-speedtest-docker](https://github.com/pedrocesar-ti/internet-speedtest-docker) - Internet testing running on Docker Compose.
 - [0xcaff/docker-koel](https://github.com/0xcaff/docker-koel) - A minimal docker image for the koel music streaming server.
 - [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc) - Carefully crafted Alpine Docker image with glibc (~12MB)
 - [osminogin/docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
@@ -4270,6 +4269,7 @@
 
 ## Rust 
 
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
@@ -4725,6 +4725,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [zricethezav/gitleaks-ci](https://github.com/zricethezav/gitleaks-ci) - gitleaks, but for PRs
+- [pedrocesar-ti/internet-speedtest-docker](https://github.com/pedrocesar-ti/internet-speedtest-docker) - Internet testing running on Docker Compose.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [bohoomil/fontconfig-ultimate](https://github.com/bohoomil/fontconfig-ultimate) - freetype2-infinality run-time settings =&gt; infinality compatible fontconfig =&gt; infinality-bundle
 - [achaphiv/ppa-fonts](https://github.com/achaphiv/ppa-fonts) - 
@@ -4912,6 +4913,7 @@
 
 ## Swift 
 
+- [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [alfa-laboratory/YARCH](https://github.com/alfa-laboratory/YARCH) - YARCH iOS Architecture
 - [maustinstar/swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar

@@ -4913,6 +4913,7 @@
 
 ## Swift 
 
+- [jellyfin/SwiftFin](https://github.com/jellyfin/SwiftFin) - Native Jellyfin Client for iOS and tvOS
 - [Daltron/NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS
 - [jboullianne/SwiftUIBanner](https://github.com/jboullianne/SwiftUIBanner) - SwiftUIBanner
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.

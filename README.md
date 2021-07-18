@@ -4913,6 +4913,8 @@
 
 ## Swift 
 
+- [bcylin/QuickTableViewController](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings in Swift.
+- [angelolloqui/SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - A tool to convert Swift code to Kotlin.
 - [jellyfin/SwiftFin](https://github.com/jellyfin/SwiftFin) - Native Jellyfin Client for iOS and tvOS
 - [Daltron/NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS
 - [jboullianne/SwiftUIBanner](https://github.com/jboullianne/SwiftUIBanner) - SwiftUIBanner

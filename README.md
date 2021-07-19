@@ -2187,7 +2187,7 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [clearlinux/clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
@@ -4506,6 +4506,7 @@
 
 ## Shell 
 
+- [fullstaq-labs/fullstaq-ruby-server-edition](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition) - A server-optimized Ruby distribution: less memory, faster, easy to install and security-patch via APT/YUM
 - [matthprost/s3-deploy-bucket-website-action](https://github.com/matthprost/s3-deploy-bucket-website-action) - Easily deploy any static website on your S3 bucket.
 - [asdf-vm/asdf-ruby](https://github.com/asdf-vm/asdf-ruby) - Ruby plugin for asdf version manager
 - [danhper/asdf-python](https://github.com/danhper/asdf-python) - 
@@ -4913,6 +4914,10 @@
 
 ## Swift 
 
+- [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
+- [nerdsupremacist/FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - A SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header)
+- [maustinstar/liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI.
+- [Pomanks/stretchy-header-to-navigation-bar](https://github.com/Pomanks/stretchy-header-to-navigation-bar) - A reproduction of the header view transition occurring in both Music/TV app on iOS and iPad OS
 - [bcylin/QuickTableViewController](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings in Swift.
 - [angelolloqui/SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - A tool to convert Swift code to Kotlin.
 - [jellyfin/SwiftFin](https://github.com/jellyfin/SwiftFin) - Native Jellyfin Client for iOS and tvOS
@@ -5019,7 +5024,7 @@
 ## TypeScript 
 
 - [PabioHQ/dependabot-pr-action](https://github.com/PabioHQ/dependabot-pr-action) - 📦 Label, approve, and merge Dependabot pull requests automatically
-- [mrbbot/miniflare](https://github.com/mrbbot/miniflare) - 🔥 Fully-local Cloudflare Workers Simulator
+- [mrbbot/miniflare](https://github.com/mrbbot/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.

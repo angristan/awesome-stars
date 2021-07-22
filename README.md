@@ -1900,6 +1900,7 @@
 
 ## JavaScript 
 
+- [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome React component
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
 - [hmanzur/actions-set-secret](https://github.com/hmanzur/actions-set-secret) - Create or update secrets in github repository
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
@@ -1968,6 +1969,7 @@
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
 - [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
 - [Azure/webapps-deploy](https://github.com/Azure/webapps-deploy) - Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
@@ -2740,6 +2742,7 @@
 - [tipsy/javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [JetBrains/swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
@@ -2904,6 +2907,7 @@
 
 ## Others 
 
+- [graphcdn/future-founder-promise](https://github.com/graphcdn/future-founder-promise) - A list of startups that offer the Future Founder Promise to their employees
 - [mattm/sql-style-guide](https://github.com/mattm/sql-style-guide) - An opinionated guide for writing clean, maintainable SQL.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
 - [bibinwilson/kubernetes-prometheus](https://github.com/bibinwilson/kubernetes-prometheus) - Configuration files for setting up prometheus monitoring on Kubernetes cluster.
@@ -3055,7 +3059,6 @@
 - [nid666/PiracyArchive](https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit r/Piracy sub
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Zhuinden/guide-to-kotlin](https://github.com/Zhuinden/guide-to-kotlin) - [GUIDE] This tutorial assumes all you know is Java, but you want to learn Kotlin.
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [WHMCS/developer-docs](https://github.com/WHMCS/developer-docs) - Developer documentation portal content
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
@@ -3261,7 +3264,6 @@
 - [westonruter/syntax-highlighting-code-block](https://github.com/westonruter/syntax-highlighting-code-block) - Extending the WordPress Code block with syntax highlighting rendered on the server, thus having faster frontend performance and being AMP-compatible.
 - [spatie/fork](https://github.com/spatie/fork) - A lightweight solution for running code concurrently in PHP
 - [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - 🚀 A Next Generation Private Torrent Tracker (Community Edition)
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [Magicalex/rtorrent-cleaner](https://github.com/Magicalex/rtorrent-cleaner) - 🧹 rtorrent-cleaner is a tool to clean up unnecessary files in rtorrent
 - [rhubarbgroup/redis-cache](https://github.com/rhubarbgroup/redis-cache) - A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Credis, HHVM, replication and clustering.
 - [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3

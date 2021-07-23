@@ -977,6 +977,10 @@
 
 ## Go 
 
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [golangci/awesome-go-linters](https://github.com/golangci/awesome-go-linters) - A curated list of awesome Go linters. More than 60 linters and tools!
+- [fzipp/gocyclo](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
+- [alecthomas/gocyclo](https://github.com/alecthomas/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [maruel/panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
 - [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
@@ -1900,6 +1904,7 @@
 
 ## JavaScript 
 
+- [donavon/use-dark-mode](https://github.com/donavon/use-dark-mode) - A custom React Hook to help you implement a "dark mode" component.
 - [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome React component
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
 - [hmanzur/actions-set-secret](https://github.com/hmanzur/actions-set-secret) - Create or update secrets in github repository
@@ -2907,6 +2912,7 @@
 
 ## Others 
 
+- [iOS-Goodies/iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies) - Your favorite iOS Newsletter, now open source.
 - [graphcdn/future-founder-promise](https://github.com/graphcdn/future-founder-promise) - A list of startups that offer the Future Founder Promise to their employees
 - [mattm/sql-style-guide](https://github.com/mattm/sql-style-guide) - An opinionated guide for writing clean, maintainable SQL.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
@@ -3040,6 +3046,7 @@
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [motherboardgithub/bxaq](https://github.com/motherboardgithub/bxaq) - 
 - [Haeresis/vanilla-js-dom](https://github.com/Haeresis/vanilla-js-dom) - Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [Netflix/security-bulletins](https://github.com/Netflix/security-bulletins) - Security Bulletins that relate to Netflix Open Source
 - [vazhnov/smokeping_nginx](https://github.com/vazhnov/smokeping_nginx) - Smokeping with Nginx — configuration examples
 - [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
@@ -3756,7 +3763,6 @@
 - [danielhoherd/plexdl](https://github.com/danielhoherd/plexdl) - A plex direct downloader. The whole point is to get media that has not been modified.
 - [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [bclindner/ivory](https://github.com/bclindner/ivory) - A Mastodon automoderator.
 - [notro/rpi-source](https://github.com/notro/rpi-source) - Development has moved to https://github.com/RPi-Distro/rpi-source
@@ -4076,6 +4082,7 @@
 
 ## Ruby 
 
+- [ruby/TryRuby](https://github.com/ruby/TryRuby) - This 4th iteration of TryRuby is a website where you can learn the Ruby language.
 - [stevenolen/mailgun-smtp-server](https://github.com/stevenolen/mailgun-smtp-server) - SMTP -&gt; me -&gt; mailgun http api
 - [yukiarrr/ios-build-action](https://github.com/yukiarrr/ios-build-action) - Build iOS project (.xcodeproj, .xcworkspace), and export ipa
 - [hostolab/covidliste](https://github.com/hostolab/covidliste) - Speed-up Covid-19 vaccination campaigns 💉
@@ -4270,6 +4277,8 @@
 
 ## Rust 
 
+- [dashed/rebalance-app](https://github.com/dashed/rebalance-app) - 💸 Optimal lazy portfolio rebalancing calculator (in Rust)
+- [Xetera/jiu](https://github.com/Xetera/jiu) - 🕵️ Detect new images and video on social media feeds and dispatch webhooks on updates
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
@@ -4612,7 +4621,7 @@
 - [GoogleCloudPlatform/compute-archlinux-image-builder](https://github.com/GoogleCloudPlatform/compute-archlinux-image-builder) - A tool to build a Arch Linux Image for GCE
 - [kriansa/ansible-bundler](https://github.com/kriansa/ansible-bundler) - Turn Ansible playbooks into executable files
 - [possatti/pokemonsay](https://github.com/possatti/pokemonsay) - "pokemonsay" is like "cowsay" but for pokémon.
-- [ThomasJockin/lexend](https://github.com/ThomasJockin/lexend) - Lexend is a variable font empirically shown to significantly improve reading-proficiency.
+- [ThomasJockin/readexpro](https://github.com/ThomasJockin/readexpro) - Readex Pro is the world-script expansion of Lexend. Lexend is a variable font empirically shown to significantly improve reading-proficiency.
 - [lilyball/nix-env.fish](https://github.com/lilyball/nix-env.fish) - Nix environment setup for the fish shell
 - [vincenthsu/systemd-ngrok](https://github.com/vincenthsu/systemd-ngrok) - Automatically start ngrok by systemd
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
@@ -4671,7 +4680,7 @@
 - [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
 - [docker-library/elasticsearch](https://github.com/docker-library/elasticsearch) - https://github.com/docker-library/official-images/pull/4916
 - [ArchiveTeam/warrior-code](https://github.com/ArchiveTeam/warrior-code) - 
-- [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
+- [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [rak8s/rak8s](https://github.com/rak8s/rak8s) - Stand up a Raspberry Pi based Kubernetes cluster with Ansible
 - [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 - [cytopia/mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - [sh] Encrypted mysqldump script with compression, logging, blacklisting and Nagios/Icinga monitoring integration
@@ -4915,6 +4924,9 @@
 
 ## Swift 
 
+- [superpeteblaze/ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift
+- [AppTelemetry/SwiftClient](https://github.com/AppTelemetry/SwiftClient) - This is the Swift Client for Telemetry, a privacy-conscious analytics service for apps and websites.
+- [appcoda/SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - A search bar built entirely in SwiftUI
 - [Haneke/HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
 - [marcosgriselli/ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line
@@ -5029,6 +5041,7 @@
 
 ## TypeScript 
 
+- [jhaemin/game-of-life-3d](https://github.com/jhaemin/game-of-life-3d) - An experimental all-in-one project for learning frontend technologies.
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | Installation: https://msdl.librescore.org/install.user.js
 - [PabioHQ/dependabot-pr-action](https://github.com/PabioHQ/dependabot-pr-action) - 📦 Label, approve, and merge Dependabot pull requests automatically
 - [mrbbot/miniflare](https://github.com/mrbbot/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers

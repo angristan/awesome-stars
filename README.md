@@ -1972,7 +1972,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
-- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -4924,6 +4924,7 @@
 
 ## Swift 
 
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
 - [superpeteblaze/ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift
 - [AppTelemetry/SwiftClient](https://github.com/AppTelemetry/SwiftClient) - This is the Swift Client for Telemetry, a privacy-conscious analytics service for apps and websites.
 - [appcoda/SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - A search bar built entirely in SwiftUI
@@ -5444,7 +5445,7 @@
 ## Vue 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
 - [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.

@@ -977,6 +977,9 @@
 
 ## Go 
 
+- [go-python/gpython](https://github.com/go-python/gpython) - gpython is a python interpreter written in go "batteries not included"
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [golangci/awesome-go-linters](https://github.com/golangci/awesome-go-linters) - A curated list of awesome Go linters. More than 60 linters and tools!
 - [fzipp/gocyclo](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
@@ -1123,7 +1126,7 @@
 - [grpc-ecosystem/go-grpc-prometheus](https://github.com/grpc-ecosystem/go-grpc-prometheus) - Prometheus monitoring for your gRPC Go servers.
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
-- [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
+- [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) - 🌀 A template for creating new Golang + Docker + Canonical Domain + Badges + Dependabot + Renovate + GolangCI-lint + Goreleaser + GitHub Actions + Gitpod + Depaware + Git Hooks + ...
 - [jhchabran/gistfs](https://github.com/jhchabran/gistfs) - A Go io/fs filesystem implementation for reading files in Github gists.
 - [genkami/kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
@@ -2063,7 +2066,7 @@
 - [Wandmalfarbe/evangelion-clock-screensaver](https://github.com/Wandmalfarbe/evangelion-clock-screensaver) - A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion.
 - [everestpipkin/image-scrubber](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests
 - [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
-- [benmosher/eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+- [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [iamturns/eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support
 - [yusukesaitoh/calm-twitter](https://github.com/yusukesaitoh/calm-twitter) - This extension hides trending information from twitter timelines to make your mind calm.
 - [nospaceships/node-net-ping](https://github.com/nospaceships/node-net-ping) - Ping and trace route to many hosts at once.
@@ -3556,6 +3559,7 @@
 
 ## Python 
 
+- [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [snobear/ec2-retirement-bulk-fix](https://github.com/snobear/ec2-retirement-bulk-fix) - A tool that lists EC2 instances scheduled for retirement and optionally stop/start all in bulk
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
@@ -4319,7 +4323,7 @@
 - [tailhook/self-meter](https://github.com/tailhook/self-meter) - A tiny library to measure resource usage of the process it's used in
 - [hpjansson/fornalder](https://github.com/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
-- [containers/youki](https://github.com/containers/youki) - Container runtime written in Rust
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [rambler-digital-solutions/actix-web-validator](https://github.com/rambler-digital-solutions/actix-web-validator) - Rust library for providing validation mechanism to actix-web with Validator crate.
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
@@ -4924,6 +4928,7 @@
 
 ## Swift 
 
+- [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
 - [superpeteblaze/ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift
 - [AppTelemetry/SwiftClient](https://github.com/AppTelemetry/SwiftClient) - This is the Swift Client for Telemetry, a privacy-conscious analytics service for apps and websites.

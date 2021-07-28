@@ -1662,7 +1662,7 @@
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [skullface/girlgroupsdotnet](https://github.com/skullface/girlgroupsdotnet) - 📲 Mobile wallpapers of 🚺K-pop idols.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [njh/google-ipv6](https://github.com/njh/google-ipv6) - Per-country ranking table based on data from Google IPv6 Statistics page
 - [AwsGeek/aws-history](https://github.com/AwsGeek/aws-history) - 
@@ -1907,6 +1907,7 @@
 
 ## JavaScript 
 
+- [Apple-Music-Electron/Apple-Music-Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron) - A free, lightweight, open source alternative to iTunes and other Apple Music applications based on Electron 13.1.0
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [donavon/use-dark-mode](https://github.com/donavon/use-dark-mode) - A custom React Hook to help you implement a "dark mode" component.
 - [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome React component
@@ -1976,7 +1977,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -2005,7 +2006,7 @@
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
-- [thomaswang/gatsby-plugin-feed-mdx](https://github.com/thomaswang/gatsby-plugin-feed-mdx) - RSS feed plugin with MDX!
+- [ThomasWang/gatsby-plugin-feed-mdx](https://github.com/ThomasWang/gatsby-plugin-feed-mdx) - RSS feed plugin with MDX!
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [lannonbr/vscode-issue-tracker](https://github.com/lannonbr/vscode-issue-tracker) - A webapp to visualize the issue count of Microsoft/vscode
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
@@ -3139,7 +3140,7 @@
 - [hobby-kube/manifests](https://github.com/hobby-kube/manifests) - Kubernetes example manifests.
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 - [pires/kubernetes-elasticsearch-cluster](https://github.com/pires/kubernetes-elasticsearch-cluster) - Elasticsearch cluster on top of Kubernetes made easy.
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, & resources for Fish. 🐚
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [buildkite/example-pipelines](https://github.com/buildkite/example-pipelines) - A list of all the example Buildkite pipelines for various tools, languages and frameworks
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
@@ -4930,6 +4931,9 @@
 
 ## Swift 
 
+- [malkouz/ListPlaceholder](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.
+- [vineetchoudhary/Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) - Download Xcode, WWDC Videos, and other developer tools up to 16 times faster.
+- [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
 - [EthanLipnik/Blobmorphism](https://github.com/EthanLipnik/Blobmorphism) - Blobmorphism is a brand new design language I've created to break free of the material overload in iOS, built in SwiftUI. Everything feels smooth and fluid.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
@@ -5050,6 +5054,8 @@
 
 ## TypeScript 
 
+- [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
+- [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
 - [jhaemin/game-of-life-3d](https://github.com/jhaemin/game-of-life-3d) - An experimental all-in-one project for learning frontend technologies.

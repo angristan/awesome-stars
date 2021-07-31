@@ -1075,7 +1075,7 @@
 - [Hugoch/s3-consistency](https://github.com/Hugoch/s3-consistency) - S3 object storage consistency benchmark
 - [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-- [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - 
+- [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - The Evolution of a Go Programmer
 - [billziss-gh/hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) - 
@@ -1614,6 +1614,7 @@
 
 ## HTML 
 
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [tailwindtoolbox/Profile-Card](https://github.com/tailwindtoolbox/Profile-Card) - Tailwind CSS Starter Template - Profile Card (Single page website for your profile/links)
 - [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
 - [internetarchive/sandcrawler](https://github.com/internetarchive/sandcrawler) - Backend, IA-specific tools for crawling and processing the scholarly web. Content ends up in https://fatcat.wiki
@@ -1810,7 +1811,6 @@
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
 - [androidx/constraintlayout](https://github.com/androidx/constraintlayout) - ConstraintLayout is an Android layout component which allows you to position and size widgets in a flexible way
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [remkop/picocli](https://github.com/remkop/picocli) - Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.
 - [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime) - IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Goland, Rider, & WebStorm plugin for quantifying your coding.
@@ -2516,7 +2516,7 @@
 - [zachflower/hyper-confirm](https://github.com/zachflower/hyper-confirm) - :no_entry: Plugin to show a confirmation dialog before quitting Hyper
 - [Hyperline/hyperline](https://github.com/Hyperline/hyperline) - ✨ Status line plugin for Hyper ✨
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
-- [seejohnrun/haste-server](https://github.com/seejohnrun/haste-server) - open source pastebin written in node.js
+- [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
 - [chabou/hyper-pane](https://github.com/chabou/hyper-pane) - Extension for Hyper.app to enhance pane navigation.
@@ -2746,6 +2746,7 @@
 - [cbeust/klaxon](https://github.com/cbeust/klaxon) - A JSON parser for Kotlin
 - [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
 - [ThomasEcalle/cours_android](https://github.com/ThomasEcalle/cours_android) - Vous trouverez ici tous les bouts de code que l'on fait en cours. Attention à sélectionner la bonne branche !
+- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [Kondenko/pocketwaka](https://github.com/Kondenko/pocketwaka) - WakaTime client written in Kotlin
 - [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
 - [lisu188/spotify-web-api-demo](https://github.com/lisu188/spotify-web-api-demo) - generate yearly top tracks playlists from last.fm
@@ -4187,7 +4188,7 @@
 - [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) - 
 - [dotless-de/vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - A Vagrant plugin to keep your VirtualBox Guest Additions up to date
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
-- [seejohnrun/haste-client](https://github.com/seejohnrun/haste-client) - CLI client for haste-server
+- [toptal/haste-client](https://github.com/toptal/haste-client) - CLI client for haste-server
 - [elastic/elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
 - [ansible/ansible-for-rubyists](https://github.com/ansible/ansible-for-rubyists) - Ansible is written in Python, but you can write modules in any language.  Here are some Ruby examples to get you started.
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -4294,7 +4295,6 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
-- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [Qovery/scaleway-api-rs](https://github.com/Qovery/scaleway-api-rs) - Rust lib for Scaleway API

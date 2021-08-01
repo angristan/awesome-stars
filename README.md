@@ -174,6 +174,7 @@
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [kdrag0n/touchpaint](https://github.com/kdrag0n/touchpaint) - An experimental Linux kernel module that demonstrates the lowest possible input latency on modern smartphones. Not for Android or production use.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [iciamyplant/Cub3d-Linux](https://github.com/iciamyplant/Cub3d-Linux) - This is my final 42's project Cub3d
 - [kerneis/hekate](https://github.com/kerneis/hekate) - Hekate, a highly-concurrent BitTorrent seeder
 - [AndersTrier/NAT-TCP-test](https://github.com/AndersTrier/NAT-TCP-test) - 
@@ -977,6 +978,9 @@
 
 ## Go 
 
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Golang fediverse server.
+- [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
+- [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [o1egl/paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang)
 - [qnkhuat/tstream](https://github.com/qnkhuat/tstream) - Live streaming from your terminal
 - [go-python/gpython](https://github.com/go-python/gpython) - gpython is a python interpreter written in go "batteries not included"
@@ -1146,7 +1150,6 @@
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [asvvvad1/exchange](https://github.com/asvvvad1/exchange) - Go library for getting current and historical exchange rates, Forex and Crypto currency conversion with no authentication using Free foreign exchange rates API
 - [piquette/finance-go](https://github.com/piquette/finance-go) - :bar_chart: Financial markets data library implemented in go.
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [mattevans/dinero](https://github.com/mattevans/dinero) - 📈 💰 A golang interface for the Open Exchange Rates API
 - [jszwec/s3fs](https://github.com/jszwec/s3fs) - S3 FileSystem (fs.FS) implementation
 - [modfy/go-fluent-ffmpeg](https://github.com/modfy/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
@@ -2883,6 +2886,8 @@
 
 ## Objective-C 
 
+- [TimOliver/TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller for iOS that allows users to crop portions of UIImage objects
+- [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
 - [kharrison/CodeExamples](https://github.com/kharrison/CodeExamples) - Code Examples
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
 - [wakatime/xcode-wakatime](https://github.com/wakatime/xcode-wakatime) - Xcode plugin for automatic time tracking and metrics generated from your programming activity.
@@ -2928,7 +2933,7 @@
 - [mattm/sql-style-guide](https://github.com/mattm/sql-style-guide) - An opinionated guide for writing clean, maintainable SQL.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
 - [bibinwilson/kubernetes-prometheus](https://github.com/bibinwilson/kubernetes-prometheus) - Configuration files for setting up prometheus monitoring on Kubernetes cluster.
-- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Get the list of most active GitHub users based on public, private contributions and number of followers by country. Don't forget to star ⭐ this repository.
+- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
@@ -4936,6 +4941,14 @@
 
 ## Swift 
 
+- [OfTheWolf/TwitterProfile](https://github.com/OfTheWolf/TwitterProfile) - Nested scrolling with pager just like in Twitter and Instagram profile.
+- [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
+- [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
+- [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
+- [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
+- [Alamofire/AlamofireNetworkActivityIndicator](https://github.com/Alamofire/AlamofireNetworkActivityIndicator) - Controls the visibility of the network activity indicator on iOS using Alamofire.
+- [gymshark/ios-stack-kit](https://github.com/gymshark/ios-stack-kit) - The power of SwiftUI with UIKit
+- [mastodon/mastodon-ios](https://github.com/mastodon/mastodon-ios) - 
 - [yysskk/SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 - [ivanvorobei/SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
 - [malkouz/ListPlaceholder](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.
@@ -4958,7 +4971,7 @@
 - [Pomanks/stretchy-header-to-navigation-bar](https://github.com/Pomanks/stretchy-header-to-navigation-bar) - A reproduction of the header view transition occurring in both Music/TV app on iOS and iPad OS
 - [bcylin/QuickTableViewController](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings in Swift.
 - [angelolloqui/SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - A tool to convert Swift code to Kotlin.
-- [jellyfin/SwiftFin](https://github.com/jellyfin/SwiftFin) - Native Jellyfin Client for iOS and tvOS
+- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [Daltron/NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS
 - [jboullianne/SwiftUIBanner](https://github.com/jboullianne/SwiftUIBanner) - SwiftUIBanner
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.

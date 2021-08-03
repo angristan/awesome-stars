@@ -150,6 +150,7 @@
 
 ## C 
 
+- [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [slact/nchan](https://github.com/slact/nchan) - Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
@@ -359,7 +360,7 @@
 - [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [tokers/zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression
 - [relan/exfat](https://github.com/relan/exfat) - Free exFAT file system implementation
-- [fwupd/fwupd](https://github.com/fwupd/fwupd) - A simple daemon to allow session software to update firmware
+- [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [stephanyan/1ESGI2-C1](https://github.com/stephanyan/1ESGI2-C1) - Notes de C
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [traviscross/mtr](https://github.com/traviscross/mtr) - Official repository for mtr, a network diagnostic tool
@@ -1985,7 +1986,6 @@
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
 - [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
 - [Azure/webapps-deploy](https://github.com/Azure/webapps-deploy) - Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
@@ -3817,7 +3817,7 @@
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [antoiner77/caddy-ansible](https://github.com/antoiner77/caddy-ansible) - Ansible playbook for caddy
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -3915,7 +3915,7 @@
 - [lxc-webpanel/LXC-Web-Panel](https://github.com/lxc-webpanel/LXC-Web-Panel) - LXC Web Panel repository
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [boto/s3transfer](https://github.com/boto/s3transfer) - Amazon S3 Transfer Manager for Python
-- [facebookexperimental/doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
+- [facebookarchive/doh-proxy](https://github.com/facebookarchive/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [apg-intel/ipv6tools](https://github.com/apg-intel/ipv6tools) - IPv6Tools is a robust modular framework that enables the ability to visually audit an IPv6 enabled network.
 - [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
@@ -4297,6 +4297,7 @@
 
 ## Rust 
 
+- [matklad/10k_linux_threads](https://github.com/matklad/10k_linux_threads) - 
 - [dashed/rebalance-app](https://github.com/dashed/rebalance-app) - 💸 Optimal lazy portfolio rebalancing calculator (in Rust)
 - [Xetera/jiu](https://github.com/Xetera/jiu) - 🕵️ Detect new images and video on social media feeds and dispatch webhooks on updates
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -4564,6 +4565,7 @@
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [jakejarvis/cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website's cache via the Cloudflare API
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A build script for qBittorent nox static.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!

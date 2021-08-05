@@ -150,6 +150,8 @@
 
 ## C 
 
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
+- [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [slact/nchan](https://github.com/slact/nchan) - Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
@@ -978,6 +980,8 @@
 
 ## Go 
 
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+- [florensie/hcloud-snapshot-backup](https://github.com/florensie/hcloud-snapshot-backup) - Hetzner Cloud backups but cheaper thanks to snapshots
 - [SignTools/ios-signer-service](https://github.com/SignTools/ios-signer-service) - ✒ A self-hosted, cross-platform service to sign and install iOS apps, all without a computer
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Golang fediverse server.
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
@@ -2837,6 +2841,7 @@
 
 ## Nix 
 
+- [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [Infinisil/nixus](https://github.com/Infinisil/nixus) - 
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
@@ -2924,6 +2929,7 @@
 
 ## Others 
 
+- [Mindinventory/Mindful-SWIFT-Animation-Library](https://github.com/Mindinventory/Mindful-SWIFT-Animation-Library) - Collection of Beautiful Open Source SWIFT Animation Libraries and Demos
 - [kokizzu/list-of-tech-migrations](https://github.com/kokizzu/list-of-tech-migrations) - list of public tech migrations
 - [stedy/Machine-Learning-with-R-datasets](https://github.com/stedy/Machine-Learning-with-R-datasets) - Formatted datasets for Machine Learning With R by Brett Lantz
 - [iOS-Goodies/iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies) - Your favorite iOS Newsletter, now open source.
@@ -4944,6 +4950,9 @@
 
 ## Swift 
 
+- [SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
+- [hyperoslo/Cache](https://github.com/hyperoslo/Cache) - :package: Nothing but Cache.
+- [Mindinventory/Numbers-Animation](https://github.com/Mindinventory/Numbers-Animation) - Numbers animation allows you to click on different numbers and accordingly it will animate numbers in a cool way. It has a very attractive UI and is very easy to use.
 - [OfTheWolf/TwitterProfile](https://github.com/OfTheWolf/TwitterProfile) - Nested scrolling with pager just like in Twitter and Instagram profile.
 - [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 - [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
@@ -5077,6 +5086,8 @@
 
 ## TypeScript 
 
+- [kyleawayan/vintage-influxdb](https://github.com/kyleawayan/vintage-influxdb) - Record your Spotify listening data on InfluxDB.
+- [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps

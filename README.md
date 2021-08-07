@@ -917,6 +917,7 @@
 - [GabLeRoux/ansible-docker-image](https://github.com/GabLeRoux/ansible-docker-image) - Docker image to use ansible and ssh in a CI 👍
 - [Poludo/docker-plex-remote-transcoder](https://github.com/Poludo/docker-plex-remote-transcoder) - Plex Media Server + Transcoder that can be deployed on remote nodes
 - [silvio/matrix-riot-docker](https://github.com/silvio/matrix-riot-docker) - riot.im webclient in a container
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [AVENTER-UG/docker-matrix-riot](https://github.com/AVENTER-UG/docker-matrix-riot) - riot.im webclient in a container
 - [0xcaff/docker-koel](https://github.com/0xcaff/docker-koel) - A minimal docker image for the koel music streaming server.
 - [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc) - Carefully crafted Alpine Docker image with glibc (~12MB)
@@ -980,6 +981,7 @@
 
 ## Go 
 
+- [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [florensie/hcloud-snapshot-backup](https://github.com/florensie/hcloud-snapshot-backup) - Hetzner Cloud backups but cheaper thanks to snapshots
@@ -1801,6 +1803,7 @@
 
 ## Java 
 
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [Forge Mod] Building Tools and Aesthetic Technology
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
@@ -1987,7 +1990,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -4747,7 +4750,6 @@
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
 - [paladini/ghost-on-github-pages](https://github.com/paladini/ghost-on-github-pages) - Ghost on Github Pages. Build and deploy Ghost for free in a few minutes.
-- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [hashicorp/docker-hub-images](https://github.com/hashicorp/docker-hub-images) - Automatic builds of container images for Docker Hub
 - [eduardschaeli/wget-image-scraper](https://github.com/eduardschaeli/wget-image-scraper) - Scrapes images from a list of urls with wget
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
@@ -4953,6 +4955,7 @@
 
 ## Swift 
 
+- [nicklockwood/LRUCache](https://github.com/nicklockwood/LRUCache) - LRUCache is an open-source replacement for NSCache that behaves in a predictable, debuggable way
 - [SwiftOnTap/Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
 - [hyperoslo/Cache](https://github.com/hyperoslo/Cache) - :package: Nothing but Cache.
 - [Mindinventory/Numbers-Animation](https://github.com/Mindinventory/Numbers-Animation) - Numbers animation allows you to click on different numbers and accordingly it will animate numbers in a cool way. It has a very attractive UI and is very easy to use.

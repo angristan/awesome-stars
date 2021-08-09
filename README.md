@@ -981,6 +981,8 @@
 
 ## Go 
 
+- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
+- [rs/dnscache](https://github.com/rs/dnscache) - DNS lookup cache for Go
 - [minvws/nl-covid19-testvac-qr-core](https://github.com/minvws/nl-covid19-testvac-qr-core) - This is a proof of concept (PoC) for creating a QR code system for proving that one has had a valid vaccination record
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
@@ -1742,7 +1744,6 @@
 - [manala/ansible-role-influxdb](https://github.com/manala/ansible-role-influxdb) - [READ-ONLY] Ansible role dealing installation and configuration of InfluxDB time-series database
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [dev-sec/ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
-- [geerlingguy/ansible-role-munin-node](https://github.com/geerlingguy/ansible-role-munin-node) - Ansible Role - Munin node
 - [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [jpescador/hugo-future-imperfect](https://github.com/jpescador/hugo-future-imperfect) - A ported theme with some extras for the Hugo static website engine
@@ -1920,6 +1921,7 @@
 
 ## JavaScript 
 
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [Apple-Music-Electron/Apple-Music-Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron) - A free, lightweight, open source alternative to iTunes and other Apple Music applications based on Electron 13.1.0
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
@@ -1990,7 +1992,7 @@
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
 - [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -2211,7 +2213,7 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [clearlinux/clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
@@ -2723,6 +2725,7 @@
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+- [geerlingguy/ansible-role-munin-node](https://github.com/geerlingguy/ansible-role-munin-node) - Ansible Role - Munin node
 - [geerlingguy/ansible-role-php](https://github.com/geerlingguy/ansible-role-php) - Ansible Role - PHP
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
@@ -4957,6 +4960,7 @@
 
 ## Swift 
 
+- [V8tr/SwiftUIPreviewsAtScale](https://github.com/V8tr/SwiftUIPreviewsAtScale) - SwiftUI Previews at Scale https://www.vadimbulavin.com/swiftui-previews-at-scale/
 - [SchwiftyUI/ApodWidget](https://github.com/SchwiftyUI/ApodWidget) - 
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [nicklockwood/LRUCache](https://github.com/nicklockwood/LRUCache) - LRUCache is an open-source replacement for NSCache that behaves in a predictable, debuggable way

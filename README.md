@@ -156,6 +156,7 @@
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [slact/nchan](https://github.com/slact/nchan) - Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
+- [dekuNukem/bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder) - Renew and Refill Bob Cassettes for 98% Cost Saving!
 - [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
@@ -552,7 +553,6 @@
 - [quantumsheep/llvm-antlr4-starter](https://github.com/quantumsheep/llvm-antlr4-starter) - Pre-configured LLVM and ANTLR4 for C++
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
-- [dekuNukem/bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder) - Renew and Refill Bob Cassettes for 98% Cost Saving!
 - [binji/pokegb](https://github.com/binji/pokegb) - A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c++.
 - [quantumsheep/demo-antlr4-llvm](https://github.com/quantumsheep/demo-antlr4-llvm) - Compiler demo using ANTLR4 and LLVM
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
@@ -981,6 +981,15 @@
 
 ## Go 
 
+- [digitalocean/droplet-agent](https://github.com/digitalocean/droplet-agent) - Droplet Agent is the daemon that runs on customer droplets to enable some features such as web console access.
+- [go-ini/ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
+- [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
+- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid
+- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (originally github.com/theckman/go-flock)
+- [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
+- [LK4D4/trylock](https://github.com/LK4D4/trylock) - TryLock for Go
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [rs/dnscache](https://github.com/rs/dnscache) - DNS lookup cache for Go
 - [minvws/nl-covid19-testvac-qr-core](https://github.com/minvws/nl-covid19-testvac-qr-core) - This is a proof of concept (PoC) for creating a QR code system for proving that one has had a valid vaccination record
@@ -1007,7 +1016,7 @@
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft (java or bedrock) server on different cloud provider.
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [benjojo/sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
 - [minio/mint](https://github.com/minio/mint) - Collection of tests to detect overall correctness of MinIO server.
@@ -1683,6 +1692,7 @@
 - [njh/google-ipv6](https://github.com/njh/google-ipv6) - Per-country ranking table based on data from Google IPv6 Statistics page
 - [AwsGeek/aws-history](https://github.com/AwsGeek/aws-history) - 
 - [paquettg/php-html-parser](https://github.com/paquettg/php-html-parser) - An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [apilayer/geolocationapi](https://github.com/apilayer/geolocationapi) - IP Geolocation API is a free service for locating your visitors in real-time with detailed country information.
 - [la-rache/la-rache.com](https://github.com/la-rache/la-rache.com) - Site web la-rache.com
 - [do-not-theme/do-not-theme.github.io](https://github.com/do-not-theme/do-not-theme.github.io) - 
@@ -2566,7 +2576,6 @@
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
 - [turtl/desktop](https://github.com/turtl/desktop) - Turtl's desktop app
-- [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
 - [TryGhost/Ghost-CLI](https://github.com/TryGhost/Ghost-CLI) - CLI Tool for installing & updating Ghost
 - [nextcloud/weather](https://github.com/nextcloud/weather) - ⛅️ Weather app for Nextcloud
 - [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
@@ -2948,7 +2957,7 @@
 - [mattm/sql-style-guide](https://github.com/mattm/sql-style-guide) - An opinionated guide for writing clean, maintainable SQL.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
 - [bibinwilson/kubernetes-prometheus](https://github.com/bibinwilson/kubernetes-prometheus) - Configuration files for setting up prometheus monitoring on Kubernetes cluster.
-- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! List of most active GitHub users based on public contributions. private contributions, and number of followers by country. Don't forget to star ⭐ this repository.
+- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
@@ -3077,7 +3086,6 @@
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [motherboardgithub/bxaq](https://github.com/motherboardgithub/bxaq) - 
 - [Haeresis/vanilla-js-dom](https://github.com/Haeresis/vanilla-js-dom) - Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [Netflix/security-bulletins](https://github.com/Netflix/security-bulletins) - Security Bulletins that relate to Netflix Open Source
 - [vazhnov/smokeping_nginx](https://github.com/vazhnov/smokeping_nginx) - Smokeping with Nginx — configuration examples
 - [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
@@ -4285,6 +4293,7 @@
 - [impiaaa/mastodon_import_emoji](https://github.com/impiaaa/mastodon_import_emoji) - Import Mastodon custom emoji from various places on the internet
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [lessy-community/lessy](https://github.com/lessy-community/lessy) - A respectful and ethical time manager.
+- [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale

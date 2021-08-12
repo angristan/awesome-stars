@@ -511,6 +511,7 @@
 
 ## C# # 
 
+- [jellyfin/jellyfin-plugin-playbackreporting](https://github.com/jellyfin/jellyfin-plugin-playbackreporting) - Playback Statistics Plugin for Jellyfin
 - [softcraft-labs/AL1](https://github.com/softcraft-labs/AL1) - 
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
@@ -981,6 +982,7 @@
 
 ## Go 
 
+- [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [digitalocean/droplet-agent](https://github.com/digitalocean/droplet-agent) - Droplet Agent is the daemon that runs on customer droplets to enable some features such as web console access.
 - [go-ini/ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
@@ -2638,7 +2640,6 @@
 - [TheKinrar/mastodon-instances](https://github.com/TheKinrar/mastodon-instances) - Mastodon instances list
 - [cloudflare/claire](https://github.com/cloudflare/claire) - A Cloudflare WebExtension
 - [miguelfreitas/twister-html](https://github.com/miguelfreitas/twister-html) - twister HTML + Javascript User Interface
-- [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS web client for the ProtonMail secure email service.
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
 - [soulaklabs/bitoduc.fr](https://github.com/soulaklabs/bitoduc.fr) - A website about french words for computer concepts.
 - [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
@@ -5109,6 +5110,7 @@
 
 ## TypeScript 
 
+- [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [kyleawayan/vintage-influxdb](https://github.com/kyleawayan/vintage-influxdb) - Record your Spotify listening data on InfluxDB.
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
@@ -5446,6 +5448,7 @@
 - [Jazqa/kwin-quarter-tiling](https://github.com/Jazqa/kwin-quarter-tiling) - An easy tiling script for KWin
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [rhysd/Mstdn](https://github.com/rhysd/Mstdn) - Tiny web-based mastodon client for your desktop
+- [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [FullScreenShenanigans/FullScreenPokemon](https://github.com/FullScreenShenanigans/FullScreenPokemon) - A free HTML5 remake of the original Pokemon, expanded for modern browsing.
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 - [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop

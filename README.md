@@ -3212,6 +3212,7 @@
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
 - [Dryusdan/unsplash-wallpaper](https://github.com/Dryusdan/unsplash-wallpaper) - Script who change automatically your gnome / cinnamon wallpaper
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [gled-rs/mastodo](https://github.com/gled-rs/mastodo) - A fork of the GNU Social/AP-compatible microblogging server
 - [dmitrym0/simple-lets-encrypt-docker-compose-sample](https://github.com/dmitrym0/simple-lets-encrypt-docker-compose-sample) - Sample docker-compose that shows how to use letsencrypt-nginx-proxy-companion
@@ -4449,7 +4450,7 @@
 - [cloudflare/cfnts](https://github.com/cloudflare/cfnts) - Cloudflare's implementation of the NTS protocol written in Rust
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-- [jedisct1/encrypted-dns-server](https://github.com/jedisct1/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
+- [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [mackwic/systemd-linter](https://github.com/mackwic/systemd-linter) - Lint Systemd unit files
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
@@ -4805,7 +4806,6 @@
 - [Kotaimen/docker-pgbouncer](https://github.com/Kotaimen/docker-pgbouncer) - PostgreSQL Connection Pooler in Docker.
 - [fjudith/docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [ProtonVPN/protonvpn-cli](https://github.com/ProtonVPN/protonvpn-cli) - Legacy protonvpn-cli: ProtonVPN Command-Line Tool for Linux and macOS. This has been superseded by https://github.com/ProtonVPN/protonvpn-cli-ng
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
 - [docker-library/wordpress](https://github.com/docker-library/wordpress) - Docker Official Image packaging for WordPress
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
@@ -5067,8 +5067,8 @@
 - [Kevin-De-Koninck/Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [lvillani/chai](https://github.com/lvillani/chai) - Don't let your Mac fall asleep, like a sir
-- [ProtonVPN/mac-app](https://github.com/ProtonVPN/mac-app) - Official ProtonVPN macOS app
-- [ProtonVPN/ios-app](https://github.com/ProtonVPN/ios-app) - Official ProtonVPN iOS app
+- [ProtonVPN/mac-app](https://github.com/ProtonVPN/mac-app) - Superseded by https://github.com/ProtonVPN/ios-mac-app
+- [ProtonVPN/ios-app](https://github.com/ProtonVPN/ios-app) - Superseded by https://github.com/ProtonVPN/ios-mac-app
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
 - [rurza/NepTunes](https://github.com/rurza/NepTunes) - NepTunes 2.0 – simple, stable scrobbler for Mac that just works. Work in progress.
@@ -5110,6 +5110,7 @@
 
 ## TypeScript 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [kyleawayan/vintage-influxdb](https://github.com/kyleawayan/vintage-influxdb) - Record your Spotify listening data on InfluxDB.
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media

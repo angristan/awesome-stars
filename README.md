@@ -758,6 +758,7 @@
 - [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [popey/makealinux.app](https://github.com/popey/makealinux.app) - Source for makealinux app website
+- [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
@@ -3597,6 +3598,7 @@
 
 ## Python 
 
+- [seligman/aws-ip-ranges](https://github.com/seligman/aws-ip-ranges) - Tracking the history and size of AWS's ip-ranges.json file
 - [artperrin/image2csv](https://github.com/artperrin/image2csv) - Convert tables stored as images to an usable .csv file
 - [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
@@ -4323,6 +4325,7 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [matklad/10k_linux_threads](https://github.com/matklad/10k_linux_threads) - 
 - [dashed/rebalance-app](https://github.com/dashed/rebalance-app) - 💸 Optimal lazy portfolio rebalancing calculator (in Rust)
 - [Xetera/jiu](https://github.com/Xetera/jiu) - 🕵️ Detect new images and video on social media feeds and dispatch webhooks on updates
@@ -4969,6 +4972,7 @@
 
 ## Swift 
 
+- [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
 - [V8tr/SwiftUIPreviewsAtScale](https://github.com/V8tr/SwiftUIPreviewsAtScale) - SwiftUI Previews at Scale https://www.vadimbulavin.com/swiftui-previews-at-scale/
 - [SchwiftyUI/ApodWidget](https://github.com/SchwiftyUI/ApodWidget) - 
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
@@ -5250,7 +5254,6 @@
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [jschr/vscodethemes](https://github.com/jschr/vscodethemes) - Preview themes from the VSCode marketplace.
 - [mristin/opinionated-commit-message](https://github.com/mristin/opinionated-commit-message) - GitHub Action to check commit messages according to an opinioned style
-- [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [hieven/terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
 - [gristlabs/ts-interface-checker](https://github.com/gristlabs/ts-interface-checker) - Runtime library to validate data against TypeScript interfaces.

@@ -33,7 +33,6 @@
   - [Erlang](#erlang)
   - [FreeMarker](#freemarker)
   - [GDScript](#gdscript)
-  - [GLSL](#glsl)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groff](#groff)
@@ -970,10 +969,6 @@
 ## GDScript 
 
 - [Luraktinus/lue-downloader](https://github.com/Luraktinus/lue-downloader) - youtube-dl frontend in Godot3
-
-## GLSL 
-
-- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
 ## Gherkin 
 
@@ -2006,7 +2001,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
-- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2751,6 +2746,7 @@
 - [Seagate/cortx](https://github.com/Seagate/cortx) - CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [kb22/Color-Identification-using-Machine-Learning](https://github.com/kb22/Color-Identification-using-Machine-Learning) - This project explores colors in various images and then enables the user to query the images based on a given color.
+- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
@@ -4972,6 +4968,7 @@
 
 ## Swift 
 
+- [V8tr/InfiniteListSwiftUI](https://github.com/V8tr/InfiniteListSwiftUI) - Paginated endless scroll using the SwiftUI and Combine frameworks
 - [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
 - [V8tr/SwiftUIPreviewsAtScale](https://github.com/V8tr/SwiftUIPreviewsAtScale) - SwiftUI Previews at Scale https://www.vadimbulavin.com/swiftui-previews-at-scale/
 - [SchwiftyUI/ApodWidget](https://github.com/SchwiftyUI/ApodWidget) - 

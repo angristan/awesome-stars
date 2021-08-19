@@ -628,7 +628,7 @@
 - [lizardfs/lizardfs](https://github.com/lizardfs/lizardfs) - LizardFS is an Open Source Distributed File System licensed under GPLv3.
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [rovo89/Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
-- [smspillaz/libanimation-old](https://github.com/smspillaz/libanimation-old) - Wobbly windows and animations logic split out from Compiz
+- [smspillaz/libanimation](https://github.com/smspillaz/libanimation) - Wobbly windows and animations logic split out from Compiz
 - [brave/tracking-protection](https://github.com/brave/tracking-protection) - Tracking protection engine used in the Brave browser for list like disconnectme.
 - [brave/muon](https://github.com/brave/muon) - [DEPRECATED] Build browsers and browser like applications with HTML, CSS, and JavaScript
 - [brave/ad-block](https://github.com/brave/ad-block) - Ad block engine used in the Brave browser for ABP filter syntax based lists like EasyList.
@@ -4656,7 +4656,7 @@
 - [phallstrom/AlfredDig](https://github.com/phallstrom/AlfredDig) - A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.
 - [danhper/fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) - 
 - [icyphox/shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
-- [mac-cleanup/mac-cleanup-old](https://github.com/mac-cleanup/mac-cleanup-old) - 🗑️ Cleanup script for macOS (DEPRECATED)
+- [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [NieDzejkob/cursedfs](https://github.com/NieDzejkob/cursedfs) - Make a disk image formatted with both ext2 and FAT at once
 - [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) - Fish shell tool for managing Python virtual environments

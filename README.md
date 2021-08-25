@@ -1173,9 +1173,9 @@
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
-- [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example application written in Go.
+- [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 - [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
 - [Sioro-Neoku/go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Go Peerflix
@@ -2175,6 +2175,7 @@
 - [mlbrgl/ghost-algolia](https://github.com/mlbrgl/ghost-algolia) - Provides integration between Ghost (CMS) and Algolia (Search as a Service)
 - [HauntedThemes/ghost-search](https://github.com/HauntedThemes/ghost-search) - A simple but powerful search library for Ghost Blogging Platform.
 - [jamwise/ghostHunter](https://github.com/jamwise/ghostHunter) - A Ghost blog search engine
+- [MastaCoder/MySpotify](https://github.com/MastaCoder/MySpotify) - A website to view your Spotify stats.
 - [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [greyli/bootstrap-flask](https://github.com/greyli/bootstrap-flask) - Bootstrap 4 helper for Flask/Jinja2.
 - [xiaodoudou/PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) - This app simulate a DVR device for Plex by providing a layer to any IPTV provider (that provide a m3u8 playlist)
@@ -3322,7 +3323,7 @@
 - [centreon/centreon](https://github.com/centreon/centreon) - Centreon is a network, system and application monitoring tool. Centreon is the only AIOps Platform Providing Holistic Visibility to Complex IT Workflows from Cloud to Edge.
 - [dzuelke/wordpress-12factor](https://github.com/dzuelke/wordpress-12factor) - WordPress, the Twelve-Factor way: fully managed using Composer and configured using environment variables.
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [ip2location/ip2location-piwik](https://github.com/ip2location/ip2location-piwik) - Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik) 3.x. It enables the user to find the country, region, city, coordinates, zip code, time zone, ISP, domain name, connection type, area code, weather, MCC, MNC, mobile brand name, elevation and usage type that any IP address or hostname originates from.
+- [ip2location/ip2location-piwik](https://github.com/ip2location/ip2location-piwik) - Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik) 3.x. It enables the user to find the country, region, city, coordinates, zip code, time zone, ISP, domain name, connection type, area code, weather, MCC, MNC, mobile brand name, elevation, usage type, address type and IAB category that any IP address or hostname originates from.
 - [aholkner/matomo-cloudflare-location-provider](https://github.com/aholkner/matomo-cloudflare-location-provider) - Provide Geolocation information to Matomo (Piwik) from Cloudflare request header
 - [Open-Web-Analytics/Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics) - Web Analytics, open sourced. Open Web Analytics is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.  Please consider sponsoring this project.
 - [cloudharmony/block-storage](https://github.com/cloudharmony/block-storage) - Block storage test suite based on SNIA's Solid State Storage Performance Test Specification Enterprise v1.1
@@ -3337,7 +3338,6 @@
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [ibericode/koko-analytics](https://github.com/ibericode/koko-analytics) - Privacy-friendly analytics for your WordPress site.
-- [MastaCoder/mySpotify](https://github.com/MastaCoder/mySpotify) - A website to view your Spotify stats.
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers.
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email address validator
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel

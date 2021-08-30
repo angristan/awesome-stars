@@ -976,6 +976,7 @@
 
 ## Go 
 
+- [chubaofs/chubaofs](https://github.com/chubaofs/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [digitalocean/droplet-agent](https://github.com/digitalocean/droplet-agent) - Droplet Agent is the daemon that runs on customer droplets to enable some features such as web console access.
@@ -3047,7 +3048,7 @@
 - [FaithfulTeam/Faithful](https://github.com/FaithfulTeam/Faithful) - Faithful x32
 - [JohnSundell/IndieSupportWeeks](https://github.com/JohnSundell/IndieSupportWeeks) - A two-week effort to help support indie developers shipping apps on Apple's platforms who have been financially impacted by the COVID-19 pandemic.
 - [cloudflare/linux](https://github.com/cloudflare/linux) - Cloudflare Linux Kernel Patches
-- [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 - [adamdriscoll/awesome-covid19-resources](https://github.com/adamdriscoll/awesome-covid19-resources) - Awesome list of COVID19 resources
 - [maxyermayank/docker-compose-elasticsearch-kibana](https://github.com/maxyermayank/docker-compose-elasticsearch-kibana) - Docker Compose for Elasticsearch and Kibana
@@ -4972,6 +4973,7 @@
 
 ## Swift 
 
+- [jordansinger/SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
 - [V8tr/InfiniteListSwiftUI](https://github.com/V8tr/InfiniteListSwiftUI) - Paginated endless scroll using the SwiftUI and Combine frameworks
 - [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
 - [V8tr/SwiftUIPreviewsAtScale](https://github.com/V8tr/SwiftUIPreviewsAtScale) - SwiftUI Previews at Scale https://www.vadimbulavin.com/swiftui-previews-at-scale/
@@ -5115,6 +5117,7 @@
 
 ## TypeScript 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [scaleway/scaleway-ui-website](https://github.com/scaleway/scaleway-ui-website) - Open Source Component Library
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [z0ccc/Reddit-Wherever](https://github.com/z0ccc/Reddit-Wherever) - Reddit Wherever Browser Extension

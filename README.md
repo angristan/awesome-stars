@@ -866,6 +866,7 @@
 
 ## Crystal 
 
+- [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
 - [kemalcr/kemal](https://github.com/kemalcr/kemal) - Fast, Effective, Simple Web Framework
 - [veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 - [amberframework/amber](https://github.com/amberframework/amber) - A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started with quick prototyping, less bugs, and blazing fast performance.
@@ -1252,7 +1253,6 @@
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-- [lee-junmin/tutorial-source](https://github.com/lee-junmin/tutorial-source) - 
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [vultr/govultr](https://github.com/vultr/govultr) - Vultr Go API client
@@ -1289,7 +1289,7 @@
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
-- [scaleway/scaleway-sdk-go](https://github.com/scaleway/scaleway-sdk-go) - (BETA) Integrate Scaleway with your Go application
+- [scaleway/scaleway-sdk-go](https://github.com/scaleway/scaleway-sdk-go) - Integrate Scaleway with your Go application
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [saphoooo/freebox_exporter](https://github.com/saphoooo/freebox_exporter) - A prometheus exporter for freebox stats
 - [knadh/go-get-youtube](https://github.com/knadh/go-get-youtube) - A tiny Go library + client for downloading Youtube videos. The library is capable of fetching Youtube video metadata, in addition to downloading videos.
@@ -3850,7 +3850,6 @@
 - [antoiner77/caddy-ansible](https://github.com/antoiner77/caddy-ansible) - Ansible playbook for caddy
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
@@ -4003,7 +4002,6 @@
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [magicalraccoon/tootstream](https://github.com/magicalraccoon/tootstream) - A command line interface for interacting with Mastodon instances
 - [vgazelot/KeyLogger_python](https://github.com/vgazelot/KeyLogger_python) - 
-- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [tranquilit/WAPT](https://github.com/tranquilit/WAPT) - WAPT is an established method for managing the lifecycle of an installed base of Windows applications. WAPT has many similarities with Debian's APT software manager, thus its name. WAPT is particularly useful to system administrators who are tired of repetitive and low value tasks.
 - [witten/borgmatic](https://github.com/witten/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [mvonthron/munin-influxdb](https://github.com/mvonthron/munin-influxdb) - Munin to InfluxDB/Grafana gateway
@@ -4127,6 +4125,7 @@
 
 ## Ruby 
 
+- [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [tifhair/tifhair-tools](https://github.com/tifhair/tifhair-tools) - 
 - [ruby/TryRuby](https://github.com/ruby/TryRuby) - This 4th iteration of TryRuby is a website where you can learn the Ruby language.
 - [stevenolen/mailgun-smtp-server](https://github.com/stevenolen/mailgun-smtp-server) - SMTP -&gt; me -&gt; mailgun http api
@@ -4325,6 +4324,7 @@
 
 ## Rust 
 
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [matklad/10k_linux_threads](https://github.com/matklad/10k_linux_threads) - 
 - [dashed/rebalance-app](https://github.com/dashed/rebalance-app) - 💸 Optimal lazy portfolio rebalancing calculator (in Rust)
@@ -4476,6 +4476,7 @@
 - [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - A pure-Rust implementation of group operations on Ristretto and Curve25519
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.”
 - [gtk-rs/gtk](https://github.com/gtk-rs/gtk) - DEPRECATED, use https://github.com/gtk-rs/gtk3-rs repository instead!
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
 - [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
@@ -4514,6 +4515,7 @@
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [system76/firmware-update](https://github.com/system76/firmware-update) - System76 Firmware Update Utility
 - [BrainBlasted/Trumpet](https://github.com/BrainBlasted/Trumpet) - Moved to https:///gitlab.gnome.org

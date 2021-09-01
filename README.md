@@ -510,7 +510,6 @@
 ## C# # 
 
 - [jellyfin/jellyfin-plugin-playbackreporting](https://github.com/jellyfin/jellyfin-plugin-playbackreporting) - Playback Statistics Plugin for Jellyfin
-- [softcraft-labs/AL1](https://github.com/softcraft-labs/AL1) - 
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 - [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
@@ -972,7 +971,6 @@
 ## Gherkin 
 
 - [eloyesp/jekyll_ghost_importer](https://github.com/eloyesp/jekyll_ghost_importer) - Post importer from Ghost backup files.
-- [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud X and Infinite Scale
 - [thoughtbot/factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Factory Bot ♥ Rails
 
 ## Go 
@@ -2010,6 +2008,7 @@
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
 - [crash0verride11/DarkLight-qBittorent-WebUI](https://github.com/crash0verride11/DarkLight-qBittorent-WebUI) - A version of the default webUI that supports OS Dark Mode and is toggle-able, made using CSS properties and SASS.
+- [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud X and Infinite Scale
 - [Micdu70/geoip2-rutorrent](https://github.com/Micdu70/geoip2-rutorrent) - New geoip plugin for ruTorrent working with GeoLite2 (MaxMind DB Files)
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
 - [iancoleman/bip39](https://github.com/iancoleman/bip39) - A web tool for converting BIP39 mnemonic codes
@@ -2229,7 +2228,7 @@
 - [mpiannucci/gnome-shell-extended-gestures](https://github.com/mpiannucci/gnome-shell-extended-gestures) - Better touchpad gesture handling for GNOME
 - [Android-Messages-For-Desktop/android-messages-for-desktop](https://github.com/Android-Messages-For-Desktop/android-messages-for-desktop) - An Electron wrapper around android messages web interface enhanced with native notifications and badges
 - [gabLaroche/death-to-ie11](https://github.com/gabLaroche/death-to-ie11) - Countdown for IE11 end of support
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [adelphes/android-dev-ext](https://github.com/adelphes/android-dev-ext) - Android debugging support for VS Code
 - [DiemasMichiels/emulator](https://github.com/DiemasMichiels/emulator) - Run Android emulator and iOS simulator easily from VScode!
@@ -3598,6 +3597,7 @@
 
 ## Python 
 
+- [nl2go/ansible-role-hetzner_installimage](https://github.com/nl2go/ansible-role-hetzner_installimage) - An Ansible Role that manages the OS image installation lifecycle of Hetzner servers using Hetzner Robot API.
 - [ceph/ceph-deploy](https://github.com/ceph/ceph-deploy) - Deploy Ceph with minimal infrastructure, using just SSH access
 - [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
 - [seligman/aws-ip-ranges](https://github.com/seligman/aws-ip-ranges) - Tracking the history and size of AWS's ip-ranges.json file
@@ -4324,6 +4324,7 @@
 
 ## Rust 
 
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1061🚀) dependencies🚀
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [matklad/10k_linux_threads](https://github.com/matklad/10k_linux_threads) - 
@@ -4689,7 +4690,7 @@
 - [sameersbn/docker-browser-box](https://github.com/sameersbn/docker-browser-box) - Dockerized google-chome and tor-browser with audio support via pulseaudio
 - [ppy/osu-wine](https://github.com/ppy/osu-wine) - Wine container for running osu! on OS X. http://osx.ppy.sh
 - [silinternational/ecs-deploy](https://github.com/silinternational/ecs-deploy) - Simple shell script for initiating blue-green deployments on Amazon EC2 Container Service (ECS)
-- [curl/curl-for-win](https://github.com/curl/curl-for-win) - Reproducible curl (and OpenSSL) binaries for Windows
+- [curl/curl-for-win](https://github.com/curl/curl-for-win) - Reproducible curl binaries for Windows
 - [sjiveson/nfs-server-alpine](https://github.com/sjiveson/nfs-server-alpine) - A handy Alpine Linux based NFS Server image running NFS v4 only, over TCP on port 2049
 - [aws-quickstart/quickstart-hashicorp-vault](https://github.com/aws-quickstart/quickstart-hashicorp-vault) - AWS Quick Start Team
 - [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven

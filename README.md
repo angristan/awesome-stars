@@ -975,6 +975,7 @@
 
 ## Go 
 
+- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
 - [chubaofs/chubaofs](https://github.com/chubaofs/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
@@ -2127,7 +2128,6 @@
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines
 - [pinojs/pino-http](https://github.com/pinojs/pino-http) - 🌲 high-speed HTTP logger for Node.js
 - [richardschneider/express-mung](https://github.com/richardschneider/express-mung) - Express response transformations (or make until no good)
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [mikenicholson/passport-jwt](https://github.com/mikenicholson/passport-jwt) - Passport authentication using JSON Web Tokens
@@ -3242,6 +3242,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [lubien/awesome-cerebro](https://github.com/lubien/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [jgraichen/debian-isso](https://github.com/jgraichen/debian-isso) - lightweight web-based commenting system
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -4174,6 +4175,7 @@
 - [Homebrew/homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - 🔢 Alternate versions of Casks
 - [imax9000/homebrew-autoremove](https://github.com/imax9000/homebrew-autoremove) - ARCHIVED: External command for Homebrew to remove orphaned dependencies
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
+- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
 - [blindsidenetworks/scalelite](https://github.com/blindsidenetworks/scalelite) - Scalable load balancer for BigBlueButton.
 - [swanson/stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
@@ -4851,7 +4853,6 @@
 - [valentin2105/FADD](https://github.com/valentin2105/FADD) - Fully Automated Docker Deployments.
 - [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
 - [acmesh-official/get.acme.sh](https://github.com/acmesh-official/get.acme.sh) - get.acme.sh
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [benweissmann/getmic.ro](https://github.com/benweissmann/getmic.ro) - The fastest way to install Micro
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -5170,7 +5171,7 @@
 - [skunight/nestjs-redis](https://github.com/skunight/nestjs-redis) - nestjs redis module
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [microsoft/typed-rest-client](https://github.com/microsoft/typed-rest-client) - Node Rest and Http Clients with typings for use with TypeScript
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - A nestjs module that provide a cli to your application.

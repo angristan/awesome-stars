@@ -3162,7 +3162,7 @@
 - [woj-ciech/kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [jedisct1/system-tuning-for-crypto](https://github.com/jedisct1/system-tuning-for-crypto) - System tuning recommendations for running cryptographic applications
 - [system76/thelio](https://github.com/system76/thelio) - Thelio Desktop by System76
-- [Haru-tan/Hackintosh-Things](https://github.com/Haru-tan/Hackintosh-Things) - A collection of otherwise uncommon information pertaining to Mac OS X.
+- [WeebLabs/Hackintosh-Things](https://github.com/WeebLabs/Hackintosh-Things) - A collection of otherwise uncommon information pertaining to Mac OS X.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [marccarre/dell-xps-13-9360](https://github.com/marccarre/dell-xps-13-9360) - Files & utilities for Dell XPS 13 9360
 - [gluster/gluster-ansible-cluster](https://github.com/gluster/gluster-ansible-cluster) - Ansible role to create and deploy a Gluster cluster.
@@ -4328,7 +4328,7 @@
 
 ## Rust 
 
-- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1091🚀) dependencies🚀
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [matklad/10k_linux_threads](https://github.com/matklad/10k_linux_threads) - 
@@ -5279,7 +5279,7 @@
 - [simoebenhida/laravel-intellisense](https://github.com/simoebenhida/laravel-intellisense) - Laravel VScode extension
 - [graphql-compose/graphql-compose-elasticsearch](https://github.com/graphql-compose/graphql-compose-elasticsearch) - Hide Elastic Search REST API behind GraphQL.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for VS Code
-- [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port for it.
+- [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [efd1006/nestjs-file-upload-minio](https://github.com/efd1006/nestjs-file-upload-minio) - A repo for my tutorial on dev.to
 - [djedlajn/nestjs-minio-client](https://github.com/djedlajn/nestjs-minio-client) - Minio client sdk for NestJS
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) - A collection of badass modules and utilities to help you level up your NestJS applications 🚀

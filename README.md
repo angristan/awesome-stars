@@ -975,6 +975,7 @@
 
 ## Go 
 
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and (eventually) editing database files. Only support for SQLite currently. MySQL support will be added soon.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
 - [chubaofs/chubaofs](https://github.com/chubaofs/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
@@ -3838,7 +3839,7 @@
 - [jkjuopperi/zettatools](https://github.com/jkjuopperi/zettatools) - Solaris ZFS monitoring tools
 - [ansible/test-playbooks](https://github.com/ansible/test-playbooks) - playbook-tests
 - [Giphy/celeb-detection-oss](https://github.com/Giphy/celeb-detection-oss) - GIPHY's Open-Source Celebrity Detection Deep Learning Model
-- [ossobv/proxmove](https://github.com/ossobv/proxmove) - Migrate virtual machines between different Proxmox VE clusters
+- [ossobv/proxmove](https://github.com/ossobv/proxmove) - Migrate virtual machines between different Proxmox VE clusters with minimal downtime
 - [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
 - [dimaryaz/dropbox_ext4](https://github.com/dimaryaz/dropbox_ext4) - Hack to make Dropbox work on non-ext4 filesystems
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages

@@ -105,7 +105,7 @@
 
 ## ASL 
 
-- [wmchris/DellXPS15-9550-OSX](https://github.com/wmchris/DellXPS15-9550-OSX) - Tutorial for a full working Mac OS (10.11 up to 11.0) enviroment on the Dell XPS 15 (9550)
+- [krim404/DellXPS15-9550-OSX](https://github.com/krim404/DellXPS15-9550-OSX) - Tutorial for a full working Mac OS (10.11 up to 11.0) enviroment on the Dell XPS 15 (9550)
 
 ## ASP 
 
@@ -2244,7 +2244,7 @@
 - [uploadexpress/app](https://github.com/uploadexpress/app) - ⬆️ An open-source file sharing software built in React and Go
 - [vodkhard/vodeclic-fastpass](https://github.com/vodkhard/vodeclic-fastpass) - Chrome extension for speedup your vodeclic formation
 - [aws-samples/aws-reinvent-2019-trivia-game](https://github.com/aws-samples/aws-reinvent-2019-trivia-game) - Sample trivia game built with AWS Fargate. See https://www.reinvent-trivia.com
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
@@ -3907,7 +3907,6 @@
 - [epinna/weevely3](https://github.com/epinna/weevely3) - Weaponized web shell
 - [Kubedex/exporter](https://github.com/Kubedex/exporter) - Prometheus metrics exporter for Helm Tiller
 - [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
-- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [snapcore/snapcraft](https://github.com/snapcore/snapcraft) - Package, distribute, and update any app for Linux and IoT.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [pavdmyt/yaspin](https://github.com/pavdmyt/yaspin) - A lightweight terminal spinner for Python with safe pipes and redirects 🎁
@@ -4767,6 +4766,7 @@
 - [gluster/gluster-kubernetes](https://github.com/gluster/gluster-kubernetes) - GlusterFS Native Storage Service for Kubernetes
 - [gokulchandra/k8s-ingress-setup](https://github.com/gokulchandra/k8s-ingress-setup) - 
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [romana/romana](https://github.com/romana/romana) - The Romana Project - Installation scripts, documentation, issue tracker and wiki. Start here.
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [KrustyHack/docker-privilege-escalation](https://github.com/KrustyHack/docker-privilege-escalation) - A docker example for privilege escalation
@@ -5007,7 +5007,7 @@
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
 - [superpeteblaze/ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift
-- [AppTelemetry/SwiftClient](https://github.com/AppTelemetry/SwiftClient) - This is the Swift Client for Telemetry, a privacy-conscious analytics service for apps and websites.
+- [TelemetryDeck/SwiftClient](https://github.com/TelemetryDeck/SwiftClient) - This is the Swift Client for Telemetry, a privacy-conscious analytics service for apps and websites.
 - [appcoda/SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - A search bar built entirely in SwiftUI
 - [Haneke/HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system

@@ -975,6 +975,7 @@
 
 ## Go 
 
+- [looplab/fsm](https://github.com/looplab/fsm) - Finite State Machine for Go
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and (eventually) editing database files. Only support for SQLite currently. MySQL support will be added soon.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
@@ -1635,7 +1636,7 @@
 
 ## HTML 
 
-- [scaleway/docs-content](https://github.com/scaleway/docs-content) - 
+- [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [tailwindtoolbox/Profile-Card](https://github.com/tailwindtoolbox/Profile-Card) - Tailwind CSS Starter Template - Profile Card (Single page website for your profile/links)
 - [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
@@ -3119,7 +3120,6 @@
 - [arcticicestudio/nord-iterm2](https://github.com/arcticicestudio/nord-iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
 - [zimmertr/TKS](https://github.com/zimmertr/TKS) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
-- [judge2020/Actual-Domain-Prices](https://github.com/judge2020/Actual-Domain-Prices) - The real cost of each TLD (top-level-domain). Find out how much your registrar marks up your domain prices.
 - [drone-plugins/drone-base](https://github.com/drone-plugins/drone-base) - Base image used by the plugins
 - [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.

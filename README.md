@@ -977,7 +977,7 @@
 
 - [looplab/fsm](https://github.com/looplab/fsm) - Finite State Machine for Go
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
-- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and (eventually) editing database files. Only support for SQLite currently. MySQL support will be added soon.
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
 - [chubaofs/chubaofs](https://github.com/chubaofs/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
@@ -1012,7 +1012,7 @@
 - [fzipp/gocyclo](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [alecthomas/gocyclo](https://github.com/alecthomas/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [maruel/panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
-- [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
@@ -5007,7 +5007,7 @@
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
 - [superpeteblaze/ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift
-- [TelemetryDeck/SwiftClient](https://github.com/TelemetryDeck/SwiftClient) - This is the Swift Client for Telemetry, a privacy-conscious analytics service for apps and websites.
+- [TelemetryDeck/SwiftClient](https://github.com/TelemetryDeck/SwiftClient) - This is the Swift SDK for TelemetryDeck, a privacy-conscious analytics service for apps and websites.
 - [appcoda/SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - A search bar built entirely in SwiftUI
 - [Haneke/HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system

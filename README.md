@@ -914,7 +914,6 @@
 - [caesarnine/data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [ricardbejarano/nginx](https://github.com/ricardbejarano/nginx) - ⚙️   Built-from-source container image of the NGINX HTTP server
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
-- [GabLeRoux/ansible-docker-image](https://github.com/GabLeRoux/ansible-docker-image) - Docker image to use ansible and ssh in a CI 👍
 - [Poludo/docker-plex-remote-transcoder](https://github.com/Poludo/docker-plex-remote-transcoder) - Plex Media Server + Transcoder that can be deployed on remote nodes
 - [silvio/matrix-riot-docker](https://github.com/silvio/matrix-riot-docker) - riot.im webclient in a container
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
@@ -1940,7 +1939,7 @@
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
 - [hmanzur/actions-set-secret](https://github.com/hmanzur/actions-set-secret) - Create or update secrets in github repository
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS
+- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [formium/tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
@@ -2755,6 +2754,7 @@
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
+- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [Psycojoker/pokefight](https://github.com/Psycojoker/pokefight) - a mastodon bot to generate fights between users
 
 ## Kotlin 
@@ -4328,6 +4328,7 @@
 
 ## Rust 
 
+- [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -4736,6 +4737,7 @@
 - [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
 - [docker-library/elasticsearch](https://github.com/docker-library/elasticsearch) - https://github.com/docker-library/official-images/pull/4916
 - [ArchiveTeam/warrior-code](https://github.com/ArchiveTeam/warrior-code) - 
+- [GabLeRoux/docker-ansible](https://github.com/GabLeRoux/docker-ansible) - Docker image to use ansible and ssh in a CI 👍
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [rak8s/rak8s](https://github.com/rak8s/rak8s) - Stand up a Raspberry Pi based Kubernetes cluster with Ansible
 - [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
@@ -5442,7 +5444,6 @@
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
-- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Dock(er)?
 - [OttoAllmendinger/gnome-shell-screenshot](https://github.com/OttoAllmendinger/gnome-shell-screenshot) - Gnome Shell extension for making and uploading screenshots
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - Ledger's JavaScript libraries

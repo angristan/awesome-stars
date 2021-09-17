@@ -1554,7 +1554,7 @@
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [robbertkl/docker-ipv6nat](https://github.com/robbertkl/docker-ipv6nat) - Extend Docker with IPv6 NAT, similar to IPv4
-- [docker/docker-ce](https://github.com/docker/docker-ce) - Docker CE
+- [docker/docker-ce](https://github.com/docker/docker-ce) - :warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the https://github.com/docker/docker-ce/blob/master/README.md :warning:
 - [kelseyhightower/terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1863,6 +1863,7 @@
 - [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [Alkarex/EasyRSS](https://github.com/Alkarex/EasyRSS) - Android client for RSS services compatible with Google Reader API
+- [fbocolowski/sssm](https://github.com/fbocolowski/sssm) - Stupid Simple Server Monitor - UN*X Server monitoring app
 - [hemker/apkgrabber](https://github.com/hemker/apkgrabber) - APKGrabber is a tool that simplifies the process of finding updates for your installed apps.
 - [ideacreation/react-native-barcodescanner](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native - not maintained anymore - use react-native-camera
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
@@ -1929,6 +1930,8 @@
 
 ## JavaScript 
 
+- [loomnetwork/cryptozombies-lesson-code](https://github.com/loomnetwork/cryptozombies-lesson-code) - cryptozomebie lesson code
+- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [ConsenSys/Tokens](https://github.com/ConsenSys/Tokens) - Ethereum Token Contracts
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -2030,7 +2033,6 @@
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [mold/explr](https://github.com/mold/explr) - Explr the world through music
 - [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
-- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
 - [thomaswangio/gatsby-plugin-feed-mdx](https://github.com/thomaswangio/gatsby-plugin-feed-mdx) - RSS feed plugin with MDX!
@@ -4219,7 +4221,6 @@
 - [tomiacannondale/era_ja](https://github.com/tomiacannondale/era_ja) - Convert to Japanese era
 - [socketry/falcon](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 - [aws/aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
-- [fbocolowski/sssm](https://github.com/fbocolowski/sssm) - Self-hosted secure server monitoring.
 - [peatio/peatio](https://github.com/peatio/peatio) - An open-source assets exchange.
 - [amorphid/who-runs-curl-on-what](https://github.com/amorphid/who-runs-curl-on-what) - Who Runs Curl On What
 - [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap
@@ -5229,7 +5230,7 @@
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
-- [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface) - 🦄 An open source interface for the Uniswap protocol
+- [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [pancakeswap/pancake-swap-interface-v1](https://github.com/pancakeswap/pancake-swap-interface-v1) - :pancakes: Pancake trading interface V1
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo

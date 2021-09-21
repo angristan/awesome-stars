@@ -301,6 +301,7 @@
 - [linux-apfs/linux-apfs](https://github.com/linux-apfs/linux-apfs) - This tree is no longer updated, please use linux-apfs-rw instead.
 - [OpenVZ/vzkernel](https://github.com/OpenVZ/vzkernel) - [mirror] Virtuozzo Linux kernel
 - [khanzf/opengit](https://github.com/khanzf/opengit) - OpenGit - A BSD licensed clone of Git for FreeBSD (under heavy development)
+- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [vurtun/nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [Apple-FOSS-Mirror/Libc](https://github.com/Apple-FOSS-Mirror/Libc) - 
 - [leev/ngx_http_geoip2_module](https://github.com/leev/ngx_http_geoip2_module) - Nginx GeoIP2 module
@@ -974,6 +975,7 @@
 
 ## Go 
 
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [Artheriom/dedibox-backup-monitoring](https://github.com/Artheriom/dedibox-backup-monitoring) - A simple tool who pulls data from Online.net API and parse them to a Prometheus format
 - [looplab/fsm](https://github.com/looplab/fsm) - Finite State Machine for Go
@@ -1485,7 +1487,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [nginxinc/kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [soundcloud/ipmi_exporter](https://github.com/soundcloud/ipmi_exporter) - Remote IPMI exporter for Prometheus
+- [prometheus-community/ipmi_exporter](https://github.com/prometheus-community/ipmi_exporter) - Remote IPMI exporter for Prometheus
 - [docker/swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [docker/classicswarm](https://github.com/docker/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [gluster/glusterd2](https://github.com/gluster/glusterd2) - [DEPRECATED] Glusterd2 is the distributed management framework to be used for GlusterFS.
@@ -1744,7 +1746,6 @@
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [ClarityMoe/lolicon](https://github.com/ClarityMoe/lolicon) - By Forking this, let's say you forked a loli :police_car:
 - [kwent/pgbouncerhero](https://github.com/kwent/pgbouncerhero) - A dashboard for your PgBouncers.
-- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [FarhadG/init](https://github.com/FarhadG/init) - :exclamation: Go to the first (initial) commit of any GitHub repo
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
@@ -1947,7 +1948,7 @@
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
-- [formium/tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [JMPerez/spotify-app-stats](https://github.com/JMPerez/spotify-app-stats) - A library to fetch the stats for your Spotify App from Spotify's developer site
 - [cdeleeuwe/netlify-plugin-hugo-cache-resources](https://github.com/cdeleeuwe/netlify-plugin-hugo-cache-resources) - A netlify plugin to cache Hugo resources
@@ -2005,7 +2006,7 @@
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 41 stars 6 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
 - [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -2466,6 +2467,7 @@
 - [colinmeinke/ghost-storage-adapter-s3](https://github.com/colinmeinke/ghost-storage-adapter-s3) - An AWS S3 storage adapter for Ghost
 - [spanishdict/ghost-s3-compat](https://github.com/spanishdict/ghost-s3-compat) - Read and write images from S3 in the Ghost blogging platfrom
 - [nzws/KnzkApp](https://github.com/nzws/KnzkApp) - A Open-Source Mastodon Client
+- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [Notos/seedbox-from-scratch](https://github.com/Notos/seedbox-from-scratch) - Creating a seedbox on a Linux server
 - [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [ritwickdey/live-server-web-extension](https://github.com/ritwickdey/live-server-web-extension) - It makes your existing server live. This is a browser extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASP.NET -- Whatever, it doesn't matter)
@@ -2832,7 +2834,6 @@
 - [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 13.1 emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux (read-only mirror)
-- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [Airblader/yolo](https://github.com/Airblader/yolo) - Kill a random process
@@ -3357,7 +3358,7 @@
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel
 - [akaunting/laravel-firewall](https://github.com/akaunting/laravel-firewall) - Web Application Firewall (WAF) package for Laravel
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
-- [Imangazaliev/DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML parser
+- [Imangazaliev/DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser
 - [binarycabin/laravel-uuid](https://github.com/binarycabin/laravel-uuid) - A wrapper for webpatser/laravel-uuid with additional integration
 - [webpatser/laravel-uuid](https://github.com/webpatser/laravel-uuid) - Laravel package to generate and to validate a UUID according to the RFC 4122 standard. Only support for version 1, 3, 4 and 5 UUID are built-in.
 - [firevel/firevel](https://github.com/firevel/firevel) - 100% serverless Laravel Framework
@@ -4319,7 +4320,7 @@
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails 6.
 - [pixiv/mastodon](https://github.com/pixiv/mastodon) - A GNU Social-compatible microblogging server
-- [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for concurrency
+- [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
 - [mastodon/mastodon-api](https://github.com/mastodon/mastodon-api) - A ruby interface for the Mastodon API
 - [mastodon/mastodon-bridge](https://github.com/mastodon/mastodon-bridge) - Moved to https://source.joinmastodon.org/mastodon/bridge
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -5248,7 +5249,7 @@
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode
-- [bkimminich/juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [kisstkondoros/codemetrics](https://github.com/kisstkondoros/codemetrics) - VSCode extension which shows the complexity information for TypeScript class members
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.

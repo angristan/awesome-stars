@@ -974,6 +974,7 @@
 
 ## Go 
 
+- [Waifu-pics/waifu-api](https://github.com/Waifu-pics/waifu-api) - https://waifu.pics Image sharing platform and API for anime images, entirely user curated
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [Artheriom/dedibox-backup-monitoring](https://github.com/Artheriom/dedibox-backup-monitoring) - A simple tool who pulls data from Online.net API and parse them to a Prometheus format
@@ -1489,7 +1490,7 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [prometheus-community/ipmi_exporter](https://github.com/prometheus-community/ipmi_exporter) - Remote IPMI exporter for Prometheus
 - [docker/swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-- [docker/classicswarm](https://github.com/docker/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
+- [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [gluster/glusterd2](https://github.com/gluster/glusterd2) - [DEPRECATED] Glusterd2 is the distributed management framework to be used for GlusterFS.
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [abh/geodns](https://github.com/abh/geodns) - DNS server with per-client targeted responses

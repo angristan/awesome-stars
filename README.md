@@ -1360,7 +1360,7 @@
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs
-- [AutoSpotting/AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
+- [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [jason0x43/alfred-weather](https://github.com/jason0x43/alfred-weather) - Get weather forecast using Alfred
 - [lox/alfred-timezone](https://github.com/lox/alfred-timezone) - An alfred workflow for searching timezones
@@ -3230,7 +3230,6 @@
 - [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 - [vfarcic/docker-flow-proxy](https://github.com/vfarcic/docker-flow-proxy) - Docker Flow Proxy
-- [dhovart/diaspora-docker](https://github.com/dhovart/diaspora-docker) - A quick setup to get started contributing to diaspora* with docker-compose.
 - [docker/for-linux](https://github.com/docker/for-linux) - Docker for Linux
 - [getsolus/help-center-docs](https://github.com/getsolus/help-center-docs) - Solus's Help Center documentation as well as previous User Guide.
 - [matomo-org/matomo-nginx](https://github.com/matomo-org/matomo-nginx) - Nginx configuration for running Matomo
@@ -3917,7 +3916,6 @@
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [epinna/weevely3](https://github.com/epinna/weevely3) - Weaponized web shell
 - [Kubedex/exporter](https://github.com/Kubedex/exporter) - Prometheus metrics exporter for Helm Tiller
-- [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [snapcore/snapcraft](https://github.com/snapcore/snapcraft) - Package, distribute, and update any app for Linux and IoT.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [pavdmyt/yaspin](https://github.com/pavdmyt/yaspin) - A lightweight terminal spinner for Python with safe pipes and redirects 🎁
@@ -4782,6 +4780,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [yboetz/motd](https://github.com/yboetz/motd) - Collection of 'message of the day' scripts
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity
+- [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [gluster/gluster-kubernetes](https://github.com/gluster/gluster-kubernetes) - GlusterFS Native Storage Service for Kubernetes
 - [gokulchandra/k8s-ingress-setup](https://github.com/gokulchandra/k8s-ingress-setup) - 
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:

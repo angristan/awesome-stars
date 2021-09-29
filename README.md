@@ -1607,6 +1607,7 @@
 - [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
 - [benjojo/totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level (this is a bad idea, don't really use this please)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -1646,6 +1647,7 @@
 - [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
 - [internetarchive/sandcrawler](https://github.com/internetarchive/sandcrawler) - Backend, IA-specific tools for crawling and processing the scholarly web. Content ends up in https://fatcat.wiki
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
+- [miromannino/Justified-Gallery](https://github.com/miromannino/Justified-Gallery) - Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well as the photography community 500px.
 - [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices
 - [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
@@ -1957,7 +1959,6 @@
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks that all of the hyperlinks in a markdown text to determine if they are alive or dead
 - [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 - [Tom-Bonnike/netlify-plugin-inline-critical-css](https://github.com/Tom-Bonnike/netlify-plugin-inline-critical-css) - A Netlify plugin to inline your critical CSS, built on top of the `critical` package.
-- [miromannino/Justified-Gallery](https://github.com/miromannino/Justified-Gallery) - Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well as the photography community 500px.
 - [mfg92/hugo-shortcode-gallery](https://github.com/mfg92/hugo-shortcode-gallery) - A theme components with a gallery shortcode for the static site generator hugo.
 - [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker) - Chrome Extension that tracks and limits time you spent on sites
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
@@ -4092,7 +4093,6 @@
 - [solus-project/os-installer](https://github.com/solus-project/os-installer) - Solus Installer
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
-- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [lebinh/ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
 - [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
@@ -4115,7 +4115,7 @@
 ## R 
 
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
-- [ropensci/plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R
+- [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive graphing library for R
 - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
 - [wch/r-source](https://github.com/wch/r-source) - Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.
 - [tidyverse/magrittr](https://github.com/tidyverse/magrittr) - Improve the readability of R code with the pipe

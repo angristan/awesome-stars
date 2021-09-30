@@ -974,6 +974,7 @@
 
 ## Go 
 
+- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [Waifu-pics/waifu-api](https://github.com/Waifu-pics/waifu-api) - https://waifu.pics Image sharing platform and API for anime images, entirely user curated
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -1201,7 +1202,7 @@
 - [kirsch33/realip](https://github.com/kirsch33/realip) - realip module for Caddy v2
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [nmapx/revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - An agent to enable remote management of your EC2 instances, on-premises servers, or virtual machines (VMs).
 - [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go) - ⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
 - [aws/ec2-macos-init](https://github.com/aws/ec2-macos-init) - EC2 macOS Init is the launch daemon used to initialize Mac instances within EC2.
@@ -1901,8 +1902,8 @@
 - [raulhaag/MiMangaNu](https://github.com/raulhaag/MiMangaNu) - *ES - Lector de Manga online / offline, gratuito y de código abierto.  *EN - Manga reader online / offline, free and open source.  *FR - Lecteur de manga en ligne / hors ligne, gratuit et open source.  *DE - Eine App um Manga zu lesen. Man kann damit Manga online und offline lesen. Es ist kostenlos und quelloffen.  *IT - Manga lettore online / offline, gratuito e open source.  *RU - В России Манга читает вас. Попробуйте MiMangaNu прямо сейчас.
 - [nv95/OpenManga](https://github.com/nv95/OpenManga) - Manga reader for Android - MOVED TO https://github.com/nv95/Kotatsu
 - [4pr0n/ripme](https://github.com/4pr0n/ripme) - Downloads albums in bulk
-- [cosmojg/open-coinomi-android](https://github.com/cosmojg/open-coinomi-android) - The final open source (GPL 3.0) release of Coinomi's cryptocurrency wallet for Android.
-- [openwalletGH/openwallet-android](https://github.com/openwalletGH/openwallet-android) - The first truly free, libre, and open source light wallet for multiple cryptocurrencies (Bitcoin, Ethereum, Ripple, etc).
+- [cosmojg/open-coinomi-android](https://github.com/cosmojg/open-coinomi-android) - The final open source (GPL 3.0) release of Coinomi's cryptocurrency wallet for Android
+- [openwalletGH/openwallet-android](https://github.com/openwalletGH/openwallet-android) - Truly free, libre, and open-source light wallet for Android with support for multiple cryptocurrencies (Bitcoin, Ethereum, Litecoin, etc.)
 - [Shazambom/wallpaperBot](https://github.com/Shazambom/wallpaperBot) - Its a wallpaper bot that rips all of the wallpapers from a url that its given
 - [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more.
 - [cerisara/mousetodon](https://github.com/cerisara/mousetodon) - Android app to connect to the mastodon social network
@@ -1934,6 +1935,7 @@
 
 ## JavaScript 
 
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [loomnetwork/cryptozombies-lesson-code](https://github.com/loomnetwork/cryptozombies-lesson-code) - cryptozomebie lesson code
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
@@ -4584,6 +4586,7 @@
 
 ## Shell 
 
+- [stgraber/lxd-github-actions](https://github.com/stgraber/lxd-github-actions) - Scripts to run Github Actions runners inside of LXD
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support :point_up_2: for `sudo`.
 - [asdf-community/asdf-scala](https://github.com/asdf-community/asdf-scala) - Scala plugin for the asdf version manager
@@ -4999,6 +5002,7 @@
 
 ## Swift 
 
+- [JosephDuffy/Overamped](https://github.com/JosephDuffy/Overamped) - Safari Web Extension to disable AMP ⚡️
 - [jordansinger/SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
 - [V8tr/InfiniteListSwiftUI](https://github.com/V8tr/InfiniteListSwiftUI) - Paginated endless scroll using the SwiftUI and Combine frameworks
 - [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off

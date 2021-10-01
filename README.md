@@ -359,7 +359,7 @@
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [steshaw/gtk-examples](https://github.com/steshaw/gtk-examples) - Examples from "Developing Linux Applications with GTK+ and GDK" by Eric Harlow
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
-- [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
+- [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features
 - [tokers/zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression
 - [relan/exfat](https://github.com/relan/exfat) - Free exFAT file system implementation
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
@@ -889,7 +889,7 @@
 - [appditto/natrium_wallet_flutter](https://github.com/appditto/natrium_wallet_flutter) - Natrium - Fast, Robust & Secure NANO Wallet, now written with Flutter.
 - [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 - [glitchpizza/morii](https://github.com/glitchpizza/morii) - A mobile app for PixelFed
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [jeroensmeets/11t](https://github.com/jeroensmeets/11t) - 11t is an iOS and Android app for connecting to Mastodon, written in Flutter. 11t lets you use any Mastodon instance.
 
 ## Dhall 
@@ -1539,7 +1539,7 @@
 - [wasabi-tech/s3-benchmark](https://github.com/wasabi-tech/s3-benchmark) - Performance test for comparison of AWS versus Wasabi S3 systems.
 - [goby-lang/goby](https://github.com/goby-lang/goby) - Goby - Yet another programming language written in Go
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Datadog Agent
-- [miguelmota/cointop](https://github.com/miguelmota/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
+- [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [Oxalide/vsphere-influxdb-go](https://github.com/Oxalide/vsphere-influxdb-go) - Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB
@@ -1935,6 +1935,7 @@
 
 ## JavaScript 
 
+- [facebookarchive/puewue-frontend](https://github.com/facebookarchive/puewue-frontend) - The front-end to a simple application that displays Facebook's datacenter power consumption and other information.
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [loomnetwork/cryptozombies-lesson-code](https://github.com/loomnetwork/cryptozombies-lesson-code) - cryptozomebie lesson code
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
@@ -2772,6 +2773,7 @@
 
 ## Kotlin 
 
+- [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [happysingh23828/Android-Clean-Architecture](https://github.com/happysingh23828/Android-Clean-Architecture) - This is a sample movie list Android application built to demonstrate use of Clean Architecture tools. Dedicated to all Android Developers - (Kotlin, MVVM, Clean Architecture, Rx-Java, Dagger, OkHttp, Unit Testing, SOLID principles, Code Coverage)
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
@@ -4586,6 +4588,7 @@
 
 ## Shell 
 
+- [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
 - [stgraber/lxd-github-actions](https://github.com/stgraber/lxd-github-actions) - Scripts to run Github Actions runners inside of LXD
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support :point_up_2: for `sudo`.
@@ -5146,6 +5149,7 @@
 
 ## TypeScript 
 
+- [prettymuchbryce/http-status-codes](https://github.com/prettymuchbryce/http-status-codes) - Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.
 - [pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - :pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.

@@ -1944,6 +1944,7 @@
 
 ## JavaScript 
 
+- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [kodie/md5-file](https://github.com/kodie/md5-file) - return an md5sum of a given file
 - [facebookarchive/puewue-frontend](https://github.com/facebookarchive/puewue-frontend) - The front-end to a simple application that displays Facebook's datacenter power consumption and other information.
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
@@ -3644,7 +3645,7 @@
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [openstack/pyeclib](https://github.com/openstack/pyeclib) - A simple Python interface for implementing erasure codes. Mirror of code maintained at opendev.org.
 - [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [pberkes/big_O](https://github.com/pberkes/big_O) - Python module to estimate big-O time complexity from execution time
 - [andymccurdy/redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [Alfex4936/python-bigO-calculator](https://github.com/Alfex4936/python-bigO-calculator) - Python sorting functions time complexity calculator

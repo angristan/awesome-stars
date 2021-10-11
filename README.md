@@ -1944,6 +1944,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [kodie/md5-file](https://github.com/kodie/md5-file) - return an md5sum of a given file
 - [facebookarchive/puewue-frontend](https://github.com/facebookarchive/puewue-frontend) - The front-end to a simple application that displays Facebook's datacenter power consumption and other information.
@@ -5159,6 +5160,7 @@
 
 ## TypeScript 
 
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Premium Message Queue for NodeJS based on Redis
 - [cotag/ts-md5](https://github.com/cotag/ts-md5) - Type Script MD5 implemenation
 - [prettymuchbryce/http-status-codes](https://github.com/prettymuchbryce/http-status-codes) - Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.
 - [pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - :pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)

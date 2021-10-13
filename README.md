@@ -222,6 +222,7 @@
 - [kfix/ddcctl](https://github.com/kfix/ddcctl) - DDC monitor controls (brightness) for Mac OSX command line
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [open-io/oio-sds](https://github.com/open-io/oio-sds) - High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift
 - [WireGuard/wg-dynamic](https://github.com/WireGuard/wg-dynamic) - Mirror only. Official repository is at https://git.zx2c4.com/wg-dynamic
 - [zliuva/ktlswrapper](https://github.com/zliuva/ktlswrapper) - A wrapper that enables TLS support (TLS 1.2 with AES 128 GCM) for existing applications without code change.
 - [saintmarina/undelete_jpg](https://github.com/saintmarina/undelete_jpg) - Recovers JPG images from SD cards and hard drives.
@@ -975,6 +976,7 @@
 
 ## Go 
 
+- [numary/ledger](https://github.com/numary/ledger) - 🏛 A scriptable financial ledger, designed to make it easy to model complex financial transactions
 - [ceph/go-ceph](https://github.com/ceph/go-ceph) - Go bindings for Ceph :octopus: :octopus: :octopus:
 - [darkowlzz/ignite-cntr](https://github.com/darkowlzz/ignite-cntr) - 
 - [timescale/promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics 🚀
@@ -1383,7 +1385,7 @@
 - [mastodon/gamo](https://github.com/mastodon/gamo) - An image proxy and optimization server
 - [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -1574,7 +1576,7 @@
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
-- [lxc/lxd](https://github.com/lxc/lxd) - Daemon offering a REST API to manage containers and virtual machines
+- [lxc/lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [zpeters/speedtest](https://github.com/zpeters/speedtest) - Command line client for speedtest.net written in Go
 - [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
@@ -1944,6 +1946,7 @@
 
 ## JavaScript 
 
+- [Erisa/domain-redirect](https://github.com/Erisa/domain-redirect) - Easily redirect one entire domain to another with a serverless Cloudflare Worker.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [kodie/md5-file](https://github.com/kodie/md5-file) - return an md5sum of a given file
@@ -3802,7 +3805,6 @@
 - [m1keil/alfred-vagrant-workflow](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant with Alfred2/3
 - [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
-- [open-io/oio-sds](https://github.com/open-io/oio-sds) - High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift
 - [minio/docs](https://github.com/minio/docs) - MinIO Object Storage Documentation
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.

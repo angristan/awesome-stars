@@ -2083,7 +2083,6 @@
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana + InfluxDB + Speedtest.net results
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
-- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js 2.0 and 3.0, the most popular charting library 📊
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [song940/node-dns](https://github.com/song940/node-dns) - :globe_with_meridians:  DNS Server and Client Implementation in Pure JavaScript with no dependencies.
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript functions that do just do one thing.
@@ -2569,6 +2568,7 @@
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
 - [chabou/hyper-pane](https://github.com/chabou/hyper-pane) - Extension for Hyper.app to enhance pane navigation.
 - [Nsbx/GesAverage](https://github.com/Nsbx/GesAverage) - GesAverage est un userscript qui calcule votre moyenne générale et l'ajoute au tableau de vos notes sur l'extranet du réseau GES
@@ -3276,7 +3276,6 @@
 - [lubien/awesome-cerebro](https://github.com/lubien/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [jgraichen/debian-isso](https://github.com/jgraichen/debian-isso) - lightweight web-based commenting system
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
@@ -5284,6 +5283,7 @@
 - [kisstkondoros/codemetrics](https://github.com/kisstkondoros/codemetrics) - VSCode extension which shows the complexity information for TypeScript class members
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
+- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js 2.0 and 3.0, the most popular charting library 📊
 - [jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use](https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use) - JSON Parser written entirely in TypeScript's type system
 - [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [zxh0/vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3

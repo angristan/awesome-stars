@@ -1299,7 +1299,7 @@
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [miguelmota/streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐
 - [gammazero/workerpool](https://github.com/gammazero/workerpool) - Concurrency limiting goroutine pool
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [jessfraz/gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
@@ -5162,6 +5162,7 @@
 
 ## TypeScript 
 
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [squidjs/terminal](https://github.com/squidjs/terminal) - The extendible Shell and SSH terminal, with E2E encryption in the cloud.
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Premium Message Queue for NodeJS based on Redis

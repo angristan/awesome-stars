@@ -1659,6 +1659,7 @@
 
 ## HTML 
 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [tailwindtoolbox/Profile-Card](https://github.com/tailwindtoolbox/Profile-Card) - Tailwind CSS Starter Template - Profile Card (Single page website for your profile/links)
@@ -3635,6 +3636,7 @@
 
 ## Python 
 
+- [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) - This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Instagram's performance oriented fork of CPython.
 - [nl2go/ansible-role-hetzner_installimage](https://github.com/nl2go/ansible-role-hetzner_installimage) - An Ansible Role that manages the OS image installation lifecycle of Hetzner servers using Hetzner Robot API.
 - [ceph/ceph-deploy](https://github.com/ceph/ceph-deploy) - Deploy Ceph with minimal infrastructure, using just SSH access
@@ -4297,7 +4299,7 @@
 - [sferik/twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
 - [airbnb/ruby](https://github.com/airbnb/ruby) - Ruby Style Guide
 - [denji/homebrew-nginx](https://github.com/denji/homebrew-nginx) - :fire_engine: Community NGINX tap for custom modules
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [chrismay/warmfront](https://github.com/chrismay/warmfront) - Warm up Cloudfront cached content
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:

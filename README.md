@@ -2407,7 +2407,7 @@
 - [JunoLab/atom-julia-client](https://github.com/JunoLab/atom-julia-client) - Juno a good IDE?
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-native performance & reliability testing for developers and SREs
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🚀Cloud-native performance & reliability testing for developers and SREs
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -3646,6 +3646,7 @@
 - [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [snobear/ec2-retirement-bulk-fix](https://github.com/snobear/ec2-retirement-bulk-fix) - A tool that lists EC2 instances scheduled for retirement and optionally stop/start all in bulk
+- [github/copilot-preview](https://github.com/github/copilot-preview) - Documentation for GitHub Copilot
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
 - [gitless-vcs/gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.

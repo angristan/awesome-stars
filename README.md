@@ -1018,7 +1018,7 @@
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [florensie/hcloud-snapshot-backup](https://github.com/florensie/hcloud-snapshot-backup) - Hetzner Cloud backups but cheaper thanks to snapshots
-- [SignTools/ios-signer-service](https://github.com/SignTools/ios-signer-service) - ✒ A self-hosted, cross-platform service to sign and install iOS apps, all without a computer
+- [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A self-hosted, cross-platform service to sign and install iOS apps, all without a computer
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Golang fediverse server.
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
@@ -2036,7 +2036,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
-- [RealPeha/This-Repo-Has-1661-Stars](https://github.com/RealPeha/This-Repo-Has-1661-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3549,7 +3549,6 @@
 - [nextcloud/nextcloud.com](https://github.com/nextcloud/nextcloud.com) - 🌏 Our website
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
-- [mailcow/mailcow](https://github.com/mailcow/mailcow) - PLEASE USE https://github.com/mailcow/mailcow-dockerized ! This version is outdated until "mailcow: dockerized" code is merged to this repository.
 - [WhichBrowser/Parser-PHP](https://github.com/WhichBrowser/Parser-PHP) - Browser sniffing gone too far — A useragent parser library for PHP
 - [Jedediah04/TARDIStart](https://github.com/Jedediah04/TARDIStart) - Une start page pour votre serveur dédié.
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
@@ -3646,7 +3645,6 @@
 - [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [snobear/ec2-retirement-bulk-fix](https://github.com/snobear/ec2-retirement-bulk-fix) - A tool that lists EC2 instances scheduled for retirement and optionally stop/start all in bulk
-- [github/copilot-preview](https://github.com/github/copilot-preview) - Documentation for GitHub Copilot
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
 - [gitless-vcs/gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -5025,6 +5023,7 @@
 
 ## Swift 
 
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [JosephDuffy/Overamped](https://github.com/JosephDuffy/Overamped) - Safari Web Extension to disable AMP ⚡️
 - [jordansinger/SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
 - [V8tr/InfiniteListSwiftUI](https://github.com/V8tr/InfiniteListSwiftUI) - Paginated endless scroll using the SwiftUI and Combine frameworks

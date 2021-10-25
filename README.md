@@ -132,6 +132,7 @@
 
 ## Awk 
 
+- [Nudin/iptable_vis](https://github.com/Nudin/iptable_vis) - visualise your iptables chains
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump
 
 ## Batchfile 
@@ -1018,7 +1019,7 @@
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [florensie/hcloud-snapshot-backup](https://github.com/florensie/hcloud-snapshot-backup) - Hetzner Cloud backups but cheaper thanks to snapshots
-- [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A self-hosted, cross-platform service to sign and install iOS apps, all without a computer
+- [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted, cross-platform service to sign and install iOS apps, all without a computer
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Golang fediverse server.
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
@@ -1246,7 +1247,7 @@
 - [lithdew/reliable](https://github.com/lithdew/reliable) - A reliability layer for UDP connections in Go.
 - [lithdew/monte](https://github.com/lithdew/monte) - The bare minimum for high performance, fully-encrypted bidirectional RPC over TCP in Go with zero memory allocations.
 - [mdempsky/unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 or 4 appliances
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.

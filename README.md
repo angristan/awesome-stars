@@ -223,7 +223,6 @@
 - [kfix/ddcctl](https://github.com/kfix/ddcctl) - DDC monitor controls (brightness) for Mac OSX command line
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-- [open-io/oio-sds](https://github.com/open-io/oio-sds) - High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift
 - [WireGuard/wg-dynamic](https://github.com/WireGuard/wg-dynamic) - Mirror only. Official repository is at https://git.zx2c4.com/wg-dynamic
 - [zliuva/ktlswrapper](https://github.com/zliuva/ktlswrapper) - A wrapper that enables TLS support (TLS 1.2 with AES 128 GCM) for existing applications without code change.
 - [saintmarina/undelete_jpg](https://github.com/saintmarina/undelete_jpg) - Recovers JPG images from SD cards and hard drives.
@@ -977,7 +976,10 @@
 
 ## Go 
 
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
+- [alexkohler/prealloc](https://github.com/alexkohler/prealloc) - prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.
+- [bep/s3deploy](https://github.com/bep/s3deploy) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. "Cache-Control")
+- [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [moulapp/moul](https://github.com/moulapp/moul) - The minimalist publishing tool for photographers
 - [rotisserie/eris](https://github.com/rotisserie/eris) - eris provides a better way to handle, trace, and log errors in Go 🎆
@@ -1953,6 +1955,7 @@
 
 ## JavaScript 
 
+- [ralphtheninja/await-spawn](https://github.com/ralphtheninja/await-spawn) - child_process.spawn() wrapped in a Promise
 - [poolifier/poolifier](https://github.com/poolifier/poolifier) - Fast and small Node.js thread pool implementation
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
 - [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering
@@ -2060,7 +2063,7 @@
 - [chrisg86/gatsby-remark-classes](https://github.com/chrisg86/gatsby-remark-classes) - Automatically add class attributes to markdown elements
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ThaTiemsz/Discord-Emoji-Downloader](https://github.com/ThaTiemsz/Discord-Emoji-Downloader) - Get all emojis from a server in a ZIP file.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1k social media \ websites (Detections are updated regularly by automated systems)
 - [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [davidsawyer/airbnb-price-per-night-correcter](https://github.com/davidsawyer/airbnb-price-per-night-correcter) - Gives you the real price per night of an Airbnb stay after accounting for any and all fees
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
@@ -3640,6 +3643,7 @@
 
 ## Python 
 
+- [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) - This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Instagram's performance oriented fork of CPython.
 - [nl2go/ansible-role-hetzner_installimage](https://github.com/nl2go/ansible-role-hetzner_installimage) - An Ansible Role that manages the OS image installation lifecycle of Hetzner servers using Hetzner Robot API.
@@ -3816,6 +3820,7 @@
 - [m1keil/alfred-vagrant-workflow](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant with Alfred2/3
 - [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
+- [open-io/oio-sds](https://github.com/open-io/oio-sds) - High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift
 - [minio/docs](https://github.com/minio/docs) - MinIO Object Storage Documentation
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
@@ -3995,7 +4000,7 @@
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [SublimeGit/SublimeGit](https://github.com/SublimeGit/SublimeGit) - Git integration for Sublime Text 2 and 3
 - [anforaProject/anfora](https://github.com/anforaProject/anfora) - 🏺 Self-hosted photo gallery social network. Under development
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
 - [snwh/paper-icon-theme](https://github.com/snwh/paper-icon-theme) - Paper Icon Theme
 - [maldevel/gdog](https://github.com/maldevel/gdog) - A fully featured Windows backdoor that uses Gmail as a C&C server
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -5210,7 +5215,7 @@
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
-- [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
+- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
 - [Xetera/simp.pics](https://github.com/Xetera/simp.pics) - 💃 Kpop image aggregator
 - [South-Paw/action-netlify-deploy](https://github.com/South-Paw/action-netlify-deploy) - 🙌 Netlify deployments via GitHub actions
 - [lexanth/python-ast](https://github.com/lexanth/python-ast) - Python (3) Parser for JavaScript/TypeScript (based on antlr4ts)

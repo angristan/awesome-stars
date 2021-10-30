@@ -2861,7 +2861,7 @@
 - [yvan-sraka/rust.systems](https://github.com/yvan-sraka/rust.systems) - 
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [thenickdude/KVM-Opencore](https://github.com/thenickdude/KVM-Opencore) - OpenCore disk image for Proxmox/QEMU
+- [thenickdude/KVM-Opencore](https://github.com/thenickdude/KVM-Opencore) - OpenCore disk image for running macOS VMs on Proxmox/QEMU
 - [fniephaus/alfred-network](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 13.1 emoji color OpenType-SVG font for Linux/MacOS/Windows
@@ -5032,6 +5032,7 @@
 
 ## Swift 
 
+- [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [JosephDuffy/Overamped](https://github.com/JosephDuffy/Overamped) - Safari Web Extension to disable AMP ⚡️
 - [jordansinger/SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
@@ -5310,7 +5311,7 @@
 - [kisstkondoros/codemetrics](https://github.com/kisstkondoros/codemetrics) - VSCode extension which shows the complexity information for TypeScript class members
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
-- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js 2.0 and 3.0, the most popular charting library 📊
+- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - 📊📈 React components for Chart.js, the most popular charting library
 - [jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use](https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use) - JSON Parser written entirely in TypeScript's type system
 - [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [zxh0/vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3

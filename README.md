@@ -377,7 +377,7 @@
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [mysql/mysql-proxy](https://github.com/mysql/mysql-proxy) - MySQL Proxy is a simple program that sits between your client and MySQL server(s) and that can monitor, analyze or transform their communication. Its flexibility allows for a wide variety of uses, including load balancing, failover, query analysis, query filtering and modification, and many more.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge) - Hardware backdoors in some x86 CPUs
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -4800,7 +4800,7 @@
 - [ArchiveTeam/warrior-code](https://github.com/ArchiveTeam/warrior-code) - 
 - [GabLeRoux/docker-ansible](https://github.com/GabLeRoux/docker-ansible) - Docker image to use ansible and ssh in a CI 👍
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
-- [rak8s/rak8s](https://github.com/rak8s/rak8s) - Stand up a Raspberry Pi based Kubernetes cluster with Ansible
+- [chris-short/rak8s](https://github.com/chris-short/rak8s) - Stand up a Raspberry Pi based Kubernetes cluster with Ansible
 - [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 - [cytopia/mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - [sh] Encrypted mysqldump script with compression, logging, blacklisting and Nagios/Icinga monitoring integration
 - [hakasenyang/openssl-patch](https://github.com/hakasenyang/openssl-patch) - OpenSSL & NginX Patch
@@ -5064,7 +5064,7 @@
 - [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
 - [Alamofire/AlamofireNetworkActivityIndicator](https://github.com/Alamofire/AlamofireNetworkActivityIndicator) - Controls the visibility of the network activity indicator on iOS using Alamofire.
 - [gymshark/ios-stack-kit](https://github.com/gymshark/ios-stack-kit) - The power of SwiftUI with UIKit
-- [mastodon/mastodon-ios](https://github.com/mastodon/mastodon-ios) - 
+- [mastodon/mastodon-ios](https://github.com/mastodon/mastodon-ios) - Official iOS app for Mastodon
 - [yysskk/SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 - [ivanvorobei/SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
 - [malkouz/ListPlaceholder](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.

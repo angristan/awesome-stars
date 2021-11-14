@@ -3012,7 +3012,7 @@
 - [iOS-Goodies/iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies) - Your favorite iOS Newsletter, now open source.
 - [graphcdn/future-founder-promise](https://github.com/graphcdn/future-founder-promise) - A list of startups that offer the Future Founder Promise to their employees
 - [mattm/sql-style-guide](https://github.com/mattm/sql-style-guide) - An opinionated guide for writing clean, maintainable SQL.
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🪄 Handy commands to run in Go projects
 - [bibinwilson/kubernetes-prometheus](https://github.com/bibinwilson/kubernetes-prometheus) - Kubernetes Manifest files for setting up Prometheus monitoring on the Kubernetes cluster.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS

@@ -1550,7 +1550,7 @@
 - [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go.
 - [harness/drone-cli](https://github.com/harness/drone-cli) - Command Line Tools for Drone CI
 - [jmccann/drone-terraform](https://github.com/jmccann/drone-terraform) - Drone plugin for triggering Terraform deployments
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [barnybug/cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
 - [cbednarski/hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -5040,6 +5040,7 @@
 
 ## Svelte 
 
+- [mquandalle/mesaidesvelo](https://github.com/mquandalle/mesaidesvelo) - Découvrez les aides à l’achat d’un vélo
 - [bewisse/modheader](https://github.com/bewisse/modheader) - ModHeader browser extension
 - [Kaiak/kaiak-wallet](https://github.com/Kaiak/kaiak-wallet) - A secure and fast way to send and receive Nano cryptocurrency in KaiOS.
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client

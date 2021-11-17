@@ -977,6 +977,8 @@
 
 ## Go 
 
+- [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
+- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs!
 - [pkt-cash/pktd](https://github.com/pkt-cash/pktd) - The PKT full node and wallet
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [ariga/entcache](https://github.com/ariga/entcache) - Experimental cache driver for ent
@@ -1967,6 +1969,8 @@
 
 ## JavaScript 
 
+- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
+- [trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) - Personal blockchain for Ethereum development
 - [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [ralphtheninja/await-spawn](https://github.com/ralphtheninja/await-spawn) - child_process.spawn() wrapped in a Promise
 - [poolifier/poolifier](https://github.com/poolifier/poolifier) - Fast and small Node.js thread pool implementation
@@ -2055,7 +2059,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2202,7 +2206,7 @@
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1350 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
 - [budui/go-isso](https://github.com/budui/go-isso) - a commenting server similar to Disqus - rewrite isso with golang
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - Web Client for Jellyfin
@@ -2424,7 +2428,7 @@
 - [JunoLab/atom-julia-client](https://github.com/JunoLab/atom-julia-client) - Juno a good IDE?
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🚀Cloud-native performance & reliability testing for developers and SREs
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Cloud-native performance & reliability testing for developers and SREs
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -4380,6 +4384,7 @@
 
 ## Rust 
 
+- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 - [cjdelisle/packetcrypt_rs](https://github.com/cjdelisle/packetcrypt_rs) - PacketCrypt in Rust
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -4795,7 +4800,7 @@
 - [azlux/lxc-proxmox-upgrade](https://github.com/azlux/lxc-proxmox-upgrade) - LXC Proxmox upgrade script
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) - ☁️📦 Nextcloud packaged as a snap
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside containers.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [outime/ipv6-dhclient-script](https://github.com/outime/ipv6-dhclient-script) - IPv6 w/ dhclient configuration script (Debian/RedHat-based distros)
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
@@ -5153,7 +5158,7 @@
 - [lvillani/chai](https://github.com/lvillani/chai) - Don't let your Mac fall asleep, like a sir
 - [ProtonVPN/mac-app](https://github.com/ProtonVPN/mac-app) - Superseded by https://github.com/ProtonVPN/ios-mac-app
 - [ProtonVPN/ios-app](https://github.com/ProtonVPN/ios-app) - Superseded by https://github.com/ProtonVPN/ios-mac-app
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
@@ -5194,6 +5199,8 @@
 
 ## TypeScript 
 
+- [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
 - [lostintangent/gitdoc](https://github.com/lostintangent/gitdoc) - VS Code extension that allows you to edit a Git repo, like it's a multi-file, versioned document.
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
 - [dvcrn/obsidian-filename-heading-sync](https://github.com/dvcrn/obsidian-filename-heading-sync) - Obisdian.md plugin to keep the filename and the first header of the file in sync

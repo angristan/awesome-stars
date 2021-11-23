@@ -1172,7 +1172,7 @@
 - [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy
 - [lindenlab/caddy-s3-proxy](https://github.com/lindenlab/caddy-s3-proxy) - s3 proxy plugin for caddy
 - [mattn/go-nulltype](https://github.com/mattn/go-nulltype) - Null friendly types
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.
 - [hectane/go-nonblockingchan](https://github.com/hectane/go-nonblockingchan) - Non-blocking channel for Go
 - [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider
@@ -2861,7 +2861,7 @@
 
 ## Lua 
 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -3697,7 +3697,7 @@
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-- [MestreLion/git-tools](https://github.com/MestreLion/git-tools) - Assorted git-related scripts
+- [MestreLion/git-tools](https://github.com/MestreLion/git-tools) - Assorted git tools, including git-restore-mtime
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [prometheus/client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
 - [blackle/mastodon-data-viewer.py](https://github.com/blackle/mastodon-data-viewer.py) - a viewer for mastodon export data
@@ -5343,7 +5343,7 @@
 - [kisstkondoros/codemetrics](https://github.com/kisstkondoros/codemetrics) - VSCode extension which shows the complexity information for TypeScript class members
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
-- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - 📊📈 React components for Chart.js, the most popular charting library
+- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use](https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use) - JSON Parser written entirely in TypeScript's type system
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
 - [zxh0/vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3

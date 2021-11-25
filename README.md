@@ -1239,6 +1239,7 @@
 - [YoannMa/scaleway_exporter](https://github.com/YoannMa/scaleway_exporter) - Prometheus exporter for Scaleway Elements metrics (LB, Database).
 - [kirsch33/realip](https://github.com/kirsch33/realip) - realip module for Caddy v2
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
+- [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
 - [nmapx/revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - An agent to enable remote management of your EC2 instances, on-premises servers, or virtual machines (VMs).
@@ -2089,7 +2090,6 @@
 - [davidsawyer/airbnb-price-per-night-correcter](https://github.com/davidsawyer/airbnb-price-per-night-correcter) - Gives you the real price per night of an Airbnb stay after accounting for any and all fees
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [mold/explr](https://github.com/mold/explr) - Explr the world through music
-- [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
 - [thomaswangio/gatsby-plugin-feed-mdx](https://github.com/thomaswangio/gatsby-plugin-feed-mdx) - RSS feed plugin with MDX!
@@ -3428,7 +3428,7 @@
 - [rap2hpoutre/laravel-log-viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - :dromedary_camel: Laravel log viewer
 - [kristijanhusak/laravel-form-builder](https://github.com/kristijanhusak/laravel-form-builder) - Laravel Form builder for version 5+!
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
-- [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
+- [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
 - [elementor/hello-theme](https://github.com/elementor/hello-theme) - A plain-vanilla theme, best suited for building your site using Elementor plugin. This theme resets the environment and prepares it for smooth operation of Elementor.

@@ -177,7 +177,7 @@
 - [kdrag0n/touchpaint](https://github.com/kdrag0n/touchpaint) - An experimental Linux kernel module that demonstrates the lowest possible input latency on modern smartphones. Not for Android or production use.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [iciamyplant/Cub3d-Linux](https://github.com/iciamyplant/Cub3d-Linux) - This is my final 42's project Cub3d
+- [iciamyplant/Cub3d-Linux](https://github.com/iciamyplant/Cub3d-Linux) - This is my final 42's project Cub3d, using the ray-casting technique and C to create a Wolfenstein 3D-like game
 - [kerneis/hekate](https://github.com/kerneis/hekate) - Hekate, a highly-concurrent BitTorrent seeder
 - [AndersTrier/NAT-TCP-test](https://github.com/AndersTrier/NAT-TCP-test) - 
 - [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
@@ -976,6 +976,7 @@
 
 ## Go 
 
+- [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
 - [vartanbeno/go-reddit](https://github.com/vartanbeno/go-reddit) - Go library for accessing the Reddit API.
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [binance-chain/bsc](https://github.com/binance-chain/bsc) - A Binance Smart Chain client based on the go-ethereum fork
@@ -2400,7 +2401,7 @@
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [robiiinos/crypto-addr-lurker](https://github.com/robiiinos/crypto-addr-lurker) - Watch any address involved in transactions (incoming and outgoing) on a cryptocurrency network.
 - [flxwu/maintainerswanted.com](https://github.com/flxwu/maintainerswanted.com) - No time to maintain your open source project? Find a new maintainer!
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers
 - [dgraham/eslint-plugin-jquery](https://github.com/dgraham/eslint-plugin-jquery) - Disallow jQuery functions with native equivalents.
 - [ghuser-io/ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
@@ -4919,7 +4920,7 @@
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins.
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [geerlingguy/ansible-role-certbot](https://github.com/geerlingguy/ansible-role-certbot) - Ansible Role - Certbot (for Let's Encrypt)
 - [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.

@@ -976,6 +976,9 @@
 
 ## Go 
 
+- [othalla/plex_exporter](https://github.com/othalla/plex_exporter) - Prometheus exporter for Plex Media Server
+- [arnarg/plex_exporter](https://github.com/arnarg/plex_exporter) - A Prometheus exporter for a few metrics from Plex Media Server
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [egoist/bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases, interactively.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
@@ -985,7 +988,7 @@
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site.
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
-- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs!
+- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs!
 - [pkt-cash/pktd](https://github.com/pkt-cash/pktd) - The PKT full node and wallet
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [ariga/entcache](https://github.com/ariga/entcache) - Experimental cache driver for ent
@@ -2047,7 +2050,6 @@
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [squaremo/amqp.node](https://github.com/squaremo/amqp.node) - AMQP 0-9-1 library and client for Node.JS
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript
@@ -4393,6 +4395,7 @@
 
 ## Rust 
 
+- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 - [cjdelisle/packetcrypt_rs](https://github.com/cjdelisle/packetcrypt_rs) - PacketCrypt in Rust
@@ -4452,7 +4455,7 @@
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [lucky/bad_actor_poc](https://github.com/lucky/bad_actor_poc) - 
 - [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - The Rust Programming Language Blog
-- [darrenldl/reed-solomon-erasure](https://github.com/darrenldl/reed-solomon-erasure) - Rust implementation of Reed-Solomon erasure coding
+- [darrenldl/reed-solomon-erasure](https://github.com/darrenldl/reed-solomon-erasure) - [Looking for new owners/maintainers, see #88] Rust implementation of Reed-Solomon erasure coding
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 - [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
@@ -5261,7 +5264,7 @@
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [petli-full/json-to-yaml-and-more-vscode](https://github.com/petli-full/json-to-yaml-and-more-vscode) - convert the types: json, yaml, xml, csv, hjson, json5, ini, toml, and hocon.
-- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
+- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
 - [NiklasPor/prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) - Fixes prettier formatting for go templates 🐹
 - [JohnWeisz/TypedJSON](https://github.com/JohnWeisz/TypedJSON) - Typed JSON parsing and serializing for TypeScript that preserves type information.
 - [jwalton/node-amqp-connection-manager](https://github.com/jwalton/node-amqp-connection-manager) - Auto-reconnect and round robin support for amqplib.
@@ -5294,6 +5297,7 @@
 - [remjx/coindrop](https://github.com/remjx/coindrop) - The easiest way to accept donations & tips anywhere
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
 - [KnisterPeter/vscode-github](https://github.com/KnisterPeter/vscode-github) - :octocat: GitHub Support for vscode
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code

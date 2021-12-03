@@ -1985,6 +1985,7 @@
 
 ## JavaScript 
 
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - 😋 Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.
 - [formsend/nano](https://github.com/formsend/nano) - NANO Payment Checking API & Username Service.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
@@ -2873,6 +2874,7 @@
 
 ## Lua 
 
+- [ArchiveTeam/youtube-dislikes-grab](https://github.com/ArchiveTeam/youtube-dislikes-grab) - Archiving general youtube video metadata through innertube for dislikes removal.
 - [haproxytech/haproxy-lua-acme](https://github.com/haproxytech/haproxy-lua-acme) - 
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
@@ -3279,7 +3281,6 @@
 - [supercomputra/SF-Mono-Font](https://github.com/supercomputra/SF-Mono-Font) - SF Mono Font
 - [nikrolls/uBlock-Edge](https://github.com/nikrolls/uBlock-Edge) - uBlock Origin - An efficient blocker for Chromium, Firefox and Edge. Fast and lean.
 - [devRant/devRant](https://github.com/devRant/devRant) - 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [sp614x/optifine](https://github.com/sp614x/optifine) - 
 - [rubocop/ruby-style-guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide
@@ -4401,6 +4402,7 @@
 
 ## Rust 
 
+- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
@@ -4682,7 +4684,7 @@
 - [robcowart/elastiflow](https://github.com/robcowart/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [jedisct1/bitbar-dnscrypt-proxy-switcher](https://github.com/jedisct1/bitbar-dnscrypt-proxy-switcher) - BitBar plugin to control dnscrypt-proxy usage
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerlline, written purely in bash.
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [oracle/centos2ol](https://github.com/oracle/centos2ol) - Script and documentation to switch CentOS Linux to Oracle Linux
 - [remyleone/scw-s3-action](https://github.com/remyleone/scw-s3-action) - 
@@ -5558,6 +5560,7 @@
 - [quantumsheep/vscode-esgiheader](https://github.com/quantumsheep/vscode-esgiheader) - ESGI header for VSCode https://www.esgi.fr
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [miniorg/miniverse](https://github.com/miniorg/miniverse) - Miniverse is a microblogging software.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code

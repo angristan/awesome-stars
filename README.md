@@ -180,7 +180,6 @@
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [kdrag0n/touchpaint](https://github.com/kdrag0n/touchpaint) - An experimental Linux kernel module that demonstrates the lowest possible input latency on modern smartphones. Not for Android or production use.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [iciamyplant/Cub3d-Linux](https://github.com/iciamyplant/Cub3d-Linux) - This is my final 42's project Cub3d, using the ray-casting technique and C to create a Wolfenstein 3D-like game
 - [kerneis/hekate](https://github.com/kerneis/hekate) - Hekate, a highly-concurrent BitTorrent seeder
 - [AndersTrier/NAT-TCP-test](https://github.com/AndersTrier/NAT-TCP-test) - 
@@ -980,6 +979,7 @@
 
 ## Go 
 
+- [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 - [thoas/go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
@@ -1227,6 +1227,7 @@
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [asvvvad1/exchange](https://github.com/asvvvad1/exchange) - Go library for getting current and historical exchange rates, Forex and Crypto currency conversion with no authentication using Free foreign exchange rates API
 - [piquette/finance-go](https://github.com/piquette/finance-go) - :bar_chart: Financial markets data library implemented in go.
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [mattevans/dinero](https://github.com/mattevans/dinero) - 📈 💰 A golang interface for the Open Exchange Rates API
 - [jszwec/s3fs](https://github.com/jszwec/s3fs) - S3 FileSystem (fs.FS) implementation
 - [modfy/go-fluent-ffmpeg](https://github.com/modfy/go-fluent-ffmpeg) - A Go implementation of fluent-ffmpeg
@@ -1449,7 +1450,7 @@
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) - Official command line tool for Vultr services
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [JonasProgrammer/docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) - Docker machine driver for the new hetzner cloud API
 - [square/certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats
@@ -1868,6 +1869,7 @@
 
 ## Java 
 
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [mynttt/UpdateTool](https://github.com/mynttt/UpdateTool) - A tool to update the IMDB ratings for Plex libraries that contain movies/series and use the IMDB agent to receive ratings

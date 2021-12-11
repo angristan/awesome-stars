@@ -979,6 +979,7 @@
 
 ## Go 
 
+- [stripe/smokescreen](https://github.com/stripe/smokescreen) - A simple HTTP proxy that fogs over naughty URLs
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
@@ -1872,6 +1873,7 @@
 
 ## Java 
 
+- [tangxiaofeng7/apache-log4j-poc](https://github.com/tangxiaofeng7/apache-log4j-poc) - Apache Log4j 远程代码执行
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.

@@ -1054,7 +1054,7 @@
 - [rs/dnscache](https://github.com/rs/dnscache) - DNS lookup cache for Go
 - [minvws/nl-covid19-testvac-qr-core](https://github.com/minvws/nl-covid19-testvac-qr-core) - This is a proof of concept (PoC) for creating a QR code system for proving that one has had a valid vaccination record
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [florensie/hcloud-snapshot-backup](https://github.com/florensie/hcloud-snapshot-backup) - Hetzner Cloud backups but cheaper thanks to snapshots
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted, cross-platform service to sign and install iOS apps, all without a computer
@@ -1627,7 +1627,7 @@
 - [lxc/lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [zpeters/speedtest](https://github.com/zpeters/speedtest) - Command line client for speedtest.net written in Go
-- [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
+- [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website.
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [kabukky/journey](https://github.com/kabukky/journey) - A blog engine written in Go, compatible with Ghost themes.
@@ -1873,7 +1873,7 @@
 
 ## Java 
 
-- [tangxiaofeng7/apache-log4j-poc](https://github.com/tangxiaofeng7/apache-log4j-poc) - Apache Log4j 远程代码执行
+- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
@@ -2088,7 +2088,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1663-Stars](https://github.com/RealPeha/This-Repo-Has-1663-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -4315,7 +4315,7 @@
 - [ansible/ansible-for-rubyists](https://github.com/ansible/ansible-for-rubyists) - Ansible is written in Python, but you can write modules in any language.  Here are some Ruby examples to get you started.
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [elastic/ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) - Ansible playbook for Elasticsearch
-- [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
+- [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
 - [dblock/slack-moji](https://github.com/dblock/slack-moji) - You don't have enough emoji on Slack.
 - [jcs/rubywarden](https://github.com/jcs/rubywarden) - An unofficial, mostly Bitwarden-compatible API server written in Ruby (Sinatra and ActiveRecord)
@@ -5575,7 +5575,7 @@
 - [quantumsheep/vscode-esgiheader](https://github.com/quantumsheep/vscode-esgiheader) - ESGI header for VSCode https://www.esgi.fr
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [miniorg/miniverse](https://github.com/miniorg/miniverse) - Miniverse is a microblogging software.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code

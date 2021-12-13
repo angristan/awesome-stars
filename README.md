@@ -3740,7 +3740,7 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
-- [jbarlow83/OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [nanocurrency/nano_prom_exporter](https://github.com/nanocurrency/nano_prom_exporter) - Prometheus Exporter for nano_node
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [pyroscope/pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
@@ -5165,7 +5165,7 @@
 - [TwidereProject/TwidereX-iOS](https://github.com/TwidereProject/TwidereX-iOS) - Next generation of Twidere for iOS.
 - [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
 - [ricoberger/Alertmanager](https://github.com/ricoberger/Alertmanager) - Alertmanager for macOS.
-- [ccrama/Slide-iOS](https://github.com/ccrama/Slide-iOS) - A powerful new way to Reddit on iOS
+- [Haptic-Apps/Slide-iOS](https://github.com/Haptic-Apps/Slide-iOS) - A powerful new way to Reddit on iOS
 - [neilalexander/seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [xshitaka/qrcreator](https://github.com/xshitaka/qrcreator) - QR Creator allows you to create personalised QR Codes in a few seconds

@@ -980,6 +980,7 @@
 
 ## Go 
 
+- [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
 - [kmikiy/go-icloud-private-relay](https://github.com/kmikiy/go-icloud-private-relay) - Detect iCloud Private Relay IP Addresses
 - [stripe/smokescreen](https://github.com/stripe/smokescreen) - A simple HTTP proxy that fogs over naughty URLs
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -2092,7 +2093,7 @@
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 43 stars 6 forks.
 - [RealPeha/This-Repo-Has-1663-Stars](https://github.com/RealPeha/This-Repo-Has-1663-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -3691,6 +3692,9 @@
 
 ## Python 
 
+- [dvorjackz/MarioRL](https://github.com/dvorjackz/MarioRL) - Deep double Q-learning to help Mario beat Super Mario Bros on SNES
+- [marblexu/PythonSuperMario](https://github.com/marblexu/PythonSuperMario) - SuperMarioBros game written by python (support level 1-1 to level 1-4)
+- [Kautenja/gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros) - An OpenAI Gym interface to Super Mario Bros. & Super Mario Bros. 2 (Lost Levels) on The NES
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
@@ -5097,6 +5101,7 @@
 
 ## Swift 
 
+- [lujjjh/LinearMouse](https://github.com/lujjjh/LinearMouse) - For macOS mouse users.
 - [nerdsupremacist/Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps.   100% in SwiftUI.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
@@ -5244,6 +5249,7 @@
 
 ## TypeScript 
 
+- [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - 🧰 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.

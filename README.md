@@ -980,6 +980,7 @@
 
 ## Go 
 
+- [gamalan/caddy-tlsredis](https://github.com/gamalan/caddy-tlsredis) - Redis Storage using for Caddy TLS Data
 - [bouk/monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
@@ -1248,7 +1249,7 @@
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 - [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
-- [distribyted/distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
+- [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with on-demand file downloading as a filesystem.
 - [Sioro-Neoku/go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Go Peerflix
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -1879,6 +1880,7 @@
 
 ## Java 
 
+- [WorldQL/mammoth](https://github.com/WorldQL/mammoth) - 
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
@@ -2031,7 +2033,7 @@
 - [lesiki/google-meet-default-account](https://github.com/lesiki/google-meet-default-account) - Chrome extension to set the default Google account for Google Meet links
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
-- [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - A free, lightweight, open source alternative to iTunes and other Apple Music applications based on Electron 15
+- [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Sunsetting soon. See Cider for more info https://github.com/ciderapp/Cider
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [donavon/use-dark-mode](https://github.com/donavon/use-dark-mode) - A custom React Hook to help you implement a "dark mode" component.
 - [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome React component
@@ -2095,7 +2097,7 @@
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 43 stars 6 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 43 stars 7 forks.
 - [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -5253,6 +5255,7 @@
 
 ## TypeScript 
 
+- [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - 🧰 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
@@ -5703,6 +5706,7 @@
 
 ## Vue 
 
+- [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.

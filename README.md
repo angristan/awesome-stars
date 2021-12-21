@@ -76,6 +76,7 @@
   - [R](#r)
   - [ReScript](#rescript)
   - [Reason](#reason)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -697,6 +698,7 @@
 - [twitter/vireo](https://github.com/twitter/vireo) - Vireo is a lightweight and versatile video processing library written in C++11
 - [PIVX-Project/PIVX](https://github.com/PIVX-Project/PIVX) - Protected Instant Verified Transactions - Core wallet.
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [OtterBrowser/otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
 - [gort818/qtwebflix](https://github.com/gort818/qtwebflix) - A qt webengine program  for netflix
@@ -980,6 +982,7 @@
 
 ## Go 
 
+- [nikgalushko/fx](https://github.com/nikgalushko/fx) - Fx is a useful functional programming helpers.
 - [gamalan/caddy-tlsredis](https://github.com/gamalan/caddy-tlsredis) - Redis Storage using for Caddy TLS Data
 - [bouk/monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
@@ -1312,7 +1315,7 @@
 - [distatus/battery](https://github.com/distatus/battery) - cross-platform, normalized battery information library
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -4231,6 +4234,10 @@
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
+## Roff 
+
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+
 ## Ruby 
 
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
@@ -4675,7 +4682,7 @@
 
 ## Scala 
 
-- [LEGO/woof](https://github.com/LEGO/woof) - A pure Scala logging library with no reflection
+- [LEGO/woof](https://github.com/LEGO/woof) - A pure Scala 3 logging library with no reflection
 - [scalameta/metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
 - [librecaptcha/lc-core](https://github.com/librecaptcha/lc-core) - The LibreCaptcha framework, for self-hosted, privacy respecting CAPTCHAs
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
@@ -4907,7 +4914,6 @@
 - [thefederationinfo/federation-tests](https://github.com/thefederationinfo/federation-tests) - WE MOVED TO FENEAS
 - [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish from Zsh.fish theme prompt fish-theme fish-prompt
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
 - [friendica/docker](https://github.com/friendica/docker) - Docker image for Friendica
@@ -5007,7 +5013,6 @@
 - [afontenot/firefox-clean](https://github.com/afontenot/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 - [rogalmic/vscode-bash-debug](https://github.com/rogalmic/vscode-bash-debug) - Bash shell debugger extension for VSCode (based on bashdb)
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [denysvitali/linux-on-pixel-c](https://github.com/denysvitali/linux-on-pixel-c) - Documentation on how to run a Linux Distro on the Google Pixel C (2015)
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script

@@ -4445,6 +4445,7 @@
 
 ## Rust 
 
+- [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [Sh4d1/aoc2021](https://github.com/Sh4d1/aoc2021) - 
 - [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 

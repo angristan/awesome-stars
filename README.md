@@ -149,7 +149,7 @@
 ## Blade 
 
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [laravel/laravel.com-next](https://github.com/laravel/laravel.com-next) - 
+- [laravel/laravel.com](https://github.com/laravel/laravel.com) - 
 
 ## C 
 
@@ -5300,7 +5300,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [scaleway/scaleway-ui-website](https://github.com/scaleway/scaleway-ui-website) - Open Source Component Library
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [z0ccc/Reddit-Wherever](https://github.com/z0ccc/Reddit-Wherever) - Reddit Wherever Browser Extension
+- [z0ccc/Upvote-Anywhere](https://github.com/z0ccc/Upvote-Anywhere) - Upvote Anywhere Browser Extension
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [kyleawayan/vintage-influxdb](https://github.com/kyleawayan/vintage-influxdb) - Record your Spotify listening data on InfluxDB.

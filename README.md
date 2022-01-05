@@ -982,6 +982,7 @@
 
 ## Go 
 
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
 - [golang-queue/queue](https://github.com/golang-queue/queue) - Queue is a Golang library for spawning and managing a Goroutine pool
 - [slok/go-http-metrics](https://github.com/slok/go-http-metrics) - Go modular http middleware to measure HTTP requests independent of metrics backend (with Prometheus and OpenCensus as backend implementations) and http framework/library
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -2147,7 +2148,7 @@
 - [khanhas/Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
 - [MathRobin/Never-Consent](https://github.com/MathRobin/Never-Consent) - Never consent to any GDPR consent management platform
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - full text search archive from your browsing and bookmarks. Welcome, Weclome!--to "the diskernet": an internet on yer disk. Disconnect with DiskerNet, an internet for the post-online apocalypse.
+- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - Your preferred backup solution. It's like you're still online! Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet: an internet on yer disk. Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [smooth-code/smooth.js](https://github.com/smooth-code/smooth.js) - Code driven CMS powered by GraphQL & React.
@@ -2344,7 +2345,7 @@
 - [szmarczak/http2-wrapper](https://github.com/szmarczak/http2-wrapper) - Use HTTP/2 the same way like HTTP/1
 - [uploadexpress/app](https://github.com/uploadexpress/app) - ⬆️ An open-source file sharing software built in React and Go
 - [vodkhard/vodeclic-fastpass](https://github.com/vodkhard/vodeclic-fastpass) - Chrome extension for speedup your vodeclic formation
-- [aws-samples/aws-reinvent-2019-trivia-game](https://github.com/aws-samples/aws-reinvent-2019-trivia-game) - Sample trivia game built with AWS Fargate. See https://www.reinvent-trivia.com
+- [aws-samples/aws-reinvent-trivia-game](https://github.com/aws-samples/aws-reinvent-trivia-game) - Sample trivia game built with AWS Fargate. See https://www.reinvent-trivia.com
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
@@ -2500,7 +2501,6 @@
 - [deiu/solid-plume](https://github.com/deiu/solid-plume) - Plume, a Solid blog platform!
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 - [visionmedia/supertest](https://github.com/visionmedia/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -3058,6 +3058,7 @@
 
 ## Others 
 
+- [holman/extended-exercise-windows](https://github.com/holman/extended-exercise-windows) - A list of startups that have employee-friendly terms for exercising your options past 90 days.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
 - [Mindinventory/Mindful-SWIFT-Animation-Library](https://github.com/Mindinventory/Mindful-SWIFT-Animation-Library) - Collection of Beautiful Open Source SWIFT Animation Libraries and Demos

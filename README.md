@@ -2042,7 +2042,7 @@
 - [lesiki/google-meet-default-account](https://github.com/lesiki/google-meet-default-account) - Chrome extension to set the default Google account for Google Meet links
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
-- [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Sunsetting soon. See Cider for more info https://github.com/ciderapp/Cider
+- [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [donavon/use-dark-mode](https://github.com/donavon/use-dark-mode) - A custom React Hook to help you implement a "dark mode" component.
 - [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome React component
@@ -2107,7 +2107,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1661-Stars](https://github.com/RealPeha/This-Repo-Has-1661-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -5726,7 +5726,7 @@
 ## Vue 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
 - [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.

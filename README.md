@@ -2149,7 +2149,7 @@
 - [khanhas/Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
 - [MathRobin/Never-Consent](https://github.com/MathRobin/Never-Consent) - Never consent to any GDPR consent management platform
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - Your preferred backup solution. It's like you're still online! Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet: an internet on yer disk. Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename) ;P ;) xx;p
+- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [smooth-code/smooth.js](https://github.com/smooth-code/smooth.js) - Code driven CMS powered by GraphQL & React.
@@ -5127,7 +5127,7 @@
 
 ## Swift 
 
-- [lujjjh/LinearMouse](https://github.com/lujjjh/LinearMouse) - For macOS mouse users.
+- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - For macOS mouse users.
 - [nerdsupremacist/Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps.   100% in SwiftUI.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS

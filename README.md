@@ -981,6 +981,7 @@
 
 ## Go 
 
+- [erik-adelbert/aoc](https://github.com/erik-adelbert/aoc) - advent of code
 - [pachyderm/s2](https://github.com/pachyderm/s2) - Create s3-compatible APIs with ease
 - [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
 - [golang-queue/queue](https://github.com/golang-queue/queue) - Queue is a Golang library for spawning and managing a Goroutine pool
@@ -5329,7 +5330,7 @@
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [petli-full/json-to-yaml-and-more-vscode](https://github.com/petli-full/json-to-yaml-and-more-vscode) - convert the types: json, yaml, xml, csv, hjson, json5, ini, toml, and hocon.
-- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites, faster. 🚀🧑‍🚀✨
 - [NiklasPor/prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) - Fixes prettier formatting for go templates 🐹
 - [JohnWeisz/TypedJSON](https://github.com/JohnWeisz/TypedJSON) - Typed JSON parsing and serializing for TypeScript that preserves type information.
 - [jwalton/node-amqp-connection-manager](https://github.com/jwalton/node-amqp-connection-manager) - Auto-reconnect and round robin support for amqplib.

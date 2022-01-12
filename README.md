@@ -5277,7 +5277,7 @@
 
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
-- [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - 🧰 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
+- [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
@@ -5759,6 +5759,7 @@
 
 ## Zig 
 
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 
 

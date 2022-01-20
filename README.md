@@ -1136,7 +1136,7 @@
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go]
 - [auxten/go-sqldb](https://github.com/auxten/go-sqldb) - A pure golang SQL database for database theory research
 - [pokemium/magia](https://github.com/pokemium/magia) - magia is a toy GBA emulator written in golang.
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [Sh4d1/scaleway-k8s-node-coffee](https://github.com/Sh4d1/scaleway-k8s-node-coffee) - 
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [commander-cli/cmd](https://github.com/commander-cli/cmd) - A simple package to execute shell commands on linux, windows and osx
@@ -2852,6 +2852,7 @@
 
 ## Jupyter Notebook 
 
+- [Kautenja/playing-mario-with-deep-reinforcement-learning](https://github.com/Kautenja/playing-mario-with-deep-reinforcement-learning) - An implementation of (Double/Dueling) Deep-Q Learning to play Super Mario Bros.
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 - [Seagate/cortx](https://github.com/Seagate/cortx) - CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
@@ -3064,6 +3065,7 @@
 
 ## Others 
 
+- [egor-tensin/setup-wireguard](https://github.com/egor-tensin/setup-wireguard) - GitHub action to set up WireGuard
 - [holman/extended-exercise-windows](https://github.com/holman/extended-exercise-windows) - A list of startups that have employee-friendly terms for exercising your options past 90 days.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
@@ -3715,6 +3717,8 @@
 
 ## Python 
 
+- [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+- [Naereen/gym-nes-mario-bros](https://github.com/Naereen/gym-nes-mario-bros) - 🐍 🏋 OpenAI GYM for Nintendo NES emulator FCEUX and 1983 game Mario Bros. + Double Q Learning for mastering the game
 - [rycus86/prometheus_flask_exporter](https://github.com/rycus86/prometheus_flask_exporter) - Prometheus exporter for Flask applications
 - [nitred/nr-wg-mtu-finder](https://github.com/nitred/nr-wg-mtu-finder) - 
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
@@ -4255,6 +4259,7 @@
 
 ## Ruby 
 
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [tifhair/tifhair-tools](https://github.com/tifhair/tifhair-tools) - 

@@ -2011,6 +2011,7 @@
 
 ## JavaScript 
 
+- [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [francoismari/elyze](https://github.com/francoismari/elyze) - 
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [quantumsheep/qtmsheep.com](https://github.com/quantumsheep/qtmsheep.com) - My personal website
@@ -2870,7 +2871,7 @@
 
 - [awslabs/aws-sdk-kotlin](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
-- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [happysingh23828/Android-Clean-Architecture](https://github.com/happysingh23828/Android-Clean-Architecture) - This is a sample movie list Android application built to demonstrate use of Clean Architecture tools. Dedicated to all Android Developers - (Kotlin, MVVM, Clean Architecture, Rx-Java, Dagger, OkHttp, Unit Testing, SOLID principles, Code Coverage)
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 - [JetBrains/projector-client](https://github.com/JetBrains/projector-client) - Common and client-related code for running Swing applications remotely
@@ -4261,6 +4262,7 @@
 
 ## Ruby 
 
+- [penso/test-s3-direct-upload](https://github.com/penso/test-s3-direct-upload) - Benchmark for S3 direct uploads for AWS, GCP and Scaleway
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
@@ -4461,6 +4463,7 @@
 
 ## Rust 
 
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [Sh4d1/aoc2021](https://github.com/Sh4d1/aoc2021) - 
@@ -5140,6 +5143,7 @@
 
 ## Swift 
 
+- [marpies/protonmail-macos](https://github.com/marpies/protonmail-macos) - Experimental email client for the ProtonMail service written in Swift.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - For macOS mouse users.
 - [nerdsupremacist/Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps.   100% in SwiftUI.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar

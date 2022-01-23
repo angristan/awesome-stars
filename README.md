@@ -983,6 +983,7 @@
 
 ## Go 
 
+- [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
 - [erik-adelbert/aoc](https://github.com/erik-adelbert/aoc) - advent of code
 - [pachyderm/s2](https://github.com/pachyderm/s2) - Create s3-compatible APIs with ease

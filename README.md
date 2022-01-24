@@ -983,6 +983,7 @@
 
 ## Go 
 
+- [ProtonMail/gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
 - [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
 - [erik-adelbert/aoc](https://github.com/erik-adelbert/aoc) - advent of code
@@ -2114,7 +2115,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1661-Stars](https://github.com/RealPeha/This-Repo-Has-1661-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -2831,6 +2832,7 @@
 - [Sh4d1/k8s-infra](https://github.com/Sh4d1/k8s-infra) - 
 - [DataDog/ansible-datadog](https://github.com/DataDog/ansible-datadog) - Ansible role for Datadog Agent
 - [cloudalchemy/ansible-alertmanager](https://github.com/cloudalchemy/ansible-alertmanager) - Deploy Prometheus Alertmanager service
+- [cloudalchemy/ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [geerlingguy/ansible-role-composer](https://github.com/geerlingguy/ansible-role-composer) - Ansible Role - Composer PHP Dependency Manager
@@ -3973,7 +3975,6 @@
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [cloudalchemy/ansible-blackbox-exporter](https://github.com/cloudalchemy/ansible-blackbox-exporter) - Blackbox prober exporter
-- [cloudalchemy/ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [jkjuopperi/zettatools](https://github.com/jkjuopperi/zettatools) - Solaris ZFS monitoring tools
 - [ansible/test-playbooks](https://github.com/ansible/test-playbooks) - playbook-tests
 - [Giphy/celeb-detection-oss](https://github.com/Giphy/celeb-detection-oss) - GIPHY's Open-Source Celebrity Detection Deep Learning Model
@@ -5419,7 +5420,7 @@
 - [pancakeswap/pancake-swap-interface-v1](https://github.com/pancakeswap/pancake-swap-interface-v1) - :pancakes: Pancake trading interface V1
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-- [robinmetral/gatsby-source-s3](https://github.com/robinmetral/gatsby-source-s3) - A Gatsby plugin to source objects and images from AWS S3. Compatible with Gatsby v4.
+- [gatsby-uc/gatsby-source-s3](https://github.com/gatsby-uc/gatsby-source-s3) - A Gatsby plugin to source objects and images from AWS S3. Compatible with Gatsby v4.
 - [jessestuart/gatsby-source-s3-image](https://github.com/jessestuart/gatsby-source-s3-image) - GatsbyJS plugin to source images from S3-compliant APIs, with EXIF-extracting superpowers.
 - [EqualMa/gitpkg](https://github.com/EqualMa/gitpkg) - use a sub directory of a github repo as yarn / npm dependency directly
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js

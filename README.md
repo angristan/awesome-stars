@@ -1060,7 +1060,7 @@
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
-- [cubeFS/chubaofs](https://github.com/cubeFS/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS (abbrev. CBFS) is a cloud native distributed file system and object store.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [digitalocean/droplet-agent](https://github.com/digitalocean/droplet-agent) - Droplet Agent is the daemon that runs on customer droplets to enable some features such as web console access.
@@ -1152,7 +1152,7 @@
 - [jgrahamc/webwatch](https://github.com/jgrahamc/webwatch) - Small program to download a web page, see if a string appears in it and send email if it does
 - [streadway/amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [imroc/req](https://github.com/imroc/req) - a restful golang http client with superpower for humans
+- [imroc/req](https://github.com/imroc/req) - Simplified golang http client library with magic, happy sending requests, less code and more efficiency.
 - [openzipkin/zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin distributed tracing library for go.
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -2260,7 +2260,7 @@
 - [tegon/traktflix](https://github.com/tegon/traktflix) - Trakt.tv + Netflix = :heart:
 - [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker) - The worker that serves Cloudflare's security.txt!
 - [arkadiyt/zoom-redirector](https://github.com/arkadiyt/zoom-redirector) - Zoom Redirector is a browser extension that transparently redirects any meeting links to use Zoom's browser based web client.
-- [moedevs/hifumi.io](https://github.com/moedevs/hifumi.io) - 🚀 New Game! fan site made by the new game discord community
+- [moedevs/new-game-website](https://github.com/moedevs/new-game-website) - 🚀 New Game! fan site made by the new game discord community
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
@@ -5042,7 +5042,7 @@
 - [anjaraeu/nocdn](https://github.com/anjaraeu/nocdn) - Self-hosted alternative to CDNs.
 - [hardware/nsd-dnssec](https://github.com/hardware/nsd-dnssec) - :warning: UNMAINTAINED -Simple authoritative name server with DNSSEC support using Docker
 - [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
-- [staticsafe/mastible](https://github.com/staticsafe/mastible) - An Ansible playbook to install Mastodon
+- [packetbiral/mastible](https://github.com/packetbiral/mastible) - An Ansible playbook to install Mastodon
 - [afontenot/firefox-clean](https://github.com/afontenot/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 - [rogalmic/vscode-bash-debug](https://github.com/rogalmic/vscode-bash-debug) - Bash shell debugger extension for VSCode (based on bashdb)

@@ -985,6 +985,7 @@
 
 ## Go 
 
+- [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [Mathieu-Desrochers/Learning-Go](https://github.com/Mathieu-Desrochers/Learning-Go) - Minimal working examples of Go's unique features.
 - [ProtonMail/gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
 - [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
@@ -1153,7 +1154,7 @@
 - [jgrahamc/webwatch](https://github.com/jgrahamc/webwatch) - Small program to download a web page, see if a string appears in it and send email if it does
 - [streadway/amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [imroc/req](https://github.com/imroc/req) - Simplified golang http client library with magic, happy sending requests, less code and more efficiency.
+- [imroc/req](https://github.com/imroc/req) - Simplified Golang HTTP client library with Black Magic, Less Code and More Efficiency
 - [openzipkin/zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin distributed tracing library for go.
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -2673,7 +2674,6 @@
 - [stellarterm/stellarterm](https://github.com/stellarterm/stellarterm) - Advanced web based trading client for the Stellar network. 📈📊💹💱
 - [ArkEcosystemArchive/ark-node](https://github.com/ArkEcosystemArchive/ark-node) - :money_with_wings: CryptoCurrency for all
 - [ripplerm/ripple-wallet](https://github.com/ripplerm/ripple-wallet) - 
-- [input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) - The open source cryptocurrency wallet for ada, built to grow with the community
 - [ToastWallet/core](https://github.com/ToastWallet/core) - This repo contains the core code for Toast Wallet. It is built for iOS, Android and browser directly from this repository. PC builds are built from the browser version using Electron.
 - [kewitz/dat-medium](https://github.com/kewitz/dat-medium) - P2P Markdown Blog for Beaker inspired by Medium.
 - [EtherbitHQ/donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
@@ -4638,7 +4638,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
-- [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [svenstaro/memefs](https://github.com/svenstaro/memefs) - Mount your memes using FUSE
@@ -5658,6 +5658,7 @@
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [ArkEcosystem/desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
+- [input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) - The open source cryptocurrency wallet for ada, built to grow with the community
 - [aitboudad/ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
 - [icewind1991/files_markdown](https://github.com/icewind1991/files_markdown) - Nextcloud markdown editor

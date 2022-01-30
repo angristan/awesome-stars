@@ -986,6 +986,7 @@
 
 ## Go 
 
+- [toolctl/toolctl](https://github.com/toolctl/toolctl) - The tool to control your tools
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [Mathieu-Desrochers/Learning-Go](https://github.com/Mathieu-Desrochers/Learning-Go) - Minimal working examples of Go's unique features.
 - [ProtonMail/gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
@@ -2679,7 +2680,7 @@
 - [kewitz/dat-medium](https://github.com/kewitz/dat-medium) - P2P Markdown Blog for Beaker inspired by Medium.
 - [EtherbitHQ/donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [mastodon/joinmastodon](https://github.com/mastodon/joinmastodon) - Moved to https://source.joinmastodon.org/mastodon/joinmastodon
+- [mastodon/joinmastodon](https://github.com/mastodon/joinmastodon) - 
 - [Multibit-Legacy/read-multibit-wallet-file](https://github.com/Multibit-Legacy/read-multibit-wallet-file) - A simple command line tool that exports the private Keys from a Multibit wallet file. The reason this tool exists is because Multibit is out of date and has known bugs. Exporting the private keys or wallet words from Multibit and importing them into another wallet may be the only effective way to access your funds.
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
@@ -3045,7 +3046,7 @@
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client
 - [ReticentJohn/Amaroq](https://github.com/ReticentJohn/Amaroq) - A floofy Mastodon companion for iOS
-- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Frugal and native macOS Syncthing application bundle
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [dessibelle/Blue-Screen-Saver](https://github.com/dessibelle/Blue-Screen-Saver) - Beloved Windows feature - now on OS X
 - [fcanas/mirror-displays](https://github.com/fcanas/mirror-displays) - A Mac app and command-line tool for fiddling with display mirroring: on/off/toggle
@@ -3529,7 +3530,7 @@
 - [SagarMaheshwary/laravel-basics](https://github.com/SagarMaheshwary/laravel-basics) - Laravel project tutorial code for beginners.
 - [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 - [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
-- [VasylTech/flarum-algolia-search](https://github.com/VasylTech/flarum-algolia-search) - Replaces the default Flarum forum search with Algolia search
+- [vasyltech/flarum-algolia-search](https://github.com/vasyltech/flarum-algolia-search) - Replaces the default Flarum forum search with Algolia search
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [spatie/async](https://github.com/spatie/async) - Easily run code asynchronously
 - [TimWolla/docker-adminer](https://github.com/TimWolla/docker-adminer) - Database management in a single PHP file
@@ -4538,7 +4539,7 @@
 - [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - The Rust Programming Language Blog
 - [rust-rse/reed-solomon-erasure](https://github.com/rust-rse/reed-solomon-erasure) - [Looking for new owners/maintainers, see #88] Rust implementation of Reed-Solomon erasure coding
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [oconnor663/duct.rs](https://github.com/oconnor663/duct.rs) - a Rust library for running child processes
@@ -4705,7 +4706,7 @@
 - [linuxfrorg/linuxfr.org](https://github.com/linuxfrorg/linuxfr.org) - The new version of LinuxFr.org will be in Ruby on Rails. It was NoNo's resolution for 2009 (well, achieved!). You may add other enhancements at http://linuxfr.org/suivi/ as you have a look at the  website
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [dxprog/anime-bracket](https://github.com/dxprog/anime-bracket) - The code that runs animebracket.com
-- [mastodon/documentation](https://github.com/mastodon/documentation) - Full documentation repository for Mastodon
+- [mastodon/documentation](https://github.com/mastodon/documentation) - 
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [zutrinken/bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 
@@ -5150,7 +5151,7 @@
 ## Swift 
 
 - [marpies/protonmail-macos](https://github.com/marpies/protonmail-macos) - Experimental email client for the ProtonMail service written in Swift.
-- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - For macOS mouse users.
+- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - LinearMouse is a free and open-source utility for macOS which aims to improve the experience and functionality of third-party mice.
 - [nerdsupremacist/Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps.   100% in SwiftUI.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS

@@ -554,6 +554,7 @@
 
 ## C++ 
 
+- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
 - [cetic/unikernels](https://github.com/cetic/unikernels) - Unikernel and immutable infrastructures
 - [AndreaOrru/LaiNES](https://github.com/AndreaOrru/LaiNES) - Cycle-accurate NES emulator in ~1000 lines of code
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
@@ -1897,6 +1898,7 @@
 
 ## Java 
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense game
 - [WorldQL/mammoth](https://github.com/WorldQL/mammoth) - Scale a single world horizontally across multiple Minecraft servers.
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
@@ -2018,6 +2020,7 @@
 
 ## JavaScript 
 
+- [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [francoismari/elyze](https://github.com/francoismari/elyze) - 
@@ -4471,6 +4474,7 @@
 
 ## Rust 
 
+- [quantumsheep/godbox](https://github.com/quantumsheep/godbox) - Secure sandboxing system for untrusted code execution
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis

@@ -153,6 +153,7 @@
 
 ## C 
 
+- [intel/haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [open-iscsi/tcmu-runner](https://github.com/open-iscsi/tcmu-runner) - A daemon that handles the userspace side of the LIO TCM-User backstore.
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
 - [cyrusimap/cyrus-imapd](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server
@@ -990,6 +991,7 @@
 
 ## Go 
 
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [simukti/sqldb-logger](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modifying existing *sql.DB stdlib usage.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [toolctl/toolctl](https://github.com/toolctl/toolctl) - The tool to control your tools

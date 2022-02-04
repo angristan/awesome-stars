@@ -991,6 +991,7 @@
 
 ## Go 
 
+- [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Graphical command line client for SSH
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [simukti/sqldb-logger](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modifying existing *sql.DB stdlib usage.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
@@ -1072,7 +1073,7 @@
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS (abbrev. CBFS) is a cloud native distributed file system and object store.
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS is a cloud native distributed file system and object store.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [digitalocean/droplet-agent](https://github.com/digitalocean/droplet-agent) - Droplet Agent is the daemon that runs on customer droplets to enable some features such as web console access.
@@ -5685,7 +5686,7 @@
 - [atom-community/markdown-preview-plus](https://github.com/atom-community/markdown-preview-plus) - Markdown Preview + Community Features
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
-- [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity. https://pixiv.moe
+- [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
 - [styfle/magnemite](https://github.com/styfle/magnemite) - ⏺️ Capture repro steps with this screen recorder for websites, powered by Electron
 - [duniter/duniter](https://github.com/duniter/duniter) - Crypto-currency software to manage libre currency such as Ğ1. Mirror of:
 - [Jazqa/kwin-quarter-tiling](https://github.com/Jazqa/kwin-quarter-tiling) - An easy tiling script for KWin

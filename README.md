@@ -153,6 +153,7 @@
 
 ## C 
 
+- [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [intel/haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [open-iscsi/tcmu-runner](https://github.com/open-iscsi/tcmu-runner) - A daemon that handles the userspace side of the LIO TCM-User backstore.
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
@@ -991,6 +992,7 @@
 
 ## Go 
 
+- [fraenky8/tables-to-go](https://github.com/fraenky8/tables-to-go) - convert your database tables to structs easily
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [simukti/sqldb-logger](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modifying existing *sql.DB stdlib usage.
@@ -1050,7 +1052,7 @@
 - [alexkohler/prealloc](https://github.com/alexkohler/prealloc) - prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.
 - [bep/s3deploy](https://github.com/bep/s3deploy) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. "Cache-Control")
 - [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [moulapp/moul](https://github.com/moulapp/moul) - The minimalist publishing tool for photographers
 - [rotisserie/eris](https://github.com/rotisserie/eris) - eris provides a better way to handle, trace, and log errors in Go 🎆

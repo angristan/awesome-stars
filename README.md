@@ -993,6 +993,7 @@
 
 ## Go 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [fraenky8/tables-to-go](https://github.com/fraenky8/tables-to-go) - convert your database tables to structs easily
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
@@ -3008,7 +3009,7 @@
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [jeaye/nix-files](https://github.com/jeaye/nix-files) - NixOS for my VPS
-- [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL) - NixOS on WSL(2)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@Trundle]
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [nix-community/aarch64-build-box](https://github.com/nix-community/aarch64-build-box) - Config for the Community aarch64 NixOS box [maintainer=@grahamc]
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
@@ -4486,6 +4487,8 @@
 
 ## Rust 
 
+- [meli/meli](https://github.com/meli/meli) - 🐝 experimental terminal mail client, mirror of https://git.meli.delivery/meli/meli.git https://crates.io/crates/meli
+- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [quantumsheep/godbox](https://github.com/quantumsheep/godbox) - Secure sandboxing system for untrusted code execution
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests

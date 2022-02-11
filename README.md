@@ -189,6 +189,7 @@
 - [kdrag0n/touchpaint](https://github.com/kdrag0n/touchpaint) - An experimental Linux kernel module that demonstrates the lowest possible input latency on modern smartphones. Not for Android or production use.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [iciamyplant/Cub3d-Linux](https://github.com/iciamyplant/Cub3d-Linux) - This is my final 42's project Cub3d, using the ray-casting technique and C to create a Wolfenstein 3D-like game
+- [cucumber/common](https://github.com/cucumber/common) - A monorepo of common components - building blocks for implementing Cucumber in various languages.
 - [kerneis/hekate](https://github.com/kerneis/hekate) - Hekate, a highly-concurrent BitTorrent seeder
 - [AndersTrier/NAT-TCP-test](https://github.com/AndersTrier/NAT-TCP-test) - 
 - [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
@@ -764,7 +765,6 @@
 ## CSS 
 
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
-- [Keats/vincentprouillet](https://github.com/Keats/vincentprouillet) - My website
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
@@ -993,6 +993,7 @@
 
 ## Go 
 
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -1171,7 +1172,7 @@
 - [jgrahamc/webwatch](https://github.com/jgrahamc/webwatch) - Small program to download a web page, see if a string appears in it and send email if it does
 - [streadway/amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [imroc/req](https://github.com/imroc/req) - Simplified Golang HTTP client library with Black Magic, Less Code and More Efficiency
+- [imroc/req](https://github.com/imroc/req) - Simplified Golang HTTP client library with Black Magic, Less code and More efficiency
 - [openzipkin/zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin distributed tracing library for go.
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -1739,6 +1740,7 @@
 
 ## HTML 
 
+- [lanlanblue/ikea-stock-notifier](https://github.com/lanlanblue/ikea-stock-notifier) - A notifier that lets users subscribe to their favorite IKEA products which are unavailable. This notifier will crawl the stock status every hour and notify users immediately once the products are back to the stock.
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
@@ -3005,6 +3007,7 @@
 
 ## Nix 
 
+- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [Infinisil/nixus](https://github.com/Infinisil/nixus) - 
@@ -3262,7 +3265,6 @@
 - [caarlos0-graveyard/vscode-prometheus-language](https://github.com/caarlos0-graveyard/vscode-prometheus-language) - Syntax highlight for Prometheus' .rules and .rules.yml files on VSCode
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [yaml/yaml](https://github.com/yaml/yaml) - YAML language and community information
-- [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [arcticicestudio/nord-iterm2](https://github.com/arcticicestudio/nord-iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
 - [zimmertr/TKS](https://github.com/zimmertr/TKS) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
@@ -4095,7 +4097,6 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [jbernard/dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
 - [diafygi/acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
 - [Roastero/Openroast](https://github.com/Roastero/Openroast) - An open source, cross-platform application for home coffee roasting
@@ -4489,6 +4490,7 @@
 
 ## Rust 
 
+- [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
 - [durch/rust-s3](https://github.com/durch/rust-s3) - Rust library for interfacing with AWS S3 and other API compatible services
@@ -4713,6 +4715,7 @@
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 - [getzola/book](https://github.com/getzola/book) - Gitbook theme for Zola
+- [Keats/vincentprouillet](https://github.com/Keats/vincentprouillet) - My website
 - [getzola/after-dark](https://github.com/getzola/after-dark) - A dark theme for Zola
 - [mrprofessor/rudra.dev](https://github.com/mrprofessor/rudra.dev) - Personal ramblings.
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
@@ -4899,6 +4902,7 @@
 - [gentoo/gentoo](https://github.com/gentoo/gentoo) - [MIRROR] Official Gentoo ebuild repository
 - [fedora-cloud/Fedora-Dockerfiles](https://github.com/fedora-cloud/Fedora-Dockerfiles) - Fedora Dockerfiles - No longer maintained. See: https://fedoraproject.org/wiki/Changes/Layered_Docker_Image_Build_Service
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
+- [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [docker-library/mysql](https://github.com/docker-library/mysql) - Docker Official Image packaging for MySQL Community Server
 - [corneliusweig/kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container
@@ -5442,7 +5446,6 @@
 - [aminpaks/qbittorrent-web-ui](https://github.com/aminpaks/qbittorrent-web-ui) - A simple but efficient UI as a web app for qBittorrent
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
-- [cucumber/common](https://github.com/cucumber/common) - A monorepo of common components - building blocks for implementing Cucumber in various languages.
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [junhobaik/junhobaik.github.io](https://github.com/junhobaik/junhobaik.github.io) - Blog, Gatsby Theme(Starter), Built with Gatsby
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼

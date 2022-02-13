@@ -153,6 +153,7 @@
 
 ## C 
 
+- [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [intel/haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [open-iscsi/tcmu-runner](https://github.com/open-iscsi/tcmu-runner) - A daemon that handles the userspace side of the LIO TCM-User backstore.
@@ -993,6 +994,11 @@
 
 ## Go 
 
+- [dswarbrick/smart](https://github.com/dswarbrick/smart) - Pure Go SMART library
+- [anatol/smart.go](https://github.com/anatol/smart.go) - Pure-Go library to access drive's S.M.A.R.T. information
+- [uid4oe/grpc-web-demo](https://github.com/uid4oe/grpc-web-demo) - Dockerized Go microservices and their envoy proxy's for a flow which showcases  gRPC for Web Clients. Check the medium story!!!
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -1458,7 +1464,7 @@
 - [elastic/uptime-contrib](https://github.com/elastic/uptime-contrib) - Contrib repository for Elastic Uptime
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
-- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs
 - [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
@@ -4490,6 +4496,7 @@
 
 ## Rust 
 
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - A command-line pager for JSON data.
 - [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack

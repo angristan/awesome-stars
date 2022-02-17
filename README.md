@@ -766,6 +766,7 @@
 
 ## CSS 
 
+- [Vagahbond/reyece](https://github.com/Vagahbond/reyece) - My first Arch rice, documented for the sole purpose of obnoxiously bragging about it on r/UnixPorn and saying "I use arch BTW" all the time.
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
@@ -995,6 +996,14 @@
 
 ## Go 
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+- [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
+- [mergestat/timediff](https://github.com/mergestat/timediff) - Go library for printing human readable, relative time differences 🕰️
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Pretty print tables and more in golang!
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [fatih/hclfmt](https://github.com/fatih/hclfmt) - Format and prettify HCL files
 - [AlecAivazis/survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [bukalapak/vanadia](https://github.com/bukalapak/vanadia) - Export API Blueprint .apib file to Postman collection
@@ -1051,7 +1060,7 @@
 - [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
 - [vartanbeno/go-reddit](https://github.com/vartanbeno/go-reddit) - Go library for accessing the Reddit API.
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
-- [binance-chain/bsc](https://github.com/binance-chain/bsc) - A Binance Smart Chain client based on the go-ethereum fork
+- [bnb-chain/bsc](https://github.com/bnb-chain/bsc) - A Binance Smart Chain client based on the go-ethereum fork
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site.
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
@@ -1186,7 +1195,7 @@
 - [jgrahamc/webwatch](https://github.com/jgrahamc/webwatch) - Small program to download a web page, see if a string appears in it and send email if it does
 - [streadway/amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [imroc/req](https://github.com/imroc/req) - Simplified Golang HTTP client library with Black Magic, Less code and More efficiency
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency)
 - [openzipkin/zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin distributed tracing library for go.
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -2197,7 +2206,7 @@
 - [khanhas/Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
 - [MathRobin/Never-Consent](https://github.com/MathRobin/Never-Consent) - Never consent to any GDPR consent management platform
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
+- [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [smooth-code/smooth.js](https://github.com/smooth-code/smooth.js) - Code driven CMS powered by GraphQL & React.
@@ -3767,6 +3776,8 @@
 
 ## Python 
 
+- [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Naereen/gym-nes-mario-bros](https://github.com/Naereen/gym-nes-mario-bros) - 🐍 🏋 OpenAI GYM for Nintendo NES emulator FCEUX and 1983 game Mario Bros. + Double Q Learning for mastering the game
@@ -4182,7 +4193,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [solus-project/ypkg](https://github.com/solus-project/ypkg) - Modern, declarative, structured build format
 - [solus-project/solus-sc](https://github.com/solus-project/solus-sc) - Solus Software Center
-- [MyTheValentinus/online.net-check-availability](https://github.com/MyTheValentinus/online.net-check-availability) - Python script to check availability of online.net servers
+- [mythevalentinus/online.net-check-availability](https://github.com/mythevalentinus/online.net-check-availability) - Python script to check availability of online.net servers
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
@@ -4509,6 +4520,7 @@
 
 ## Rust 
 
+- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
 - [twitter/rezolus](https://github.com/twitter/rezolus) - Systems performance telemetry
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - A command-line pager for JSON data.
 - [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
@@ -4780,7 +4792,6 @@
 
 ## Shell 
 
-- [Vagahbond/reyece](https://github.com/Vagahbond/reyece) - My first Arch rice, documented for the sole purpose of obnoxiously bragging about it on r/UnixPorn and saying "I use arch BTW" all the time.
 - [hckuo/Lupine-Linux](https://github.com/hckuo/Lupine-Linux) - Linux in Unikernel Clothing
 - [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
 - [stgraber/lxd-github-actions](https://github.com/stgraber/lxd-github-actions) - Scripts to run Github Actions runners inside of LXD
@@ -5351,6 +5362,8 @@
 
 ## TypeScript 
 
+- [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
+- [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
@@ -5358,7 +5371,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
-- [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
 - [lostintangent/gitdoc](https://github.com/lostintangent/gitdoc) - VS Code extension that allows you to edit a Git repo, like it's a multi-file, versioned document.
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) - 

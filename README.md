@@ -996,6 +996,8 @@
 
 ## Go 
 
+- [quantumsheep/doka](https://github.com/quantumsheep/doka) - Extended Dockerfile syntax
+- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
@@ -1673,7 +1675,7 @@
 - [minio/highwayhash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash
 - [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [lxc/distrobuilder](https://github.com/lxc/distrobuilder) - System container image builder for LXC and LXD
-- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
+- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [google/seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - [valentin2105/deployer](https://github.com/valentin2105/deployer) - a Go docker-compose multi-stages deployer.
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
@@ -2165,7 +2167,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1660-Stars](https://github.com/RealPeha/This-Repo-Has-1660-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -2686,10 +2688,10 @@
 - [maxogden/art-of-node](https://github.com/maxogden/art-of-node) - :snowflake: a short introduction to node.js
 - [brianokeefe/ghost-export](https://github.com/brianokeefe/ghost-export) - Export Ghost blog entries as Markdown files
 - [brpaz-graveyard/cerebro-cheats](https://github.com/brpaz-graveyard/cerebro-cheats) - 
-- [KELiON/cerebro-ip](https://github.com/KELiON/cerebro-ip) - Cerebro plugin to show your local and external IP addresses
-- [KELiON/cerebro-gif](https://github.com/KELiON/cerebro-gif) - Cerebro plugin to find relevant gifs
-- [KELiON/cerebro-basic-apps](https://github.com/KELiON/cerebro-basic-apps) - Cerebro plugin for applications search and launch on windows and linux
-- [KELiON/cerebro-converter](https://github.com/KELiON/cerebro-converter) - Cerebro plugin to convert currencies and units
+- [cerebroapp/cerebro-ip](https://github.com/cerebroapp/cerebro-ip) - Cerebro plugin to show your local and external IP addresses
+- [cerebroapp/cerebro-gif](https://github.com/cerebroapp/cerebro-gif) - Cerebro plugin to find relevant gifs
+- [cerebroapp/cerebro-basic-apps](https://github.com/cerebroapp/cerebro-basic-apps) - Cerebro plugin for applications search and launch on windows and linux
+- [cerebroapp/cerebro-converter](https://github.com/cerebroapp/cerebro-converter) - Cerebro plugin to convert currencies and units
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [zachflower/hyper-confirm](https://github.com/zachflower/hyper-confirm) - :no_entry: Plugin to show a confirmation dialog before quitting Hyper
 - [Hyperline/hyperline](https://github.com/Hyperline/hyperline) - ✨ Status line plugin for Hyper ✨
@@ -3776,6 +3778,7 @@
 
 ## Python 
 
+- [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
@@ -5362,6 +5365,7 @@
 
 ## TypeScript 
 
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.

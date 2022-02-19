@@ -310,7 +310,7 @@
 - [moosefs/moosefs](https://github.com/moosefs/moosefs) - MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System (Software-Defined Storage)
 - [fvwmorg/fvwm](https://github.com/fvwmorg/fvwm) - Official FVWM repository
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [aws/s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
+- [aws/s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
 - [linux-apfs/linux-apfs](https://github.com/linux-apfs/linux-apfs) - This tree is no longer updated, please use linux-apfs-rw instead.
 - [OpenVZ/vzkernel](https://github.com/OpenVZ/vzkernel) - [mirror] Virtuozzo Linux kernel
 - [khanzf/opengit](https://github.com/khanzf/opengit) - OpenGit - A BSD licensed clone of Git for FreeBSD (under heavy development)
@@ -996,6 +996,7 @@
 
 ## Go 
 
+- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [quantumsheep/doka](https://github.com/quantumsheep/doka) - Extended Dockerfile syntax
 - [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
@@ -1197,7 +1198,7 @@
 - [jgrahamc/webwatch](https://github.com/jgrahamc/webwatch) - Small program to download a web page, see if a string appears in it and send email if it does
 - [streadway/amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency)
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [openzipkin/zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin distributed tracing library for go.
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -5209,7 +5210,7 @@
 
 - [mquandalle/mesaidesvelo](https://github.com/mquandalle/mesaidesvelo) - Découvrez les aides à l’achat d’un vélo
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
-- [bewisse/modheader](https://github.com/bewisse/modheader) - ModHeader browser extension
+- [modheader/modheader](https://github.com/modheader/modheader) - ModHeader browser extension
 - [Kaiak/kaiak-wallet](https://github.com/Kaiak/kaiak-wallet) - A secure and fast way to send and receive Nano cryptocurrency in KaiOS.
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 - [Pitu/Magane](https://github.com/Pitu/Magane) - Bringing LINE's sticker to Discord in a chaotic way.
@@ -5418,7 +5419,7 @@
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
-- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
+- [xiaoyang-sde/reflare](https://github.com/xiaoyang-sde/reflare) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
 - [Xetera/kiyomi](https://github.com/Xetera/kiyomi) - 💃 Kpop image aggregator
 - [South-Paw/action-netlify-deploy](https://github.com/South-Paw/action-netlify-deploy) - 🙌 Netlify deployments via GitHub actions
 - [lexanth/python-ast](https://github.com/lexanth/python-ast) - Python (3) Parser for JavaScript/TypeScript (based on antlr4ts)

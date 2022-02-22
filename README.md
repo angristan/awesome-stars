@@ -996,6 +996,10 @@
 
 ## Go 
 
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
+- [xperimental/netatmo-exporter](https://github.com/xperimental/netatmo-exporter) - Prometheus exporter for Netatmo sensor data.
 - [qselle/velib-exporter](https://github.com/qselle/velib-exporter) - An exporter for velib-metropole.fr to track my rides.
 - [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
@@ -4931,7 +4935,6 @@
 - [sjiveson/nfs-server-alpine](https://github.com/sjiveson/nfs-server-alpine) - A handy Alpine Linux based NFS Server image running NFS v4 only, over TCP on port 2049
 - [aws-quickstart/quickstart-hashicorp-vault](https://github.com/aws-quickstart/quickstart-hashicorp-vault) - AWS Quick Start Team
 - [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven
-- [rtCamp/gitlab-aws-codecommit-mirror](https://github.com/rtCamp/gitlab-aws-codecommit-mirror) - Use AWS codecommit as a mirror for self hosted gitlab repo
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [jeaye/nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
@@ -5368,7 +5371,7 @@
 
 ## TypeScript 
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.

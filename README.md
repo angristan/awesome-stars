@@ -303,7 +303,7 @@
 - [quantumsheep/mickye](https://github.com/quantumsheep/mickye) - Remote Administration Tool with a graphical interface
 - [GNOME/gnome-builder](https://github.com/GNOME/gnome-builder) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-builder
 - [GNOME/gtk](https://github.com/GNOME/gtk) - Read-only mirror of https://gitlab.gnome.org/GNOME/gtk
-- [wingtk/gvsbuild](https://github.com/wingtk/gvsbuild) - GTK+ 3 stack for Windows
+- [wingtk/gvsbuild](https://github.com/wingtk/gvsbuild) - GTK stack for Windows
 - [Apress/foundations-of-gtk-dev](https://github.com/Apress/foundations-of-gtk-dev) - Source code for 'Foundations of GTK+ Development' by Andrew Krause
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
@@ -962,7 +962,6 @@
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 - [aleph-naught2tog/live_tinkering](https://github.com/aleph-naught2tog/live_tinkering) - Little toy demos for Phoenix LiveView
 - [techgaun/ex_pwned](https://github.com/techgaun/ex_pwned) - Elixir client for haveibeenpwned.com
-- [edeliver/edeliver](https://github.com/edeliver/edeliver) - Deployment for Elixir and Erlang
 - [almightycouch/gitgud](https://github.com/almightycouch/gitgud) - A Git source code management tool powered by Elixir with easy installation & high extensibility.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [potproject/docker-pleroma](https://github.com/potproject/docker-pleroma) - docker files for Pleroma (Unofficial)
@@ -4973,6 +4972,7 @@
 - [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
 - [docker-library/elasticsearch](https://github.com/docker-library/elasticsearch) - https://github.com/docker-library/official-images/pull/4916
 - [ArchiveTeam/warrior-code](https://github.com/ArchiveTeam/warrior-code) - 
+- [edeliver/edeliver](https://github.com/edeliver/edeliver) - Deployment for Elixir and Erlang
 - [GabLeRoux/docker-ansible](https://github.com/GabLeRoux/docker-ansible) - Docker image to use ansible and ssh in a CI 👍
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [chris-short/rak8s](https://github.com/chris-short/rak8s) - Stand up a Raspberry Pi based Kubernetes cluster with Ansible

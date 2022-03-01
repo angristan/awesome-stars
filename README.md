@@ -2374,7 +2374,7 @@
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [dfrankland/pokemonsay](https://github.com/dfrankland/pokemonsay) - 👾 Pokemon version of cowsay with CLI and API.
-- [iantheearl/mc.js](https://github.com/iantheearl/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
+- [shaoruu/mc.js](https://github.com/shaoruu/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [amejiarosario/dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook
 - [hakatashi/kyujitai.js](https://github.com/hakatashi/kyujitai.js) - Utility collections for making Japanese text old-fashioned
@@ -2384,6 +2384,7 @@
 - [quantumsheep/node-icmp](https://github.com/quantumsheep/node-icmp) - Internet Control Message Protocol in Node
 - [evgeni/qifi](https://github.com/evgeni/qifi) - pure JS WiFi QR Code Generator
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+- [Protoqol/Prequel](https://github.com/Protoqol/Prequel) - Prequel for Laravel. Clear and concise database management.
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [nzws/mastodon-custom-emoji-viewer](https://github.com/nzws/mastodon-custom-emoji-viewer) - 
 - [00-matt/node-fist](https://github.com/00-matt/node-fist) - Node.js client library for Fist full text search
@@ -3545,7 +3546,6 @@
 - [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel
 - [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) - Worldwide postal code validation for Laravel and Lumen
 - [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
-- [Protoqol/Prequel](https://github.com/Protoqol/Prequel) - Prequel for Laravel. Clear and concise database management.
 - [goldspecdigital/laravel-eloquent-uuid](https://github.com/goldspecdigital/laravel-eloquent-uuid) - A simple drop-in solution for providing UUID support for the IDs of your Eloquent models.
 - [LaravelCollective/html](https://github.com/LaravelCollective/html) - HTML and Form Builders for the Laravel Framework
 - [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework.
@@ -4032,7 +4032,7 @@
 - [corrad1nho/qomui](https://github.com/corrad1nho/qomui) - Qomui (Qt OpenVPN Management UI)
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python 🍓
-- [servian/aws-auto-cleanup](https://github.com/servian/aws-auto-cleanup) - Open-source application to programmatically clean your AWS resources based on a whitelist and time to live (TTL) settings
+- [servian/aws-auto-cleanup](https://github.com/servian/aws-auto-cleanup) - Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings
 - [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
@@ -4598,7 +4598,7 @@
 - [ryankurte/cargo-binstall](https://github.com/ryankurte/cargo-binstall) - Binary installation for rust projects
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
-- [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - A system handler to get information and interact with processes written in Rust
+- [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [tailhook/self-meter](https://github.com/tailhook/self-meter) - A tiny library to measure resource usage of the process it's used in
 - [hpjansson/fornalder](https://github.com/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
@@ -4837,7 +4837,7 @@
 - [robcowart/elastiflow](https://github.com/robcowart/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [jedisct1/bitbar-dnscrypt-proxy-switcher](https://github.com/jedisct1/bitbar-dnscrypt-proxy-switcher) - BitBar plugin to control dnscrypt-proxy usage
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerlline, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [oracle/centos2ol](https://github.com/oracle/centos2ol) - Script and documentation to switch CentOS Linux to Oracle Linux
 - [remyleone/scw-s3-action](https://github.com/remyleone/scw-s3-action) - 

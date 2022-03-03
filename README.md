@@ -303,7 +303,6 @@
 - [quantumsheep/mickye](https://github.com/quantumsheep/mickye) - Remote Administration Tool with a graphical interface
 - [GNOME/gnome-builder](https://github.com/GNOME/gnome-builder) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-builder
 - [GNOME/gtk](https://github.com/GNOME/gtk) - Read-only mirror of https://gitlab.gnome.org/GNOME/gtk
-- [wingtk/gvsbuild](https://github.com/wingtk/gvsbuild) - GTK stack for Windows
 - [Apress/foundations-of-gtk-dev](https://github.com/Apress/foundations-of-gtk-dev) - Source code for 'Foundations of GTK+ Development' by Andrew Krause
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
@@ -641,6 +640,7 @@
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
+- [wingtk/gvsbuild](https://github.com/wingtk/gvsbuild) - GTK stack for Windows
 - [AaronKelley/DellFanCmd](https://github.com/AaronKelley/DellFanCmd) - Facilitates taking control of the fans in many Dell laptops.
 - [lizardfs/lizardfs](https://github.com/lizardfs/lizardfs) - LizardFS is an Open Source Distributed File System licensed under GPLv3.
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
@@ -995,6 +995,7 @@
 
 ## Go 
 
+- [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [ashanbrown/makezero](https://github.com/ashanbrown/makezero) - A linter to ensure that slices are not initialized with non-zero length
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
@@ -3121,7 +3122,6 @@
 - [ptmt/react-native-touchbar](https://github.com/ptmt/react-native-touchbar) - TouchBar for react-native-macos
 - [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
@@ -3786,6 +3786,7 @@
 
 ## Python 
 
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -5353,6 +5354,7 @@
 - [forem/DEV-ios](https://github.com/forem/DEV-ios) - DEV Community iOS App
 - [avatsaev/touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat) - Stupid nyancat animation on your +$2k MacBook Pro's Touchbar
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
+- [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
@@ -5515,7 +5517,7 @@
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
-- [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - An extensible New Tab web extension written in TypeScript, React and Redux.
+- [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox and Chrome.
 - [eramdam/BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser.
 - [matthprost/Scaleway-Manager](https://github.com/matthprost/Scaleway-Manager) - Scaleway Manager is an IONIC application that use Scaleway API to manage your servers.

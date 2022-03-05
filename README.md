@@ -996,6 +996,8 @@
 
 ## Go 
 
+- [thebaer/cdr](https://github.com/thebaer/cdr) - Static site generator for making web mixtapes in 2022.
+- [fatih/semgroup](https://github.com/fatih/semgroup) - Like errgroup/waitgroup, but only runs a maximum of tasks at any time.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [elliotchance/c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
@@ -2199,7 +2201,7 @@
 - [chrisg86/gatsby-remark-classes](https://github.com/chrisg86/gatsby-remark-classes) - Automatically add class attributes to markdown elements
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ThaTiemsz/Discord-Emoji-Downloader](https://github.com/ThaTiemsz/Discord-Emoji-Downloader) - Get all emojis from a server in a ZIP file.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [davidsawyer/airbnb-price-per-night-correcter](https://github.com/davidsawyer/airbnb-price-per-night-correcter) - Gives you the real price per night of an Airbnb stay after accounting for any and all fees
 - [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
@@ -4390,7 +4392,7 @@
 - [blindsidenetworks/scalelite](https://github.com/blindsidenetworks/scalelite) - Scalable load balancer for BigBlueButton.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [scaleway/homebrew-scaleway](https://github.com/scaleway/homebrew-scaleway) - :beer: `brew tap scaleway/scaleway`
-- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services with macOS' launchctl daemon manager
+- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.
 - [jin5354/alfred3-workflow-CurrencyConvert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) - This alfred3 workflow can convert currency conveniently.
 - [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) - Vagrant provider for libvirt.
 - [BaseSecrete/rorvswild](https://github.com/BaseSecrete/rorvswild) - Ruby on Rails app monitoring: performances & exceptions insights for rails developers.

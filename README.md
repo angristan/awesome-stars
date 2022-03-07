@@ -996,6 +996,13 @@
 
 ## Go 
 
+- [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
+- [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
+- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
+- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
+- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+- [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [thebaer/cdr](https://github.com/thebaer/cdr) - Static site generator for making web mixtapes in 2022.
 - [fatih/semgroup](https://github.com/fatih/semgroup) - Like errgroup/waitgroup, but only runs a maximum of tasks at any time.
@@ -1781,6 +1788,9 @@
 
 ## HTML 
 
+- [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
+- [knadh/dont.build](https://github.com/knadh/dont.build) - A simple, opinionated decision system to help decide whether to build a software feature or not.
+- [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
 - [lanlanblue/ikea-stock-notifier](https://github.com/lanlanblue/ikea-stock-notifier) - A notifier that lets users subscribe to their favorite IKEA products which are unavailable. This notifier will crawl the stock status every hour and notify users immediately once the products are back to the stock.
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -2077,7 +2087,6 @@
 
 ## JavaScript 
 
-- [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
 - [BenoitPE/MyGESPlanning](https://github.com/BenoitPE/MyGESPlanning) - 
 - [fastmail/overture](https://github.com/fastmail/overture) - Overture is a powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.
 - [bitquant/amazon-s3](https://github.com/bitquant/amazon-s3) - 
@@ -2203,7 +2212,7 @@
 - [chrisg86/gatsby-remark-classes](https://github.com/chrisg86/gatsby-remark-classes) - Automatically add class attributes to markdown elements
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ThaTiemsz/Discord-Emoji-Downloader](https://github.com/ThaTiemsz/Discord-Emoji-Downloader) - Get all emojis from a server in a ZIP file.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
 - [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [davidsawyer/airbnb-price-per-night-correcter](https://github.com/davidsawyer/airbnb-price-per-night-correcter) - Gives you the real price per night of an Airbnb stay after accounting for any and all fees
 - [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
@@ -3140,6 +3149,7 @@
 
 ## Others 
 
+- [imjohnbo/ok-to-test](https://github.com/imjohnbo/ok-to-test) - Example workflow configuration showing how to use GitHub Actions secrets in pull requests from forks 🍴🔑
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [trakt/api-help](https://github.com/trakt/api-help) - Trakt API docs at https://trakt.docs.apiary.io
 - [egor-tensin/setup-wireguard](https://github.com/egor-tensin/setup-wireguard) - GitHub action to set up WireGuard
@@ -3408,6 +3418,7 @@
 - [Dryusdan/unsplash-wallpaper](https://github.com/Dryusdan/unsplash-wallpaper) - Script who change automatically your gnome / cinnamon wallpaper
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [gled-rs/mastodo](https://github.com/gled-rs/mastodo) - A fork of the GNU Social/AP-compatible microblogging server
 - [dmitrym0/simple-lets-encrypt-docker-compose-sample](https://github.com/dmitrym0/simple-lets-encrypt-docker-compose-sample) - Sample docker-compose that shows how to use letsencrypt-nginx-proxy-companion
 - [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software
@@ -3494,6 +3505,7 @@
 - [Swizards/QuickBox](https://github.com/Swizards/QuickBox) - Quick Box is a personal seedbox installer script that is multi-user friendly. Quickly setup a seedbox using ruTorrent on a fresh custom seedbox dashboard and custom QuickBox theme as well as build a limited shell environment for additional created users to interact with their seedbox via ssh! For issues, requests, suggestions and more... please use the QuickBox Community - maintained and crafted by https://swizards.net
 - [dear-github/dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
 - [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node
+- [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [cgapps/vendor_google](https://github.com/cgapps/vendor_google) - 
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [solus-cold-storage/arc-desktop](https://github.com/solus-cold-storage/arc-desktop) - This work is done, go see the main budgie-desktop repo
@@ -4177,7 +4189,6 @@
 - [franccesco/getaltname](https://github.com/franccesco/getaltname) - Extract subdomains from SSL certificates in HTTPS sites.
 - [karton/karton](https://github.com/karton/karton) - Karton - Run Linux programs on macOS, a different Linux distro, or a different architecture
 - [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
-- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
@@ -5799,7 +5810,6 @@
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [cybre/budgie-screenshot-applet](https://github.com/cybre/budgie-screenshot-applet) - Take a screenshot of your desktop, a window or region; save to disk and upload. Made with ❤️️ for Budgie Desktop.
 - [baedert/corebird](https://github.com/baedert/corebird) - Native Gtk+ Twitter Client
-- [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 
 ## Vim script 
 

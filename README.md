@@ -996,6 +996,8 @@
 
 ## Go 
 
+- [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket
+- [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
@@ -2147,6 +2149,7 @@
 - [Tom-Bonnike/netlify-plugin-inline-critical-css](https://github.com/Tom-Bonnike/netlify-plugin-inline-critical-css) - A Netlify plugin to inline your critical CSS, built on top of the `critical` package.
 - [mfg92/hugo-shortcode-gallery](https://github.com/mfg92/hugo-shortcode-gallery) - A theme components with a gallery shortcode for the static site generator hugo.
 - [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker) - Chrome Extension that tracks and limits time you spent on sites
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
 - [twobin/react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
 - [leighhalliday/next-prisma-demo](https://github.com/leighhalliday/next-prisma-demo) - 
@@ -2761,6 +2764,7 @@
 - [TryGhost/Ghost-CLI](https://github.com/TryGhost/Ghost-CLI) - CLI Tool for installing & updating Ghost
 - [nextcloud/weather](https://github.com/nextcloud/weather) - ⛅️ Weather app for Nextcloud
 - [westberliner/checksum](https://github.com/westberliner/checksum) - Plugin for Nextcloud and ownCloud to create hashes of files.
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
 - [nextcloud/documents](https://github.com/nextcloud/documents) - 💀 Nextcloud Documents is 💀 DEPRECATED 💀 UNDEAD 💀 collaborative editing of rich-text documents.
 - [nextcloud/zenodo](https://github.com/nextcloud/zenodo) - 
@@ -3668,7 +3672,6 @@
 - [nextcloud/dashboard](https://github.com/nextcloud/dashboard) - ARCHIVED, new Dashboard is in the server
 - [gino0631/nextcloud-metadata](https://github.com/gino0631/nextcloud-metadata) - A Nextcloud plugin for displaying file metadata.
 - [nextcloud/unsplash](https://github.com/nextcloud/unsplash) - 📸🔀☁️ Random Nextcloud log in background from Unsplash
-- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [nextcloud/ransomware_protection](https://github.com/nextcloud/ransomware_protection) - An app that prevents uploading files that have names that are linked to known ransomware
 - [pawelrojek/nextcloud-drawio](https://github.com/pawelrojek/nextcloud-drawio) - Draw.io intergration app
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
@@ -5458,7 +5461,6 @@
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [petli-full/json-to-yaml-and-more-vscode](https://github.com/petli-full/json-to-yaml-and-more-vscode) - convert the types: json, yaml, xml, csv, hjson, json5, ini, toml, and hocon.
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [NiklasPor/prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) - Fixes prettier formatting for go templates 🐹
 - [JohnWeisz/TypedJSON](https://github.com/JohnWeisz/TypedJSON) - Typed JSON parsing and serializing for TypeScript that preserves type information.
 - [jwalton/node-amqp-connection-manager](https://github.com/jwalton/node-amqp-connection-manager) - Auto-reconnect and round robin support for amqplib.
@@ -5680,7 +5682,7 @@
 - [kokororin/vscode-phpfmt](https://github.com/kokororin/vscode-phpfmt) - Integrates phpfmt into VS Code
 - [xdebug/vscode-php-debug](https://github.com/xdebug/vscode-php-debug) - PHP Debug Adapter for Visual Studio Code 🐞⛔
 - [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
-- [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform) - A Visual Studio Code extension for Hashicorp Terraform
+- [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform) - HashiCorp Terraform VSCode extension
 - [ethomson/probot-azure-pipelines](https://github.com/ethomson/probot-azure-pipelines) - A GitHub app for Azure Pipelines, powered by Probot
 - [patrickjuchli/basic-ftp](https://github.com/patrickjuchli/basic-ftp) - FTP client for Node.js, supports FTPS over TLS, passive mode over IPv6, async/await, and Typescript.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅

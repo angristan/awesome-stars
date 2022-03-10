@@ -996,7 +996,7 @@
 
 ## Go 
 
-- [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket
+- [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
@@ -1060,7 +1060,7 @@
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
 - [erik-adelbert/aoc](https://github.com/erik-adelbert/aoc) - advent of code
 - [pachyderm/s2](https://github.com/pachyderm/s2) - Create s3-compatible APIs with ease
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [golang-queue/queue](https://github.com/golang-queue/queue) - Queue is a Golang library for spawning and managing a Goroutine pool
 - [slok/go-http-metrics](https://github.com/slok/go-http-metrics) - Go modular http middleware to measure HTTP requests independent of metrics backend (with Prometheus and OpenCensus as backend implementations) and http framework/library
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -1967,6 +1967,7 @@
 
 ## Java 
 
+- [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense game
@@ -2194,7 +2195,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -2214,7 +2215,7 @@
 - [chrisg86/gatsby-remark-classes](https://github.com/chrisg86/gatsby-remark-classes) - Automatically add class attributes to markdown elements
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ThaTiemsz/Discord-Emoji-Downloader](https://github.com/ThaTiemsz/Discord-Emoji-Downloader) - Get all emojis from a server in a ZIP file.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [davidsawyer/airbnb-price-per-night-correcter](https://github.com/davidsawyer/airbnb-price-per-night-correcter) - Gives you the real price per night of an Airbnb stay after accounting for any and all fees
 - [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
@@ -4557,7 +4558,7 @@
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
 - [twitter/rezolus](https://github.com/twitter/rezolus) - Systems performance telemetry
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-- [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
+- [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
 - [durch/rust-s3](https://github.com/durch/rust-s3) - Rust library for interfacing with AWS S3 and other API compatible services
@@ -4900,7 +4901,7 @@
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [caddyserver/dist](https://github.com/caddyserver/dist) - Resources for packaging and distributing Caddy
 - [shisva/USG_Orange](https://github.com/shisva/USG_Orange) - Remplacer sa Livebox par un routeur Ubiquiti USG/USGPRO
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [bltavares/actions](https://github.com/bltavares/actions) - Collection of linters and fixers as Github Actions - Alpha

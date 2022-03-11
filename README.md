@@ -2195,7 +2195,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1661-Stars](https://github.com/RealPeha/This-Repo-Has-1661-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -3409,7 +3409,7 @@
 - [mina-alber/wireguard-ansible](https://github.com/mina-alber/wireguard-ansible) - Ansible Playbook for WireGuard deployment on CentOS 7, Debian 8, Ubuntu 16.04 and newer releases.
 - [nusenu/ContactInfo-Information-Sharing-Specification](https://github.com/nusenu/ContactInfo-Information-Sharing-Specification) - A specification for tor's ContactInfo field.
 - [dylanaraps/neofetch-branding](https://github.com/dylanaraps/neofetch-branding) - Logos for Neofetch
-- [supercomputra/SF-Mono-Font](https://github.com/supercomputra/SF-Mono-Font) - SF Mono Font
+- [computraz/SF-Mono-Font](https://github.com/computraz/SF-Mono-Font) - SF Mono Font
 - [nicole-ashley/uBlock-Edge](https://github.com/nicole-ashley/uBlock-Edge) - uBlock Origin - An efficient blocker for Chromium, Firefox and Edge. Fast and lean.
 - [devRant/devRant](https://github.com/devRant/devRant) - 
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
@@ -3702,7 +3702,7 @@
 - [ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph](https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph) - A flarum extension for embedding opengraph content
 - [scottmac/opengraph](https://github.com/scottmac/opengraph) - Helper class for accessing the OpenGraph Protocol
 - [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
-- [flarum/core](https://github.com/flarum/core) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [halfdan/IPv6Usage](https://github.com/halfdan/IPv6Usage) - Piwik Plugin to track whether visitors are using IPv4 or IPv6
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [ArthurHoaro/shaarli2twitter](https://github.com/ArthurHoaro/shaarli2twitter) - Automatically tweet your links from Shaarli

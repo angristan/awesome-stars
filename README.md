@@ -1780,8 +1780,8 @@
 - [actions/heroku](https://github.com/actions/heroku) - GitHub Action for interacting with Heroku
 - [cloudposse/terraform-aws-elastic-beanstalk-environment](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment) - Terraform module to provision an AWS Elastic Beanstalk Environment
 - [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS
-- [terraform-aws-modules/terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Terraform module which creates EC2 instance(s) on AWS
-- [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS
+- [terraform-aws-modules/terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Terraform module which creates EC2 instance(s) on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS 🇺🇦
 - [bradford-hamilton/terraform-ecs-fargate](https://github.com/bradford-hamilton/terraform-ecs-fargate) - Source code for a tutorial on Medium I published - "Deploying Containers on Amazon’s ECS using Fargate and Terraform: Part 2"
 - [Oxalide/terraform-fargate-example](https://github.com/Oxalide/terraform-fargate-example) - Example repository to run an ECS cluster on Fargate
 - [kylegalbraith/aws-ecr-codepipeline-demo](https://github.com/kylegalbraith/aws-ecr-codepipeline-demo) - This repository demonstrates how you can use Terraform to provision AWS CodePipeline & CodeBuild to build and push Docker container images to AWS ECR. Read the full blog post here: https://blog.kylegalbraith.com/2018/08/30/how-to-build-your-docker-images-in-aws-with-ease/
@@ -2289,6 +2289,7 @@
 - [yusukesaitoh/calm-twitter](https://github.com/yusukesaitoh/calm-twitter) - This extension hides trending information from twitter timelines to make your mind calm.
 - [nospaceships/node-net-ping](https://github.com/nospaceships/node-net-ping) - Ping and trace route to many hosts at once.
 - [jevakallio/css-properly](https://github.com/jevakallio/css-properly) - Write CSS Properly 🇬🇧🧐
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [jaredhanson/passport-local](https://github.com/jaredhanson/passport-local) - Username and password authentication strategy for Passport and Node.js.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
@@ -2554,6 +2555,7 @@
 - [patrik-piskay/hyperterm-tabs](https://github.com/patrik-piskay/hyperterm-tabs) - HyperTerm tabs reordering support plugin
 - [bartonhammond/snowflake](https://github.com/bartonhammond/snowflake) - :snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router,  & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
 - [gcanti/tcomb-form-native](https://github.com/gcanti/tcomb-form-native) - Forms library for react-native
+- [wix/import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
 - [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [andrehaveman/spotify-node-applescript](https://github.com/andrehaveman/spotify-node-applescript) - Control Spotify on Mac OSX with NodeJS and AppleScript
@@ -4699,7 +4701,6 @@
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [gsquire/topngx](https://github.com/gsquire/topngx) - top for NGINX
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
@@ -5716,7 +5717,6 @@
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
-- [wix/import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify) - Use Spotify inside vscode(on Mac, Windows, and Linux).

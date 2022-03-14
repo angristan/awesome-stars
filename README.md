@@ -153,6 +153,7 @@
 
 ## C 
 
+- [Cogmasters/concord](https://github.com/Cogmasters/concord) - C library for handling the Discord API
 - [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
 - [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -644,7 +645,6 @@
 - [wingtk/gvsbuild](https://github.com/wingtk/gvsbuild) - GTK stack for Windows
 - [AaronKelley/DellFanCmd](https://github.com/AaronKelley/DellFanCmd) - Facilitates taking control of the fans in many Dell laptops.
 - [lizardfs/lizardfs](https://github.com/lizardfs/lizardfs) - LizardFS is an Open Source Distributed File System licensed under GPLv3.
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [rovo89/Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [smspillaz/libanimation](https://github.com/smspillaz/libanimation) - Wobbly windows and animations logic split out from Compiz
@@ -2034,6 +2034,7 @@
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 - [bardsoftware/ganttproject](https://github.com/bardsoftware/ganttproject) - Official GanttProject repository
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [andOTP/andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android
 - [Netflix/EVCache](https://github.com/Netflix/EVCache) - A distributed in-memory data store for the cloud
@@ -2289,7 +2290,6 @@
 - [yusukesaitoh/calm-twitter](https://github.com/yusukesaitoh/calm-twitter) - This extension hides trending information from twitter timelines to make your mind calm.
 - [nospaceships/node-net-ping](https://github.com/nospaceships/node-net-ping) - Ping and trace route to many hosts at once.
 - [jevakallio/css-properly](https://github.com/jevakallio/css-properly) - Write CSS Properly 🇬🇧🧐
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [jaredhanson/passport-local](https://github.com/jaredhanson/passport-local) - Username and password authentication strategy for Passport and Node.js.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
@@ -3094,6 +3094,7 @@
 - [sjau/nixos](https://github.com/sjau/nixos) - 
 - [davidak/nixos-config](https://github.com/davidak/nixos-config) - NixOS configurations for server and desktop systems, including user specific config. with Home Manager
 - [CrazedProgrammer/nix](https://github.com/CrazedProgrammer/nix) - My NixOS configuration files.
+- [symphorien/nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
 - [coreyoconnor/nix_configs](https://github.com/coreyoconnor/nix_configs) - The NixOS configuration for my desktop.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [areina/nixos-config](https://github.com/areina/nixos-config) - My NixOS configuration files
@@ -4701,6 +4702,7 @@
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [gsquire/topngx](https://github.com/gsquire/topngx) - top for NGINX
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
@@ -4722,7 +4724,6 @@
 - [mastodon/flodgatt](https://github.com/mastodon/flodgatt) - A blazingly fast drop-in replacement for the Mastodon streaming API server
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [symphorien/nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) - git, implemented in rust, for fun and education :crab:
@@ -5254,6 +5255,7 @@
 
 ## Swift 
 
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [SuprHackerSteve/Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
 - [marpies/protonmail-macos](https://github.com/marpies/protonmail-macos) - Experimental email client for the ProtonMail service written in Swift.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - LinearMouse is a free and open-source utility for macOS which aims to improve the experience and functionality of third-party mice.

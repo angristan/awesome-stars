@@ -153,7 +153,7 @@
 
 ## C 
 
-- [Cogmasters/concord](https://github.com/Cogmasters/concord) - C library for handling the Discord API
+- [Cogmasters/concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C
 - [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
 - [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -996,6 +996,8 @@
 
 ## Go 
 
+- [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
+- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint

@@ -2201,7 +2201,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -3288,6 +3288,7 @@
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [ansible-community/ansible-lint-action](https://github.com/ansible-community/ansible-lint-action) - Community maintained ansible-lint Github Action
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [ghuntley/serverless-to-cgi-bin](https://github.com/ghuntley/serverless-to-cgi-bin) - A browser extension that replaces occurrences of 'serverless' with 'cgi-bin'
 - [cyanzhong/apple-terminated-my-dev-account](https://github.com/cyanzhong/apple-terminated-my-dev-account) - Apple terminated my developer account for no reason
@@ -4151,7 +4152,7 @@
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [3v1n0/telegram-snap](https://github.com/3v1n0/telegram-snap) - Snap packaging for telegramdesktop built from sources
 - [nylas/ansible-test](https://github.com/nylas/ansible-test) - An Ansible Testing Framework for Humans
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
@@ -4946,7 +4947,6 @@
 - [elementary/os](https://github.com/elementary/os) - The OS build system
 - [elementary/actions](https://github.com/elementary/actions) - Reusable GitHub Actions for elementary apps
 - [digitalocean/OpenVPN-Pihole](https://github.com/digitalocean/OpenVPN-Pihole) - https://marketplace.digitalocean.com/apps/openvpn-pihole
-- [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) - [NOT OFFICIALLY SUPPORTED BY RED HAT BUT BY VOLUNTEERS] | GitHub Action for running ansible-lint as part of your workflows! [ https://github.com/marketplace/actions/ansible-lint ] | PLEASE REPORT `ansible-lint` BUGS TO https://github.com/ansible-community/ansible-lint
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [GoogleCloudPlatform/compute-archlinux-image-builder](https://github.com/GoogleCloudPlatform/compute-archlinux-image-builder) - A tool to build a Arch Linux Image for GCE
 - [kriansa/ansible-bundler](https://github.com/kriansa/ansible-bundler) - Turn Ansible playbooks into executable files

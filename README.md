@@ -996,6 +996,7 @@
 
 ## Go 
 
+- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - 
 - [hedhyw/gherkingen](https://github.com/hedhyw/gherkingen) - Behaviour Driven Development tests generator for Golang
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
@@ -1004,7 +1005,7 @@
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
-- [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
+- [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
@@ -1933,7 +1934,6 @@
 - [mozilla/http-observatory-website](https://github.com/mozilla/http-observatory-website) - Mozilla Observatory (Website)
 - [unwitting/bleak](https://github.com/unwitting/bleak) - An in-your-face theme for the Ghost blogging platform
 - [VPNSox/VPNSox-Front](https://github.com/VPNSox/VPNSox-Front) - VPNSox.org WEBSITE
-- [aeris/cryptcheck-rails](https://github.com/aeris/cryptcheck-rails) - Ruby on Rails application to check crypto-stack configuration
 - [Evild67/docker-alpine-nginx](https://github.com/Evild67/docker-alpine-nginx) - Minimalistic Docker image with Nginx
 - [w3c/html](https://github.com/w3c/html) - Deliverables of the HTML Working Group until October 2018
 - [cgm616/0rc](https://github.com/cgm616/0rc) - Website if using 0net locally:
@@ -2202,7 +2202,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -3069,6 +3069,7 @@
 
 ## Nix 
 
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
@@ -3076,7 +3077,7 @@
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [jeaye/nix-files](https://github.com/jeaye/nix-files) - NixOS for my VPS
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@Trundle]
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [nix-community/aarch64-build-box](https://github.com/nix-community/aarch64-build-box) - Config for the Community aarch64 NixOS box [maintainer=@grahamc]
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
@@ -4558,6 +4559,7 @@
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 - [aeris/acme-pki](https://github.com/aeris/acme-pki) - Tiny ACME PKI
+- [aeris/cryptcheck-rails](https://github.com/aeris/cryptcheck-rails) - Ruby on Rails application to check crypto-stack configuration
 - [aeris/cryptcheck](https://github.com/aeris/cryptcheck) - Verify some SSL/TLS website or XMPP implementation
 - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 
@@ -5871,7 +5873,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
 - [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.

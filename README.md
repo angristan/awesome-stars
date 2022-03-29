@@ -996,8 +996,9 @@
 
 ## Go 
 
+- [mohammed90/caddy-ssh](https://github.com/mohammed90/caddy-ssh) - Caddy-SSH is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [octeep/wireproxy](https://github.com/octeep/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
-- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - 
+- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - Importable package that parses version info from debug.ReadBuildInfo().
 - [hedhyw/gherkingen](https://github.com/hedhyw/gherkingen) - Behaviour Driven Development tests generator for Golang
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
@@ -2204,7 +2205,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1667-Stars](https://github.com/RealPeha/This-Repo-Has-1667-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1670-Stars](https://github.com/RealPeha/This-Repo-Has-1670-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -4110,7 +4111,7 @@
 - [komuw/sewer](https://github.com/komuw/sewer) - Let's Encrypt(ACME) client. Python library &  CLI app.
 - [fs0c131y/ESFileExplorerOpenPortVuln](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln) - ES File Explorer Open Port Vulnerability - CVE-2019-6447
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg
+- [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [mikadosoftware/workstation](https://github.com/mikadosoftware/workstation) - Docker based portable Workstation
 - [georgewhewell/undervolt](https://github.com/georgewhewell/undervolt) - Undervolt Intel CPUs under Linux
@@ -4568,6 +4569,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Read-only mirror of https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
@@ -5416,6 +5418,7 @@
 
 ## TypeScript 
 
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique

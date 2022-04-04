@@ -2105,6 +2105,7 @@
 
 ## JavaScript 
 
+- [CorentinGC/reddit-place-kcorp](https://github.com/CorentinGC/reddit-place-kcorp) - 
 - [JasonEtco/is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action) - 💖🔖 A GitHub Action that labels issues/PRs if the author sponsors the owner of the repo
 - [BenoitPE/MyGESPlanning](https://github.com/BenoitPE/MyGESPlanning) - 
 - [fastmail/overture](https://github.com/fastmail/overture) - Overture is a powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.

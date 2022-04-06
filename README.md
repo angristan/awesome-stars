@@ -350,7 +350,7 @@
 - [reddit/snudown](https://github.com/reddit/snudown) - reddit's markdown renderer. based on sundown.
 - [Arkq/bluez-alsa](https://github.com/Arkq/bluez-alsa) - Bluetooth Audio ALSA Backend
 - [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [paolostivanin/libbaseencode](https://github.com/paolostivanin/libbaseencode) - Library written in C for encoding and decoding data using base32 or base64 (RFC-4648)
 - [paolostivanin/libcotp](https://github.com/paolostivanin/libcotp) - C library that generates TOTP and HOTP
 - [paolostivanin/OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK that supports both TOTP and HOTP
@@ -996,6 +996,7 @@
 
 ## Go 
 
+- [rakyll/goproxy-s3](https://github.com/rakyll/goproxy-s3) - Go proxy that serves from S3
 - [deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer) - :star: :star: Distributed tcpdump for cloud native environments :star: :star:
 - [nlm/grpceventbus](https://github.com/nlm/grpceventbus) - 
 - [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints.
@@ -2105,6 +2106,7 @@
 
 ## JavaScript 
 
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [CorentinGC/reddit-place-kcorp](https://github.com/CorentinGC/reddit-place-kcorp) - 
 - [JasonEtco/is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action) - 💖🔖 A GitHub Action that labels issues/PRs if the author sponsors the owner of the repo
 - [BenoitPE/MyGESPlanning](https://github.com/BenoitPE/MyGESPlanning) - 
@@ -2114,6 +2116,7 @@
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [francoismari/elyze](https://github.com/francoismari/elyze) - 
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [quantumsheep/qtmsheep.com](https://github.com/quantumsheep/qtmsheep.com) - My personal website
 - [ezshine/vscode-rainbow-fart-waifu](https://github.com/ezshine/vscode-rainbow-fart-waifu) - a virtual lover will accompany your programing
@@ -3079,7 +3082,7 @@
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
-- [Infinisil/nixus](https://github.com/Infinisil/nixus) - 
+- [infinisil/nixus](https://github.com/infinisil/nixus) - 
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [jeaye/nix-files](https://github.com/jeaye/nix-files) - NixOS for my VPS
@@ -3099,7 +3102,7 @@
 - [mozilla/nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla overlay for Nixpkgs.
 - [pSub/configs](https://github.com/pSub/configs) - My configuration files
 - [mogria/nixos-config](https://github.com/mogria/nixos-config) - My nixos configuration
-- [Infinisil/system](https://github.com/Infinisil/system) - My system configuration
+- [infinisil/system](https://github.com/infinisil/system) - My system configuration
 - [sjau/nixos](https://github.com/sjau/nixos) - 
 - [davidak/nixos-config](https://github.com/davidak/nixos-config) - NixOS configurations for server and desktop systems, including user specific config. with Home Manager
 - [CrazedProgrammer/nix](https://github.com/CrazedProgrammer/nix) - My NixOS configuration files.
@@ -3167,6 +3170,7 @@
 
 ## Others 
 
+- [alex-xu-system/bytebytego](https://github.com/alex-xu-system/bytebytego) - 
 - [imjohnbo/ok-to-test](https://github.com/imjohnbo/ok-to-test) - Example workflow configuration showing how to use GitHub Actions secrets in pull requests from forks 🍴🔑
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [trakt/api-help](https://github.com/trakt/api-help) - Trakt API docs at https://trakt.docs.apiary.io
@@ -4371,7 +4375,6 @@
 ## Ruby 
 
 - [penso/test-s3-direct-upload](https://github.com/penso/test-s3-direct-upload) - Benchmark for S3 direct uploads for AWS, GCP and Scaleway
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [tifhair/tifhair-tools](https://github.com/tifhair/tifhair-tools) - 

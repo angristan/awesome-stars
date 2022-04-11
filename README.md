@@ -927,7 +927,6 @@
 - [j8r/dockerfiles](https://github.com/j8r/dockerfiles) - Repository for my dockerfiles
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
-- [ykzts/mastodon-infra](https://github.com/ykzts/mastodon-infra) - A manifest of Kubernetes for ykzts.technology.
 - [codingCoffee/fahclient](https://github.com/codingCoffee/fahclient) - Dockerized Folding@home client with NVIDIA GPU support to help battle COVID-19
 - [scaleway/image-builder](https://github.com/scaleway/image-builder) - :triangular_ruler: build server images on Scaleway
 - [NixOS/docker](https://github.com/NixOS/docker) - DEPRECATED! Dockerfiles to package Nix in a minimal docker container
@@ -997,6 +996,7 @@
 
 ## Go 
 
+- [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [rakyll/goproxy-s3](https://github.com/rakyll/goproxy-s3) - Go proxy that serves from S3
@@ -4355,6 +4355,7 @@
 
 ## R 
 
+- [TheEconomist/2022-france-election-model](https://github.com/TheEconomist/2022-france-election-model) - 
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive graphing library for R
 - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
@@ -4938,6 +4939,7 @@
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [teymour/attestation-covid19](https://github.com/teymour/attestation-covid19) - Generateur d'attestation numérique covid19
+- [ykzts-technology/mastodon-infra](https://github.com/ykzts-technology/mastodon-infra) - A manifest of Kubernetes for ykzts.technology.
 - [aghorler/cloudflare-warp-wg-client](https://github.com/aghorler/cloudflare-warp-wg-client) - A Cloudflare Warp connection script for Linux-based operating systems
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [WICG/ua-client-hints](https://github.com/WICG/ua-client-hints) - Wouldn't it be nice if `User-Agent` was a (set of) client hints?

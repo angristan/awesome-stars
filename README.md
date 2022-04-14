@@ -567,6 +567,7 @@
 - [cetic/unikernels](https://github.com/cetic/unikernels) - Unikernel and immutable infrastructures
 - [AndreaOrru/LaiNES](https://github.com/AndreaOrru/LaiNES) - Cycle-accurate NES emulator in ~1000 lines of code
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS(formerly ChubaoFS) is a cloud native distributed file system and object store.
 - [tylermorganwall/rayrender](https://github.com/tylermorganwall/rayrender) - A pathtracer for R. Build and render complex scenes directly from R, with no external dependencies.
 - [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis
 - [quantumsheep/llvm-antlr4-starter](https://github.com/quantumsheep/llvm-antlr4-starter) - Pre-configured LLVM and ANTLR4 for C++
@@ -1023,7 +1024,7 @@
 - [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
-- [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
+- [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
@@ -1156,7 +1157,6 @@
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS(formerly ChubaoFS) is a cloud native distributed file system and object store.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [digitalocean/droplet-agent](https://github.com/digitalocean/droplet-agent) - Droplet Agent is the daemon that runs on customer droplets to enable some features such as web console access.
@@ -1406,7 +1406,7 @@
 - [mdempsky/unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
+- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees, Queues), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [juliangruber/go-intersect](https://github.com/juliangruber/go-intersect) - Find the intersection of two iterable values
 - [adidas/s3-upload-cleaner](https://github.com/adidas/s3-upload-cleaner) - 
@@ -2223,7 +2223,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1680-Stars](https://github.com/RealPeha/This-Repo-Has-1680-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1682-Stars](https://github.com/RealPeha/This-Repo-Has-1682-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -2341,7 +2341,6 @@
 - [visionmedia/superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [musicorum-app/generator](https://github.com/musicorum-app/generator) - The image generator for musicorum app
-- [SocialGouv/code-du-travail-numerique](https://github.com/SocialGouv/code-du-travail-numerique) - Code du Travail Numérique
 - [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
@@ -3267,6 +3266,7 @@
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [btamada/jp-software-companies](https://github.com/btamada/jp-software-companies) - List of software companies in Japan for techies
+- [cyrilletuzi/typescript-strictly-typed](https://github.com/cyrilletuzi/typescript-strictly-typed) - Enable configurations for strictly typed TypeScript, ESLint, and optionally Angular. Because TypeScript strict mode is not enough.
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [thank-you-github/thank-you-github](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
@@ -4694,7 +4694,7 @@
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rustomax/rust-iterators](https://github.com/rustomax/rust-iterators) - Basic Rust iterator usage
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-- [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Node.js, Python, Java, and Ruby
@@ -4870,7 +4870,7 @@
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [asdf-community/asdf-scala](https://github.com/asdf-community/asdf-scala) - Scala plugin for the asdf version manager
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
-- [fullstaq-labs/fullstaq-ruby-server-edition](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition) - A server-optimized Ruby distribution: less memory, faster, easy to install and security-patch via APT/YUM
+- [fullstaq-ruby/server-edition](https://github.com/fullstaq-ruby/server-edition) - A server-optimized Ruby distribution: less memory, faster, easy to install and security-patch via APT/YUM
 - [matthprost/s3-deploy-bucket-website-action](https://github.com/matthprost/s3-deploy-bucket-website-action) - Easily deploy any static website on your S3 bucket.
 - [asdf-vm/asdf-ruby](https://github.com/asdf-vm/asdf-ruby) - Ruby plugin for asdf version manager
 - [danhper/asdf-python](https://github.com/danhper/asdf-python) - 
@@ -5578,7 +5578,7 @@
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
-- [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox and Chrome.
+- [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [eramdam/BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser.
 - [matthprost/Scaleway-Manager](https://github.com/matthprost/Scaleway-Manager) - Scaleway Manager is an IONIC application that use Scaleway API to manage your servers.
@@ -5641,7 +5641,6 @@
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [cyrilletuzi/typescript-strictly-typed](https://github.com/cyrilletuzi/typescript-strictly-typed) - Enable configurations for strictly typed TypeScript, ESLint or TSLint, and optionally Angular. Because TypeScript strict mode is not enough.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [matt-filion/s3-db](https://github.com/matt-filion/s3-db) - Document DB API for AWS S3
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
@@ -5664,6 +5663,7 @@
 - [fireship-io/nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
+- [SocialGouv/code-du-travail-numerique](https://github.com/SocialGouv/code-du-travail-numerique) - Code du Travail Numérique
 - [onehungrymind/angular-core-workshop](https://github.com/onehungrymind/angular-core-workshop) - Code for the "Angular Core" Course on Frontend Masters
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [mike-works/typescript-fundamentals](https://github.com/mike-works/typescript-fundamentals) - Mike North's 2018 TypeScript Fundamentals Course

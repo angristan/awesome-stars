@@ -368,7 +368,7 @@
 - [mwarning/libsodium-example](https://github.com/mwarning/libsodium-example) - A simple example on how to use the libsodium crypto library
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
-- [littlstar/b64.c](https://github.com/littlstar/b64.c) - Base64 encode/decode
+- [jwerle/b64.c](https://github.com/jwerle/b64.c) - Base64 encode/decode
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -997,6 +997,7 @@
 
 ## Go 
 
+- [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3
 - [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
@@ -1401,7 +1402,7 @@
 - [mdempsky/unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees, Queues), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
+- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [juliangruber/go-intersect](https://github.com/juliangruber/go-intersect) - Find the intersection of two iterable values
 - [adidas/s3-upload-cleaner](https://github.com/adidas/s3-upload-cleaner) - 
@@ -1839,6 +1840,7 @@
 - [jvns/dns-lookup](https://github.com/jvns/dns-lookup) - 
 - [shalzz/zola-deploy-action](https://github.com/shalzz/zola-deploy-action) - Github action for building a Zola site and deploying to Github Pages
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [nanocurrency/nano-docs](https://github.com/nanocurrency/nano-docs) - Documentation for the Nano protocol
@@ -2819,7 +2821,7 @@
 - [atom-minimap/minimap-find-and-replace](https://github.com/atom-minimap/minimap-find-and-replace) - Displays the search matches in the minimap
 - [atom-minimap/minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - A minimap binding for the highlight-selected package
 - [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
-- [richrace/highlight-selected](https://github.com/richrace/highlight-selected) - Highlights the current word selected when double clicking
+- [richrace/highlight-selected](https://github.com/richrace/highlight-selected) - This project is in search of a new contributor/maintainer as the author is no longer using Atom - Highlights the current word selected when double clicking
 - [atom/markdown-preview](https://github.com/atom/markdown-preview) - 📝 Markdown preview in Atom
 - [keraf/NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
 - [mbilokonsky/ambassador](https://github.com/mbilokonsky/ambassador) - A mastodon bot for showing the world the best your instance has to offer.
@@ -5545,7 +5547,6 @@
 - [scaleway/scaleway-ui](https://github.com/scaleway/scaleway-ui) - Scaleway React UI library
 - [scaleway/scaleway-lib](https://github.com/scaleway/scaleway-lib) - scaleway-lib is a set of NPM packages used at Scaleway
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [hediet/browser-ext-github-monaco](https://github.com/hediet/browser-ext-github-monaco) - This extension brings the famous Monaco editor to Github

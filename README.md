@@ -446,7 +446,7 @@
 - [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS "Custom Firmware"
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [cloudflare/ngx_brotli_module](https://github.com/cloudflare/ngx_brotli_module) - Brotli module for NGINX, including the encoder
-- [ElementsProject/lightning](https://github.com/ElementsProject/lightning) - c-lightning — a Lightning Network implementation in C
+- [ElementsProject/lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
 - [samr7/vanitygen](https://github.com/samr7/vanitygen) - 
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [rolinh/dfc](https://github.com/rolinh/dfc) - Report file system space usage information with style (mirror repository)
@@ -778,7 +778,7 @@
 - [Fmstrat/diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
 - [QuickBox/club-QuickBox](https://github.com/QuickBox/club-QuickBox) - club-QuickBox is a fresh and modernized skin for rTorrent GUI, ruTorrent. This theme is featured on QuickBox and has been made exclusively for QuickBox.IO. Welcome to club-QuickBox!
 - [artyuum/3rd-party-ruTorrent-Themes](https://github.com/artyuum/3rd-party-ruTorrent-Themes) - A collection of 3rd party themes for ruTorrent found on the web.
-- [phpitou/clic-attestation](https://github.com/phpitou/clic-attestation) - 
+- [p-cauty/clic-attestation](https://github.com/p-cauty/clic-attestation) - 
 - [trwnh/mastomods](https://github.com/trwnh/mastomods) - CSS tweaks and custom themes for Mastodon.
 - [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
 - [heroku/12factor](https://github.com/heroku/12factor) - 
@@ -997,6 +997,7 @@
 
 ## Go 
 
+- [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) - Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3
 - [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework
@@ -1630,6 +1631,7 @@
 - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
 - [bketelsen/dlx](https://github.com/bketelsen/dlx) - quick dev environments for linux using LXD.  Disposable, composable, simple.
 - [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -2221,7 +2223,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1683-Stars](https://github.com/RealPeha/This-Repo-Has-1683-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1684-Stars](https://github.com/RealPeha/This-Repo-Has-1684-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -2510,7 +2512,6 @@
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [happypandax/happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
 - [mattatz/THREE.Tree](https://github.com/mattatz/THREE.Tree) - a Tree geometry generator for three.js.
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [dandrews/nefarious-linkedin](https://github.com/dandrews/nefarious-linkedin) - :shipit: A look at how LinkedIn spies on its users.
 - [thebaer/MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
@@ -2844,7 +2845,7 @@
 - [HelloZeroNet/ZeroMe](https://github.com/HelloZeroNet/ZeroMe) - Social network for ZeroNet
 - [tomouchuu/mastodon-translate](https://github.com/tomouchuu/mastodon-translate) - Tampermonkey Script to add option to Translate Toots
 - [Gargron/tusky-api](https://github.com/Gargron/tusky-api) - Node.js server that proxies Mastodon notifications to an app's push notifications through Firebase Cloud Messaging
-- [TheKinrar/mastodon-instances](https://github.com/TheKinrar/mastodon-instances) - Mastodon instances list
+- [TheKinrar/instances](https://github.com/TheKinrar/instances) - Mastodon instances list
 - [cloudflare/claire](https://github.com/cloudflare/claire) - A Cloudflare WebExtension
 - [miguelfreitas/twister-html](https://github.com/miguelfreitas/twister-html) - twister HTML + Javascript User Interface
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.

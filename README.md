@@ -1284,7 +1284,7 @@
 - [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) - 
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
-- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure Active Directory for Developers built with GDPR compliance
+- [securitybunker/databunker](https://github.com/securitybunker/databunker) - A secure user directory built for developers to comply with the GDPR
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -4610,7 +4610,7 @@
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [Sh4d1/aoc2021](https://github.com/Sh4d1/aoc2021) - 
 - [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 
-- [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider
+- [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider ⚡️
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
@@ -5441,6 +5441,7 @@
 
 ## TypeScript 
 
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
 - [2022etmoi/2022etmoi](https://github.com/2022etmoi/2022etmoi) - Test en ligne pour se comparer aux candidats de l'élection présidentielle sur une trentaine de propositions.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
@@ -5494,7 +5495,7 @@
 - [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
 - [jhaemin/game-of-life-3d](https://github.com/jhaemin/game-of-life-3d) - An experimental all-in-one project for learning frontend technologies.
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | Installation: https://msdl.librescore.org/install.user.js
-- [pabio/dependabot-pr-action](https://github.com/pabio/dependabot-pr-action) - 📦 Label, approve, and merge Dependabot pull requests automatically
+- [AnandChowdhary/dependabot-pr-action](https://github.com/AnandChowdhary/dependabot-pr-action) - 📦 Label, approve, and merge Dependabot pull requests automatically
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.

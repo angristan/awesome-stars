@@ -1183,7 +1183,7 @@
 - [o1egl/paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang)
 - [qnkhuat/tstream](https://github.com/qnkhuat/tstream) - Live streaming from your terminal
 - [go-python/gpython](https://github.com/go-python/gpython) - gpython is a python interpreter written in go "batteries not included"
-- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [golangci/awesome-go-linters](https://github.com/golangci/awesome-go-linters) - A curated list of awesome Go linters. More than 60 linters and tools!
@@ -2785,7 +2785,7 @@
 - [kewitz/dat-medium](https://github.com/kewitz/dat-medium) - P2P Markdown Blog for Beaker inspired by Medium.
 - [EtherbitHQ/donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [mastodon/joinmastodon](https://github.com/mastodon/joinmastodon) - 
+- [mastodon/joinmastodon](https://github.com/mastodon/joinmastodon) - The official Mastodon project homepage
 - [Multibit-Legacy/read-multibit-wallet-file](https://github.com/Multibit-Legacy/read-multibit-wallet-file) - A simple command line tool that exports the private Keys from a Multibit wallet file. The reason this tool exists is because Multibit is out of date and has known bugs. Exporting the private keys or wallet words from Multibit and importing them into another wallet may be the only effective way to access your funds.
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
@@ -4842,7 +4842,7 @@
 - [linuxfrorg/linuxfr.org](https://github.com/linuxfrorg/linuxfr.org) - The new version of LinuxFr.org will be in Ruby on Rails. It was NoNo's resolution for 2009 (well, achieved!). You may add other enhancements at http://linuxfr.org/suivi/ as you have a look at the  website
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [dxprog/anime-bracket](https://github.com/dxprog/anime-bracket) - The code that runs animebracket.com
-- [mastodon/documentation](https://github.com/mastodon/documentation) - 
+- [mastodon/documentation](https://github.com/mastodon/documentation) - Mastodon documentation
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [zutrinken/bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 

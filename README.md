@@ -152,6 +152,7 @@
 
 ## C 
 
+- [cirocosta/hello-world-lkm](https://github.com/cirocosta/hello-world-lkm) - A "hello-world" loadable kernel module
 - [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [openresty/echo-nginx-module](https://github.com/openresty/echo-nginx-module) - An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
@@ -999,6 +1000,7 @@
 
 ## Go 
 
+- [cirocosta/dmesg_exporter](https://github.com/cirocosta/dmesg_exporter) - A "dmesg" prometheus exporter - metrics from the kernel messages ring buffer
 - [quantumsheep/nyaa-cli](https://github.com/quantumsheep/nyaa-cli) - Terminal user interface for nyaa.si with support of peerflix
 - [irevenko/go-nyaa](https://github.com/irevenko/go-nyaa) - 🐈📦 nyaa.si client library for Go
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -2233,7 +2235,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 44 stars 7 forks.
-- [RealPeha/This-Repo-Has-1691-Stars](https://github.com/RealPeha/This-Repo-Has-1691-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1692-Stars](https://github.com/RealPeha/This-Repo-Has-1692-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -4438,7 +4440,7 @@
 - [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Simple one-liner tests for common Rails functionality
 - [rspec/rspec-rails](https://github.com/rspec/rspec-rails) - RSpec for Rails 5+
 - [Yleisradio/homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - Homebrew repository for a Terraform version switcher and all Terraform versions
-- [seattlerb/minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
 - [thoughtbot/paperclip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [Homebrew/homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - 🔢 Alternate versions of Casks
@@ -4596,7 +4598,7 @@
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
-- [Qovery/replibyte](https://github.com/Qovery/replibyte) - Synchronize your cloud databases and hide sensitive data 🛡
+- [Qovery/replibyte](https://github.com/Qovery/replibyte) - Seed your development database with real data ⚡️
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -5435,6 +5437,7 @@
 
 ## TeX 
 
+- [cbourke/ComputerScienceI](https://github.com/cbourke/ComputerScienceI) - Computer Science
 - [guikcd/my-curriculum-vitae](https://github.com/guikcd/my-curriculum-vitae) - My Curriculum Vitae
 - [posquit0/latex-fontawesome](https://github.com/posquit0/latex-fontawesome) - Bindings for FontAwesome icons to be used in XeLaTeX.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
@@ -5478,7 +5481,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [torifat/xiaomi-mi-air-purifier](https://github.com/torifat/xiaomi-mi-air-purifier) - Homebridge plugin for Xiaomi Mi Air Purifier
 - [daneden/photos.daneden.me](https://github.com/daneden/photos.daneden.me) - 📸 A React.js-based gallery of some of my favorite photos
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [squidjs/terminal](https://github.com/squidjs/terminal) - The extendible Shell and SSH terminal, with E2E encryption in the cloud.
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)

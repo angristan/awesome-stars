@@ -1000,6 +1000,7 @@
 
 ## Go 
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Masterminds/squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generation for golang
 - [cirocosta/dmesg_exporter](https://github.com/cirocosta/dmesg_exporter) - A "dmesg" prometheus exporter - metrics from the kernel messages ring buffer
 - [quantumsheep/nyaa-cli](https://github.com/quantumsheep/nyaa-cli) - Terminal user interface for nyaa.si with support of peerflix
@@ -5456,6 +5457,7 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
 - [2022etmoi/2022etmoi](https://github.com/2022etmoi/2022etmoi) - Test en ligne pour se comparer aux candidats de l'élection présidentielle sur une trentaine de propositions.

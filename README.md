@@ -278,7 +278,6 @@
 - [h2o/quicly](https://github.com/h2o/quicly) - A modular QUIC stack designed primarily for H2O
 - [ohler55/agoo-c](https://github.com/ohler55/agoo-c) - Agoo webserver in C.
 - [sustrik/libmill](https://github.com/sustrik/libmill) - Go-style concurrency in C
-- [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [openzfsonosx/zfs](https://github.com/openzfsonosx/zfs) - OpenZFS on OS X
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [linux-on-mac/mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer
@@ -4093,6 +4092,7 @@
 - [notro/rpi-source](https://github.com/notro/rpi-source) - Development has moved to https://github.com/RPi-Distro/rpi-source
 - [archf/ansidoc](https://github.com/archf/ansidoc) - A simple tool to generate Ansible roles' documentation
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
+- [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
 - [alcarithemad/zfsp](https://github.com/alcarithemad/zfsp) - ZFS, in Python, without reading the original C.
 - [sdushantha/insta-dl](https://github.com/sdushantha/insta-dl) - 📷 Download Instagram images from a public user.

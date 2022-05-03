@@ -999,6 +999,7 @@
 
 ## Go 
 
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Masterminds/squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generation for golang
 - [cirocosta/dmesg_exporter](https://github.com/cirocosta/dmesg_exporter) - A "dmesg" prometheus exporter - metrics from the kernel messages ring buffer
@@ -5823,7 +5824,7 @@
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
-- [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Dock(er)?
+- [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)?
 - [OttoAllmendinger/gnome-shell-screenshot](https://github.com/OttoAllmendinger/gnome-shell-screenshot) - Gnome Shell extension for making and uploading screenshots
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - Ledger's JavaScript libraries
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age

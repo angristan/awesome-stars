@@ -3406,7 +3406,7 @@
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
 - [vbarbaresi/MetroGit](https://github.com/vbarbaresi/MetroGit) - Paris Metro lines on a Git graph
 - [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker for Codewars
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [aeris/gdpr](https://github.com/aeris/gdpr) - GDPR letter template
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [MorteNoir1/virtualbox_e1000_0day](https://github.com/MorteNoir1/virtualbox_e1000_0day) - VirtualBox E1000 Guest-to-Host Escape
@@ -3592,7 +3592,7 @@
 - [tillkruss/alfred-lorem-ipsum](https://github.com/tillkruss/alfred-lorem-ipsum) - An ultra-fast Lorem Ipsum workflow for Alfred 4
 - [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
-- [willfarrell/alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a sting into multiple variations.
+- [willfarrell/alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a string into multiple variations.
 - [willfarrell/alfred-caniuse-workflow](https://github.com/willfarrell/alfred-caniuse-workflow) - Alfred App Workflow for caniuse.com
 - [yannickglt/alfred-devdocs](https://github.com/yannickglt/alfred-devdocs) - Alfred workflow for devdocs.io
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
@@ -5285,7 +5285,6 @@
 
 - [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation) - https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
-- [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushiswap smart contracts 🍣 📝
 
 ## SourcePawn 
 
@@ -5617,6 +5616,7 @@
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use](https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use) - JSON Parser written entirely in TypeScript's type system
+- [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
 - [zxh0/vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3
 - [rpearce/image-zoom](https://github.com/rpearce/image-zoom) - 🔎 Medium.com style image zoom for React 🔍
@@ -5820,7 +5820,7 @@
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
 - [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
-- [bitwarden/bitwarden](https://github.com/bitwarden/bitwarden) - Bitwarden client applications (web, browser extension, desktop, and cli)
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴

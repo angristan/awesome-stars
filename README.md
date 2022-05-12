@@ -151,6 +151,7 @@
 
 ## C 
 
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [cirocosta/hello-world-lkm](https://github.com/cirocosta/hello-world-lkm) - A "hello-world" loadable kernel module
 - [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -996,6 +997,7 @@
 
 ## Go 
 
+- [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
@@ -1289,7 +1291,7 @@
 - [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - The Evolution of a Go Programmer
-- [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
+- [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) - 
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
@@ -2142,7 +2144,6 @@
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [francoismari/elyze](https://github.com/francoismari/elyze) - 
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [quantumsheep/qtmsheep.com](https://github.com/quantumsheep/qtmsheep.com) - My personal website
 - [ezshine/vscode-rainbow-fart-waifu](https://github.com/ezshine/vscode-rainbow-fart-waifu) - a virtual lover will accompany your programing
@@ -2241,7 +2242,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 45 stars 6 forks.
-- [RealPeha/This-Repo-Has-1706-Stars](https://github.com/RealPeha/This-Repo-Has-1706-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1708-Stars](https://github.com/RealPeha/This-Repo-Has-1708-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -2456,7 +2457,7 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [clearlinux/clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
@@ -3190,6 +3191,7 @@
 
 ## Others 
 
+- [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [alex-xu-system/bytebytego](https://github.com/alex-xu-system/bytebytego) - 
 - [imjohnbo/ok-to-test](https://github.com/imjohnbo/ok-to-test) - Example workflow configuration showing how to use GitHub Actions secrets in pull requests from forks 🍴🔑
@@ -4400,6 +4402,7 @@
 ## Ruby 
 
 - [penso/test-s3-direct-upload](https://github.com/penso/test-s3-direct-upload) - Benchmark for S3 direct uploads for AWS, GCP and Scaleway
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [tifhair/tifhair-tools](https://github.com/tifhair/tifhair-tools) - 
@@ -4599,6 +4602,7 @@
 
 ## Rust 
 
+- [probablykasper/time-machine-inspector](https://github.com/probablykasper/time-machine-inspector) - Time Machine backup size inspector app
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers

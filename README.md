@@ -997,6 +997,7 @@
 
 ## Go 
 
+- [yamnikov-oleg/nasmfmt](https://github.com/yamnikov-oleg/nasmfmt) - Formatter for NASM source files
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -2243,7 +2244,6 @@
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 45 stars 6 forks.
 - [RealPeha/This-Repo-Has-1708-Stars](https://github.com/RealPeha/This-Repo-Has-1708-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
 - [Azure/webapps-deploy](https://github.com/Azure/webapps-deploy) - Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
@@ -4668,7 +4668,7 @@
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
 - [tyrchen/rust-training](https://github.com/tyrchen/rust-training) - my rust training to the team.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone!
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [matthunz/typed-sql](https://github.com/matthunz/typed-sql) - 
 - [TaKO8Ki/frum](https://github.com/TaKO8Ki/frum) - A little bit fast and modern Ruby version manager written in Rust
@@ -5587,6 +5587,7 @@
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [hediet/browser-ext-github-monaco](https://github.com/hediet/browser-ext-github-monaco) - This extension brings the famous Monaco editor to Github
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/docker-login](https://github.com/Azure/docker-login) - GitHub action to log in to Azure Container Registry (ACR) or any private container registry
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React

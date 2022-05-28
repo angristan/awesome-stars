@@ -997,6 +997,7 @@
 
 ## Go 
 
+- [pioz/god](https://github.com/pioz/god) - Automation tool to deploy and manage Go services using systemd on GNU/Linux machines
 - [ProtonMail/go-mailserver](https://github.com/ProtonMail/go-mailserver) - An IMAP library written in Go and C++
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦

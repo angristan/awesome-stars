@@ -997,6 +997,7 @@
 
 ## Go 
 
+- [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [pioz/god](https://github.com/pioz/god) - Automation tool to deploy and manage Go services using systemd on GNU/Linux machines
 - [ProtonMail/go-mailserver](https://github.com/ProtonMail/go-mailserver) - An IMAP library written in Go and C++
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
@@ -5483,6 +5484,7 @@
 
 ## TypeScript 
 
+- [zernonia/statusbase](https://github.com/zernonia/statusbase) - A modern, zero-dependency uptime monitoring tool & status page based on GitHub Actions & Nuxt Content v2.
 - [blrchen/aws-speed-test](https://github.com/blrchen/aws-speed-test) - AWS speed test tool. Test your network latency to AWS datacenters around the world.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [quantumsheep/esgi-2022-dod-tp](https://github.com/quantumsheep/esgi-2022-dod-tp) - ESGI 2022 DOD TP
@@ -5493,6 +5495,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [2022etmoi/2022etmoi](https://github.com/2022etmoi/2022etmoi) - Test en ligne pour se comparer aux candidats de l'élection présidentielle sur une trentaine de propositions.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
@@ -5958,7 +5961,6 @@
 
 ## Vue 
 
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
 - [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.

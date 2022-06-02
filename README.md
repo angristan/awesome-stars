@@ -2280,7 +2280,7 @@
 - [chrisg86/gatsby-remark-classes](https://github.com/chrisg86/gatsby-remark-classes) - Automatically add class attributes to markdown elements
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ThaTiemsz/Discord-Emoji-Downloader](https://github.com/ThaTiemsz/Discord-Emoji-Downloader) - Get all emojis from a server in a ZIP file.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in media \ websites
 - [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [davidsawyer/airbnb-price-per-night-correcter](https://github.com/davidsawyer/airbnb-price-per-night-correcter) - Gives you the real price per night of an Airbnb stay after accounting for any and all fees
 - [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
@@ -4960,7 +4960,7 @@
 - [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
 - [input-output-hk/cardano-haskell](https://github.com/input-output-hk/cardano-haskell) - Top level repository for building the Cardano Haskell node and related components and dependencies.
-- [osixia/docker-openldap](https://github.com/osixia/docker-openldap) - OpenLDAP docker image 🐳🌴
+- [osixia/docker-openldap](https://github.com/osixia/docker-openldap) - OpenLDAP container image 🐳🌴
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process.
 - [mbentley/docker-timemachine](https://github.com/mbentley/docker-timemachine) - Docker image to run netatalk (compatible Time Machine for OS X)
 - [munki/bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume.
@@ -5961,7 +5961,7 @@
 ## Visual Basic .NET 
 
 - [KyleBanks/XOREncryption](https://github.com/KyleBanks/XOREncryption) - XOR encryption implementations for several languages.
-- [ImminentFate/CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function
+- [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Visual Interface for the Windows 10 Compact Function
 
 ## Vue 
 

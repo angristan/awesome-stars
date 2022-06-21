@@ -997,6 +997,7 @@
 
 ## Go 
 
+- [smmr-software/mabel](https://github.com/smmr-software/mabel) - A fancy BitTorrent client for the terminal
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [grafana/dskit](https://github.com/grafana/dskit) - Distributed systems kit
@@ -1318,7 +1319,7 @@
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) - 
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform 
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - A secure user directory built for developers to comply with the GDPR
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -2270,7 +2271,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 46 stars 6 forks.
-- [RealPeha/This-Repo-Has-1712-Stars](https://github.com/RealPeha/This-Repo-Has-1712-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1711-Stars](https://github.com/RealPeha/This-Repo-Has-1711-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2632,7 +2633,7 @@
 - [JunoLab/atom-julia-client](https://github.com/JunoLab/atom-julia-client) - Juno a good IDE?
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Modern testing for DevOps & SRE
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing. Keep your app fast & reliable. Loved by developers & SREs.
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -4203,6 +4204,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [ruped24/toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
 - [pereorga/csvfaker](https://github.com/pereorga/csvfaker) - Generate CSV files with fake data from the command line
@@ -4843,7 +4845,6 @@
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [quininer/memsec](https://github.com/quininer/memsec) - Rust implementation `libsodium/utils`.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [ha-shine/rustagram](https://github.com/ha-shine/rustagram) - Instagram filters in Rust 💫
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -5691,7 +5692,6 @@
 - [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [woowa-techcamp-2020/woowahan-chart](https://github.com/woowa-techcamp-2020/woowahan-chart) - A simple HTML chart generator leveraging the power of CSS and DOM
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [soundhive/api](https://github.com/soundhive/api) - Soundhive's API, powered by NestJS
 - [soundhive/front](https://github.com/soundhive/front) - Soundhive's front-end, powered by Angular

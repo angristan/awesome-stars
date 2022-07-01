@@ -577,7 +577,7 @@
 - [cetic/unikernels](https://github.com/cetic/unikernels) - Unikernel and immutable infrastructures
 - [AndreaOrru/LaiNES](https://github.com/AndreaOrru/LaiNES) - Cycle-accurate NES emulator in ~1000 lines of code
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS is a cloud native distributed storage platform.
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native distributed storage platform.
 - [tylermorganwall/rayrender](https://github.com/tylermorganwall/rayrender) - A pathtracer for R. Build and render complex scenes and 3D data visualizations directly from R
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [quantumsheep/llvm-antlr4-starter](https://github.com/quantumsheep/llvm-antlr4-starter) - Pre-configured LLVM and ANTLR4 for C++
@@ -720,7 +720,7 @@
 - [viacoin/viacoin](https://github.com/viacoin/viacoin) - Viacoin Core integration/staging tree
 - [onsightit/solarcoin](https://github.com/onsightit/solarcoin) - SolarCoin with PoST
 - [hempcoin-project/THC](https://github.com/hempcoin-project/THC) - Hempcoin Crypto Currency and Crypto-Stash
-- [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is a cryptocurrency
+- [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital money
 - [firoorg/firo](https://github.com/firoorg/firo) - The privacy-focused cryptocurrency
 - [twitter/vireo](https://github.com/twitter/vireo) - Vireo is a lightweight and versatile video processing library written in C++11
 - [PIVX-Project/PIVX](https://github.com/PIVX-Project/PIVX) - Protected Instant Verified Transactions - Core wallet.
@@ -1026,7 +1026,7 @@
 - [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP library written in Go and C++
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity.
 - [malwaredllc/minicache](https://github.com/malwaredllc/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both HTTP/gRPC interfaces secured with mTLS.
@@ -2982,6 +2982,7 @@
 
 ## Jinja 
 
+- [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 - [sleighzy/ansible-kafka](https://github.com/sleighzy/ansible-kafka) - Ansible role for installing and configuring Apache Kafka on RedHat and Debian platforms.
 - [Sh4d1/k8s-infra](https://github.com/Sh4d1/k8s-infra) - 
 - [DataDog/ansible-datadog](https://github.com/DataDog/ansible-datadog) - Ansible role for Datadog Agent
@@ -3226,6 +3227,7 @@
 
 ## Others 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [aaronryank/fork-bomb](https://github.com/aaronryank/fork-bomb) - Fork bombs in lots of languages
@@ -5354,7 +5356,6 @@
 
 ## Svelte 
 
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mquandalle/mesaidesvelo](https://github.com/mquandalle/mesaidesvelo) - Découvrez les aides à l’achat d’un vélo
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [Kaiak/kaiak-wallet](https://github.com/Kaiak/kaiak-wallet) - A secure and fast way to send and receive Nano cryptocurrency in KaiOS.
@@ -5518,6 +5519,7 @@
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run

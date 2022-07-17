@@ -2299,7 +2299,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 46 stars 6 forks.
-- [RealPeha/This-Repo-Has-1724-Stars](https://github.com/RealPeha/This-Repo-Has-1724-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1727-Stars](https://github.com/RealPeha/This-Repo-Has-1727-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -4447,6 +4447,7 @@
 
 ## R 
 
+- [marcusvolz/strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data
 - [TheEconomist/2022-france-election-model](https://github.com/TheEconomist/2022-france-election-model) - 
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive graphing library for R
@@ -4702,7 +4703,7 @@
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [Sh4d1/aoc2021](https://github.com/Sh4d1/aoc2021) - 
 - [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 
-- [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider ⚡️
+- [Qovery/engine](https://github.com/Qovery/engine) - The Platform to Deploy On-demand Environments in the Cloud ⚡️
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
@@ -5392,7 +5393,7 @@
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [SuprHackerSteve/Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
 - [marpies/protonmail-macos](https://github.com/marpies/protonmail-macos) - Experimental email client for the ProtonMail service written in Swift.
-- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - LinearMouse is a free and open-source utility for macOS which aims to improve the experience and functionality of third-party mice.
+- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - 🖱 The mouse and trackpad utility for Mac.
 - [nerdsupremacist/Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps.   100% in SwiftUI.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS

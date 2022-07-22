@@ -1347,7 +1347,7 @@
 - [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) - 
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [securitybunker/databunker](https://github.com/securitybunker/databunker) - A secure user directory built for developers to comply with the GDPR
+- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure SDK/vault for personal records/PII built to comply with GDPR
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -1530,7 +1530,7 @@
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [jessfraz/gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
@@ -2304,7 +2304,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 45 stars 6 forks.
-- [RealPeha/This-Repo-Has-1748-Stars](https://github.com/RealPeha/This-Repo-Has-1748-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1750-Stars](https://github.com/RealPeha/This-Repo-Has-1750-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2666,7 +2666,7 @@
 - [JunoLab/atom-julia-client](https://github.com/JunoLab/atom-julia-client) - Juno a good IDE?
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance & reliability testing for developers & SREs
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -3439,7 +3439,7 @@
 - [WHMCS/developer-docs](https://github.com/WHMCS/developer-docs) - Developer documentation portal content
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [caarlos0-graveyard/vscode-prometheus-language](https://github.com/caarlos0-graveyard/vscode-prometheus-language) - Syntax highlight for Prometheus' .rules and .rules.yml files on VSCode
-- [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+- [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [yaml/yaml](https://github.com/yaml/yaml) - YAML language and community information
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [arcticicestudio/nord-iterm2](https://github.com/arcticicestudio/nord-iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.

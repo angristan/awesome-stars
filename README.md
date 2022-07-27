@@ -935,6 +935,7 @@
 
 ## Dockerfile 
 
+- [mariomka/regex-benchmark](https://github.com/mariomka/regex-benchmark) - It's just a simple regex benchmark of different programming languages.
 - [jakejarvis/hugo-build-action](https://github.com/jakejarvis/hugo-build-action) - ✏️ Hugo as a GitHub Action. Supports legacy versions back to v0.27 for compatibility.
 - [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [wei/curl](https://github.com/wei/curl) - Wraps the curl CLI to be used in Github Actions
@@ -2189,6 +2190,7 @@
 
 ## JavaScript 
 
+- [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
 - [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers.
 - [etalab/DVF-app](https://github.com/etalab/DVF-app) - Exploration des données DVF
 - [palaniraja/blog2md](https://github.com/palaniraja/blog2md) - Convert Blogger & Wordpress backup blog posts to hugo compatible markdown documents
@@ -3256,6 +3258,7 @@
 
 ## Others 
 
+- [AlexChesser/recruiter-autoresponse](https://github.com/AlexChesser/recruiter-autoresponse) - Based on the Medium Article entitled - "Career Advice Nobody Gave Me: Never ignore a recruiter" this repo has a copyable script which you can use to auto-respond to recruiters.
 - [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
@@ -3766,7 +3769,7 @@
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [matomo-org/tracker-proxy](https://github.com/matomo-org/tracker-proxy) - HTTP proxy for Matomo's tracker API. This script allows to track websites with Matomo without revealing to your visitors the secret Matomo server URL.
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
-- [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR Code generator for PHP7.4+
+- [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR Code generator and reader for PHP7.4+
 - [phpmyadmin/docker](https://github.com/phpmyadmin/docker) - Docker container for phpMyAdmin
 - [sayakb/sticky-notes](https://github.com/sayakb/sticky-notes) - Sticky notes is a free open-source pastebin application.
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB

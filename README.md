@@ -945,7 +945,6 @@
 - [codingCoffee/fahclient](https://github.com/codingCoffee/fahclient) - Dockerized Folding@home client with NVIDIA GPU support to help battle COVID-19
 - [scaleway/image-builder](https://github.com/scaleway/image-builder) - :triangular_ruler: build server images on Scaleway
 - [NixOS/docker](https://github.com/NixOS/docker) - DEPRECATED! Dockerfiles to package Nix in a minimal docker container
-- [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [Xe/furry-happiness](https://github.com/Xe/furry-happiness) - A proof of concept dockerfile that uses user mode linux
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [docker-library/openjdk](https://github.com/docker-library/openjdk) - Docker Official Image packaging for Java (openJDK)
@@ -2155,7 +2154,7 @@
 - [stephanyan/ChristmasTree](https://github.com/stephanyan/ChristmasTree) - How to build a kawai Christmas tree
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
 - [raulhaag/MiMangaNu](https://github.com/raulhaag/MiMangaNu) - *ES - Lector de Manga online / offline, gratuito y de código abierto.  *EN - Manga reader online / offline, free and open source.  *FR - Lecteur de manga en ligne / hors ligne, gratuit et open source.
-- [nv95/OpenManga](https://github.com/nv95/OpenManga) - Manga reader for Android - MOVED TO https://github.com/nv95/Kotatsu
+- [Koitharu/OpenManga](https://github.com/Koitharu/OpenManga) - Manga reader for Android - MOVED TO https://github.com/nv95/Kotatsu
 - [4pr0n/ripme](https://github.com/4pr0n/ripme) - Downloads albums in bulk
 - [cosmojg/open-coinomi-android](https://github.com/cosmojg/open-coinomi-android) - The final open source (GPL 3.0) release of Coinomi's cryptocurrency wallet for Android
 - [openwalletGH/openwallet-android](https://github.com/openwalletGH/openwallet-android) - Truly free, libre, and open-source light wallet for Android with support for multiple cryptocurrencies (Bitcoin, Ethereum, Litecoin, etc.)
@@ -2189,6 +2188,7 @@
 
 ## JavaScript 
 
+- [JeanJouliaCode/wipeClean](https://github.com/JeanJouliaCode/wipeClean) - 
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
 - [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers.
 - [etalab/DVF-app](https://github.com/etalab/DVF-app) - Exploration des données DVF
@@ -2307,7 +2307,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 45 stars 6 forks.
-- [RealPeha/This-Repo-Has-1754-Stars](https://github.com/RealPeha/This-Repo-Has-1754-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3925,6 +3925,7 @@
 
 ## Python 
 
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [koenrh/delete-tweets](https://github.com/koenrh/delete-tweets) - Delete tweets from your timeline.
@@ -4164,6 +4165,7 @@
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - [timbertson/nix-update-source](https://github.com/timbertson/nix-update-source) - Fetch and automatically update nix derivation sources
 - [olipo186/Git-Auto-Deploy](https://github.com/olipo186/Git-Auto-Deploy) - Deploy your GitHub, GitLab or Bitbucket projects automatically on Git push events or webhooks using this small HTTP server written in Python. Continuous deployment in it's most simple form.
+- [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [nurdtechie98/drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [danielhoherd/plexdl](https://github.com/danielhoherd/plexdl) - A plex direct downloader. The whole point is to get media that has not been modified.
@@ -5395,6 +5397,7 @@
 
 ## Swift 
 
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [billycastelli/Silicon-Info](https://github.com/billycastelli/Silicon-Info) - Mac menu bar tool to view the architecture of the running application
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS VMs on Apple Silicon to use in CI and other automations
@@ -5744,7 +5747,7 @@
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
-- [bt0r/NoteFlix](https://github.com/bt0r/NoteFlix) - Permet d'avoir un score Allociné et SensCritique sur les films/séries Netflix
+- [SensCritique/NoteFlix](https://github.com/SensCritique/NoteFlix) - Permet d'avoir un score Allociné et SensCritique sur les films/séries Netflix
 - [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps

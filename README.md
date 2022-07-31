@@ -55,6 +55,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [Mercury](#mercury)
 - [Meson](#meson)
 - [Mustache](#mustache)
@@ -3135,6 +3136,10 @@
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Mathematica 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
 ## Mercury 
 
 - [spacekookie/gay](https://github.com/spacekookie/gay) - 🏳️‍🌈 LGBT pride in here 🏳️‍🌈
@@ -4216,7 +4221,6 @@
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [jdavid/lxdsnap](https://github.com/jdavid/lxdsnap) - Automatic LXD snapshotting
 - [canonical/netplan](https://github.com/canonical/netplan) - Backend-agnostic network configuration in YAML
 - [CCrypto/ccvpn3](https://github.com/CCrypto/ccvpn3) - CCrypto VPN - Version 3, with Django. Our current site. (mirror of https://git.ccrypto.org/CCrypto/ccvpn3 )
@@ -4683,6 +4687,7 @@
 
 ## Rust 
 
+- [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust

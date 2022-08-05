@@ -1435,7 +1435,7 @@
 - [juicedata/juicesync](https://github.com/juicedata/juicesync) - A tool to move your data between any clouds or regions.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging
-- [cloudflare/go](https://github.com/cloudflare/go) - Stable Go with Cloudflare (experimental) patches and backports from tip
+- [cloudflare/go](https://github.com/cloudflare/go) - Go with Cloudflare experimental patches
 - [souramoo/commentoplusplus](https://github.com/souramoo/commentoplusplus) - Commento with out of the box patches and updates to add useful features and fixes. Also with one-click deploy to Heroku so you can get up and running fast.
 - [ahmetb/twitter-audit-log](https://github.com/ahmetb/twitter-audit-log) - Periodically collect data about my Twitter account and check in to github to preserve an audit trail.
 - [YoannMa/scaleway_exporter](https://github.com/YoannMa/scaleway_exporter) - Prometheus exporter for Scaleway Elements metrics (LB, Database).
@@ -2179,7 +2179,6 @@
 - [kaklakariada/portmapper](https://github.com/kaklakariada/portmapper) - A tool for managing port forwardings via UPnP
 - [bboyairwreck/PieMessage](https://github.com/bboyairwreck/PieMessage) - This is project allows Android clients to communicate using iMessage
 - [haiwen/seadroid](https://github.com/haiwen/seadroid) - Android client for Seafile
-- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [SilenceIM/Silence](https://github.com/SilenceIM/Silence) - PROJECT MOVED: https://git.silence.dev/Silence/Silence-Android/ (GitHub is just a mirror.)
 - [brave/link-bubble](https://github.com/brave/link-bubble) - Brave Link Bubble Browser
@@ -3090,6 +3089,7 @@
 - [jlelse/teleposter](https://github.com/jlelse/teleposter) - Simple and lightweight client for Telegra.ph
 - [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 - [FredJul/Flym](https://github.com/FredJul/Flym) - Flym News Reader is a light Android feed reader (RSS/Atom)
+- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 
 ## LLVM 
 
@@ -4766,7 +4766,7 @@
 - [svartalf/unbound-telemetry](https://github.com/svartalf/unbound-telemetry) - Prometheus exporter for Unbound DNS resolver
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [yvan-sraka/rust-ffi-demo](https://github.com/yvan-sraka/rust-ffi-demo) - 
-- [ryankurte/cargo-binstall](https://github.com/ryankurte/cargo-binstall) - Binary installation for rust projects
+- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information

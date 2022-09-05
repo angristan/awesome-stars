@@ -4909,7 +4909,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [quininer/memsec](https://github.com/quininer/memsec) - Rust implementation `libsodium/utils`.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
 - [ha-shine/rustagram](https://github.com/ha-shine/rustagram) - Instagram filters in Rust 💫
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.

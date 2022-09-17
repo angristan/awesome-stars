@@ -1,1 +1,1 @@
-Error: Cannot connect to host api.github.com:443 ssl:False [Connection reset by peer]
+Error: 403, message='Forbidden', url=URL('https://api.github.com/graphql')

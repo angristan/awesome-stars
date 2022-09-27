@@ -3191,7 +3191,6 @@
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [infinisil/nixus](https://github.com/infinisil/nixus) - 
-- [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [jeaye/nix-files](https://github.com/jeaye/nix-files) - NixOS for my VPS
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
@@ -5396,6 +5395,7 @@
 
 ## Smarty 
 
+- [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [LevelUpEducation/kubernetes-demo](https://github.com/LevelUpEducation/kubernetes-demo) - 
 
 ## Solidity 

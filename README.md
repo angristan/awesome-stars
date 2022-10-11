@@ -2169,6 +2169,7 @@
 - [AnalyseSI/AnalyseSI](https://github.com/AnalyseSI/AnalyseSI) - 
 - [TryGhost/Ghost-Android](https://github.com/TryGhost/Ghost-Android) - 🤖 Ghost for Android
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [Samourai-Wallet/samourai-wallet-android](https://github.com/Samourai-Wallet/samourai-wallet-android) - Bitcoin Wallet strongly focused on privacy when transacting on the bitcoin network
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
@@ -2581,7 +2582,7 @@
 - [dreamerslab/node.inflection](https://github.com/dreamerslab/node.inflection) - A port of inflection-js to node.js module
 - [pinojs/hapi-pino](https://github.com/pinojs/hapi-pino) - 🌲 Hapi plugin for the Pino logger
 - [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2) - :zap: fast mysqljs/mysql compatible mysql driver for node.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [auth0-blog/hapi-jwt-authentication](https://github.com/auth0-blog/hapi-jwt-authentication) - 
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -4677,7 +4678,6 @@
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [impiaaa/mastodon_import_emoji](https://github.com/impiaaa/mastodon_import_emoji) - Import Mastodon custom emoji from various places on the internet
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [lessy-community/lessy](https://github.com/lessy-community/lessy) - A respectful and ethical time manager.
 - [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)

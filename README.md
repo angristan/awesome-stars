@@ -3470,7 +3470,7 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [nurkiewicz/crypto-hall-of-shame](https://github.com/nurkiewicz/crypto-hall-of-shame) - Scams, hacks and fails of cryptocurrencies
 - [whitecloud/ansible-styleguide](https://github.com/whitecloud/ansible-styleguide) - Ansible styleguide used at WhiteCloud
-- [unrelentingtech/awesome-gtk](https://github.com/unrelentingtech/awesome-gtk) - List of awesome GTK (3/4) applications
+- [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -5429,7 +5429,7 @@
 - [billycastelli/Silicon-Info](https://github.com/billycastelli/Silicon-Info) - Mac menu bar tool to view the architecture of the running application
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI!
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [zenangst/Gray](https://github.com/zenangst/Gray) - :first_quarter_moon: Tailor your macOS Mojave experience
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [SuprHackerSteve/Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.

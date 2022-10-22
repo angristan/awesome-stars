@@ -373,7 +373,7 @@
 - [reddit/snudown](https://github.com/reddit/snudown) - reddit's markdown renderer. based on sundown.
 - [Arkq/bluez-alsa](https://github.com/Arkq/bluez-alsa) - Bluetooth Audio ALSA Backend
 - [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD, Intel and NVIDIA GPUs process monitoring
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [paolostivanin/libbaseencode](https://github.com/paolostivanin/libbaseencode) - Library written in C for encoding and decoding data using base32 or base64 (RFC-4648)
 - [paolostivanin/libcotp](https://github.com/paolostivanin/libcotp) - C library that generates TOTP and HOTP
 - [paolostivanin/OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK that supports both TOTP and HOTP
@@ -2093,7 +2093,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [WorldQL/mammoth](https://github.com/WorldQL/mammoth) - Scale a single world horizontally across multiple Minecraft servers.
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [mynttt/UpdateTool](https://github.com/mynttt/UpdateTool) - A tool to update the IMDB ratings for Plex libraries that contain movies/series and use the IMDB agent to receive ratings
@@ -2328,7 +2328,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 47 stars 6 forks.
-- [RealPeha/This-Repo-Has-1760-Stars](https://github.com/RealPeha/This-Repo-Has-1760-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1761-Stars](https://github.com/RealPeha/This-Repo-Has-1761-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService

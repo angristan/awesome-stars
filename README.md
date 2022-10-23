@@ -798,7 +798,6 @@
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
 - [ChristopherBiscardi/gatsby-starter-mdx-basic](https://github.com/ChristopherBiscardi/gatsby-starter-mdx-basic) - A minimal gatsby-mdx starter that only tries to set up config to work in src/pages.
 - [Fmstrat/diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
@@ -2563,7 +2562,7 @@
 - [uploadexpress/app](https://github.com/uploadexpress/app) - ⬆️ An open-source file sharing software built in React and Go
 - [vodkhard/vodeclic-fastpass](https://github.com/vodkhard/vodeclic-fastpass) - Chrome extension for speedup your vodeclic formation
 - [aws-samples/aws-reinvent-trivia-game](https://github.com/aws-samples/aws-reinvent-trivia-game) - Sample trivia game built with AWS Fargate. See https://www.reinvent-trivia.com
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
@@ -4954,6 +4953,7 @@
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 - [getzola/book](https://github.com/getzola/book) - Gitbook theme for Zola
 - [Keats/vincentprouillet](https://github.com/Keats/vincentprouillet) - My website
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [getzola/after-dark](https://github.com/getzola/after-dark) - A dark theme for Zola
 - [mrprofessor/rudra.dev](https://github.com/mrprofessor/rudra.dev) - Personal ramblings.
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.

@@ -796,7 +796,6 @@
 - [BenoitPE/MyGESPlanning](https://github.com/BenoitPE/MyGESPlanning) - Ce repo est une application web semblable à celle de MyGES mais en plus légère L'application web permet d'éviter d’aller sur MyGES (qui est hors service régulièrement) et de récupérer directement les 
 - [Vagahbond/reyece](https://github.com/Vagahbond/reyece) - My first Arch rice, documented for the sole purpose of obnoxiously bragging about it on r/UnixPorn and saying "I use arch BTW" all the time.
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
-- [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
 - [ChristopherBiscardi/gatsby-starter-mdx-basic](https://github.com/ChristopherBiscardi/gatsby-starter-mdx-basic) - A minimal gatsby-mdx starter that only tries to set up config to work in src/pages.
@@ -2326,8 +2325,8 @@
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 47 stars 6 forks.
-- [RealPeha/This-Repo-Has-1761-Stars](https://github.com/RealPeha/This-Repo-Has-1761-Stars) - Yes, it's true :purple_heart:
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 48 stars 6 forks.
+- [RealPeha/This-Repo-Has-1763-Stars](https://github.com/RealPeha/This-Repo-Has-1763-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -4917,7 +4916,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [quininer/memsec](https://github.com/quininer/memsec) - Rust implementation `libsodium/utils`.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [ha-shine/rustagram](https://github.com/ha-shine/rustagram) - Instagram filters in Rust 💫
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
@@ -4953,6 +4952,7 @@
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 - [getzola/book](https://github.com/getzola/book) - Gitbook theme for Zola
 - [Keats/vincentprouillet](https://github.com/Keats/vincentprouillet) - My website
+- [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [getzola/after-dark](https://github.com/getzola/after-dark) - A dark theme for Zola
 - [mrprofessor/rudra.dev](https://github.com/mrprofessor/rudra.dev) - Personal ramblings.

@@ -2002,7 +2002,6 @@
 - [paracycle/slackthemes](https://github.com/paracycle/slackthemes) - A Slack sidebar theme browser
 - [syncsynchalt/illustrated-tls13](https://github.com/syncsynchalt/illustrated-tls13) - The Illustrated TLS 1.3 Connection: Every byte explained
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [id101010/ansible-archlinux](https://github.com/id101010/ansible-archlinux) - Automated arch linux desktop environment
 - [sayazamurai/python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
 - [mhausenblas/stateful-kubernetes](https://github.com/mhausenblas/stateful-kubernetes) - All Thingz Stateful Apps & Tooling in Kubernetes
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
@@ -2589,7 +2588,7 @@
 - [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - Web-based CIDR / netmask / IP address visualizer
 - [danielrw7/lastfm-batch-edit](https://github.com/danielrw7/lastfm-batch-edit) - Batch edit scrobbles in last.fm
 - [nextcloud/files_rightclick](https://github.com/nextcloud/files_rightclick) - 👉 Right click menu for Nextcloud
-- [ramon82/zuck.js](https://github.com/ramon82/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
+- [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
 - [meganz/webclient](https://github.com/meganz/webclient) - The mega.nz web client
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [petrovicstefanrs/30_seconds_of_knowledge](https://github.com/petrovicstefanrs/30_seconds_of_knowledge) - Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
@@ -3034,6 +3033,7 @@
 - [cloudalchemy/ansible-alertmanager](https://github.com/cloudalchemy/ansible-alertmanager) - Deploy Prometheus Alertmanager service
 - [cloudalchemy/ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+- [id101010/ansible-archlinux](https://github.com/id101010/ansible-archlinux) - Automated arch linux desktop environment
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [geerlingguy/ansible-role-composer](https://github.com/geerlingguy/ansible-role-composer) - Ansible Role - Composer PHP Dependency Manager
 - [ILoveYaToo/docker-postal](https://github.com/ILoveYaToo/docker-postal) - Docker container for Postal (atech/postal)
@@ -3549,6 +3549,7 @@
 - [devRant/devRant](https://github.com/devRant/devRant) - 
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [sp614x/optifine](https://github.com/sp614x/optifine) - 
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [rubocop/ruby-style-guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [jeantil/admission_post_bac](https://github.com/jeantil/admission_post_bac) - 
@@ -5559,7 +5560,6 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [zorgiepoo/Komet](https://github.com/zorgiepoo/Komet) - Cocoa editor for creating commit messages
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
 

@@ -4504,6 +4504,7 @@
 
 ## Ruby 
 
+- [fatkodima/sidekiq-iteration](https://github.com/fatkodima/sidekiq-iteration) - Makes your long-running sidekiq jobs interruptible and resumable by design.
 - [dry-rb/dry-validation](https://github.com/dry-rb/dry-validation) - Validation library with type-safe schemas and rules
 - [thoughtbot/factory_bot](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as test data.
 - [rspec/rspec-expectations](https://github.com/rspec/rspec-expectations) - Provides a readable API to express expected outcomes of a code example

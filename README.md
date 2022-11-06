@@ -717,7 +717,7 @@
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
-- [weserv/images](https://github.com/weserv/images) - Source code of images.weserv.nl, to be used on your own server(s).
+- [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s).
 - [Sir-Boops/monero](https://github.com/Sir-Boops/monero) - Awoocoin: the secure, private, untraceable cryptocurrency
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [electracoin-ECA/electra-archive](https://github.com/electracoin-ECA/electra-archive) - This repository is no longer in use.

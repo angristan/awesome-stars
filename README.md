@@ -4500,6 +4500,8 @@
 
 ## Ruby 
 
+- [zendesk/ruby-kafka](https://github.com/zendesk/ruby-kafka) - A Ruby client library for Apache Kafka
+- [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
 - [yabeda-rb/yabeda-prometheus-mmap](https://github.com/yabeda-rb/yabeda-prometheus-mmap) - Yabeda Prometheus exporter based on prometheus-client-mmap
 - [yabeda-rb/yabeda-puma-plugin](https://github.com/yabeda-rb/yabeda-puma-plugin) - Collects Puma web-server metrics from puma control panel
 - [yabeda-rb/yabeda-rails](https://github.com/yabeda-rb/yabeda-rails) - Yabeda plugin to collect basic metrics for Rails applications
@@ -5721,7 +5723,7 @@
 - [remjx/coindrop](https://github.com/remjx/coindrop) - Create a custom webpage optimized to receive ZERO-FEE donations & tips
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
 - [KnisterPeter/vscode-github](https://github.com/KnisterPeter/vscode-github) - :octocat: GitHub Support for vscode
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code

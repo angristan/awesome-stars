@@ -1125,7 +1125,7 @@
 - [elliotchance/c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
-- [ashanbrown/makezero](https://github.com/ashanbrown/makezero) - A linter to ensure that slices are not initialized with non-zero length
+- [atom-computing/makezero](https://github.com/atom-computing/makezero) - A linter to ensure that slices are not initialized with non-zero length
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
@@ -1458,7 +1458,7 @@
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging
 - [cloudflare/go](https://github.com/cloudflare/go) - Go with Cloudflare experimental patches
 - [souramoo/commentoplusplus](https://github.com/souramoo/commentoplusplus) - Commento with out of the box patches and updates to add useful features and fixes. Also with one-click deploy to Heroku so you can get up and running fast.
-- [ahmetb/twitter-audit-log](https://github.com/ahmetb/twitter-audit-log) - Periodically collect data about my Twitter account and check in to github to preserve an audit trail.
+- [ahmetb/twitter-audit-log](https://github.com/ahmetb/twitter-audit-log) - Back up Twitter follow/mute/block lists periodically using GitHub Actions
 - [YoannMa/scaleway_exporter](https://github.com/YoannMa/scaleway_exporter) - Prometheus exporter for Scaleway Elements metrics (LB, Database).
 - [kirsch33/realip](https://github.com/kirsch33/realip) - realip module for Caddy v2
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
@@ -2328,7 +2328,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 49 stars 6 forks.
-- [RealPeha/This-Repo-Has-1763-Stars](https://github.com/RealPeha/This-Repo-Has-1763-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -2829,7 +2829,7 @@
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
 - [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [andryou/scriptsafe](https://github.com/andryou/scriptsafe) - a browser extension to bring security and privacy to chrome, firefox, and opera
 - [paulogr/dstatuspage](https://github.com/paulogr/dstatuspage) - Decentralized Status Page
 - [tomoki1207/vscode-pdfviewer](https://github.com/tomoki1207/vscode-pdfviewer) - Show PDF preview in VSCode.

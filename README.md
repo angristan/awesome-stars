@@ -630,7 +630,6 @@
 - [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
 - [jontaylor/DDC-CI-Tools-for-OS-X](https://github.com/jontaylor/DDC-CI-Tools-for-OS-X) - DDC/CI Tools for OS X, control your monitor through software
 - [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
@@ -1487,7 +1486,7 @@
 - [julieqiu/opensourcelive](https://github.com/julieqiu/opensourcelive) - [Tutorial] Level Up: Go Package Discovery and editor tooling
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [lithdew/reliable](https://github.com/lithdew/reliable) - A reliability layer for UDP connections in Go.
 - [lithdew/monte](https://github.com/lithdew/monte) - The bare minimum for high performance, fully-encrypted bidirectional RPC over TCP in Go with zero memory allocations.
 - [mdempsky/unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source
@@ -2472,7 +2471,7 @@
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
 - [budui/go-isso](https://github.com/budui/go-isso) - a commenting server similar to Disqus - rewrite isso with golang
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - Web Client for Jellyfin
@@ -3403,6 +3402,7 @@
 - [maxyermayank/docker-compose-elasticsearch-kibana](https://github.com/maxyermayank/docker-compose-elasticsearch-kibana) - Docker Compose for Elasticsearch and Kibana
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [google/bbr](https://github.com/google/bbr) - 
+- [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [LeEnno/alfred-terminalfinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -4507,6 +4507,7 @@
 
 ## Ruby 
 
+- [ctran/annotate_models](https://github.com/ctran/annotate_models) - Annotate Rails classes with schema and routes info
 - [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
 - [rails/globalid](https://github.com/rails/globalid) - Identify app models with a URI
 - [bblimke/webmock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests in Ruby.
@@ -5381,7 +5382,7 @@
 - [tj/n](https://github.com/tj/n) - Node version management
 - [blogmotion/bm-RaspberryPi](https://github.com/blogmotion/bm-RaspberryPi) - Scripts liés à mon RaspberryPi (sh, bash, etc.)
 - [DFabric/DPlatform-Shell](https://github.com/DFabric/DPlatform-Shell) - Deploy self-hosted apps easily: simple, bloat-free, independent installation
-- [parrotgeek1/ParrotMod_Nexus_7_2012](https://github.com/parrotgeek1/ParrotMod_Nexus_7_2012) - Optimizes the flash storage driver and RAM usage of the 2012 Nexus 7 to fix its extreme slowness. No longer supported.
+- [parrotgeek1/ParrotMod_Nexus_7_2012](https://github.com/parrotgeek1/ParrotMod_Nexus_7_2012) - Optimizes the flash storage driver and RAM usage of the 2012 Nexus 7 to fix its extreme slowness.
 - [1N3/BruteX](https://github.com/1N3/BruteX) - Automatically brute force all services running on a target.
 - [Kelvin-Chen/seedbox](https://github.com/Kelvin-Chen/seedbox) - Docker containers for running a seedbox/media server
 - [swarmzilla/swarm2k](https://github.com/swarmzilla/swarm2k) - The Docker Swarm 2000 Collaborative Project

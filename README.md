@@ -1119,7 +1119,7 @@
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
-- [micro/micro](https://github.com/micro/micro) - An API first development platform
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
@@ -1173,7 +1173,7 @@
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [Mathieu-Desrochers/Learning-Go](https://github.com/Mathieu-Desrochers/Learning-Go) - Minimal working examples of Go's features.
 - [ProtonMail/gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
-- [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
+- [ariga/atlas](https://github.com/ariga/atlas) - Atlas: A modern tool for managing database schemas
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
 - [erik-adelbert/aoc](https://github.com/erik-adelbert/aoc) - advent of code
 - [pachyderm/s2](https://github.com/pachyderm/s2) - Create s3-compatible APIs with ease
@@ -2922,7 +2922,7 @@
 - [atom-minimap/minimap-find-and-replace](https://github.com/atom-minimap/minimap-find-and-replace) - Displays the search matches in the minimap
 - [atom-minimap/minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - A minimap binding for the highlight-selected package
 - [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
-- [Pulsar-Edit-Highlights/selected](https://github.com/Pulsar-Edit-Highlights/selected) - @pulsar-edit package for highlighting occurrences of your selection.
+- [Pulsar-Edit-Highlights/selected](https://github.com/Pulsar-Edit-Highlights/selected) - @Pulsar-Edit package for highlighting occurrences of your selection.
 - [atom/markdown-preview](https://github.com/atom/markdown-preview) - 📝 Markdown preview in Atom
 - [keraf/NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
 - [mbilokonsky/ambassador](https://github.com/mbilokonsky/ambassador) - A mastodon bot for showing the world the best your instance has to offer.
@@ -5453,6 +5453,7 @@
 
 ## Swift 
 
+- [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [Swiftodon/Mastodon.swift](https://github.com/Swiftodon/Mastodon.swift) - A Mastodon API client written in Swift for iOS, iPadOS and macOS.
 - [NoahFetz/F1AppleTV](https://github.com/NoahFetz/F1AppleTV) - F1TV Client for AppleTV
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon

@@ -1014,6 +1014,7 @@
 
 ## Go 
 
+- [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -3667,6 +3668,15 @@
 
 ## PHP 
 
+- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP.
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
+- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP Testing Framework with a focus on simplicity
+- [laravel/breeze](https://github.com/laravel/breeze) - Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.
+- [laravel/fortify](https://github.com/laravel/fortify) - Backend controllers and scaffolding for Laravel authentication.
+- [laravel/sanctum](https://github.com/laravel/sanctum) - Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.
+- [laravel/vapor-cli](https://github.com/laravel/vapor-cli) - The CLI client for interacting with Laravel Vapor.
+- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
+- [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [facade/ignition](https://github.com/facade/ignition) - A beautiful error page for Laravel apps
 - [laravel/scout](https://github.com/laravel/scout) - Laravel Scout provides a driver based solution to searching your Eloquent models.
 - [aschmelyun/github-receipts](https://github.com/aschmelyun/github-receipts) - Source code that powers my GitHub issues receipt printer
@@ -5037,6 +5047,7 @@
 
 ## Shell 
 
+- [php-actions/phpstan](https://github.com/php-actions/phpstan) - PHP Static Analysis in Github Actions.
 - [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application.
 - [launchdarkly/api-client-go](https://github.com/launchdarkly/api-client-go) - LaunchDarkly API Client for Go
 - [no-gravity/git-gc-all-repos.sh](https://github.com/no-gravity/git-gc-all-repos.sh) - Perform garbage collection on all git repos in a given directory

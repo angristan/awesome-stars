@@ -1,32 +1,27 @@
-name: Update awesome-stars
-
+name: update awesome-stars
 on:
-  schedule:
-    - cron: 0 0 * * *
   workflow_dispatch:
-
+  schedule:
+  - cron: 30 0 * * *
 jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Set up Python
-        uses: actions/setup-python@v1
-        with:
-          python-version: 3.8
-      - run: pip install starred
-      - name: Update star list
-        run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.GITHUB_TOKEN }} > README.md
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update awesome stars"
-      - name: Pull changes
-        run: git pull -r
-      - name: Push changes
-        uses: ad-m/github-push-action@b007e7b818e33b04afd056e4c4b57ba917145d7a
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.10'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install starred
+    - name: get repository name
+      run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+    - name: update repo category by language
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'Update starred repositories'

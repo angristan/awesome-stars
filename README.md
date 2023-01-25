@@ -1604,7 +1604,7 @@
 - [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [gomodule/redigo](https://github.com/gomodule/redigo) - Go client for Redis
-- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [Masterminds/glide](https://github.com/Masterminds/glide) - Package Management for Golang
@@ -2371,8 +2371,8 @@
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 49 stars 6 forks.
-- [RealPeha/This-Repo-Has-1758-Stars](https://github.com/RealPeha/This-Repo-Has-1758-Stars) - Yes, it's true :purple_heart:
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 48 stars 6 forks.
+- [RealPeha/This-Repo-Has-1762-Stars](https://github.com/RealPeha/This-Repo-Has-1762-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3314,7 +3314,6 @@
 
 ## Others 
 
-- [shadcn/ui](https://github.com/shadcn/ui) - UI components that you can copy and paste into your apps. Built using Radix UI and Tailwind CSS.
 - [joewdavies/geoblender](https://github.com/joewdavies/geoblender) - Tutorials for making 3D-looking maps with Blender and QGIS
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [toptal/active-job-style-guide](https://github.com/toptal/active-job-style-guide) - This Background Jobs style guide is a list of best practices working with Ruby background jobs.
@@ -4040,6 +4039,7 @@
 
 ## Python 
 
+- [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
@@ -5741,6 +5741,7 @@
 - [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - An open-source, pretty, simple and fast meilisearch admin dashboard UI for managing your meilisearch instances
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [nhedger/vscode-inertia](https://github.com/nhedger/vscode-inertia) - Visual Studio Code extension for Inertia.js
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.

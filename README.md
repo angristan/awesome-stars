@@ -586,7 +586,7 @@
 
 - [OpenVPN/openvpn3](https://github.com/OpenVPN/openvpn3) - OpenVPN 3 is a C++ class library that implements the functionality of an OpenVPN client, and is protocol-compatible with the OpenVPN 2.x branch.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [apiaryio/drafter](https://github.com/apiaryio/drafter) - API Blueprint Parser (C++)
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
@@ -1342,6 +1342,7 @@
 - [nelhage/llama](https://github.com/nelhage/llama) - 
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go]
 - [auxten/go-sqldb](https://github.com/auxten/go-sqldb) - A pure golang SQL database for database theory research
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [pokemium/magia](https://github.com/pokemium/magia) - magia is a toy GBA emulator written in golang.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [Sh4d1/scaleway-k8s-node-coffee](https://github.com/Sh4d1/scaleway-k8s-node-coffee) - 
@@ -1535,6 +1536,7 @@
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [cds-snc/covid-alert-server](https://github.com/cds-snc/covid-alert-server) - Exposure Notification: Diagnosis Server implementation / Notification d’exposition : Mise en œuvre du serveur de diagnostic
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
@@ -1967,7 +1969,6 @@
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [mpsq/arewewaylandyet](https://github.com/mpsq/arewewaylandyet) - Sources for https://arewewaylandyet.com
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
 - [thesephist/h12y](https://github.com/thesephist/h12y) - The email service for when just "hey.com" isn't enough.
 - [pinoceniccola/what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
@@ -2183,7 +2184,6 @@
 - [andOTP/andOTP](https://github.com/andOTP/andOTP) - [Unmaintained] Open source two-factor authentication for Android
 - [Netflix/EVCache](https://github.com/Netflix/EVCache) - A distributed in-memory data store for the cloud
 - [Jigsaw-Code/Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
-- [logstash-plugins/logstash-input-beats](https://github.com/logstash-plugins/logstash-input-beats) - 
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [alfio-event/alf.io](https://github.com/alfio-event/alf.io) - alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups
 - [spacewalkproject/spacewalk](https://github.com/spacewalkproject/spacewalk) - The master repository for the Spacewalk Project.
@@ -2376,7 +2376,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 50 stars 6 forks.
-- [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1766-Stars](https://github.com/RealPeha/This-Repo-Has-1766-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3027,7 +3027,6 @@
 - [SuphanutJui/Material-Sidenav-Ghost-Theme](https://github.com/SuphanutJui/Material-Sidenav-Ghost-Theme) - A Ghost blogging-platform theme, based on Materialize.css.
 - [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [portly/pairish](https://github.com/portly/pairish) - Pair Programming made user-friendly with your web browser.
 - [samhocevar/dtcloud](https://github.com/samhocevar/dtcloud) - Le vrai visage du Cloud™
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -3191,6 +3190,7 @@
 - [Airblader/yolo](https://github.com/Airblader/yolo) - Kill a random process
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [scaleway/kernel-tools](https://github.com/scaleway/kernel-tools) - :penguin: Kernels on Scaleway
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [bagder/libbrotli](https://github.com/bagder/libbrotli) - meta project to build libraries from the brotli source code
 - [aeris/onionbox](https://github.com/aeris/onionbox) - Tor proxy hardware box based on Olimex A20 Lime
 
@@ -3708,6 +3708,7 @@
 
 ## PHP 
 
+- [spatie/laravel-cronless-schedule](https://github.com/spatie/laravel-cronless-schedule) - Run the Laravel scheduler without relying on cron
 - [Intervention/validation](https://github.com/Intervention/validation) - Missing Laravel Validation Rules
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [simplepie/simplepie](https://github.com/simplepie/simplepie) - A simple Atom/RSS parsing library for PHP.
@@ -4759,6 +4760,7 @@
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [openware/peatio](https://github.com/openware/peatio) - Open-source crypto currency exchange software (https://openware.com)
 - [logstash-plugins/logstash-input-google_pubsub](https://github.com/logstash-plugins/logstash-input-google_pubsub) - Logstash input for pulling events from Google Pub/Sub service
+- [logstash-plugins/logstash-input-beats](https://github.com/logstash-plugins/logstash-input-beats) - 
 - [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [aws/aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
@@ -5740,6 +5742,7 @@
 
 ## TypeScript 
 
+- [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
@@ -6017,7 +6020,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [nestjs/schematics](https://github.com/nestjs/schematics) - Nest architecture element generation based on Angular schematics 🎬
-- [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
+- [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
@@ -6292,7 +6295,6 @@
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [MTES-MCT/Dossier-Facile-Frontend](https://github.com/MTES-MCT/Dossier-Facile-Frontend) - 
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
 - [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!

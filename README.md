@@ -420,7 +420,6 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge) - Hardware backdoors in some x86 CPUs
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [GNOME/gedit](https://github.com/GNOME/gedit) - Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
 - [cloudflare/mod_cloudflare](https://github.com/cloudflare/mod_cloudflare) - 
@@ -594,7 +593,7 @@
 - [cetic/unikernels](https://github.com/cetic/unikernels) - Unikernel and immutable infrastructures
 - [AndreaOrru/LaiNES](https://github.com/AndreaOrru/LaiNES) - Cycle-accurate NES emulator in ~1000 lines of code
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native distributed storage platform.
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
 - [tylermorganwall/rayrender](https://github.com/tylermorganwall/rayrender) - A pathtracer for R. Build and render complex scenes and 3D data visualizations directly from R
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [quantumsheep/llvm-antlr4-starter](https://github.com/quantumsheep/llvm-antlr4-starter) - Pre-configured LLVM and ANTLR4 for C++
@@ -1914,7 +1913,7 @@
 - [actions/heroku](https://github.com/actions/heroku) - GitHub Action for interacting with Heroku
 - [cloudposse/terraform-aws-elastic-beanstalk-environment](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment) - Terraform module to provision an AWS Elastic Beanstalk Environment
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
-- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS
+- [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
 - [terraform-aws-modules/terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Terraform module which creates EC2 instance(s) on AWS 🇺🇦
 - [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS 🇺🇦
 - [bradford-hamilton/terraform-ecs-fargate](https://github.com/bradford-hamilton/terraform-ecs-fargate) - Source code for a tutorial on Medium I published - "Deploying Containers on Amazon’s ECS using Fargate and Terraform: Part 2"
@@ -1976,7 +1975,9 @@
 - [tc39/proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [approvers/RADWIMPS](https://github.com/approvers/RADWIMPS) - 君の then-then-then 世は Promise で Future
+- [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [PavelLaptev/web-dark-ages](https://github.com/PavelLaptev/web-dark-ages) - 
+- [justinsteven/advisories](https://github.com/justinsteven/advisories) - 
 - [marvinroger/nanocurrency-js](https://github.com/marvinroger/nanocurrency-js) - 🔗 A toolkit for the Nano cryptocurrency, allowing you to derive keys, generate seeds, hashes, signatures, proofs of work and blocks.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
@@ -3102,6 +3103,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [charliezcr/Kpop-Data-Analysis](https://github.com/charliezcr/Kpop-Data-Analysis) - Data analysis about K-pop industry, artists, and companies. Visualized business performances of public K-pop companies and analyzed artist management and international marketing strategies
 - [Kautenja/playing-mario-with-deep-reinforcement-learning](https://github.com/Kautenja/playing-mario-with-deep-reinforcement-learning) - An implementation of (Double/Dueling) Deep-Q Learning to play Super Mario Bros.
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
@@ -3308,6 +3310,7 @@
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [ptmt/react-native-touchbar](https://github.com/ptmt/react-native-touchbar) - TouchBar for react-native-macos
 - [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
@@ -3421,7 +3424,6 @@
 - [BlairLeduc/touch-bar-display](https://github.com/BlairLeduc/touch-bar-display) - VSCode Touch Bar Display Commands Extension
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [JetBrains/php-timeline](https://github.com/JetBrains/php-timeline) - Notable events of PHP history
-- [justinsteven/advisories](https://github.com/justinsteven/advisories) - 
 - [cassidoo/ama](https://github.com/cassidoo/ama) - Answering questions I get often
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
@@ -3663,7 +3665,6 @@
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center) - Deepin developer center, provide developer wiki and community forum.
 - [DemocracyEarth/paper](https://github.com/DemocracyEarth/paper) - On self sovereign human identity.
-- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [mihic/linux-intel-undervolt](https://github.com/mihic/linux-intel-undervolt) - Guide to linux undervolting for Haswell and never Intel CPUs
 - [LedgerHQ/ledger-nano-s](https://github.com/LedgerHQ/ledger-nano-s) - Ledger Nano S, a personal security device from Ledger (blockchain / bitcoin / ethereum / FIDO)
@@ -3692,7 +3693,7 @@
 - [iridium-browser/tracker](https://github.com/iridium-browser/tracker) - Iridium Browser tracker and wiki.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [cloudflare/sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
-- [firstlookmedia/sidtoday](https://github.com/firstlookmedia/sidtoday) - Snowden Archive: The SIDtoday Files
+- [theintercept/sidtoday](https://github.com/theintercept/sidtoday) - Snowden Archive: The SIDtoday Files
 - [HLFH/OpenPGP-Secure](https://github.com/HLFH/OpenPGP-Secure) - 
 - [ehazlett/shipyard](https://github.com/ehazlett/shipyard) - Composable Docker Management
 - [GouvernementFR/RepubliqueNumerique](https://github.com/GouvernementFR/RepubliqueNumerique) - Projet de loi pour une République numérique. Première loi co-écrite avec les citoyens. Ouverture des données publiques, protection des citoyens, accès de tous au numérique.
@@ -3836,10 +3837,10 @@
 - [fideloper/TrustedProxy](https://github.com/fideloper/TrustedProxy) - Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.
 - [afrazahmmad/clear-all-cached-data](https://github.com/afrazahmmad/clear-all-cached-data) - Laravel 5 Package to clear all cached data in single command. e.g. cache, views, config and routes.
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
-- [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - Laravel IDE Helper
+- [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
 - [laravel/tinker](https://github.com/laravel/tinker) - Powerful REPL for the Laravel framework.
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel Debugbar (Integrates PHP Debug Bar)
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [thedevsaddam/laravel-schema](https://github.com/thedevsaddam/laravel-schema) - Display the connected database information from Terminal.
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
@@ -4051,7 +4052,6 @@
 
 - [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [IVIURRAY/strava2notion](https://github.com/IVIURRAY/strava2notion) - Import Strava information to Notion
@@ -4677,7 +4677,6 @@
 - [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers) - Keep your Selenium WebDrivers updated automatically
 - [chetan/simplecov-console](https://github.com/chetan/simplecov-console) - Simple console output formatter for SimpleCov
 - [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
-- [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [teamcapybara/capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications
 - [piotrmurach/rspec-benchmark](https://github.com/piotrmurach/rspec-benchmark) - Performance testing matchers for RSpec
 - [mattsears/nyan-cat-formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
@@ -5091,7 +5090,6 @@
 
 ## SCSS 
 
-- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
@@ -5145,6 +5143,8 @@
 
 ## Shell 
 
+- [nix-community/nix-zsh-completions](https://github.com/nix-community/nix-zsh-completions) - ZSH Completions for Nix
+- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [aglipanci/laravel-pint-action](https://github.com/aglipanci/laravel-pint-action) - GitHub Action for Laravel Pint
 - [posva/task-logger.sh](https://github.com/posva/task-logger.sh) - :art: shell library to log tasks with nice output. Supports zsh and bash
@@ -5478,6 +5478,7 @@
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
+- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram during boot.
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [syscl/XPS9350-macOS](https://github.com/syscl/XPS9350-macOS) - macOS patches for Dell XPS 13 9350 (Skylake)
@@ -5742,6 +5743,7 @@
 
 ## TypeScript 
 
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
@@ -5788,6 +5790,7 @@
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [ParabolInc/parabol](https://github.com/ParabolInc/parabol) - Free online agile retrospective meeting tool
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
 - [thomaschampagne/elevate](https://github.com/thomaschampagne/elevate) - A sport app to "Elevate" your training experience and goals! Track your fitness and progressions over time. Analyse deeper your activities. And more...
@@ -6181,7 +6184,7 @@
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).

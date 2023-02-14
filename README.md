@@ -1989,7 +1989,7 @@
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
 - [nesk/covid-19-certificate](https://github.com/nesk/covid-19-certificate) - A certificate generator for France quarantine due to COVID-19
 - [LAB-MI/deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19) - Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [skullface/girlgroupsdotnet](https://github.com/skullface/girlgroupsdotnet) - 📲 Mobile wallpapers of 🚺K-pop idols.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -2069,7 +2069,7 @@
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [kalvn/Shaarli-Material](https://github.com/kalvn/Shaarli-Material) - Shaarli Material is a theme for Shaarli, the famous personal, minimalist, super-fast, database free, bookmarking service.
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
-- [googlefonts/noto-source](https://github.com/googlefonts/noto-source) - 
+- [notofonts/noto-source](https://github.com/notofonts/noto-source) - 
 - [mozilla/http-observatory-website](https://github.com/mozilla/http-observatory-website) - Mozilla Observatory (Website)
 - [unwitting/bleak](https://github.com/unwitting/bleak) - An in-your-face theme for the Ghost blogging platform
 - [VPNSox/VPNSox-Front](https://github.com/VPNSox/VPNSox-Front) - VPNSox.org WEBSITE
@@ -3082,7 +3082,7 @@
 - [id101010/ansible-archlinux](https://github.com/id101010/ansible-archlinux) - Automated arch linux desktop environment
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [geerlingguy/ansible-role-composer](https://github.com/geerlingguy/ansible-role-composer) - Ansible Role - Composer PHP Dependency Manager
-- [ILoveYaToo/docker-postal](https://github.com/ILoveYaToo/docker-postal) - Docker container for Postal (atech/postal)
+- [StarInYourSky/docker-postal](https://github.com/StarInYourSky/docker-postal) - Docker container for Postal (atech/postal)
 - [manala/ansible-role-influxdb](https://github.com/manala/ansible-role-influxdb) - [READ-ONLY] Ansible role dealing installation and configuration of InfluxDB time-series database
 - [rossmcdonald/telegraf](https://github.com/rossmcdonald/telegraf) - Ansible role for installing, configuring, and maintaining Telegraf
 - [dj-wasabi/ansible-telegraf](https://github.com/dj-wasabi/ansible-telegraf) - Installing and configuring Telegraf via Ansible for RedHat/Debian/Ubuntu/Windows/Suse.
@@ -4615,6 +4615,7 @@
 
 ## Ruby 
 
+- [ruby-git/ruby-git](https://github.com/ruby-git/ruby-git) - Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.
 - [varvet/pundit](https://github.com/varvet/pundit) - Minimal authorization through OO design and pure Ruby classes
 - [doctolib/safe-pg-migrations](https://github.com/doctolib/safe-pg-migrations) - Make your PostgreSQL migrations safe
 - [iftheshoefritz/solargraph-rails](https://github.com/iftheshoefritz/solargraph-rails) - Solargraph plugin to add awareness of Rails-specific code
@@ -4820,7 +4821,7 @@
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [Gargron/cobalt](https://github.com/Gargron/cobalt) - An open-source self-hosted YouTube alternative. Subscribe to other users on other servers using ActivityPub. Reduced bandwidth costs for server owners via WebTorrent.
-- [mperham/sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby
+- [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 - [edas/TweetDeletion](https://github.com/edas/TweetDeletion) - Remove old tweets
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [pixiv/mastodon](https://github.com/pixiv/mastodon) - A GNU Social-compatible microblogging server
@@ -5347,7 +5348,7 @@
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [maikelwever/lxd](https://github.com/maikelwever/lxd) - Mirror from AUR to facilitate pull requests.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Central repository for community plugins for asdf
+- [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Convenience shortname repository for asdf community plugins
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [rasa/vmware-tools-patches](https://github.com/rasa/vmware-tools-patches) - Patch and build VMware tools automatically
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar

@@ -2378,7 +2378,7 @@
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 51 stars 6 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 54 stars 7 forks.
 - [RealPeha/This-Repo-Has-1766-Stars](https://github.com/RealPeha/This-Repo-Has-1766-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
@@ -3753,7 +3753,7 @@
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
 - [spatie/laravel-login-link](https://github.com/spatie/laravel-login-link) - A Blade component to quickly login to your local environment
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
-- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged PHP API client that allows you to interact with OpenAI API.
+- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community PHP API client that allows you to interact with OpenAI API.
 - [protonemedia/laravel-splade](https://github.com/protonemedia/laravel-splade) - 💫 The magic of Inertia.js with the simplicity of Blade 💫 - Splade provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, and sparkle it to make it in
 - [Sibyx/phpGPX](https://github.com/Sibyx/phpGPX) - Simple library for reading and creating GPX files written in PHP.
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
@@ -4148,7 +4148,7 @@
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [nanocurrency/nano_prom_exporter](https://github.com/nanocurrency/nano_prom_exporter) - Prometheus Exporter for nano_node
+- [nanocurrency/nano-prom-exporter](https://github.com/nanocurrency/nano-prom-exporter) - Prometheus Exporter for nano_node
 - [pyroscope/pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
 - [tatsuhiro-t/apt-metalink](https://github.com/tatsuhiro-t/apt-metalink) - Make 'apt-get' faster by downloading Debian/Ubuntu packages from multiple servers concurrently.
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
@@ -4864,7 +4864,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
-- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠   wrangle your Cloudflare Workers
+- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -5796,7 +5796,7 @@
 - [laravel/vite-plugin](https://github.com/laravel/vite-plugin) - Laravel plugin for Vite.
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-- [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ Explore high-performance tooling for Vue
+- [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling base-on Volar.js
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal

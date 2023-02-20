@@ -2272,7 +2272,6 @@
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: 1337 → 1.34 kB
 - [samuelpath/resultats-sondage-salaires](https://github.com/samuelpath/resultats-sondage-salaires) - Les résultats d'un sondage sur les postes full-remote depuis la France avec brut &gt; 50k€.
-- [stimulusreflex/stimulus_reflex](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [cloudflare/workers-chat-demo](https://github.com/cloudflare/workers-chat-demo) - 
 - [CorentinGC/reddit-place-kcorp](https://github.com/CorentinGC/reddit-place-kcorp) - UserScript de l'overlay de la KCorp pour le /r/place 2022
@@ -4648,6 +4647,7 @@
 - [rspec/rspec-expectations](https://github.com/rspec/rspec-expectations) - Provides a readable API to express expected outcomes of a code example
 - [dry-rb/dry-monads](https://github.com/dry-rb/dry-monads) - Useful, common monads in idiomatic Ruby
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
+- [stimulusreflex/stimulus_reflex](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 - [penso/test-s3-direct-upload](https://github.com/penso/test-s3-direct-upload) - Benchmark for S3 direct uploads for AWS, GCP and Scaleway
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
@@ -5752,6 +5752,7 @@
 
 ## TypeScript 
 
+- [bokub/linky](https://github.com/bokub/linky) - 🔌 Easily retrieve your Linky™ power consumption
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
@@ -5796,7 +5797,7 @@
 - [laravel/vite-plugin](https://github.com/laravel/vite-plugin) - Laravel plugin for Vite.
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-- [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling base-on Volar.js
+- [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal

@@ -1136,7 +1136,7 @@
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
-- [micro/micro](https://github.com/micro/micro) - API first cloud platform
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
@@ -2149,7 +2149,6 @@
 - [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime) - IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Goland, Rider, & WebStorm plugin for quantifying your coding.
 - [intel-cloud/cosbench](https://github.com/intel-cloud/cosbench) - a benchmark tool for cloud object storage service
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
-- [robiiinos/rest-cms-java](https://github.com/robiiinos/rest-cms-java) - A RESTful API for a Content Management System, built in JAVA.
 - [sshahine/JFoenix](https://github.com/sshahine/JFoenix) - JavaFX Material Design Library
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
@@ -2884,11 +2883,11 @@
 - [maxogden/art-of-node](https://github.com/maxogden/art-of-node) - :snowflake: a short introduction to node.js
 - [brianokeefe/ghost-export](https://github.com/brianokeefe/ghost-export) - Export Ghost blog entries as Markdown files
 - [brpaz-graveyard/cerebro-cheats](https://github.com/brpaz-graveyard/cerebro-cheats) - 
-- [cerebroapp/cerebro-ip](https://github.com/cerebroapp/cerebro-ip) - Cerebro plugin to show your local and external IP addresses
-- [cerebroapp/cerebro-gif](https://github.com/cerebroapp/cerebro-gif) - Cerebro plugin to find relevant gifs
-- [cerebroapp/cerebro-basic-apps](https://github.com/cerebroapp/cerebro-basic-apps) - Cerebro plugin for applications search and launch on windows and linux
-- [cerebroapp/cerebro-converter](https://github.com/cerebroapp/cerebro-converter) - Cerebro plugin to convert currencies and units
-- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
+- [cerebroapp/cerebro-ip](https://github.com/cerebroapp/cerebro-ip) - 📦 Cerebro plugin to show your local and external IP addresses
+- [cerebroapp/cerebro-gif](https://github.com/cerebroapp/cerebro-gif) - 📦 Cerebro plugin to find relevant gifs
+- [cerebroapp/cerebro-basic-apps](https://github.com/cerebroapp/cerebro-basic-apps) - 📦 Cerebro plugin for applications search and launch on windows and linux
+- [cerebroapp/cerebro-converter](https://github.com/cerebroapp/cerebro-converter) - 📦 Cerebro plugin to convert currencies and units
+- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [zachflower/hyper-confirm](https://github.com/zachflower/hyper-confirm) - :no_entry: Plugin to show a confirmation dialog before quitting Hyper
 - [Hyperline/hyperline](https://github.com/Hyperline/hyperline) - ✨ Status line plugin for Hyper ✨
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -2941,7 +2940,6 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [dschep/proven](https://github.com/dschep/proven) - 🔑✅ An alternative to Twitter's verified accounts powered by Keybase.
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
-- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [soapdog/webextension-image-properties](https://github.com/soapdog/webextension-image-properties) - A simple webextension to display image/photo properties from exif data
@@ -3264,7 +3262,7 @@
 - [infinisil/system](https://github.com/infinisil/system) - My system configuration
 - [sjau/nixos](https://github.com/sjau/nixos) - 
 - [davidak/nixos-config](https://github.com/davidak/nixos-config) - NixOS configurations for server and desktop systems, including user specific config. with Home Manager
-- [CrazedProgrammer/nix](https://github.com/CrazedProgrammer/nix) - My NixOS configuration files.
+- [CrazedProgrammer/nix](https://github.com/CrazedProgrammer/nix) - My NixOS configuration files
 - [coreyoconnor/nix_configs](https://github.com/coreyoconnor/nix_configs) - The NixOS configuration for my desktop.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [areina/nixos-config](https://github.com/areina/nixos-config) - My NixOS configuration files
@@ -3553,7 +3551,7 @@
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked as resolved and limited to collaborators."
+- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
 - [vbarbaresi/MetroGit](https://github.com/vbarbaresi/MetroGit) - Paris Metro lines on a Git graph
 - [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker for Codewars
@@ -4177,7 +4175,6 @@
 - [rene-d/sysbus](https://github.com/rene-d/sysbus) - Contrôle par script d'une Livebox 2, 3 et 4
 - [siebenmann/dwiki](https://github.com/siebenmann/dwiki) - DWiki is the file based wiki-thing that Chris Siebenmann uses for his blogs. It's written in a pile of Python.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [robiiinos/bnb-lpl](https://github.com/robiiinos/bnb-lpl) - Find the highest yield for your assets on Binance Launchpool :chart_with_upwards_trend:
 - [brouberol/marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [tapankarnik/Kpop-Idol-Face-Classifier](https://github.com/tapankarnik/Kpop-Idol-Face-Classifier) - A face recognition model to recognize your favorite kpop artists.
@@ -6214,6 +6211,7 @@
 - [mastodon/joinmastodon](https://github.com/mastodon/joinmastodon) - The official Mastodon project homepage
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with [fewer] of features.
 - [icewind1991/files_markdown](https://github.com/icewind1991/files_markdown) - Nextcloud markdown editor
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.

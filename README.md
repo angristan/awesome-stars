@@ -1023,6 +1023,7 @@
 
 ## Go 
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
 - [mrusme/journalist](https://github.com/mrusme/journalist) - Journalist. An RSS aggregator.
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
@@ -1140,7 +1141,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
-- [thebaer/cdr](https://github.com/thebaer/cdr) - Static site generator for making web mixtapes in 2022.
+- [thebaer/cdr](https://github.com/thebaer/cdr) - Modern static site generator for making web mixtapes.
 - [fatih/semgroup](https://github.com/fatih/semgroup) - Like errgroup/waitgroup, but only runs a maximum of tasks at any time.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [elliotchance/c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
@@ -4311,7 +4312,7 @@
 - [bclindner/ivory](https://github.com/bclindner/ivory) - A Mastodon automoderator.
 - [notro/rpi-source](https://github.com/notro/rpi-source) - Development has moved to https://github.com/RPi-Distro/rpi-source
 - [archf/ansidoc](https://github.com/archf/ansidoc) - A simple tool to generate Ansible roles' documentation
-- [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
+- [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Drive Storage by splitting binary files into base64
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
 - [alcarithemad/zfsp](https://github.com/alcarithemad/zfsp) - ZFS, in Python, without reading the original C.
@@ -6278,7 +6279,6 @@
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [sjl/badwolf](https://github.com/sjl/badwolf) - A Vim color scheme.

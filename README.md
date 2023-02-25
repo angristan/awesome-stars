@@ -2555,7 +2555,6 @@
 - [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [harthur/clustering](https://github.com/harthur/clustering) - [UNMAINTAINED] K-means and hierarchical clustering
-- [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
 - [xanderlewis/colour-palettes](https://github.com/xanderlewis/colour-palettes) - Generate colour palettes from an image. 🎨
 - [colorjs/color-namer](https://github.com/colorjs/color-namer) - :art: Give me a color and I'll name it.
 - [derogab/coingraph](https://github.com/derogab/coingraph) - Coingraph is a real-time graph for cryptocurrencies.
@@ -3377,7 +3376,7 @@
 - [jesec/git-sign-demo](https://github.com/jesec/git-sign-demo) - 
 - [microsoft/openjdk](https://github.com/microsoft/openjdk) - Microsoft Build of OpenJDK
 - [denisidoro/cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
-- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur
+- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
 - [karuna/tera-vscode](https://github.com/karuna/tera-vscode) - Tera Template Syntax Highlighting for Visual Studio Code
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [soft-aesthetic/soft-era-iterm2](https://github.com/soft-aesthetic/soft-era-iterm2) - 🌸 soft era for iTerm2 ~  Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
@@ -6086,6 +6085,7 @@
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [nehalist/gatsby-theme-nehalem](https://github.com/nehalist/gatsby-theme-nehalem) - A Gatsby blog theme.
+- [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.

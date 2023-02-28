@@ -1296,7 +1296,7 @@
 - [fzipp/gocyclo](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [alecthomas/gocyclo](https://github.com/alecthomas/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [maruel/panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
@@ -1817,7 +1817,7 @@
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
+- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [go-fed/activity](https://github.com/go-fed/activity) - ActivityStreams & ActivityPub in golang, oh my!
 - [wasabi-tech/s3-benchmark](https://github.com/wasabi-tech/s3-benchmark) - Performance test for comparison of AWS versus Wasabi S3 systems.
@@ -2001,7 +2001,6 @@
 - [njh/google-ipv6](https://github.com/njh/google-ipv6) - Per-country ranking table based on data from Google IPv6 Statistics page
 - [AwsGeek/aws-history](https://github.com/AwsGeek/aws-history) - 
 - [paquettg/php-html-parser](https://github.com/paquettg/php-html-parser) - An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [apilayer/geolocationapi](https://github.com/apilayer/geolocationapi) - IP Geolocation API is a free service for locating your visitors in real-time with detailed country information.
 - [la-rache/la-rache.com](https://github.com/la-rache/la-rache.com) - Site web la-rache.com
 - [do-not-theme/do-not-theme.github.io](https://github.com/do-not-theme/do-not-theme.github.io) - 
@@ -4306,6 +4305,7 @@
 - [danielhoherd/plexdl](https://github.com/danielhoherd/plexdl) - A plex direct downloader, with an emphasis on fetching media that has not been modified.
 - [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [bclindner/ivory](https://github.com/bclindner/ivory) - A Mastodon automoderator.
 - [notro/rpi-source](https://github.com/notro/rpi-source) - Development has moved to https://github.com/RPi-Distro/rpi-source

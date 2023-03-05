@@ -2297,7 +2297,7 @@
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
 - [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering
 - [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
-- [moulapp/moul](https://github.com/moulapp/moul) - [Rewrite] The minimalist publishing tool for photographers
+- [moul-co/moul](https://github.com/moul-co/moul) - [Rewrite] The minimalist publishing tool for photographers
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [Erisa/domain-redirect](https://github.com/Erisa/domain-redirect) - Easily redirect one entire domain to another with a serverless Cloudflare Worker.
@@ -4399,7 +4399,7 @@
 - [Kubedex/exporter](https://github.com/Kubedex/exporter) - Prometheus metrics exporter for Helm Tiller
 - [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [snapcore/snapcraft](https://github.com/snapcore/snapcraft) - Package, distribute, and update any app for Linux and IoT.
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [pavdmyt/yaspin](https://github.com/pavdmyt/yaspin) - A lightweight terminal spinner for Python with safe pipes and redirects 🎁
 - [conjure-up/conjure-up](https://github.com/conjure-up/conjure-up) - Deploying complex solutions, magically.
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.

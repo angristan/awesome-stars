@@ -995,7 +995,6 @@
 
 ## Elm 
 
-- [alexislozano/salaires.dev](https://github.com/alexislozano/salaires.dev) - 
 - [w0rm/elm-flatris](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language
 
 ## Emacs Lisp 
@@ -1847,7 +1846,7 @@
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
 - [lxc/lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
@@ -2588,7 +2587,7 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [clearlinux/clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [gatsbyjs/gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world) - Starter with the bare essentials needed for a Gatsby site
 - [davidmaillo/instagram-images-download-extension](https://github.com/davidmaillo/instagram-images-download-extension) - Google Chrome extension to download Instagram images
@@ -3535,6 +3534,7 @@
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [andydavies/http2-prioritization-issues](https://github.com/andydavies/http2-prioritization-issues) - Tracks issues / notes for HTTP/2 prioritization across browsers, CDNs and servers
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [shlomif/what-i-learned-from-porting-to-freebsd](https://github.com/shlomif/what-i-learned-from-porting-to-freebsd) - What I Learned from porting my projects to FreeBSD
 - [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
@@ -4854,6 +4854,7 @@
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+- [alexislozano/salaires.dev](https://github.com/alexislozano/salaires.dev) - 
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
@@ -5277,7 +5278,7 @@
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [nodenv/nodenv](https://github.com/nodenv/nodenv) - Manage multiple NodeJS versions.
 - [rails/rails-dev-box](https://github.com/rails/rails-dev-box) - A virtual machine for Ruby on Rails core development
-- [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [laravel/settler](https://github.com/laravel/settler) - 
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [laravel/homestead](https://github.com/laravel/homestead) - 
@@ -6133,7 +6134,6 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [brave/brave-extension](https://github.com/brave/brave-extension) - Shields panel browser action extension for the Brave browser
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [cquery-project/vscode-cquery](https://github.com/cquery-project/vscode-cquery) - cquery plugin for Visual Studio Code
@@ -6328,7 +6328,7 @@
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [DNSCrypt/dnscrypt-website](https://github.com/DNSCrypt/dnscrypt-website) - DNSCrypt website
-- [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
+- [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon, Pleroma, and Misskey client for Windows, Mac, and Linux
 - [dockeron/dockeron](https://github.com/dockeron/dockeron) - 🤖🤖🤖 Electron + Vue.js for Docker
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.

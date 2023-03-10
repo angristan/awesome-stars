@@ -958,7 +958,6 @@
 - [NixOS/docker](https://github.com/NixOS/docker) - DEPRECATED! Dockerfiles to package Nix in a minimal docker container
 - [Xe/furry-happiness](https://github.com/Xe/furry-happiness) - A proof of concept dockerfile that uses user mode linux
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-- [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven
 - [caesarnine/data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [ricardbejarano/nginx](https://github.com/ricardbejarano/nginx) - 🦅 Built-from-source container image of NGINX
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
@@ -2637,6 +2636,7 @@
 - [nextcloud/files_rightclick](https://github.com/nextcloud/files_rightclick) - 👉 Right click menu for Nextcloud
 - [meganz/webclient](https://github.com/meganz/webclient) - The mega.nz web client
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
+- [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
 - [petrovicstefanrs/30_seconds_of_knowledge](https://github.com/petrovicstefanrs/30_seconds_of_knowledge) - Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [indutny/elliptic](https://github.com/indutny/elliptic) - Fast Elliptic Curve Cryptography in plain javascript
@@ -3515,7 +3515,6 @@
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [yaml/yaml](https://github.com/yaml/yaml) - YAML language and community information
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
-- [arcticicestudio/nord-iterm2](https://github.com/arcticicestudio/nord-iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
 - [TJs-Kubernetes-Service/TKS](https://github.com/TJs-Kubernetes-Service/TKS) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [drone-plugins/drone-base](https://github.com/drone-plugins/drone-base) - Base image used by the plugins
@@ -5293,6 +5292,7 @@
 - [curl/curl-for-win](https://github.com/curl/curl-for-win) - Reproducible curl binaries for Windows
 - [sjiveson/nfs-server-alpine](https://github.com/sjiveson/nfs-server-alpine) - A handy Alpine Linux based NFS Server image running NFS v4 only, over TCP on port 2049
 - [aws-quickstart/quickstart-hashicorp-vault](https://github.com/aws-quickstart/quickstart-hashicorp-vault) - AWS Quick Start Team
+- [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [jeaye/nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)

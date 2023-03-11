@@ -2408,7 +2408,7 @@
 - [cthackers/adm-zip](https://github.com/cthackers/adm-zip) - A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [binance-academy/eslint-config-bnb](https://github.com/binance-academy/eslint-config-bnb) - Custom set of ESLint rules for React and Nextjs based on Airbnb ESLint config
-- [mdx-js/vscode-mdx](https://github.com/mdx-js/vscode-mdx) - MDX extension for Visual Studio Code
+- [mdx-js/mdx-analyzer](https://github.com/mdx-js/mdx-analyzer) - MDX extension for Visual Studio Code
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [ewoken/nuclear-monitor](https://github.com/ewoken/nuclear-monitor) - 
 - [Secretmapper/combustion](https://github.com/Secretmapper/combustion) - Combustion is a sleek, modern web interface for Transmission
@@ -4637,7 +4637,7 @@
 - [fastly/sidekiq-prometheus](https://github.com/fastly/sidekiq-prometheus) - Public repository with Prometheus instrumentation for Sidekiq
 - [Strech/sidekiq-prometheus-exporter](https://github.com/Strech/sidekiq-prometheus-exporter) - All the basic metrics of Sidekiq with pluggable contribs prepared for Prometheus
 - [qonto/iban-client](https://github.com/qonto/iban-client) - 
-- [fatkodima/sidekiq-iteration](https://github.com/fatkodima/sidekiq-iteration) - Makes your long-running sidekiq jobs interruptible and resumable by design.
+- [fatkodima/sidekiq-iteration](https://github.com/fatkodima/sidekiq-iteration) - Make your long-running sidekiq jobs interruptible and resumable.
 - [dry-rb/dry-validation](https://github.com/dry-rb/dry-validation) - Validation library with type-safe schemas and rules
 - [thoughtbot/factory_bot](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as test data.
 - [rspec/rspec-expectations](https://github.com/rspec/rspec-expectations) - Provides a readable API to express expected outcomes of a code example
@@ -4924,7 +4924,7 @@
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
 - [tyrchen/rust-training](https://github.com/tyrchen/rust-training) - my rust training to the team.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [matthunz/typed-sql](https://github.com/matthunz/typed-sql) - 
 - [TaKO8Ki/frum](https://github.com/TaKO8Ki/frum) - A little bit fast and modern Ruby version manager written in Rust

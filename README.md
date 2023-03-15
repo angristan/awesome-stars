@@ -1118,7 +1118,7 @@
 - [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints.
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [mohammed90/caddy-ssh](https://github.com/mohammed90/caddy-ssh) - Caddy-SSH is a general-purpose, extensible, modular, memory-safe SSH server built in Go
+- [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) - Caddy-SSH is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [octeep/wireproxy](https://github.com/octeep/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - Importable package that parses version info from debug.ReadBuildInfo().
 - [hedhyw/gherkingen](https://github.com/hedhyw/gherkingen) - Behaviour Driven Development tests generator for Golang
@@ -1927,7 +1927,7 @@
 
 ## HTML 
 
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - The most popular independent Tailwind library. 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
@@ -4819,7 +4819,7 @@
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
-- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [Gargron/cobalt](https://github.com/Gargron/cobalt) - An open-source self-hosted YouTube alternative. Subscribe to other users on other servers using ActivityPub. Reduced bandwidth costs for server owners via WebTorrent.
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
@@ -4835,7 +4835,7 @@
 - [mispy-archive/twitter_ebooks](https://github.com/mispy-archive/twitter_ebooks) - Better twitterbots for all your friends~
 - [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [aeris/acme-pki](https://github.com/aeris/acme-pki) - Tiny ACME PKI
 - [aeris/cryptcheck-rails](https://github.com/aeris/cryptcheck-rails) - Ruby on Rails application to check crypto-stack configuration
 - [aeris/cryptcheck](https://github.com/aeris/cryptcheck) - Verify some SSL/TLS website or XMPP implementation
@@ -6042,7 +6042,7 @@
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
 - [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter :coffee:
 - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
-- [nzws/nzws.me](https://github.com/nzws/nzws.me) - My website built with Next.js & TypeScript, deployed on ▲Vercel
+- [nzws/nzws.me](https://github.com/nzws/nzws.me) - My website built with Next.js 13 & TypeScript, deployed on ▲Vercel
 - [Vagahbond/burger-api](https://github.com/Vagahbond/burger-api) - An API for a fast food IT system
 - [rubiin/nestjs-easyconfig](https://github.com/rubiin/nestjs-easyconfig) - Manage nestjs configs on the go 🔥
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search

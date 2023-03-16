@@ -860,7 +860,7 @@
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [monsieurhiboux/TorrentSpeak](https://github.com/monsieurhiboux/TorrentSpeak) - TorrentSpeak is a talking torrent client on Mac OSX.
 - [Kikobeats/uno-zen](https://github.com/Kikobeats/uno-zen) - Minimalist and Elegant theme for Ghost. Demo @ https://kikobeats.com
-- [CamTosh/Ethereum](https://github.com/CamTosh/Ethereum) - Small dashboard to monitor your mining rigs (Support AMD and Nvidia GPU)
+- [CamTosh/Ethereum](https://github.com/CamTosh/Ethereum) - old and ugly code - Small dashboard to monitor your mining rigs (Support AMD and Nvidia GPU)
 - [themightykitten/ruTorrent-MaterialDesign](https://github.com/themightykitten/ruTorrent-MaterialDesign) - Flat and modern theme for the ruTorrent web ui
 - [Wonderfall/old_dockerfiles](https://github.com/Wonderfall/old_dockerfiles) - New repo : https://github.com/Wonderfall/dockerfiles
 - [nauzethc/ghost-material](https://github.com/nauzethc/ghost-material) - Material Design theme for Ghost blogging platform
@@ -5040,7 +5040,7 @@
 - [ovh/beamium](https://github.com/ovh/beamium) - Prometheus to Warp10 metrics forwarder
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - A pure-Rust implementation of group operations on Ristretto and Curve25519
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.”
 - [gtk-rs/gtk](https://github.com/gtk-rs/gtk) - DEPRECATED, use https://github.com/gtk-rs/gtk3-rs repository instead!

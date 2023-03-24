@@ -5813,7 +5813,7 @@
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [sjwall/mdx-mermaid](https://github.com/sjwall/mdx-mermaid) - Plug and play Mermaid in MDX
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
 - [status-base/statusbase-nuxt](https://github.com/status-base/statusbase-nuxt) - A modern, zero-dependency uptime monitoring tool & status page based on GitHub Actions & Nuxt Content v2.
@@ -6206,7 +6206,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [ArkEcosystem/desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
+- [ArkEcosystem/desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Archived, please use ARKVault
 - [input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) - The open source cryptocurrency wallet for ada, built to grow with the community
 - [aitboudad/ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular
 - [mastodon/joinmastodon](https://github.com/mastodon/joinmastodon) - The official Mastodon project homepage

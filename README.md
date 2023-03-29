@@ -1844,7 +1844,7 @@
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
 - [lxc/lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -3188,6 +3188,7 @@
 - [Airblader/yolo](https://github.com/Airblader/yolo) - Kill a random process
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [scaleway/kernel-tools](https://github.com/scaleway/kernel-tools) - :penguin: Kernels on Scaleway
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [bagder/libbrotli](https://github.com/bagder/libbrotli) - meta project to build libraries from the brotli source code
 - [aeris/onionbox](https://github.com/aeris/onionbox) - Tor proxy hardware box based on Olimex A20 Lime
@@ -3690,7 +3691,6 @@
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 - [cloudflarearchive/challenge-bypass-specification](https://github.com/cloudflarearchive/challenge-bypass-specification) - WARNING: Deprecated! See Privacy Pass
 - [iridium-browser/tracker](https://github.com/iridium-browser/tracker) - Iridium Browser tracker and wiki.
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [cloudflare/sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
 - [theintercept/sidtoday](https://github.com/theintercept/sidtoday) - Snowden Archive: The SIDtoday Files
 - [HLFH/OpenPGP-Secure](https://github.com/HLFH/OpenPGP-Secure) - 
@@ -4050,6 +4050,7 @@
 
 ## Python 
 
+- [nirae/paris_passport_checker](https://github.com/nirae/paris_passport_checker) - Passport appointments checker for Paris
 - [syssi/xiaomi_airpurifier](https://github.com/syssi/xiaomi_airpurifier) - Xiaomi Mi Air Purifier and Xiaomi Mi Air Humidifier integration for Home Assistant
 - [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
@@ -4060,7 +4061,7 @@
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [aliparlakci/bulk-downloader-for-reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads and archives content from reddit
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [onelogin/onelogin-python-aws-assume-role](https://github.com/onelogin/onelogin-python-aws-assume-role) - 
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
@@ -5764,7 +5765,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - An open-source, pretty, simple and fast meilisearch admin dashboard UI for managing your meilisearch instances
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.

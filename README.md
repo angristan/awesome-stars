@@ -2869,7 +2869,6 @@
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
 - [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
-- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [andryou/scriptsafe](https://github.com/andryou/scriptsafe) - a browser extension to bring security and privacy to chrome, firefox, and opera
 - [paulogr/dstatuspage](https://github.com/paulogr/dstatuspage) - Decentralized Status Page
@@ -3238,6 +3237,7 @@
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [infinisil/nixus](https://github.com/infinisil/nixus) - 
+- [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [jeaye/nix-files](https://github.com/jeaye/nix-files) - NixOS for my VPS
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
@@ -5552,7 +5552,6 @@
 
 ## Smarty 
 
-- [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [LevelUpEducation/kubernetes-demo](https://github.com/LevelUpEducation/kubernetes-demo) - 
 
 ## Solidity 
@@ -6205,6 +6204,7 @@
 - [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)?
 - [OttoAllmendinger/gnome-shell-screenshot](https://github.com/OttoAllmendinger/gnome-shell-screenshot) - Gnome Shell extension for making and uploading screenshots
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack

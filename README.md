@@ -732,7 +732,7 @@
 - [viacoin/viacoin](https://github.com/viacoin/viacoin) - Viacoin Core integration/staging tree
 - [onsightit/solarcoin](https://github.com/onsightit/solarcoin) - SolarCoin with PoST
 - [hempcoin-project/THC](https://github.com/hempcoin-project/THC) - Hempcoin Crypto Currency and Crypto-Stash
-- [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital money
+- [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ
 - [firoorg/firo](https://github.com/firoorg/firo) - The privacy-focused cryptocurrency
 - [twitter/vireo](https://github.com/twitter/vireo) - Vireo is a lightweight and versatile video processing library written in C++11
 - [PIVX-Project/PIVX](https://github.com/PIVX-Project/PIVX) - Protected Instant Verified Transactions - Core wallet.
@@ -1280,7 +1280,7 @@
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [florensie/hcloud-snapshot-backup](https://github.com/florensie/hcloud-snapshot-backup) - Hetzner Cloud backups but cheaper thanks to snapshots
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (On holiday until end of April, see you soon!)
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [o1egl/paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang)
@@ -6087,6 +6087,7 @@
 - [nehalist/gatsby-theme-nehalem](https://github.com/nehalist/gatsby-theme-nehalem) - A Gatsby blog theme.
 - [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
@@ -6323,7 +6324,6 @@
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
 - [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo) - 🍪 An oreo generater.
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github

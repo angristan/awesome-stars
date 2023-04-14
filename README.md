@@ -5201,7 +5201,7 @@
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [jakejarvis/cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website's cache via the Cloudflare API
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
-- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A build script for qBittorent nox static.
+- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [crypto-org-chain/chain-docs](https://github.com/crypto-org-chain/chain-docs) - Docs for http://github.com/crypto-com/chain-main/

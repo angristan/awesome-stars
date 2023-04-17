@@ -5079,6 +5079,7 @@
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [wireapp/coax](https://github.com/wireapp/coax) - A (barely working) native Wire client for Unix
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
+- [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)?
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [rustodon/rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
@@ -6201,7 +6202,6 @@
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
-- [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)?
 - [OttoAllmendinger/gnome-shell-screenshot](https://github.com/OttoAllmendinger/gnome-shell-screenshot) - Gnome Shell extension for making and uploading screenshots
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!

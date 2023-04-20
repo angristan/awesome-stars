@@ -954,6 +954,7 @@
 - [NixOS/docker](https://github.com/NixOS/docker) - DEPRECATED! Dockerfiles to package Nix in a minimal docker container
 - [Xe/furry-happiness](https://github.com/Xe/furry-happiness) - A proof of concept dockerfile that uses user mode linux
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven
 - [caesarnine/data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [ricardbejarano/nginx](https://github.com/ricardbejarano/nginx) - 🦅 Built-from-source container image of NGINX
@@ -2584,13 +2585,12 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [clearlinux/clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [gatsbyjs/gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world) - Starter with the bare essentials needed for a Gatsby site
 - [davidmaillo/instagram-images-download-extension](https://github.com/davidmaillo/instagram-images-download-extension) - Google Chrome extension to download Instagram images
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [mpiannucci/gnome-shell-extended-gestures](https://github.com/mpiannucci/gnome-shell-extended-gestures) - Better touchpad gesture handling for GNOME
-- [Android-Messages-For-Desktop/android-messages-for-desktop](https://github.com/Android-Messages-For-Desktop/android-messages-for-desktop) - An Electron wrapper around android messages web interface enhanced with native notifications and badges
+- [antoineguilbert/android-messages-for-desktop](https://github.com/antoineguilbert/android-messages-for-desktop) - An Electron wrapper around android messages web interface enhanced with native notifications and badges
 - [gabLaroche/death-to-ie11](https://github.com/gabLaroche/death-to-ie11) - Countdown for IE11 end of support
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
@@ -5932,7 +5932,7 @@
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.

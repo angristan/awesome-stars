@@ -166,6 +166,7 @@
 
 ## Blade 
 
+- [laravel-frontend-presets/tall](https://github.com/laravel-frontend-presets/tall) - A TALL (Tailwind CSS, Alpine.js, Laravel and Livewire) Preset for Laravel
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [laravel/laravel.com](https://github.com/laravel/laravel.com) - The source code of the official Laravel website.
 
@@ -913,7 +914,7 @@
 - [veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 - [amberframework/amber](https://github.com/amberframework/amber) - A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started with quick prototyping, less bugs, and blazing fast performance.
 - [hugopl/sidekiq.cr](https://github.com/hugopl/sidekiq.cr) - Simple, efficient job processing for Crystal
-- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
+- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
 ## D 
@@ -1603,7 +1604,7 @@
 - [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [gomodule/redigo](https://github.com/gomodule/redigo) - Go client for Redis
-- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [Masterminds/glide](https://github.com/Masterminds/glide) - Package Management for Golang
@@ -3725,7 +3726,6 @@
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [spatie/laravel-queueable-action](https://github.com/spatie/laravel-queueable-action) - Queueable actions in Laravel
 - [brendt/php-sparkline](https://github.com/brendt/php-sparkline) - Generate GitHub style sparkline graphs with PHP
-- [laravel-frontend-presets/tall](https://github.com/laravel-frontend-presets/tall) - A TALL (Tailwind CSS, Alpine.js, Laravel and Livewire) Preset for Laravel
 - [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans.
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade.
 - [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own -
@@ -5784,7 +5784,7 @@
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode
 - [lalalilo/gitmemoji](https://github.com/lalalilo/gitmemoji) - An app to learn gitmoji emojis
 - [grafana/strava-datasource](https://github.com/grafana/strava-datasource) - Strava datasource for Grafana dashboard
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.

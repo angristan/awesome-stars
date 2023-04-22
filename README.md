@@ -4753,7 +4753,7 @@
 - [hovancik/BSDSec](https://github.com/hovancik/BSDSec) - deadsimple BSD Security Advisories and Announcements
 - [mgleon08/instagram-crawler](https://github.com/mgleon08/instagram-crawler) - Crawl instagram photos, posts and videos for download.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [standardrb/standard](https://github.com/standardrb/standard) - 🌟 Ruby Style Guide, with linter & automatic code fixer
+- [standardrb/standard](https://github.com/standardrb/standard) - Ruby's bikeshed-proof linter and formatter 🚲
 - [chef/mixlib-shellout](https://github.com/chef/mixlib-shellout) - mixin library for subprocess management, output collection
 - [logstash-plugins/logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core) - 
 - [net-ssh/net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
@@ -5213,7 +5213,7 @@
 - [mbentley/docker-timemachine](https://github.com/mbentley/docker-timemachine) - Docker image to run netatalk (compatible Time Machine for OS X)
 - [munki/bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume.
 - [munki/installr](https://github.com/munki/installr) - A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages.
-- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [kiding/kakao-qr-api](https://github.com/kiding/kakao-qr-api) - 카카오 QR 체크인 데이터를 대신 반환하는 AWS Lambda + API Gateway
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
@@ -6179,7 +6179,7 @@
 - [pranaygp/vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.

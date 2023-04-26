@@ -258,7 +258,7 @@
 - [bittorrent/sqltorrent](https://github.com/bittorrent/sqltorrent) - 
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 - [openstack/liberasurecode](https://github.com/openstack/liberasurecode) - Erasure Code API library written in C with pluggable Erasure Code backends. Mirror of code maintained at opendev.org.
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [taviso/avscript](https://github.com/taviso/avscript) - Avast JavaScript Interactive Shell
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
@@ -955,7 +955,7 @@
 - [NixOS/docker](https://github.com/NixOS/docker) - DEPRECATED! Dockerfiles to package Nix in a minimal docker container
 - [Xe/furry-happiness](https://github.com/Xe/furry-happiness) - A proof of concept dockerfile that uses user mode linux
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven
 - [caesarnine/data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [ricardbejarano/nginx](https://github.com/ricardbejarano/nginx) - 🦅 Built-from-source container image of NGINX
@@ -1492,7 +1492,7 @@
 - [StarpTech/go-web](https://github.com/StarpTech/go-web) - Modern Web Application with Golang
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
-- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - protoc plugin to generate polyglot message validators
+- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protobuf validation - v2 coming soon.
 - [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Y
@@ -1626,7 +1626,7 @@
 - [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
 - [caddyserver/dnsproviders](https://github.com/caddyserver/dnsproviders) - OBSOLETE: DNS providers adapted for use in Caddy to solve the ACME DNS challenge - for Caddy v1 only. See caddy-dns for v2.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -1936,6 +1936,7 @@
 - [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
 - [lanlanblue/ikea-stock-notifier](https://github.com/lanlanblue/ikea-stock-notifier) - A notifier that lets users subscribe to their favorite IKEA products which are unavailable. This notifier will crawl the stock status every hour and notify users immediately once the products are back
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [tailwindtoolbox/Profile-Card](https://github.com/tailwindtoolbox/Profile-Card) - Tailwind CSS Starter Template - Profile Card (Single page website for your profile/links)
 - [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
@@ -5869,7 +5870,6 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - An extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [kyleawayan/vintage-influxdb](https://github.com/kyleawayan/vintage-influxdb) - Record your Spotify listening data on InfluxDB.
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
@@ -5989,7 +5989,7 @@
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [zxh0/vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3
-- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React
+- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016)
 - [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
 - [minio/console](https://github.com/minio/console) - Simple UI for MinIO Object Storage :abacus:
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology

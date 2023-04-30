@@ -1968,7 +1968,7 @@
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [mpsq/arewewaylandyet](https://github.com/mpsq/arewewaylandyet) - Sources for https://arewewaylandyet.com
-- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
+- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
 - [thesephist/h12y](https://github.com/thesephist/h12y) - The email service for when just "hey.com" isn't enough.
 - [pinoceniccola/what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.

@@ -1295,7 +1295,7 @@
 - [fzipp/gocyclo](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [alecthomas/gocyclo](https://github.com/alecthomas/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [maruel/panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
@@ -2857,7 +2857,7 @@
 - [cynthiablee/blockchain-to-spreadsheet](https://github.com/cynthiablee/blockchain-to-spreadsheet) - Chrome browser extension that replaces the word "blockchain" with the phrase "multiple copies of a giant Excel spreadsheet."
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 - [ineffyble/tooter](https://github.com/ineffyble/tooter) - Add 'Toot' and 'Share to Mastodon' buttons to the web
-- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
+- [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [GGBRW/BOOLR](https://github.com/GGBRW/BOOLR) - A digital logic simulator
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js

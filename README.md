@@ -2040,7 +2040,7 @@
 - [ajn123/CV](https://github.com/ajn123/CV) - My resume in Latex
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [workshopper/learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [pixelfed/project-website](https://github.com/pixelfed/project-website) - deprecated by https://github.com/pixelfedLabs/delta
 - [whatwg/dom](https://github.com/whatwg/dom) - DOM Standard
 - [nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor) - An Ansible Role for Tor Relay Operators
@@ -3358,7 +3358,6 @@
 - [techiescamp/kubernetes-prometheus](https://github.com/techiescamp/kubernetes-prometheus) - Kubernetes Manifest files for setting up Prometheus monitoring on the Kubernetes cluster.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-- [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers.
 - [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
@@ -4106,6 +4105,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
+- [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [rbignon/doctoshotgun](https://github.com/rbignon/doctoshotgun) - Script to automatically book a vaccine slot on Doctolib in the next seven days.
@@ -4849,7 +4849,7 @@
 - [konradsz/igrep](https://github.com/konradsz/igrep) - Interactive Grep
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library
+- [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [alexislozano/salaires.dev](https://github.com/alexislozano/salaires.dev) - 
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -5748,7 +5748,7 @@
 
 ## TypeScript 
 
-- [bokub/linky](https://github.com/bokub/linky) - 🔌 Easily retrieve your Linky™ power consumption
+- [bokub/linky](https://github.com/bokub/linky) - 🔌 Easily retrieve your Linky power consumption
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js

@@ -4411,7 +4411,6 @@
 - [danfengcao/binlog2sql](https://github.com/danfengcao/binlog2sql) - Parse MySQL binlog to SQL you want
 - [fabi1cazenave/qwerty-lafayette](https://github.com/fabi1cazenave/qwerty-lafayette) - QWERTY keyboard layout for French-speaking users
 - [MilhouseVH/bcmstat](https://github.com/MilhouseVH/bcmstat) - Simple Raspberry Pi monitoring tool
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [rfmoz/tuptime](https://github.com/rfmoz/tuptime) - Report the historical and statistical real time of the system, keeping it between restarts. Like uptime command but with more interesting output.

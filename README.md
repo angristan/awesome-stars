@@ -147,7 +147,6 @@
 
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Awk 
 
@@ -1990,7 +1989,7 @@
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
 - [nesk/covid-19-certificate](https://github.com/nesk/covid-19-certificate) - A certificate generator for France quarantine due to COVID-19
 - [LAB-MI/deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19) - Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [skullface/girlgroupsdotnet](https://github.com/skullface/girlgroupsdotnet) - 📲 Mobile wallpapers of 🚺K-pop idols.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -2854,6 +2853,7 @@
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
 - [ElasticHQ/elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
+- [getsolus/help-center-docs](https://github.com/getsolus/help-center-docs) - Solus's Help Center documentation as well as previous User Guide.
 - [cynthiablee/blockchain-to-spreadsheet](https://github.com/cynthiablee/blockchain-to-spreadsheet) - Chrome browser extension that replaces the word "blockchain" with the phrase "multiple copies of a giant Excel spreadsheet."
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 - [ineffyble/tooter](https://github.com/ineffyble/tooter) - Add 'Toot' and 'Share to Mastodon' buttons to the web
@@ -3620,7 +3620,6 @@
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 - [vfarcic/docker-flow-proxy](https://github.com/vfarcic/docker-flow-proxy) - Docker Flow Proxy
 - [docker/for-linux](https://github.com/docker/for-linux) - Docker for Linux
-- [getsolus/help-center-docs](https://github.com/getsolus/help-center-docs) - Solus's Help Center documentation as well as previous User Guide.
 - [matomo-org/matomo-nginx](https://github.com/matomo-org/matomo-nginx) - Nginx configuration for running Matomo
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -6192,6 +6191,7 @@
 - [quantumsheep/vscode-esgiheader](https://github.com/quantumsheep/vscode-esgiheader) - ESGI header for VSCode https://www.esgi.fr
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [miniorg/miniverse](https://github.com/miniorg/miniverse) - Miniverse is a microblogging software.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code

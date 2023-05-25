@@ -3430,7 +3430,7 @@
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [btamada/jp-software-companies](https://github.com/btamada/jp-software-companies) - List of software companies in Japan for techies
-- [cyrilletuzi/typescript-strictly-typed](https://github.com/cyrilletuzi/typescript-strictly-typed) - Enable configurations for strictly typed TypeScript, ESLint, and optionally Angular. Because TypeScript strict mode is not enough.
+- [cyrilletuzi/typescript-strictly-typed](https://github.com/cyrilletuzi/typescript-strictly-typed) - Automatic configuration for fully typed TypeScript. Because strict mode is not enough.
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [thank-you-github/thank-you-github](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
@@ -4614,6 +4614,7 @@
 
 ## Ruby 
 
+- [interagent/committee](https://github.com/interagent/committee) - A collection of Rack middleware to support JSON Schema.
 - [ruby-git/ruby-git](https://github.com/ruby-git/ruby-git) - Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.
 - [varvet/pundit](https://github.com/varvet/pundit) - Minimal authorization through OO design and pure Ruby classes
 - [doctolib/safe-pg-migrations](https://github.com/doctolib/safe-pg-migrations) - Make your PostgreSQL migrations safe

@@ -6007,7 +6007,7 @@
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re) - 
 - [nestjsx/nestjs-typeorm-paginate](https://github.com/nestjsx/nestjs-typeorm-paginate) - :page_with_curl: Pagination response object function + types for typeorm + nestjs
-- [caffco/get-audio-duration](https://github.com/caffco/get-audio-duration) - Returns duration of an audio via ffprobe
+- [caffco/get-audio-duration](https://github.com/caffco/get-audio-duration) - Returns duration of an audio file via ffprobe
 - [payw-org/cau-timetable-scraper](https://github.com/payw-org/cau-timetable-scraper) - A CAU timetable scraper
 - [payw-org/eodiro](https://github.com/payw-org/eodiro) - An open source guidance service for CAU students
 - [nestjs/swagger](https://github.com/nestjs/swagger) - OpenAPI (Swagger) module for Nest framework (node.js) :earth_americas:

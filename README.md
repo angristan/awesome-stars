@@ -428,7 +428,7 @@
 - [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [jedisct1/pure-ftpd](https://github.com/jedisct1/pure-ftpd) - Pure FTP server
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [osxfuse/sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
 - [mattrajca/sudo-touchid](https://github.com/mattrajca/sudo-touchid) - A fork of `sudo` with Touch ID support.
@@ -2312,6 +2312,7 @@
 - [ConsenSys/Tokens](https://github.com/ConsenSys/Tokens) - Ethereum Token Contracts
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [lesiki/google-meet-default-account](https://github.com/lesiki/google-meet-default-account) - Chrome extension to set the default Google account for Google Meet links
+- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - An extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
@@ -5869,7 +5870,6 @@
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - An extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [kyleawayan/vintage-influxdb](https://github.com/kyleawayan/vintage-influxdb) - Record your Spotify listening data on InfluxDB.
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media

@@ -2312,7 +2312,7 @@
 - [ConsenSys/Tokens](https://github.com/ConsenSys/Tokens) - Ethereum Token Contracts
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [lesiki/google-meet-default-account](https://github.com/lesiki/google-meet-default-account) - Chrome extension to set the default Google account for Google Meet links
-- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - An extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
+- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
@@ -5861,7 +5861,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [squidjs/terminal](https://github.com/squidjs/terminal) - The extendible Shell and SSH terminal, with E2E encryption in the cloud.
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Premium Message Queue for NodeJS based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [cotag/ts-md5](https://github.com/cotag/ts-md5) - Typescript MD5 implemenation
 - [prettymuchbryce/http-status-codes](https://github.com/prettymuchbryce/http-status-codes) - Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.
 - [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API

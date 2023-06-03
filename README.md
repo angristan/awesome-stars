@@ -3163,7 +3163,7 @@
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN
 - [ArchiveTeam/youtube-dislikes-grab](https://github.com/ArchiveTeam/youtube-dislikes-grab) - Archiving general youtube video metadata through innertube for dislikes removal.
 - [haproxytech/haproxy-lua-acme](https://github.com/haproxytech/haproxy-lua-acme) - 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
@@ -6084,7 +6084,7 @@
 - [Annihil/revolut-emergency](https://github.com/Annihil/revolut-emergency) - 👨‍🚀 Unofficial Revolut PC app – Freeze cards, list transactions, get notifications, contact support
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
-- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [nehalist/gatsby-theme-nehalem](https://github.com/nehalist/gatsby-theme-nehalem) - A Gatsby blog theme.
 - [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues

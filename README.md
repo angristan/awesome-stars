@@ -1152,7 +1152,7 @@
 - [qselle/velib-exporter](https://github.com/qselle/velib-exporter) - An exporter for velib-metropole.fr to track my rides.
 - [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
+- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [quantumsheep/doka](https://github.com/quantumsheep/doka) - Extended Dockerfile syntax
 - [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
@@ -1305,7 +1305,7 @@
 - [benjojo/sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
 - [minio/mint](https://github.com/minio/mint) - Collection of tests to detect overall correctness of MinIO server.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [brianstrauch/spotify-cli](https://github.com/brianstrauch/spotify-cli) - Spotify for the terminal 🎵
+- [brianstrauch/spotify-cli](https://github.com/brianstrauch/spotify-cli) - Spotify for the terminal
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
@@ -4338,7 +4338,7 @@
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [antoiner77/caddy-ansible](https://github.com/antoiner77/caddy-ansible) - Ansible playbook for caddy
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents

@@ -928,6 +928,7 @@
 ## Dart 
 
 - [hamaluik/nomdebebe](https://github.com/hamaluik/nomdebebe) - A simple, private tool to help pick a baby name.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter) - A ruTorrent-based client in Flutter
 - [WorldHealthOrganization/app](https://github.com/WorldHealthOrganization/app) - COVID-19 App
 - [appditto/natrium_wallet_flutter](https://github.com/appditto/natrium_wallet_flutter) - Natrium - Fast, Robust & Secure NANO Wallet, now written with Flutter.
@@ -1993,7 +1994,6 @@
 - [skullface/girlgroupsdotnet](https://github.com/skullface/girlgroupsdotnet) - 📲 Mobile wallpapers of 🚺K-pop idols.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
-- [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [njh/google-ipv6](https://github.com/njh/google-ipv6) - Per-country ranking table based on data from Google IPv6 Statistics page
 - [AwsGeek/aws-history](https://github.com/AwsGeek/aws-history) - 
@@ -2546,6 +2546,7 @@
 - [HauntedThemes/ghost-search](https://github.com/HauntedThemes/ghost-search) - A simple but powerful search library for Ghost Blogging Platform.
 - [jamwise/ghostHunter](https://github.com/jamwise/ghostHunter) - A Ghost blog search engine
 - [makandz/MySpotify](https://github.com/makandz/MySpotify) - A website to view your Spotify stats.
+- [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [xiaodoudou/PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) - This app simulate a DVR device for Plex by providing a layer to any IPTV provider (that provide a m3u8 playlist)
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
@@ -4885,7 +4886,6 @@
 - [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 
 - [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure Faster ⚡️
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [cjdelisle/packetcrypt_rs](https://github.com/cjdelisle/packetcrypt_rs) - PacketCrypt in Rust
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -4920,7 +4920,7 @@
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files
 - [tyrchen/rust-training](https://github.com/tyrchen/rust-training) - my rust training to the team.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.

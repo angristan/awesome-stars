@@ -3419,7 +3419,6 @@
 - [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - The previous version of Pyston, a faster implementation of the Python programming language.  Please use this link for the new repository:
 - [738/awesome-sushi](https://github.com/738/awesome-sushi) - 🍣 국내 스시 오마카세 맛집 리스트
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-- [MuxaJlbl4/Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita
 - [ttohin/tdesktop-gruvbox-dark-medium](https://github.com/ttohin/tdesktop-gruvbox-dark-medium) - Telegram Desktop Gruvbox dark (medium) Theme.
 - [climate-strike/license](https://github.com/climate-strike/license) - Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.
 - [DBraun/kpop_midi](https://github.com/DBraun/kpop_midi) - MIDI transcriptions of kpop songs. Most examples focus on piano chord progressions.
@@ -3628,7 +3627,7 @@
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [bennojoy/nginx](https://github.com/bennojoy/nginx) - ansible role nginx
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [pkorobeinikov/ansible-role-tzdata](https://github.com/pkorobeinikov/ansible-role-tzdata) - Timezone configuration.
+- [petr-korobeinikov/ansible-role-tzdata](https://github.com/petr-korobeinikov/ansible-role-tzdata) - Timezone configuration.
 - [getgrav/grav-skeleton-rtfm-site](https://github.com/getgrav/grav-skeleton-rtfm-site) - Grav RTFM Skeleton
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [jdauphant/ansible-role-ssl-certs](https://github.com/jdauphant/ansible-role-ssl-certs) - Generate and/or deploy SSL certificate
@@ -5908,7 +5907,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-- [google/semantic-release-replace-plugin](https://github.com/google/semantic-release-replace-plugin) - Update version strings with semantic-release.
+- [jpoehnelt/semantic-release-replace-plugin](https://github.com/jpoehnelt/semantic-release-replace-plugin) - Update version strings with semantic-release.
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [nestjs/bull](https://github.com/nestjs/bull) - Bull module for Nest framework (node.js) :cow:
 - [skunight/nestjs-redis](https://github.com/skunight/nestjs-redis) - nestjs redis module

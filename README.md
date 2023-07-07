@@ -723,7 +723,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [electracoin-ECA/electra-archive](https://github.com/electracoin-ECA/electra-archive) - This repository is no longer in use.
 - [solus-project/budgie-rd](https://github.com/solus-project/budgie-rd) - R&D repository for Budgie 11 bits
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [pepeteam/pepecoin](https://github.com/pepeteam/pepecoin) - Memetic / PepeCoin - MEME / PEPE - Cryptocurrency - 3.1.1.0
 - [zetacoin/zetacoin](https://github.com/zetacoin/zetacoin) - Official Zetacoin repository
@@ -1023,6 +1023,7 @@
 
 ## Go 
 
+- [jetpack-io/tyson](https://github.com/jetpack-io/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [pojntfx/ram-dl](https://github.com/pojntfx/ram-dl) - A tool to download more RAM (yes, seriously!)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
 - [mrusme/journalist](https://github.com/mrusme/journalist) - Journalist. An RSS aggregator.

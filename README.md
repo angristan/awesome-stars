@@ -584,6 +584,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [OpenVPN/openvpn3](https://github.com/OpenVPN/openvpn3) - OpenVPN 3 is a C++ class library that implements the functionality of an OpenVPN client, and is protocol-compatible with the OpenVPN 2.x branch.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -2299,6 +2300,7 @@
 - [ralphtheninja/await-spawn](https://github.com/ralphtheninja/await-spawn) - child_process.spawn() wrapped in a Promise
 - [poolifier/poolifier](https://github.com/poolifier/poolifier) - Fast and small Node.js thread pool implementation
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
+- [supercharge/promise-pool](https://github.com/supercharge/promise-pool) - Map-like, concurrent promise processing
 - [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering
 - [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
 - [moul-co/moul](https://github.com/moul-co/moul) - [Rewrite] The minimalist publishing tool for photographers
@@ -4062,6 +4064,7 @@
 
 ## Python 
 
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [nirae/paris_passport_checker](https://github.com/nirae/paris_passport_checker) - Passport appointments checker for Paris
 - [syssi/xiaomi_airpurifier](https://github.com/syssi/xiaomi_airpurifier) - Xiaomi Mi Air Purifier and Xiaomi Mi Air Humidifier integration for Home Assistant
 - [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
@@ -5595,6 +5598,7 @@
 
 ## Swift 
 
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [aheze/Setting](https://github.com/aheze/Setting) - Compose beautiful preference panels.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -5866,7 +5870,6 @@
 - [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
 - [tomzorz/obsidian-link-archive](https://github.com/tomzorz/obsidian-link-archive) - Link Archive plugin for Obsidian
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
-- [supercharge/promise-pool](https://github.com/supercharge/promise-pool) - Map-like, concurrent promise processing
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [torifat/xiaomi-mi-air-purifier](https://github.com/torifat/xiaomi-mi-air-purifier) - Homebridge plugin for Xiaomi Mi Air Purifier

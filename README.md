@@ -142,6 +142,7 @@
 - [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [blackbird71SR/Hello-World](https://github.com/blackbird71SR/Hello-World) - Hello World in all possible programmnig languages
+- [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
 - [pooler/cpuminer](https://github.com/pooler/cpuminer) - CPU miner for Litecoin and Bitcoin
 
 ## Astro 
@@ -496,7 +497,6 @@
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 - [vozlt/nginx-module-sysguard](https://github.com/vozlt/nginx-module-sysguard) - Nginx sysguard module
 - [open-quantum-safe/openssl](https://github.com/open-quantum-safe/openssl) - Fork of OpenSSL 1.1.1 that includes prototype quantum-resistant algorithms and ciphersuites based on liboqs [OQS-OpenSSL 1.1.1 is NO LONGER SUPPORTED, please switch to OQS-Provider for OpenSSL 3]
-- [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
 - [huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
 - [WickrInc/wickr-crypto-c](https://github.com/WickrInc/wickr-crypto-c) - An implementation of the Wickr Secure Messaging Protocol in C
 - [franciscofranco/one_plus_3T](https://github.com/franciscofranco/one_plus_3T) - Common tree for the One Plus 3 and 3T
@@ -1273,7 +1273,7 @@
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native distributed storage platform
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [digitalocean/droplet-agent](https://github.com/digitalocean/droplet-agent) - Droplet Agent is the daemon that runs on customer droplets to enable some features such as web console access.
@@ -1290,7 +1290,7 @@
 - [minvws/nl-covid19-testvac-qr-core](https://github.com/minvws/nl-covid19-testvac-qr-core) - This is a proof of concept (PoC) for creating a QR code system for proving that one has had a valid vaccination record
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [florensie/hcloud-snapshot-backup](https://github.com/florensie/hcloud-snapshot-backup) - Hetzner Cloud backups but cheaper thanks to snapshots
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
@@ -2635,7 +2635,7 @@
 - [Salesflare/hapi-routes](https://github.com/Salesflare/hapi-routes) - Hapi plugin for registering routes
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [hapijs/boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
-- [pinojs/hapi-pino](https://github.com/pinojs/hapi-pino) - 🌲 Hapi plugin for the Pino logger
+- [hapijs/hapi-pino](https://github.com/hapijs/hapi-pino) - 🌲 Hapi plugin for the Pino logger
 - [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2) - :zap: fast mysqljs/mysql compatible mysql driver for node.js
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
@@ -2743,7 +2743,7 @@
 - [jithurjacob/vscode-nbpreviewer](https://github.com/jithurjacob/vscode-nbpreviewer) - A VS Code extension for previewing Jupyter Notebook
 - [JunoLab/atom-julia-client](https://github.com/JunoLab/atom-julia-client) - Juno a good IDE?
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
-- [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
+- [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
@@ -4891,7 +4891,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Mirrored at https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
-- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
+- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 - [twitter/rezolus](https://github.com/twitter/rezolus) - Systems performance telemetry
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.

@@ -1158,7 +1158,7 @@
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [ashanbrown/makezero](https://github.com/ashanbrown/makezero) - A linter to ensure that slices are not initialized with non-zero length
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [xperimental/netatmo-exporter](https://github.com/xperimental/netatmo-exporter) - Prometheus exporter for Netatmo sensor data.
 - [quentinselle/velib-exporter](https://github.com/quentinselle/velib-exporter) - An exporter for velib-metropole.fr to track my rides.
@@ -2273,7 +2273,7 @@
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [JeanJouliaCode/wipeClean](https://github.com/JeanJouliaCode/wipeClean) - 
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
 - [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers.
@@ -2426,7 +2426,6 @@
 - [Secretmapper/combustion](https://github.com/Secretmapper/combustion) - Combustion is a sleek, modern web interface for Transmission
 - [khanhas/Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
 - [MathRobin/Never-Consent](https://github.com/MathRobin/Never-Consent) - Never consent to any GDPR consent management platform
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - Your Internet Archived to Your Disk
 - [tomer8007/widevine-l3-decryptor](https://github.com/tomer8007/widevine-l3-decryptor) - A Chrome extension that demonstrates bypassing Widevine L3 DRM
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -4503,7 +4502,7 @@
 - [jaywink/socialhome](https://github.com/jaywink/socialhome) - A federated social home
 - [hardpixel/devdocs-desktop](https://github.com/hardpixel/devdocs-desktop) - GTK3 application for DevDocs API documentation browser.
 - [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
-- [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL® backup and restore service
+- [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [solus-project/ypkg](https://github.com/solus-project/ypkg) - Modern, declarative, structured build format
 - [solus-project/solus-sc](https://github.com/solus-project/solus-sc) - Solus Software Center
@@ -5233,7 +5232,7 @@
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
 - [input-output-hk/cardano-haskell](https://github.com/input-output-hk/cardano-haskell) - Top level repository for building the Cardano Haskell node and related components and dependencies.
 - [osixia/docker-openldap](https://github.com/osixia/docker-openldap) - OpenLDAP container image 🐳🌴
-- [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process.
+- [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
 - [mbentley/docker-timemachine](https://github.com/mbentley/docker-timemachine) - Docker image to run netatalk (compatible Time Machine for OS X)
 - [munki/bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume.
 - [munki/installr](https://github.com/munki/installr) - A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages.
@@ -5402,7 +5401,7 @@
 - [thefederationinfo/federation-tests](https://github.com/thefederationinfo/federation-tests) - 
 - [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
-- [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
+- [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
 - [friendica/docker](https://github.com/friendica/docker) - Docker image for Friendica
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
@@ -6003,6 +6002,7 @@
 - [eramdam/BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser.
 - [matthprost/scaleway-manager](https://github.com/matthprost/scaleway-manager) - Scaleway Manager is an IONIC application that use Scaleway API to manage your servers.
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode

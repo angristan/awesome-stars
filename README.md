@@ -4093,7 +4093,7 @@
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [koenrh/delete-tweets](https://github.com/koenrh/delete-tweets) - Delete tweets from your timeline.
 - [openbmc/openbmc](https://github.com/openbmc/openbmc) - OpenBMC Distribution
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [confluentinc/kafka-images](https://github.com/confluentinc/kafka-images) - Confluent Docker images for Apache Kafka
 - [ZeroIntensity/pointers.py](https://github.com/ZeroIntensity/pointers.py) - Bringing the hell of pointers to Python.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -4986,7 +4986,7 @@
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [devashishdxt/cli-table](https://github.com/devashishdxt/cli-table) - Rust crate for printing tables on command line.
 - [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) - A rust library to print aligned and formatted tables
 - [Stebalien/term](https://github.com/Stebalien/term) - A Rust library for terminfo parsing and terminal colors.

@@ -929,6 +929,7 @@
 
 ## DIGITAL Command Language 
 
+- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 - [jmdugan/blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files
 
 ## Dart 
@@ -3484,7 +3485,6 @@
 - [LeEnno/alfred-terminalfinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
-- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [gaul/awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -3661,7 +3661,7 @@
 - [jdauphant/ansible-role-ssl-certs](https://github.com/jdauphant/ansible-role-ssl-certs) - Generate and/or deploy SSL certificate
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [distantorigin/XPS-Enhancements](https://github.com/distantorigin/XPS-Enhancements) - Detailed instructions and resources to improve the experience for new Dell XPS 93XX users
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -4008,7 +4008,7 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [Chocobozzz/OpenVPN-Admin](https://github.com/Chocobozzz/OpenVPN-Admin) - Install and administrate OpenVPN with a web interface (logs visualisations, users managing...)
 - [Simple-chez-tuxfamily/Simple-Music-Player](https://github.com/Simple-chez-tuxfamily/Simple-Music-Player) - Simple Music Player est un lecteur de musique en ligne libre publié sous licence libre GPL v3. Écrit en PHP et utilisant SQLite 3 comme base de données, il est conçu pour être très simple d'utilisatio
 - [pluxml/PluXml](https://github.com/pluxml/PluXml) - PluXml, Moteur de Blog et CMS à l'XML sans base de données
@@ -4513,7 +4513,7 @@
 - [scragg0x/realms-wiki](https://github.com/scragg0x/realms-wiki) - Git based wiki inspired by Gollum
 - [jaywink/socialhome](https://github.com/jaywink/socialhome) - A federated social home
 - [hardpixel/devdocs-desktop](https://github.com/hardpixel/devdocs-desktop) - GTK3 application for DevDocs API documentation browser.
-- [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [solus-project/ypkg](https://github.com/solus-project/ypkg) - Modern, declarative, structured build format
@@ -5454,7 +5454,7 @@
 - [32b/docker-get](https://github.com/32b/docker-get) - pull* docker images from git repositories
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [matomo-org/docker](https://github.com/matomo-org/docker) - Official Docker project for Matomo Analytics
-- [CachetHQ/Docker](https://github.com/CachetHQ/Docker) - A Dockerized version of Cachet.
+- [cachethq/Docker](https://github.com/cachethq/Docker) - A Dockerized version of Cachet.
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [docker-library/percona](https://github.com/docker-library/percona) - DEPRECATED Docker Official Image packaging for Percona Server, new repo:

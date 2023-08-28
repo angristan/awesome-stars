@@ -125,7 +125,7 @@
 
 ## AppleScript 
 
-- [jdxcode/tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) - Shows current song playing on spotify in your tmux status line
+- [jdx/tmux-spotify-info](https://github.com/jdx/tmux-spotify-info) - Shows current song playing on spotify in your tmux status line
 
 ## AsciiDoc 
 
@@ -934,6 +934,7 @@
 
 ## Dart 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [hamaluik/nomdebebe](https://github.com/hamaluik/nomdebebe) - A simple, private tool to help pick a baby name.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter) - A ruTorrent-based client in Flutter
@@ -1361,7 +1362,7 @@
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go]
 - [auxten/go-sqldb](https://github.com/auxten/go-sqldb) - A pure golang SQL database for database theory research
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-- [pokemium/magia](https://github.com/pokemium/magia) - magia is a toy GBA emulator written in golang.
+- [akatsuki105/magia](https://github.com/akatsuki105/magia) - magia is a toy GBA emulator written in golang.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [Sh4d1/scaleway-k8s-node-coffee](https://github.com/Sh4d1/scaleway-k8s-node-coffee) - 
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
@@ -2084,7 +2085,6 @@
 - [hummingbird-me/kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - :hammer: The tools we use to build Kitsu, the coolest platform for anime and manga
 - [vanhoefm/krackattacks](https://github.com/vanhoefm/krackattacks) - 
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [kalvn/Shaarli-Material](https://github.com/kalvn/Shaarli-Material) - Shaarli Material is a theme for Shaarli, the famous personal, minimalist, super-fast, database free, bookmarking service.
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [notofonts/noto-source](https://github.com/notofonts/noto-source) - 
@@ -4557,6 +4557,7 @@
 - [zeyon/MarkdownHtmlPreview](https://github.com/zeyon/MarkdownHtmlPreview) - Markdown HTML Preview for Sublime Text 2/3
 - [retext-project/retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [Open365/Open365](https://github.com/Open365/Open365) - Installer and main page for Open365
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
@@ -5783,12 +5784,11 @@
 
 ## TypeScript 
 
-- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.
+- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [standardrb/vscode-standard-ruby](https://github.com/standardrb/vscode-standard-ruby) - The official VS Code extension for the Standard Ruby linter and code formatter
 - [bokub/linky](https://github.com/bokub/linky) - 🔌 CLI tool to retrieve Linky smart meters data
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server

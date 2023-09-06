@@ -1026,7 +1026,6 @@
 
 - [eloyesp/jekyll_ghost_importer](https://github.com/eloyesp/jekyll_ghost_importer) - Post importer from Ghost backup files.
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
-- [thoughtbot/factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Factory Bot ♥ Rails
 
 ## Go 
 
@@ -4724,6 +4723,7 @@
 - [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [DatabaseCleaner/database_cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Strategies for cleaning databases in Ruby.  Can be used to ensure a clean state for testing.
 - [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Simple one-liner tests for common Rails functionality
+- [thoughtbot/factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Factory Bot ♥ Rails
 - [rspec/rspec-rails](https://github.com/rspec/rspec-rails) - RSpec for Rails 5+
 - [Yleisradio/homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - Homebrew repository for a Terraform version switcher and all Terraform versions
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.

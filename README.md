@@ -1949,7 +1949,7 @@
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
-- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
+- [h-enk/doks](https://github.com/h-enk/doks) - Everything you need to build an outstanding documentation website. Fast, accessible, and easy-to-use.
 - [eidam/cf-workers-zero-trust-terraform-state](https://github.com/eidam/cf-workers-zero-trust-terraform-state) - Zero-Trust @HashiCorp Terraform state backend
 - [knadh/dont.build](https://github.com/knadh/dont.build) - A simple, opinionated decision system to help decide whether to build a software feature or not.
 - [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
@@ -2255,6 +2255,7 @@
 
 ## JavaScript 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
 - [jan-carreras/books](https://github.com/jan-carreras/books) - 
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -2402,7 +2403,7 @@
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
-- [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
+- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [crash0verride11/DarkLight-qBittorent-WebUI](https://github.com/crash0verride11/DarkLight-qBittorent-WebUI) - A version of the default webUI that supports OS Dark Mode and is toggle-able, made using CSS properties and SASS.
 - [Micdu70/geoip2-rutorrent](https://github.com/Micdu70/geoip2-rutorrent) - New geoip plugin for ruTorrent working with GeoLite2 (MaxMind DB Files)
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability
@@ -2433,7 +2434,7 @@
 - [Secretmapper/combustion](https://github.com/Secretmapper/combustion) - Combustion is a sleek, modern web interface for Transmission
 - [khanhas/Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
 - [MathRobin/Never-Consent](https://github.com/MathRobin/Never-Consent) - Never consent to any GDPR consent management platform
-- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - Your Internet Archived to Your Disk
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history.
 - [tomer8007/widevine-l3-decryptor](https://github.com/tomer8007/widevine-l3-decryptor) - A Chrome extension that demonstrates bypassing Widevine L3 DRM
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
@@ -4079,7 +4080,6 @@
 - [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [nirae/paris_passport_checker](https://github.com/nirae/paris_passport_checker) - Passport appointments checker for Paris
@@ -4275,7 +4275,7 @@
 - [marios8543/Jellyfin-CLI](https://github.com/marios8543/Jellyfin-CLI) - A Jellyfin command line client written in Python
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [FoldingAtHome/coronavirus](https://github.com/FoldingAtHome/coronavirus) - Folding@home COVID-19 efforts
-- [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
+- [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [wbingli/awscli-plugin-endpoint](https://github.com/wbingli/awscli-plugin-endpoint) - An awscli plugin to configure service endpoint from aws configure file
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
 - [natethegreate/Screentone-Remover](https://github.com/natethegreate/Screentone-Remover) - Script with GUI that removes screentones, using DSP
@@ -4299,7 +4299,7 @@
 - [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [open-io/oio-sds](https://github.com/open-io/oio-sds) - High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
@@ -5788,6 +5788,7 @@
 
 ## TypeScript 
 
+- [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.

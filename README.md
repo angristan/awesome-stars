@@ -991,7 +991,7 @@
 
 - [edance/openpace](https://github.com/edance/openpace) - 🏃 Track Runs and Workouts
 - [derpibooru/philomena](https://github.com/derpibooru/philomena) - Next-generation imageboard
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 - [aleph-naught2tog/live_tinkering](https://github.com/aleph-naught2tog/live_tinkering) - Little toy demos for Phoenix LiveView
 - [techgaun/ex_pwned](https://github.com/techgaun/ex_pwned) - Elixir client for haveibeenpwned.com
@@ -1880,7 +1880,6 @@
 - [JamesClonk/vultr](https://github.com/JamesClonk/vultr) - :penguin: Vultr CLI and API client library
 - [solus-project/solbuild](https://github.com/solus-project/solbuild) - The Solus package build system
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [skycoin/skycoin](https://github.com/skycoin/skycoin) - Skycoin Core and Wallet
 - [cloudflarearchive/sidh](https://github.com/cloudflarearchive/sidh) - Supersingular Isogeny Diffie-Hellman in Go
 - [expanse-org/go-expanse](https://github.com/expanse-org/go-expanse) - Jeffrey Wilcke's Go implementation of the Ethereum y/w paper
@@ -2571,7 +2570,7 @@
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
-- [harthur/clustering](https://github.com/harthur/clustering) - [UNMAINTAINED] K-means and hierarchical clustering
+- [harthur/clustering](https://github.com/harthur/clustering) - K-means and hierarchical clustering
 - [xanderlewis/colour-palettes](https://github.com/xanderlewis/colour-palettes) - Generate colour palettes from an image. 🎨
 - [colorjs/color-namer](https://github.com/colorjs/color-namer) - :art: Give me a color and I'll name it.
 - [derogab/coingraph](https://github.com/derogab/coingraph) - Coingraph is a real-time graph for cryptocurrencies.
@@ -5128,6 +5127,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [system76/firmware-update](https://github.com/system76/firmware-update) - System76 Firmware Update Utility
 - [BrainBlasted/Trumpet](https://github.com/BrainBlasted/Trumpet) - Moved to https:///gitlab.gnome.org
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'

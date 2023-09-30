@@ -4440,7 +4440,7 @@
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [3v1n0/telegram-snap](https://github.com/3v1n0/telegram-snap) - Snap packaging for telegramdesktop built from sources
 - [nylas/ansible-test](https://github.com/nylas/ansible-test) - An Ansible Testing Framework for Humans
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!

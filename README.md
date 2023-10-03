@@ -968,7 +968,6 @@
 - [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven
 - [caesarnine/data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [ricardbejarano/nginx](https://github.com/ricardbejarano/nginx) - 🦅 Built-from-source container image of NGINX
-- [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [Poludo/docker-plex-remote-transcoder](https://github.com/Poludo/docker-plex-remote-transcoder) - Plex Media Server + Transcoder that can be deployed on remote nodes
 - [silvio/matrix-riot-docker](https://github.com/silvio/matrix-riot-docker) - riot.im webclient in a container
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
@@ -1940,6 +1939,7 @@
 - [kylegalbraith/aws-ecr-codepipeline-demo](https://github.com/kylegalbraith/aws-ecr-codepipeline-demo) - This repository demonstrates how you can use Terraform to provision AWS CodePipeline & CodeBuild to build and push Docker container images to AWS ECR. Read the full blog post here: https://blog.kylega
 - [hashicorp/terraform-elasticache-example](https://github.com/hashicorp/terraform-elasticache-example) - Example Terraform config for creating an Elasticache cluster
 - [ilhaan/kubeCDN](https://github.com/ilhaan/kubeCDN) - Self-hosted CDN based on Kubernetes
+- [zimmertr/TJs-Kubernetes-Service](https://github.com/zimmertr/TJs-Kubernetes-Service) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [leboncoin/terraform-aws-nvme-example](https://github.com/leboncoin/terraform-aws-nvme-example) - Example to manage your EBS NVME volumes on AWS
 - [hobby-kube/provisioning](https://github.com/hobby-kube/provisioning) - Kubernetes cluster provisioning using Terraform.
@@ -2231,7 +2231,7 @@
 - [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pe
 - [cerisara/mousetodon](https://github.com/cerisara/mousetodon) - Android app to connect to the mastodon social network
 - [namcap/Dnscrypt-AndroidClient](https://github.com/namcap/Dnscrypt-AndroidClient) - App for controlling the DNSCrypt Proxy on Android
-- [novskey/PalletTown](https://github.com/novskey/PalletTown) - A GUI for creating pokemon trainer club accounts based on pikaptcha.
+- [parislarkins/PalletTown](https://github.com/parislarkins/PalletTown) - A GUI for creating pokemon trainer club accounts based on pikaptcha.
 - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android) - 
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
 - [dimtion/Shaarlier](https://github.com/dimtion/Shaarlier) - Simple Android app for sharing links on Shaarli.
@@ -3543,7 +3543,6 @@
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [yaml/yaml](https://github.com/yaml/yaml) - YAML language and community information
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
-- [zimmertr/TKS](https://github.com/zimmertr/TKS) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [drone-plugins/drone-base](https://github.com/drone-plugins/drone-base) - Base image used by the plugins
 - [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
@@ -3699,7 +3698,6 @@
 - [LedgerHQ/ledger-nano-s](https://github.com/LedgerHQ/ledger-nano-s) - Ledger Nano S, a personal security device from Ledger (blockchain / bitcoin / ethereum / FIDO)
 - [dashpay/dash-roadmap](https://github.com/dashpay/dash-roadmap) - Previous versions of Dash Core Group Roadmap for historical purposes
 - [ZcashFoundation/ZcashFoundation](https://github.com/ZcashFoundation/ZcashFoundation) - 
-- [megous/megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [nginx-modules/ngx_http_tls_dyn_size](https://github.com/nginx-modules/ngx_http_tls_dyn_size) - Optimizing TLS over TCP to reduce latency for NGINX
 - [WorksOnArm/worksonarm-news](https://github.com/WorksOnArm/worksonarm-news) - Works on Arm newsletter
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
@@ -5345,6 +5343,7 @@
 - [fedora-cloud/Fedora-Dockerfiles](https://github.com/fedora-cloud/Fedora-Dockerfiles) - Fedora Dockerfiles - No longer maintained. See: https://fedoraproject.org/wiki/Changes/Layered_Docker_Image_Build_Service
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
+- [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [docker-library/mysql](https://github.com/docker-library/mysql) - Docker Official Image packaging for MySQL Community Server
 - [corneliusweig/kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container

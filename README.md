@@ -2380,7 +2380,7 @@
 - [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript
 - [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
 - [OwlCarousel2/OwlCarousel2](https://github.com/OwlCarousel2/OwlCarousel2) - DEPRECATED jQuery Responsive Carousel.
-- [KripC2160/findmeadistro](https://github.com/KripC2160/findmeadistro) - a website that finds random Linux distribution
+- [KripC2160/FindMeALinuxDistro](https://github.com/KripC2160/FindMeALinuxDistro) - a website that finds random Linux distribution
 - [jackyzha0/ctrl-v](https://github.com/jackyzha0/ctrl-v) - 📋 a modern, open-source pastebin with latex and markdown rendering support
 - [eduardoboucas/gitemon](https://github.com/eduardoboucas/gitemon) - 👾 Gotta Catch 'Em All!
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code

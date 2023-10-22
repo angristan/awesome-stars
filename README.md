@@ -1276,7 +1276,7 @@
 - [Waifu-pics/waifu-api](https://github.com/Waifu-pics/waifu-api) - https://waifu.pics Image sharing platform and API for anime images, entirely user curated (joke gone too far)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [Artheriom/dedibox-backup-monitoring](https://github.com/Artheriom/dedibox-backup-monitoring) - A simple tool who pulls data from Online.net API and parse them to a Prometheus format
+- [florian-forestier/dedibox-backup-monitoring](https://github.com/florian-forestier/dedibox-backup-monitoring) - A simple tool who pulls data from Online.net API and parse them to a Prometheus format
 - [looplab/fsm](https://github.com/looplab/fsm) - Finite State Machine for Go
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
@@ -4080,7 +4080,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [nirae/paris_passport_checker](https://github.com/nirae/paris_passport_checker) - Passport appointments checker for Paris
 - [syssi/xiaomi_airpurifier](https://github.com/syssi/xiaomi_airpurifier) - Xiaomi Mi Air Purifier and Xiaomi Mi Air Humidifier integration for Home Assistant
 - [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
@@ -5115,7 +5115,7 @@
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [wireapp/coax](https://github.com/wireapp/coax) - A (barely working) native Wire client for Unix
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
-- [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)? A slightly more visual way to interact with the docker daemon. Supdock is a wrapper for the docker command meaning you can still use all of the other docker commands without issue
+- [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)? A slightly more visual way to interact with the docker daemon. Supdock is a wrapper for the docker binary meaning you can still use all of the other docker commands without issues
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [rustodon/rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
@@ -5789,6 +5789,7 @@
 
 ## TypeScript 
 
+- [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extention for Ollama
 - [Pondorasti/emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!

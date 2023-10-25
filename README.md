@@ -601,7 +601,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [apiaryio/drafter](https://github.com/apiaryio/drafter) - API Blueprint Parser (C++)
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
-- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
+- [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [cetic/unikernels](https://github.com/cetic/unikernels) - Unikernel and immutable infrastructures
 - [AndreaOrru/LaiNES](https://github.com/AndreaOrru/LaiNES) - Cycle-accurate NES emulator in ~1000 lines of code
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -1112,6 +1112,7 @@
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -3255,7 +3256,7 @@
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
-- [infinisil/nixus](https://github.com/infinisil/nixus) - 
+- [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [jeaye/nix-files](https://github.com/jeaye/nix-files) - NixOS for my VPS
@@ -3795,7 +3796,7 @@
 - [pgrimaud/git-stars](https://github.com/pgrimaud/git-stars) - Discover your ranking on GitHub
 - [westonruter/syntax-highlighting-code-block](https://github.com/westonruter/syntax-highlighting-code-block) - Extending the WordPress Code block with syntax highlighting rendered on the server, thus having faster frontend performance and being AMP-compatible.
 - [spatie/fork](https://github.com/spatie/fork) - A lightweight solution for running code concurrently in PHP
-- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - 🚀 A Next Generation Private Torrent Tracker (Community Edition)
+- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
 - [Magicalex/rtorrent-cleaner](https://github.com/Magicalex/rtorrent-cleaner) - 🧹 rtorrent-cleaner is a tool to clean up unnecessary files in rtorrent
 - [rhubarbgroup/redis-cache](https://github.com/rhubarbgroup/redis-cache) - A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Relay, replication, sentinels, clustering and WP-CLI.
 - [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
@@ -5879,7 +5880,6 @@
 - [quantumsheep/esgi-2022-dod-tp](https://github.com/quantumsheep/esgi-2022-dod-tp) - ESGI 2022 DOD TP
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.

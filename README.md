@@ -744,7 +744,6 @@
 - [twitter/vireo](https://github.com/twitter/vireo) - Vireo is a lightweight and versatile video processing library written in C++11
 - [PIVX-Project/PIVX](https://github.com/PIVX-Project/PIVX) - Protected Instant Verified Transactions - Core wallet.
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [OtterBrowser/otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
 - [gort818/qtwebflix](https://github.com/gort818/qtwebflix) - A qt webengine program  for netflix
@@ -1026,6 +1025,9 @@
 
 ## Go 
 
+- [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively
+- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
+- [XSAM/otelsql](https://github.com/XSAM/otelsql) - OpenTelemetry instrumentation for database/sql
 - [exercism/go](https://github.com/exercism/go) - Exercism exercises in Go.
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [qonto/prometheus-rds-exporter](https://github.com/qonto/prometheus-rds-exporter) - Prometheus exporter for AWS RDS
@@ -1197,7 +1199,7 @@
 - [anatol/smart.go](https://github.com/anatol/smart.go) - Pure-Go library to access drive's S.M.A.R.T. information
 - [uid4oe/grpc-web-demo](https://github.com/uid4oe/grpc-web-demo) - Dockerized Go microservices and their envoy proxies for a flow which showcases  gRPC for Web Clients. Check the medium story!!!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for long and short text alike
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for short text and mixed-language text
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -1514,7 +1516,7 @@
 - [StarpTech/go-web](https://github.com/StarpTech/go-web) - Modern Web Application with Golang
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
-- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Checkout the new `protovalidate` project
+- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate
 - [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Y
@@ -2012,7 +2014,7 @@
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
 - [nesk/covid-19-certificate](https://github.com/nesk/covid-19-certificate) - A certificate generator for France quarantine due to COVID-19
 - [LAB-MI/deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19) - Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [skullface/girlgroupsdotnet](https://github.com/skullface/girlgroupsdotnet) - 📲 Mobile wallpapers of 🚺K-pop idols.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -2057,7 +2059,6 @@
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [railstack/go-on-rails](https://github.com/railstack/go-on-rails) - :bullettrain_side: Use Rails to Develop or Generate a Golang Application.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-- [socketio/chat-example](https://github.com/socketio/chat-example) - Basic chat example with Socket.IO
 - [ajn123/CV](https://github.com/ajn123/CV) - My resume in Latex
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [workshopper/learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
@@ -2396,7 +2397,7 @@
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 59 stars 7 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 57 stars 8 forks.
 - [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
@@ -2760,6 +2761,7 @@
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
+- [socketio/chat-example](https://github.com/socketio/chat-example) - Basic chat example with Socket.IO
 - [dcodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Optimized bcrypt in plain JavaScript with zero dependencies.
 - [IBM-Cloud/vscode-log-output-colorizer](https://github.com/IBM-Cloud/vscode-log-output-colorizer) - Language extension for VSCode that adds syntax colorization for both the output/debug/extensions panel and *.log files.
 - [hasit/vscode-gi](https://github.com/hasit/vscode-gi) - Visual Studio Code extension for generating .gitignore files easily.
@@ -3187,7 +3189,7 @@
 
 ## MDX 
 
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation) - https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
@@ -3858,7 +3860,7 @@
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 78 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 79 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [fideloper/TrustedProxy](https://github.com/fideloper/TrustedProxy) - Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.
 - [afrazahmmad/clear-all-cached-data](https://github.com/afrazahmmad/clear-all-cached-data) - Laravel 5 Package to clear all cached data in single command. e.g. cache, views, config and routes.
 - [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
@@ -4631,6 +4633,7 @@
 
 ## R 
 
+- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
 - [marcusvolz/strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data
 - [TheEconomist/2022-france-election-model](https://github.com/TheEconomist/2022-france-election-model) - 
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
@@ -4890,7 +4893,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
@@ -5136,6 +5139,7 @@
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [system76/firmware-update](https://github.com/system76/firmware-update) - System76 Firmware Update Utility
 - [BrainBlasted/Trumpet](https://github.com/BrainBlasted/Trumpet) - Moved to https:///gitlab.gnome.org
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [debugger22/github-audio](https://github.com/debugger22/github-audio) - Listen to music generated by events happening across GitHub :octocat: 🎷
@@ -5191,7 +5195,7 @@
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [LedgerHQ/OUTDATED_ledger-wallet-android](https://github.com/LedgerHQ/OUTDATED_ledger-wallet-android) - OUTDATED – for Ledger Live mobile, the correct repository is here =&gt;
 - [ACINQ/eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network.
-- [wireapp/wire-android](https://github.com/wireapp/wire-android) - :phone: Wire for Android
+- [wireapp/wire-android_legacy](https://github.com/wireapp/wire-android_legacy) - Deprecated! - :phone: Wire for Android
 
 ## Shell 
 
@@ -5626,6 +5630,8 @@
 
 ## Swift 
 
+- [lukepistrol/TimeMachineStatus](https://github.com/lukepistrol/TimeMachineStatus) - TimeMachineStatus is a little menu bar application for macOS which aims to show more useful information than the system default.
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [aheze/Setting](https://github.com/aheze/Setting) - Compose beautiful preference panels.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
@@ -5796,6 +5802,12 @@
 
 ## TypeScript 
 
+- [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous & ephemeral Docker image registry
+- [nisargjhaveri/vscode-ios-debug](https://github.com/nisargjhaveri/vscode-ios-debug) - iOS debugging in Visual Studio Code
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
+- [Erisa/sdxl-worker](https://github.com/Erisa/sdxl-worker) - Stable Diffusion XL Workers AI demo
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
+- [roblourens/chat-agent-dalle](https://github.com/roblourens/chat-agent-dalle) - 
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [sportstimes/f1](https://github.com/sportstimes/f1) - Second edition of F1 Calendar  🏎📅
@@ -5976,7 +5988,7 @@
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [microsoft/typed-rest-client](https://github.com/microsoft/typed-rest-client) - Node Rest and Http Clients with typings for use with TypeScript
-- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
@@ -6243,7 +6255,7 @@
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.

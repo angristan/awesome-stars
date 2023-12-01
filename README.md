@@ -613,7 +613,7 @@
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-- [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
+- [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [AsahiLinux/macvdmtool](https://github.com/AsahiLinux/macvdmtool) - Apple Silicon to Apple Silicon VDM utility
 - [jesec/libtorrent](https://github.com/jesec/libtorrent) - 
 - [kasbert/OS-X-SAT-SMART-Driver](https://github.com/kasbert/OS-X-SAT-SMART-Driver) - Max OS X kernel driver for providing access to external drive SMART data
@@ -674,7 +674,7 @@
 - [Exiv2/exiv2](https://github.com/Exiv2/exiv2) - Image metadata library and tools
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [wingtk/gvsbuild](https://github.com/wingtk/gvsbuild) - GTK stack for Windows
 - [AaronKelley/DellFanCmd](https://github.com/AaronKelley/DellFanCmd) - Facilitates taking control of the fans in many Dell laptops.
 - [lizardfs/lizardfs](https://github.com/lizardfs/lizardfs) - LizardFS is an Open Source Distributed File System licensed under GPLv3.
@@ -962,7 +962,7 @@
 - [NixOS/docker](https://github.com/NixOS/docker) - DEPRECATED! Dockerfiles to package Nix in a minimal docker container
 - [Xe/furry-happiness](https://github.com/Xe/furry-happiness) - A proof of concept dockerfile that uses user mode linux
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 - [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven
 - [caesarnine/data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [ricardbejarano/nginx](https://github.com/ricardbejarano/nginx) - 🦅 Built-from-source container image of NGINX
@@ -1025,6 +1025,8 @@
 
 ## Go 
 
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
+- [bracesdev/errtrace](https://github.com/bracesdev/errtrace) - An alternative to stack traces for your Go errors
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
@@ -3210,7 +3212,6 @@
 - [Airblader/yolo](https://github.com/Airblader/yolo) - Kill a random process
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [scaleway/kernel-tools](https://github.com/scaleway/kernel-tools) - :penguin: Kernels on Scaleway
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [bagder/libbrotli](https://github.com/bagder/libbrotli) - meta project to build libraries from the brotli source code
 - [aeris/onionbox](https://github.com/aeris/onionbox) - Tor proxy hardware box based on Olimex A20 Lime
 
@@ -3716,6 +3717,7 @@
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 - [cloudflarearchive/challenge-bypass-specification](https://github.com/cloudflarearchive/challenge-bypass-specification) - WARNING: Deprecated! See Privacy Pass
 - [iridium-browser/tracker](https://github.com/iridium-browser/tracker) - Iridium Browser tracker and wiki.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [cloudflare/sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
 - [theintercept/sidtoday](https://github.com/theintercept/sidtoday) - Snowden Archive: The SIDtoday Files
@@ -3809,7 +3811,7 @@
 - [centreon/centreon-archived](https://github.com/centreon/centreon-archived) - Centreon is a network, system and application monitoring tool. Centreon is the only AIOps Platform Providing Holistic Visibility to Complex IT Workflows from Cloud to Edge.
 - [dzuelke/wordpress-12factor](https://github.com/dzuelke/wordpress-12factor) - WordPress, the Twelve-Factor way: fully managed using Composer and configured using environment variables.
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [ip2location/ip2location-piwik](https://github.com/ip2location/ip2location-piwik) - Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik) 3.x. It enables the user to find the country, region, city, coordinates, zip code, time zone, ISP, domain
+- [ip2location/ip2location-piwik](https://github.com/ip2location/ip2location-piwik) - IP2Location geolocation service to lookup a visitor's location in Matomo (Piwik) 4.x, 5.x. This service allows you to determine the country, region, city, coordinates, zip code, time zone, ISP, domain
 - [aholkner/matomo-cloudflare-location-provider](https://github.com/aholkner/matomo-cloudflare-location-provider) - Provide Geolocation information to Matomo (Piwik) from Cloudflare request header
 - [Open-Web-Analytics/Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics) - Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or ap
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent's missing "array" driver.
@@ -5802,7 +5804,7 @@
 
 ## TypeScript 
 
-- [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - 
+- [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A Docker registry backed by Workers and R2.
 - [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous & ephemeral Docker image registry
 - [nisargjhaveri/vscode-ios-debug](https://github.com/nisargjhaveri/vscode-ios-debug) - iOS debugging in Visual Studio Code
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly

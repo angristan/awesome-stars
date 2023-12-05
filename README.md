@@ -173,6 +173,7 @@
 
 ## C 
 
+- [open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 - [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
@@ -1025,6 +1026,8 @@
 
 ## Go 
 
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
+- [gofiber/contrib](https://github.com/gofiber/contrib) - 🧬 Repository for third party middlewares with dependencies
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [gorilla/handlers](https://github.com/gorilla/handlers) - Package gorilla/handlers is a collection of useful middleware for Go HTTP services & web applications 🛃
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -3575,7 +3578,7 @@
 - [DiscoverBSD/awesome-bsd](https://github.com/DiscoverBSD/awesome-bsd) - A collection of awesome BSD related stuff
 - [freebsd/freebsd-ports-kde](https://github.com/freebsd/freebsd-ports-kde) - FreeBSD KDE development repo
 - [freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
-- [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+- [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
@@ -3873,7 +3876,7 @@
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [thedevsaddam/laravel-schema](https://github.com/thedevsaddam/laravel-schema) - Display the connected database information from Terminal.
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [furey/tinx](https://github.com/furey/tinx) - ⛔️ Laravel Tinx is archived and no longer maintained.
@@ -4081,6 +4084,7 @@
 
 ## Python 
 
+- [wimglenn/advent-of-code-data](https://github.com/wimglenn/advent-of-code-data) - Get your Advent of Code data with a single import statement
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
@@ -4927,7 +4931,7 @@
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
 - [durch/rust-s3](https://github.com/durch/rust-s3) - Rust library for interfacing with S3 API compatible services
-- [meli/meli](https://github.com/meli/meli) - 🐝 experimental terminal mail client, mirror of https://git.meli.delivery/meli/meli.git https://crates.io/crates/meli
+- [meli/meli](https://github.com/meli/meli) - 🐝 terminal mail client, mirror of https://git.meliemail.org/meli/meli.git https://crates.io/crates/meli
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [quantumsheep/godbox](https://github.com/quantumsheep/godbox) - Secure sandboxing system for untrusted code execution

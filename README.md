@@ -2404,7 +2404,7 @@
 - [etalab/sorry.data.gouv.fr](https://github.com/etalab/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 57 stars 8 forks.
-- [RealPeha/This-Repo-Has-1757-Stars](https://github.com/RealPeha/This-Repo-Has-1757-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -5972,7 +5972,7 @@
 - [South-Paw/action-netlify-deploy](https://github.com/South-Paw/action-netlify-deploy) - 🙌 Netlify deployments via GitHub actions
 - [lexanth/python-ast](https://github.com/lexanth/python-ast) - Python (3) Parser for JavaScript/TypeScript (based on antlr4ts)
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performan
 - [petli-full/json-to-yaml-and-more-vscode](https://github.com/petli-full/json-to-yaml-and-more-vscode) - convert the types: json, yaml, xml, csv, hjson, json5, ini, toml, and hocon.
 - [NiklasPor/prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) - Fixes prettier formatting for go templates 🐹
 - [JohnWeisz/TypedJSON](https://github.com/JohnWeisz/TypedJSON) - Typed JSON parsing and serializing for TypeScript that preserves type information.
@@ -6044,7 +6044,7 @@
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
-- [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
+- [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [pancakeswap/pancake-swap-interface-v1](https://github.com/pancakeswap/pancake-swap-interface-v1) - :pancakes: Pancake trading interface V1
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo

@@ -1026,6 +1026,8 @@
 
 ## Go 
 
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
+- [gabe565/ascii-movie](https://github.com/gabe565/ascii-movie) - 🌌 Star Wars SSH + Telnet server written in Go
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
@@ -2281,6 +2283,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.

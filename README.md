@@ -174,6 +174,7 @@
 
 ## C 
 
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [FrameOS/frameos](https://github.com/FrameOS/frameos) - Operating system for single function smart frames
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
@@ -598,6 +599,7 @@
 
 ## C++ 
 
+- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [improv-wifi/sdk-cpp](https://github.com/improv-wifi/sdk-cpp) - 
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
@@ -4052,7 +4054,7 @@
 - [ericmann/Redis-Object-Cache](https://github.com/ericmann/Redis-Object-Cache) - A WordPress object cache that uses Redis for storage.
 - [dreamvids/api](https://github.com/dreamvids/api) - DreamVids' API Server. Written using PHP7.
 - [roots/wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) - WordPress plugin to implement secure bcrypt hashed passwords
-- [kamalkhan/kk-star-ratings](https://github.com/kamalkhan/kk-star-ratings) - kk Star Ratings wordpress plugin
+- [surveywp/kk-star-ratings](https://github.com/surveywp/kk-star-ratings) - kk Star Ratings wordpress plugin
 - [nextcloud/nextcloud.com](https://github.com/nextcloud/nextcloud.com) - 🌏 Our website
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt

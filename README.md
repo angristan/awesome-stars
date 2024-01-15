@@ -602,6 +602,7 @@
 
 ## C++ 
 
+- [jaromeyer/mipurifier-esphome](https://github.com/jaromeyer/mipurifier-esphome) - ESPHome for the Xiaomi Mi Air Purifier 3H (and similar devices using the same protocol)
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [improv-wifi/sdk-cpp](https://github.com/improv-wifi/sdk-cpp) - 
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -1995,7 +1996,7 @@
 - [hectorm/wireguard-setup](https://github.com/hectorm/wireguard-setup) - WireGuard and Unbound setup with Packer and Terraform.
 - [actions/heroku](https://github.com/actions/heroku) - GitHub Action for interacting with Heroku
 - [cloudposse/terraform-aws-elastic-beanstalk-environment](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment) - Terraform module to provision an AWS Elastic Beanstalk Environment
-- [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
+- [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
 - [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
 - [terraform-aws-modules/terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Terraform module to create AWS EC2 instance(s) resources 🇺🇦
 - [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module to create AWS RDS resources 🇺🇦
@@ -2817,6 +2818,7 @@
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [camwiegert/in-view](https://github.com/camwiegert/in-view) - Get notified when a DOM element enters or exits the viewport. :eyes:
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
@@ -3219,7 +3221,7 @@
 - [ProtonMail/proton-mail-android](https://github.com/ProtonMail/proton-mail-android) - Proton Mail Android app
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
-- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
+- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, diagnostics and more for any editor/IDE using the Language Server Protocol
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [JetBrains/swot](https://github.com/JetBrains/swot) - Requests will not be processed on Oct 12 - Oct 22, 2023. // Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting acade
 - [sschueller/peertube-android](https://github.com/sschueller/peertube-android) - Thorium, a PeerTube Android Client
@@ -3267,6 +3269,7 @@
 
 ## Makefile 
 
+- [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [moul/http2curl](https://github.com/moul/http2curl) - :triangular_ruler: Convert Golang's http.Request to CURL command line
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -3416,6 +3419,7 @@
 
 ## Others 
 
+- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [hassio-addons/workflows](https://github.com/hassio-addons/workflows) - 🤖 GitHub Action Workflows for the  Home Assistant Community Add-ons
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [ept/hermitage](https://github.com/ept/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels.
@@ -5301,6 +5305,7 @@
 
 ## Shell 
 
+- [ubune/openwrt-livebox](https://github.com/ubune/openwrt-livebox) - Tuto: remplacement Livebox par Routeur Openwrt.
 - [hassio-addons/bashio](https://github.com/hassio-addons/bashio) - Bashio - Home Assistant Community Add-ons
 - [adamoutler/HassOSConfigurator](https://github.com/adamoutler/HassOSConfigurator) - A set of Add-Ons to configure HassOS For various platforms and development purposes.
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
@@ -5921,7 +5926,7 @@
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - 
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Yet another unofficial Obsidian plugin allowing users to synchronize notes between local device and the cloud service. Supports S3, Dropbox, OneDrive, webdav.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [cheshire137/scrobble-saver](https://github.com/cheshire137/scrobble-saver) - Last.fm top tracks =&gt; Spotify likes
@@ -6044,7 +6049,7 @@
 - [Uniswap/web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
@@ -6370,7 +6375,6 @@
 - [julia-vscode/julia-vscode](https://github.com/julia-vscode/julia-vscode) - Julia extension for Visual Studio Code
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
@@ -6402,7 +6406,7 @@
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Fediverse client for Windows, Mac, and Linux
+- [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - Single-column Fediverse client for desktop
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).

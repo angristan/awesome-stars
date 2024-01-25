@@ -564,6 +564,7 @@
 
 ## C# # 
 
+- [BouyguesTelecom/CheckVoisinageInteropFibre](https://github.com/BouyguesTelecom/CheckVoisinageInteropFibre) - 
 - [cjmanca/plex-credits-detect](https://github.com/cjmanca/plex-credits-detect) - Augments plex's built in intro detection, additionally detecting credits.
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
 - [jellyfin/jellyfin-plugin-playbackreporting](https://github.com/jellyfin/jellyfin-plugin-playbackreporting) - Playback Statistics Plugin for Jellyfin
@@ -603,6 +604,8 @@
 
 ## C++ 
 
+- [rolandriegel/nload](https://github.com/rolandriegel/nload) - Real-time network traffic monitor
+- [oskarirauta/speedtestcpp](https://github.com/oskarirauta/speedtestcpp) - Yet another for of unofficial speedtest.net client cli interface
 - [jaromeyer/mipurifier-esphome](https://github.com/jaromeyer/mipurifier-esphome) - ESPHome for the Xiaomi Mi Air Purifier 3H (and similar devices using the same protocol)
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [improv-wifi/sdk-cpp](https://github.com/improv-wifi/sdk-cpp) - 
@@ -778,7 +781,7 @@
 - [digibyte/digibyte](https://github.com/digibyte/digibyte) - DigiByte Core 7.17.2 - CURRENT (1-30-2020) - 8.19.0 Development
 - [zcash/zcash](https://github.com/zcash/zcash) - Zcash - Internet Money
 - [vertcoin-project/vertcoin-core](https://github.com/vertcoin-project/vertcoin-core) - A digital currency with mining decentralisation and ASIC resistance as a key focus
-- [reddcoin-project/reddcoin](https://github.com/reddcoin-project/reddcoin) - Reddcoin: the digital social currency
+- [reddcoin-project/reddcoin-3.10](https://github.com/reddcoin-project/reddcoin-3.10) - Reddcoin: the digital social currency
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [miguelfreitas/twister-core](https://github.com/miguelfreitas/twister-core) - twister core / daemon
 - [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
@@ -1103,7 +1106,7 @@
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [minio/dperf](https://github.com/minio/dperf) - Drive performance measurement tool
@@ -1199,7 +1202,7 @@
 - [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) - Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3
-- [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework (v5 preview available)
+- [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework (v5 release candidate available)
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [rakyll/goproxy-s3](https://github.com/rakyll/goproxy-s3) - Go proxy that serves from S3
@@ -1210,7 +1213,7 @@
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) - Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
-- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - Importable package that parses version info from debug.ReadBuildInfo().
+- [earthboundkid/versioninfo](https://github.com/earthboundkid/versioninfo) - Importable package that parses version info from debug.ReadBuildInfo().
 - [hedhyw/gherkingen](https://github.com/hedhyw/gherkingen) - Behaviour Driven Development tests generator for Golang
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
@@ -1625,7 +1628,7 @@
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
+- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -2015,6 +2018,7 @@
 
 ## HTML 
 
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [gl-inet/docs4.x](https://github.com/gl-inet/docs4.x) - 
 - [ApolloAutomation/AIR-1](https://github.com/ApolloAutomation/AIR-1) - 
 - [ApolloAutomation/MSR-1](https://github.com/ApolloAutomation/MSR-1) - 
@@ -2326,6 +2330,7 @@
 
 ## JavaScript 
 
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [marolve/piscines_paris](https://github.com/marolve/piscines_paris) - 
 - [platformio/platformio-vscode-ide](https://github.com/platformio/platformio-vscode-ide) - PlatformIO IDE for VSCode: The next generation integrated development environment for IoT
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -3266,6 +3271,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation) - https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [nzws/nzws.me](https://github.com/nzws/nzws.me) - My website built with Next.js 13, deployed on ▲Vercel
@@ -3423,6 +3429,7 @@
 
 ## Others 
 
+- [gl-inet/gl-feeds](https://github.com/gl-inet/gl-feeds) - This repo is maintained by GL.iNet team. It includes packages which are missing in openwrt feeds or version is too old.
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [hassio-addons/workflows](https://github.com/hassio-addons/workflows) - 🤖 GitHub Action Workflows for the  Home Assistant Community Add-ons
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
@@ -4190,7 +4197,7 @@
 - [wimglenn/advent-of-code-data](https://github.com/wimglenn/advent-of-code-data) - Get your Advent of Code data with a single import statement
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
@@ -4341,6 +4348,7 @@
 - [pibooth/pibooth](https://github.com/pibooth/pibooth) - The pibooth project provides a Photo Booth application out-of-the-box for Raspberry Pi and opencv compatible devices
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [thaidn/bluezone](https://github.com/thaidn/bluezone) - 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [wrjlewis/notion-search-alfred-workflow](https://github.com/wrjlewis/notion-search-alfred-workflow) - An Alfred workflow to search Notion with instant results
@@ -5309,6 +5317,9 @@
 
 ## Shell 
 
+- [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image.
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
+- [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
 - [ubune/openwrt-livebox](https://github.com/ubune/openwrt-livebox) - Tuto: remplacement Livebox par Routeur Openwrt.
 - [hassio-addons/bashio](https://github.com/hassio-addons/bashio) - Bashio - Home Assistant Community Add-ons
 - [adamoutler/HassOSConfigurator](https://github.com/adamoutler/HassOSConfigurator) - A set of Add-Ons to configure HassOS For various platforms and development purposes.
@@ -5395,7 +5406,6 @@
 - [rikumi/iconsur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator
 - [tianon/docker-brew-ubuntu-core](https://github.com/tianon/docker-brew-ubuntu-core) - DEPRECATED; see https://github.com/tianon/docker-brew-ubuntu-core/pull/248
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [simnalamburt/cgitc](https://github.com/simnalamburt/cgitc) - :shipit: Close Git Combat
 - [simnalamburt/shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
@@ -5998,7 +6008,7 @@
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - Gitmoji tool for git commit messages in VSCode
 - [lalalilo/gitmemoji](https://github.com/lalalilo/gitmemoji) - An app to learn gitmoji emojis
 - [grafana/strava-datasource](https://github.com/grafana/strava-datasource) - Strava datasource for Grafana dashboard
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
@@ -6081,7 +6091,6 @@
 - [pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - :pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [kyleawayan/vintage-influxdb](https://github.com/kyleawayan/vintage-influxdb) - Record your Spotify listening data on InfluxDB.
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media

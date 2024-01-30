@@ -11,7 +11,6 @@
 - [ActionScript](#actionscript)
 - [Adblock Filter List](#adblock-filter-list)
 - [AppleScript](#applescript)
-- [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
@@ -127,10 +126,6 @@
 
 - [jdx/tmux-spotify-info](https://github.com/jdx/tmux-spotify-info) - Shows current song playing on spotify in your tmux status line
 
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
-
 ## Assembly 
 
 - [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go
@@ -195,7 +190,6 @@
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
 - [GNOME/libxml2](https://github.com/GNOME/libxml2) - Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
 - [bealex/SwiftLintAppCode](https://github.com/bealex/SwiftLintAppCode) - Provides highlighting of the SwiftLint errors in the AppCode
@@ -618,6 +612,7 @@
 - [TheWaveWarden/odin2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [OpenVPN/openvpn3](https://github.com/OpenVPN/openvpn3) - OpenVPN 3 is a C++ class library that implements the functionality of an OpenVPN client, and is protocol-compatible with the OpenVPN 2.x branch.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1056,6 +1051,9 @@
 
 ## Go 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [prometheus/collectd_exporter](https://github.com/prometheus/collectd_exporter) - A server that accepts collectd stats via HTTP POST and exports them via HTTP for Prometheus consumption
+- [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter) - dnsmasq exporter for Prometheus
 - [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus
 - [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway
 - [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
@@ -1637,7 +1635,7 @@
 - [vultr/govultr](https://github.com/vultr/govultr) - Vultr Go API client
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [bojand/ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
@@ -2034,6 +2032,7 @@
 - [knadh/dont.build](https://github.com/knadh/dont.build) - A simple, opinionated decision system to help decide whether to build a software feature or not.
 - [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
 - [lanlanblue/ikea-stock-notifier](https://github.com/lanlanblue/ikea-stock-notifier) - A notifier that lets users subscribe to their favorite IKEA products which are unavailable. This notifier will crawl the stock status every hour and notify users immediately once the products are back
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
@@ -2482,7 +2481,6 @@
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
-- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
@@ -3563,6 +3561,7 @@
 - [reobin/spacecamp-iterm](https://github.com/reobin/spacecamp-iterm) - SpaceCamp vim theme for iTerm2
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [FaithfulTeam/Faithful](https://github.com/FaithfulTeam/Faithful) - Faithful x32
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [JohnSundell/IndieSupportWeeks](https://github.com/JohnSundell/IndieSupportWeeks) - A two-week effort to help support indie developers shipping apps on Apple's platforms who have been financially impacted by the COVID-19 pandemic.
 - [cloudflare/linux](https://github.com/cloudflare/linux) - Cloudflare Linux Kernel Patches
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
@@ -3908,7 +3907,7 @@
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [tillkruss/alfred-lorem-ipsum](https://github.com/tillkruss/alfred-lorem-ipsum) - An ultra-fast Lorem Ipsum workflow for Alfred 4
 - [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search
-- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
+- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 - [willfarrell/alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a string into multiple variations.
 - [willfarrell/alfred-caniuse-workflow](https://github.com/willfarrell/alfred-caniuse-workflow) - Alfred App Workflow for caniuse.com
 - [yannickglt/alfred-devdocs](https://github.com/yannickglt/alfred-devdocs) - Alfred workflow for devdocs.io
@@ -4168,6 +4167,7 @@
 
 ## Python 
 
+- [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [zigpy/zigpy-znp](https://github.com/zigpy/zigpy-znp) - TI CC2531, CC13x2, CC26x2 radio support for Zigpy and ZHA
 - [openwrt/asu](https://github.com/openwrt/asu) - An image on demand server for OpenWrt based distributions
 - [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) - 🚀  Frenck's GitHub Action for linting Home Assistant Add-ons.
@@ -5824,7 +5824,7 @@
 - [EthanLipnik/Blobmorphism](https://github.com/EthanLipnik/Blobmorphism) - Blobmorphism is a brand new design language I've created to break free of the material overload in iOS, built in SwiftUI. Everything feels smooth and fluid.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
-- [superpeteblaze/ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift
+- [aataraxiaa/ScalingCarousel](https://github.com/aataraxiaa/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift
 - [TelemetryDeck/SwiftClient](https://github.com/TelemetryDeck/SwiftClient) - Swift SDK for TelemetryDeck, a privacy-conscious analytics service for apps and websites.
 - [appcoda/SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - A search bar built entirely in SwiftUI
 - [Haneke/HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
@@ -5938,6 +5938,7 @@
 
 ## TypeScript 
 
+- [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [publicodes/publicodes](https://github.com/publicodes/publicodes) - Le langage pour les algorithmes d'intérêt public
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
@@ -6025,7 +6026,7 @@
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
+- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from ChatGPT right from your terminal
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [ParabolInc/parabol](https://github.com/ParabolInc/parabol) - Free online agile retrospective meeting tool
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
@@ -6175,6 +6176,7 @@
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [actions/setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [aminpaks/qbittorrent-web-ui](https://github.com/aminpaks/qbittorrent-web-ui) - A simple but efficient UI as a web app for qBittorrent
 - [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud Infinite Scale
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -6301,7 +6303,6 @@
 - [nestjs/jwt](https://github.com/nestjs/jwt) - JWT utilities module based on the jsonwebtoken package 🔓
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler) - 🎧 An open source web scrobbler for Last.fm
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [Xetera/issue-inspector](https://github.com/Xetera/issue-inspector) - 🔎 Preview and jump to the most upvoted comments in github issues (which are probably solutions)
 - [mathdroid/covid-19-api](https://github.com/mathdroid/covid-19-api) - COVID-19 global data (from JHU CSSE for now) as-a-service
 - [Annihil/revolut-emergency](https://github.com/Annihil/revolut-emergency) - 👨‍🚀 Unofficial Revolut PC app – Freeze cards, list transactions, get notifications, contact support

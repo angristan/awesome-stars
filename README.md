@@ -169,6 +169,8 @@
 
 ## C 
 
+- [Xinyuan-LilyGO/T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) - 
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [dresden-elektronik/gcfflasher](https://github.com/dresden-elektronik/gcfflasher) - GCFFlasher is the tool to program the firmware of dresden elektronik's Zigbee products.
 - [Irqbalance/irqbalance](https://github.com/Irqbalance/irqbalance) - The irqbalance source tree - The new official site for irqbalance
 - [collectd/collectd](https://github.com/collectd/collectd) - The system statistics collection daemon. Please send Pull Requests here!
@@ -411,7 +413,6 @@
 - [alisdair/jsmn-example](https://github.com/alisdair/jsmn-example) - Sample code for using Serge Zaitsev's awesome jsmn JSON parsing library
 - [mwarning/libsodium-example](https://github.com/mwarning/libsodium-example) - A simple example on how to use the libsodium crypto library
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
-- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [jwerle/b64.c](https://github.com/jwerle/b64.c) - Base64 encode/decode
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
@@ -524,7 +525,7 @@
 - [haiwen/seafile-server](https://github.com/haiwen/seafile-server) - Seafile Server Core
 - [solus-project/linux-steam-integration](https://github.com/solus-project/linux-steam-integration) - Helper for enabling better Steam integration on Linux
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [CipherShed/CipherShed](https://github.com/CipherShed/CipherShed) - Main CipherShed Development
 - [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
@@ -599,6 +600,7 @@
 
 ## C++ 
 
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [rolandriegel/nload](https://github.com/rolandriegel/nload) - Real-time network traffic monitor
 - [oskarirauta/speedtestcpp](https://github.com/oskarirauta/speedtestcpp) - Yet another for of unofficial speedtest.net client cli interface
 - [jaromeyer/mipurifier-esphome](https://github.com/jaromeyer/mipurifier-esphome) - ESPHome for the Xiaomi Mi Air Purifier 3H (and similar devices using the same protocol)
@@ -1353,7 +1355,7 @@
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud native unstructured data store
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [digitalocean/droplet-agent](https://github.com/digitalocean/droplet-agent) - Droplet Agent is the daemon that runs on customer droplets to enable some features such as web console access.
@@ -1403,7 +1405,7 @@
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [calyptia/fluent-bit-cli](https://github.com/calyptia/fluent-bit-cli) - Fluent Bit Client UI Tool
+- [chronosphereio/calyptia-fluent-bit-cli](https://github.com/chronosphereio/calyptia-fluent-bit-cli) - Fluent Bit Client UI Tool
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [shkh/lastfm-go](https://github.com/shkh/lastfm-go) - Golang wrapper for the Last.fm API 2.0
 - [ahmdrz/goinsta](https://github.com/ahmdrz/goinsta) - Unofficial Instagram API written in Golang
@@ -2331,6 +2333,7 @@
 
 ## JavaScript 
 
+- [fmartinou/teleinfo2mqtt](https://github.com/fmartinou/teleinfo2mqtt) - Publish teleinfo to mqtt topics
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [marolve/piscines_paris](https://github.com/marolve/piscines_paris) - 
 - [platformio/platformio-vscode-ide](https://github.com/platformio/platformio-vscode-ide) - PlatformIO IDE for VSCode: The next generation integrated development environment for IoT
@@ -2454,7 +2457,7 @@
 - [scaleway/serverless-scaleway-functions](https://github.com/scaleway/serverless-scaleway-functions) - Plugin for Serverless Framework to allow users to deploy their serverless applications on Scaleway Functions
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [amqp-node/amqplib](https://github.com/amqp-node/amqplib) - AMQP 0-9-1 library and client for Node.JS
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
@@ -2823,7 +2826,7 @@
 - [JunoLab/atom-julia-client](https://github.com/JunoLab/atom-julia-client) - Juno a good IDE?
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -2925,7 +2928,6 @@
 - [AtomLinter/linter-csslint](https://github.com/AtomLinter/linter-csslint) - Linter plugin for CSS, using csslint.
 - [atom-community/atom-script](https://github.com/atom-community/atom-script) - :runner: Run ( scripts | selections | source ) in Atom
 - [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon (UNMAINTAINED)
-- [halcyon-suite/halcyon](https://github.com/halcyon-suite/halcyon) - WE HAVE MOVED!!! - An webclient for Mastodon and Pleroma which looks like Twitter
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [ethibox/ethibox](https://github.com/ethibox/ethibox) - Open-source web apps hoster
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -3428,6 +3430,7 @@
 
 ## Others 
 
+- [hallard/WeMos-TIC](https://github.com/hallard/WeMos-TIC) - WeMos ESP8266/ESP32 Teleinfo (TIC) Shield
 - [gl-inet/gl-feeds](https://github.com/gl-inet/gl-feeds) - This repo is maintained by GL.iNet team. It includes packages which are missing in openwrt feeds or version is too old.
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [hassio-addons/workflows](https://github.com/hassio-addons/workflows) - 🤖 GitHub Action Workflows for the  Home Assistant Community Add-ons
@@ -3673,6 +3676,7 @@
 - [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker for Codewars
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [aeris/gdpr](https://github.com/aeris/gdpr) - GDPR letter template
+- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [MorteNoir1/virtualbox_e1000_0day](https://github.com/MorteNoir1/virtualbox_e1000_0day) - VirtualBox E1000 Guest-to-Host Escape
 - [woj-ciech/kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
@@ -4133,7 +4137,7 @@
 - [richardforth/apache2buddy](https://github.com/richardforth/apache2buddy) - apache2buddy
 - [KTamas/pflogsumm](https://github.com/KTamas/pflogsumm) - NOT MAINTAINED
 - [scanterog/munin-plugin-docker](https://github.com/scanterog/munin-plugin-docker) - Munin plugin for monitoring docker container memory and CPU usage
-- [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for L
+- [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 - [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors) - lm-sensors repository
 - [trizen/trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
@@ -4167,6 +4171,11 @@
 
 ## Python 
 
+- [petretiandrea/home-assistant-tapo-p100](https://github.com/petretiandrea/home-assistant-tapo-p100) - A custom integration to control Tapo devices from home assistant.
+- [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
+- [zigpy/zigpy](https://github.com/zigpy/zigpy) - Library implementing a ZigBee stack
+- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for the search feature
+- [yukulehe/gazpar2mqtt](https://github.com/yukulehe/gazpar2mqtt) - Python script to fetch GRDF's website data and publish data to a mqtt broker.
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [zigpy/zigpy-znp](https://github.com/zigpy/zigpy-znp) - TI CC2531, CC13x2, CC26x2 radio support for Zigpy and ZHA
 - [openwrt/asu](https://github.com/openwrt/asu) - An image on demand server for OpenWrt based distributions
@@ -4202,9 +4211,9 @@
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
-- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
@@ -4290,7 +4299,7 @@
 - [k-acper/lastfm](https://github.com/k-acper/lastfm) - 
 - [pkkid/python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API.
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File/Folder Downloader (curl/wget fails due to the security notice).
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
 - [rmartin16/qbittorrent-api](https://github.com/rmartin16/qbittorrent-api) - Python client implementation for qBittorrent's Web API
 - [danhab99/ledcapture](https://github.com/danhab99/ledcapture) - Flashes keyboard leds on incoming/outgoing network packets
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
@@ -4952,7 +4961,6 @@
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [orzFly/VisualQR](https://github.com/orzFly/VisualQR) - a quick, dirty and simple clone of http://www.visualead.com/
 - [taylorthurlow/panda-motd](https://github.com/taylorthurlow/panda-motd) - a utility for generating a more useful MOTD
-- [defunkt/unicorn](https://github.com/defunkt/unicorn) - Unofficial Unicorn Mirror.
 - [chef/omnibus](https://github.com/chef/omnibus) - Easily create full-stack installers for your project across a variety of platforms.
 - [jhass/nodeinfo](https://github.com/jhass/nodeinfo) - NodeInfo defines a standardized way to expose metadata about an installation of a distributed social network
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
@@ -5938,6 +5946,8 @@
 
 ## TypeScript 
 
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman
+- [SocialGouv/recherche-entreprises](https://github.com/SocialGouv/recherche-entreprises) - API de recherche d'entreprises Françaises
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [publicodes/publicodes](https://github.com/publicodes/publicodes) - Le langage pour les algorithmes d'intérêt public
@@ -5990,7 +6000,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 An open-source, pretty, simple and fast ⚡ meilisearch admin dashboard UI for managing your meilisearch instances 🕹
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
@@ -6068,7 +6078,7 @@
 - [Uniswap/web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.

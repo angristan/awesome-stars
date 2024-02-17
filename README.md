@@ -611,7 +611,7 @@
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [improv-wifi/sdk-cpp](https://github.com/improv-wifi/sdk-cpp) - 
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.0: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
 - [tomba/kmsxx](https://github.com/tomba/kmsxx) - KMS++: C++17 library, utilities and python bindings for Linux kernel mode setting
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -2718,7 +2718,7 @@
 - [hapijs/good-console](https://github.com/hapijs/good-console) - Console reporting for Good process monitor
 - [hapijs/good-squeeze](https://github.com/hapijs/good-squeeze) - Simple transform stream for event filtering with good.
 - [hapijs/good](https://github.com/hapijs/good) - hapi process monitoring
-- [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
+- [tape-testing/tape](https://github.com/tape-testing/tape) - tap-producing test harness for node and browsers
 - [Salesflare/hapi-routes](https://github.com/Salesflare/hapi-routes) - Hapi plugin for registering routes
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [hapijs/boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
@@ -5786,6 +5786,7 @@
 
 ## Swift 
 
+- [finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale) - Metal-powered video upscaling
 - [anyproto/anytype-swift](https://github.com/anyproto/anytype-swift) - Official Anytype client for iOS
 - [huggingface/swift-chat](https://github.com/huggingface/swift-chat) - Mac app to demonstrate swift-transformers
 - [lukepistrol/TimeMachineStatus](https://github.com/lukepistrol/TimeMachineStatus) - TimeMachineStatus is a little menu bar application for macOS which aims to show more useful information than the system default.

@@ -215,7 +215,7 @@
 - [cyrusimap/cyrus-imapd](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server
 - [ioi/isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
 - [cjdelisle/packetcrypt_rs](https://github.com/cjdelisle/packetcrypt_rs) - PacketCrypt in Rust
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -223,7 +223,7 @@
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [dekuNukem/bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder) - Renew and Refill Bob Cassettes for 98% Cost Saving!
 - [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
@@ -753,7 +753,6 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [electracoin-ECA/electra-archive](https://github.com/electracoin-ECA/electra-archive) - This repository is no longer in use.
 - [solus-project/budgie-rd](https://github.com/solus-project/budgie-rd) - R&D repository for Budgie 11 bits
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [pepeteam/pepecoin](https://github.com/pepeteam/pepecoin) - Memetic / PepeCoin - MEME / PEPE - Cryptocurrency - 3.1.1.0
 - [zetacoin/zetacoin](https://github.com/zetacoin/zetacoin) - Official Zetacoin repository
@@ -785,7 +784,6 @@
 - [reddcoin-project/reddcoin-3.10](https://github.com/reddcoin-project/reddcoin-3.10) - Reddcoin: the digital social currency
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [miguelfreitas/twister-core](https://github.com/miguelfreitas/twister-core) - twister core / daemon
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [zenfone-legacy/android_device_asus_T00F](https://github.com/zenfone-legacy/android_device_asus_T00F) - 
@@ -2029,7 +2027,6 @@
 - [ApolloAutomation/MSR-1](https://github.com/ApolloAutomation/MSR-1) - 
 - [bugbytes-io/htmx-go-demo](https://github.com/bugbytes-io/htmx-go-demo) - HTMX demo with a Go backend
 - [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
-- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
@@ -2354,6 +2351,7 @@
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
 - [jan-carreras/books](https://github.com/jan-carreras/books) - 
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
+- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [alex-oleshkevich/vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons) - Fully customizable free SVG icons made as Vue components.
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
@@ -3384,6 +3382,7 @@
 
 - [imandra-ai/ocaml-opentelemetry](https://github.com/imandra-ai/ocaml-opentelemetry) - Instrumentation for https://opentelemetry.io
 - [MLanguage/mlang](https://github.com/MLanguage/mlang) - Compiler for the M language, used to compute the income tax of French taxpayers
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
@@ -3802,7 +3801,6 @@
 - [dereckson/documentation](https://github.com/dereckson/documentation) - Mastodon documentation
 - [tootcafe/blocked-instances](https://github.com/tootcafe/blocked-instances) - List of Mastodon instances blocked by toot.cafe (MOVED)
 - [pirate/sites-using-cloudflare](https://github.com/pirate/sites-using-cloudflare) - :broken_heart: Archived list of domains using Cloudflare DNS at the time of the CloudBleed announcement.
-- [citra-emu/citra-bleeding-edge](https://github.com/citra-emu/citra-bleeding-edge) - Citra bleeding edge releases
 - [cujanovic/nginx-dynamic-tls-records-patch](https://github.com/cujanovic/nginx-dynamic-tls-records-patch) - Add TLS Dynamic Record Resizing to Nginx
 - [wireapp/wire](https://github.com/wireapp/wire) - :wavy_dash: Overview of the open source code for Wire
 - [PokeAlert/PokeAlert](https://github.com/PokeAlert/PokeAlert) - 
@@ -4781,7 +4779,6 @@
 
 ## Reason 
 
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
 ## Roff 

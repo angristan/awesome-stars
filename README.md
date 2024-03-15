@@ -16,6 +16,7 @@
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
+- [BitBake](#bitbake)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
@@ -144,6 +145,7 @@
 ## Astro 
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [will-stone/plastic](https://github.com/will-stone/plastic) - ♻ A simple theme.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 
@@ -163,6 +165,10 @@
 - [WICG/ua-client-hints](https://github.com/WICG/ua-client-hints) - Wouldn't it be nice if `User-Agent` was a (set of) client hints?
 - [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 
+## BitBake 
+
+- [openbmc/openbmc](https://github.com/openbmc/openbmc) - OpenBMC Distribution
+
 ## Blade 
 
 - [laravel-frontend-presets/tall](https://github.com/laravel-frontend-presets/tall) - A TALL (Tailwind CSS, Alpine.js, Laravel and Livewire) Preset for Laravel
@@ -170,6 +176,7 @@
 
 ## C 
 
+- [fairecasoimeme/ZiPulses](https://github.com/fairecasoimeme/ZiPulses) - Pulses Zigbee sensor to capture Gazpar or water counter
 - [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
 - [Xinyuan-LilyGO/T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) - 
@@ -778,7 +785,7 @@
 - [vergecurrency/verge](https://github.com/vergecurrency/verge) - Official Verge Core Source Code Repository :muscle:
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [monacoinproject/monacoin](https://github.com/monacoinproject/monacoin) - 
-- [digibyte/digibyte](https://github.com/digibyte/digibyte) - DigiByte Core 7.17.2 - CURRENT (1-30-2020) - 8.19.0 Development
+- [digibyte/digibyte](https://github.com/digibyte/digibyte) - This account is now archived. All DGB development has moved to DigiByte-Core. https://github.com/DigiByte-Core/digibyte
 - [zcash/zcash](https://github.com/zcash/zcash) - Zcash - Internet Money
 - [vertcoin-project/vertcoin-core](https://github.com/vertcoin-project/vertcoin-core) - A digital currency with mining decentralisation and ASIC resistance as a key focus
 - [reddcoin-project/reddcoin-3.10](https://github.com/reddcoin-project/reddcoin-3.10) - Reddcoin: the digital social currency
@@ -1054,6 +1061,7 @@
 
 ## Go 
 
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) - Prometheus exporter for custom eBPF metrics
 - [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rule
@@ -2192,7 +2200,6 @@
 - [honest-technology/api.unverified.email](https://github.com/honest-technology/api.unverified.email) - A service to help with testing of sending the right emails
 - [Xetera/placewaifu](https://github.com/Xetera/placewaifu) - 🎀 An incredibly cute placeholder service
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [serokell/nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [radicle-dev/radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
 - [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
@@ -3253,7 +3260,6 @@
 ## Less 
 
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
-- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 
 ## Lua 
 
@@ -3355,6 +3361,7 @@
 - [NixOS/aarch64-build-box](https://github.com/NixOS/aarch64-build-box) - Config for the Community aarch64 NixOS box [maintainer=@grahamc]
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [primeos/nixos-slides](https://github.com/primeos/nixos-slides) - Slides for a Nix(OS) presentation
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [nh2/nixops-tutorial](https://github.com/nh2/nixops-tutorial) - Tutorial for practical deployments with NixOps
 - [justinwoo/format-nix](https://github.com/justinwoo/format-nix) - A simple formatter for Nix using tree-sitter-nix.
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
@@ -4244,7 +4251,6 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [koenrh/delete-tweets](https://github.com/koenrh/delete-tweets) - Delete tweets from your timeline.
-- [openbmc/openbmc](https://github.com/openbmc/openbmc) - OpenBMC Distribution
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [confluentinc/kafka-images](https://github.com/confluentinc/kafka-images) - Confluent Docker images for Apache Kafka
 - [ZeroIntensity/pointers.py](https://github.com/ZeroIntensity/pointers.py) - Bringing the hell of pointers to Python.
@@ -4567,7 +4573,7 @@
 - [gojhonny/libssh-scanner](https://github.com/gojhonny/libssh-scanner) - Script to identify hosts vulnerable to CVE-2018-10933
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
-- [ansible/galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
+- [ansible/galaxy](https://github.com/ansible/galaxy) - Legacy Galaxy still available as read-only on  https://old-galaxy.ansible.com - looking for the new galaxy -&gt; https://github.com/ansible/galaxy_ng
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [elastic/curator](https://github.com/elastic/curator) - Curator: Tending your Elasticsearch indices
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
@@ -4976,7 +4982,7 @@
 - [berkshelf/berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [eagletmt/switch_point](https://github.com/eagletmt/switch_point) - Switching database connection between readonly one and writable one
-- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [stephane-rbn/gistapp](https://github.com/stephane-rbn/gistapp) - A very simple fake GitHubGist app
 - [SUSE/Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (v2)
 - [gyazo/Gyazo-for-Linux](https://github.com/gyazo/Gyazo-for-Linux) - Gyazo for Linux

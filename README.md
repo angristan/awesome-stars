@@ -2322,7 +2322,7 @@
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
 - [dimtion/Shaarlier](https://github.com/dimtion/Shaarlier) - Simple Android app for sharing links on Shaarli.
 - [rootkiwi/an2linuxclient](https://github.com/rootkiwi/an2linuxclient) - Sync Android notifications encrypted to a Linux desktop
-- [google/wycheproof](https://github.com/google/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
+- [C2SP/wycheproof](https://github.com/C2SP/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
 - [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 - [duckduckgo/android-search-and-stories](https://github.com/duckduckgo/android-search-and-stories) - DuckDuckGo Search & Stories for Android
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
@@ -4243,7 +4243,7 @@
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [aliparlakci/bulk-downloader-for-reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads and archives content from reddit
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [onelogin/onelogin-python-aws-assume-role](https://github.com/onelogin/onelogin-python-aws-assume-role) - 
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
@@ -5027,6 +5027,8 @@
 
 ## Rust 
 
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - The MQTT ecosystem in rust

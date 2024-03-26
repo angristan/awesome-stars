@@ -2109,7 +2109,6 @@
 - [paquettg/php-html-parser](https://github.com/paquettg/php-html-parser) - An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.
 - [apilayer/geolocationapi](https://github.com/apilayer/geolocationapi) - IP Geolocation API is a free service for locating your visitors in real-time with detailed country information.
 - [la-rache/la-rache.com](https://github.com/la-rache/la-rache.com) - Site web
-- [do-not-theme/do-not-theme.github.io](https://github.com/do-not-theme/do-not-theme.github.io) - 
 - [briansteffens/briansteffens.github.io](https://github.com/briansteffens/briansteffens.github.io) - 
 - [nix-community/builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
 - [zimbatm/hostnames-and-usernames-to-reserve](https://github.com/zimbatm/hostnames-and-usernames-to-reserve) - Blacklist of hostnames and users all PaaS should use
@@ -2837,7 +2836,6 @@
 - [drone/drone-ui](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server
 - [jithurjacob/vscode-nbpreviewer](https://github.com/jithurjacob/vscode-nbpreviewer) - A VS Code extension for previewing Jupyter Notebook
 - [JunoLab/atom-julia-client](https://github.com/JunoLab/atom-julia-client) - Juno a good IDE?
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
@@ -3362,7 +3360,7 @@
 - [NixOS/aarch64-build-box](https://github.com/NixOS/aarch64-build-box) - Config for the Community aarch64 NixOS box [maintainer=@grahamc]
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [primeos/nixos-slides](https://github.com/primeos/nixos-slides) - Slides for a Nix(OS) presentation
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The soon-to-be official formatter for Nix code
 - [nh2/nixops-tutorial](https://github.com/nh2/nixops-tutorial) - Tutorial for practical deployments with NixOps
 - [justinwoo/format-nix](https://github.com/justinwoo/format-nix) - A simple formatter for Nix using tree-sitter-nix.
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
@@ -6447,6 +6445,7 @@
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [julia-vscode/julia-vscode](https://github.com/julia-vscode/julia-vscode) - Julia extension for Visual Studio Code
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)

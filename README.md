@@ -153,7 +153,7 @@
 
 - [TheMozg/awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
 - [Nudin/iptable_vis](https://github.com/Nudin/iptable_vis) - visualise your iptables chains
-- [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump
+- [mysql2sqlite/mysql2sqlite](https://github.com/mysql2sqlite/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump
 
 ## Batchfile 
 
@@ -176,6 +176,8 @@
 
 ## C 
 
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [fairecasoimeme/ZiPulses](https://github.com/fairecasoimeme/ZiPulses) - Pulses Zigbee sensor to capture Gazpar or water counter
 - [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
@@ -258,7 +260,6 @@
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
-- [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -828,6 +829,7 @@
 
 ## CSS 
 
+- [koalaman/linuxatemyram.com](https://github.com/koalaman/linuxatemyram.com) - The contents on linuxatemyram.com
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, customizable Hugo theme
@@ -1061,6 +1063,7 @@
 
 ## Go 
 
+- [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP / Ping & MTR & TCP Port & HTTP Get - Network Prometheus exporter
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) - Prometheus exporter for custom eBPF metrics
@@ -1532,7 +1535,7 @@
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [itchyny/timefmt-go](https://github.com/itchyny/timefmt-go) - Efficient time formatting library (strftime, strptime) for Golang
 - [scotwells/prometheus-by-example](https://github.com/scotwells/prometheus-by-example) - Examples of adding Prometheus Monitoring to your Golang applications 📈
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [gonetx/httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
 - [philippta/web-frontend-demo](https://github.com/philippta/web-frontend-demo) - 
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
@@ -2340,6 +2343,8 @@
 
 ## JavaScript 
 
+- [esp-rs/book](https://github.com/esp-rs/book) - The Rust on ESP Book
+- [innocenat/kindle-epub-fix](https://github.com/innocenat/kindle-epub-fix) - A simple Javascript website to fix common EPUB problem for Amazon's Send to Kindle.
 - [sahir2k/twitter_face_swap](https://github.com/sahir2k/twitter_face_swap) - 
 - [tavianator/tavianator.com](https://github.com/tavianator/tavianator.com) - The source code to my website
 - [WebKit/Speedometer](https://github.com/WebKit/Speedometer) - An open source repository for the Speedometer benchmark
@@ -2512,7 +2517,6 @@
 - [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [davidsawyer/airbnb-price-per-night-correcter](https://github.com/davidsawyer/airbnb-price-per-night-correcter) - Gives you the real price per night of an Airbnb stay after accounting for any and all fees
 - [AdguardTeam/AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced ad blocker for iOS
-- [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [mold/explr](https://github.com/mold/explr) - Explr the world through music
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
@@ -2770,7 +2774,7 @@
 - [NodeBB/docs](https://github.com/NodeBB/docs) - NodeBB Documentation via MkDocs
 - [pandawing/node-is-travis-ci-build](https://github.com/pandawing/node-is-travis-ci-build) - Check if your code is running on Travis-CI build.
 - [SvanBoxel/delete-merged-branch](https://github.com/SvanBoxel/delete-merged-branch) - No more manually deleting merged branches, this lovely app does it for you.
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [brave/sync](https://github.com/brave/sync) - deprecated Brave sync server. (sync now uses a fork of the Chromium sync protocol.)
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [brianc/node-pg-pool](https://github.com/brianc/node-pg-pool) - A connection pool for node-postgres
@@ -3312,6 +3316,7 @@
 
 ## Markdown 
 
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
@@ -3355,7 +3360,7 @@
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [jeaye/nix-files](https://github.com/jeaye/nix-files) - NixOS for my VPS
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
-- [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
+- [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
 - [NixOS/aarch64-build-box](https://github.com/NixOS/aarch64-build-box) - Config for the Community aarch64 NixOS box [maintainer=@grahamc]
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
@@ -3445,6 +3450,7 @@
 
 ## Others 
 
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [gl-inet/gl-feeds](https://github.com/gl-inet/gl-feeds) - This repo is maintained by GL.iNet team. It includes packages which are missing in openwrt feeds or version is too old.
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [hassio-addons/workflows](https://github.com/hassio-addons/workflows) - 🤖 GitHub Action Workflows for the  Home Assistant Community Add-ons
@@ -3841,6 +3847,7 @@
 
 ## PHP 
 
+- [hirethunk/verbs](https://github.com/hirethunk/verbs) - Verbs is an event sourcing package for PHP artisans
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure.
 - [spatie/laravel-cronless-schedule](https://github.com/spatie/laravel-cronless-schedule) - Run the Laravel scheduler without relying on cron
 - [Intervention/validation](https://github.com/Intervention/validation) - Missing Laravel Validation Rules
@@ -3956,7 +3963,7 @@
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
 - [elementor/hello-theme](https://github.com/elementor/hello-theme) - A plain-vanilla theme, best suited for building your site using Elementor plugin. This theme resets the environment and prepares it for smooth operation of Elementor.
 - [openfoodfacts/openfoodfacts-php](https://github.com/openfoodfacts/openfoodfacts-php) - PHP wrapper for Open Food Facts
-- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - 🍪 Write gorgeous documentation for your products using Markdown inside your Laravel app.
+- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
 - [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
 - [spatie/laravel-db-snapshots](https://github.com/spatie/laravel-db-snapshots) - Quickly dump and load databases
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
@@ -4024,7 +4031,7 @@
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [matomo-org/tracker-proxy](https://github.com/matomo-org/tracker-proxy) - HTTP proxy for Matomo's tracker API. This script allows to track websites with Matomo without revealing to your visitors the secret Matomo server URL.
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
-- [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR code generator and reader with a user friendly API. PHP 7.4+
+- [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API.
 - [phpmyadmin/docker](https://github.com/phpmyadmin/docker) - Docker container for phpMyAdmin
 - [sayakb/sticky-notes](https://github.com/sayakb/sticky-notes) - Sticky notes is a free open-source pastebin application.
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
@@ -5026,6 +5033,21 @@
 
 ## Rust 
 
+- [jamesmunns/toml-cfg](https://github.com/jamesmunns/toml-cfg) - A procedural macro for configuring constant values across crates
+- [cackle-rs/cackle](https://github.com/cackle-rs/cackle) - A code ACL checker for Rust
+- [esp-rs/esp-idf-svc](https://github.com/esp-rs/esp-idf-svc) - Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
+- [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
+- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
+- [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust
+- [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
+- [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
+- [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
+- [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
+- [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
+- [jonasbb/serde_with](https://github.com/jonasbb/serde_with) - This crate provides custom de/serialization helpers to use in combination with serde's `with`-annotation and with the improved `serde_as`-annotation.
+- [snowfoxsh/nestify](https://github.com/snowfoxsh/nestify) - Nestify offers a macro to simplify and beautify nested struct definitions in Rust, enabling cleaner, more readable code structures with less verbosity. It's especially valuable for handling API respon
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [golemparts/rppal](https://github.com/golemparts/rppal) - A Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -5205,7 +5227,7 @@
 - [warner/wireguard-vanity-address](https://github.com/warner/wireguard-vanity-address) - generate Wireguard keypairs with a given prefix string
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [lojewalo/paste](https://github.com/lojewalo/paste) - A sensible, modern pastebin.
+- [anna-is-cute/paste](https://github.com/anna-is-cute/paste) - A sensible, modern pastebin.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [gsquire/topngx](https://github.com/gsquire/topngx) - top for NGINX
@@ -5279,7 +5301,6 @@
 - [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
-- [wireapp/coax](https://github.com/wireapp/coax) - A (barely working) native Wire client for Unix
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)? A slightly more visual way to interact with the docker daemon. Supdock is a wrapper for the docker binary meaning you can still use all of the other docker commands without issues
@@ -5319,7 +5340,7 @@
 - [minio/docs](https://github.com/minio/docs) - MinIO Object Storage Documentation
 - [helloflask/bootstrap-flask](https://github.com/helloflask/bootstrap-flask) - Bootstrap 4 & 5 helper for your Flask projects.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - All Ubuntu Yaru GNOME themes
 - [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
@@ -5351,10 +5372,11 @@
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [LedgerHQ/OUTDATED_ledger-wallet-android](https://github.com/LedgerHQ/OUTDATED_ledger-wallet-android) - OUTDATED – for Ledger Live mobile, the correct repository is here =&gt;
 - [ACINQ/eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network.
-- [wireapp/wire-android_legacy](https://github.com/wireapp/wire-android_legacy) - Deprecated! - :phone: Wire for Android
 
 ## Shell 
 
+- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image.
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
@@ -5657,7 +5679,7 @@
 - [geerlingguy/ansible-role-backup](https://github.com/geerlingguy/ansible-role-backup) - Ansible Role - Backup for simple servers
 - [peterhurford/git-it-on.zsh](https://github.com/peterhurford/git-it-on.zsh) - Quickly navigate GitHub from the command line.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -5915,6 +5937,7 @@
 - [Haptic-Apps/Slide-iOS](https://github.com/Haptic-Apps/Slide-iOS) - A powerful new way to Reddit on iOS.
 - [neilalexander/seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
+- [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [0xChqrles/qrcreator](https://github.com/0xChqrles/qrcreator) - QR Creator allows you to create personalised QR Codes in a few seconds
 - [rubygarage/shopapp-ios](https://github.com/rubygarage/shopapp-ios) - ShopApp is an application that transfers an online store into a mobile app
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -6008,7 +6031,7 @@
 - [nisargjhaveri/vscode-ios-debug](https://github.com/nisargjhaveri/vscode-ios-debug) - iOS debugging in Visual Studio Code
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [Erisa/sdxl-worker](https://github.com/Erisa/sdxl-worker) - Stable Diffusion XL Workers AI demo
-- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [roblourens/chat-agent-dalle](https://github.com/roblourens/chat-agent-dalle) - 
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -6238,6 +6261,7 @@
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
+- [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [pancakeswap/pancake-swap-interface-v1](https://github.com/pancakeswap/pancake-swap-interface-v1) - :pancakes: Pancake trading interface V1
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.

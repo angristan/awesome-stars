@@ -610,6 +610,7 @@
 
 ## C++ 
 
+- [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [hxelec/s3p](https://github.com/hxelec/s3p) - 
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [rolandriegel/nload](https://github.com/rolandriegel/nload) - Real-time network traffic monitor
@@ -1063,6 +1064,7 @@
 
 ## Go 
 
+- [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP / Ping & MTR & TCP Port & HTTP Get - Network Prometheus exporter
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
@@ -2045,7 +2047,6 @@
 - [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [eidam/cf-workers-zero-trust-terraform-state](https://github.com/eidam/cf-workers-zero-trust-terraform-state) - Zero-Trust @HashiCorp Terraform state backend
 - [knadh/dont.build](https://github.com/knadh/dont.build) - A simple, opinionated decision system to help decide whether to build a software feature or not.
-- [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
 - [lanlanblue/ikea-stock-notifier](https://github.com/lanlanblue/ikea-stock-notifier) - A notifier that lets users subscribe to their favorite IKEA products which are unavailable. This notifier will crawl the stock status every hour and notify users immediately once the products are back
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -2161,7 +2162,6 @@
 - [dev-sec/ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
 - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - MIRROR of https://codeberg.org/thefederationinfo/the-federation.info
-- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [jpescador/hugo-future-imperfect](https://github.com/jpescador/hugo-future-imperfect) - A ported theme with some extras for the Hugo static website engine
 - [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
 - [walletgeneratornet/WalletGenerator.net](https://github.com/walletgeneratornet/WalletGenerator.net) - Universal JavaScript Client-Side Wallet Generator
@@ -2399,6 +2399,7 @@
 - [cloudflare/workers-chat-demo](https://github.com/cloudflare/workers-chat-demo) - 
 - [CorentinGC/reddit-place-kcorp](https://github.com/CorentinGC/reddit-place-kcorp) - UserScript de l'overlay de la KCorp pour le /r/place 2022
 - [JasonEtco/is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action) - 💖🔖 A GitHub Action that labels issues/PRs if the author sponsors the owner of the repo
+- [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
 - [fastmail/overture](https://github.com/fastmail/overture) - Overture is a powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.
 - [bitquant/amazon-s3](https://github.com/bitquant/amazon-s3) - 
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
@@ -2501,6 +2502,7 @@
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
+- [Azure/webapps-deploy](https://github.com/Azure/webapps-deploy) - Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
@@ -2738,7 +2740,6 @@
 - [hapijs/boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
 - [hapijs/hapi-pino](https://github.com/hapijs/hapi-pino) - 🌲 Hapi plugin for the Pino logger
 - [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2) - :zap: fast mysqljs/mysql compatible mysql driver for node.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [auth0-blog/hapi-jwt-authentication](https://github.com/auth0-blog/hapi-jwt-authentication) - 
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -2976,6 +2977,7 @@
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
 - [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [andryou/scriptsafe](https://github.com/andryou/scriptsafe) - a browser extension to bring security and privacy to chrome, firefox, and opera
 - [paulogr/dstatuspage](https://github.com/paulogr/dstatuspage) - Decentralized Status Page
 - [tomoki1207/vscode-pdfviewer](https://github.com/tomoki1207/vscode-pdfviewer) - Show PDF preview in VSCode.
@@ -4190,6 +4192,7 @@
 
 ## Python 
 
+- [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [syssi/xiaomi_airpurifier](https://github.com/syssi/xiaomi_airpurifier) - Xiaomi Mi Air Purifier and Xiaomi Mi Air Humidifier integration for Home Assistant
 - [petretiandrea/home-assistant-tapo-p100](https://github.com/petretiandrea/home-assistant-tapo-p100) - A custom integration to control Tapo devices from home assistant.
@@ -5033,6 +5036,10 @@
 
 ## Rust 
 
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal) - embedded-hal implementation for Rust on ESP32 and ESP-IDF
+- [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
 - [jamesmunns/toml-cfg](https://github.com/jamesmunns/toml-cfg) - A procedural macro for configuring constant values across crates
 - [cackle-rs/cackle](https://github.com/cackle-rs/cackle) - A code ACL checker for Rust
 - [esp-rs/esp-idf-svc](https://github.com/esp-rs/esp-idf-svc) - Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
@@ -6246,7 +6253,6 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure
 - [Azure/docker-login](https://github.com/Azure/docker-login) - GitHub action to log in to Azure Container Registry (ACR) or any private container registry
-- [Azure/webapps-deploy](https://github.com/Azure/webapps-deploy) - Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [actions/setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
@@ -6423,6 +6429,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [dreamerslab/node.inflection](https://github.com/dreamerslab/node.inflection) - A port of inflection-js to node.js module
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [kokororin/vscode-phpfmt](https://github.com/kokororin/vscode-phpfmt) - Integrates phpfmt into VS Code
 - [xdebug/vscode-php-debug](https://github.com/xdebug/vscode-php-debug) - PHP Debug Adapter for Visual Studio Code 🐞⛔
 - [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code

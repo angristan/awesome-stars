@@ -424,7 +424,6 @@
 - [mwarning/libsodium-example](https://github.com/mwarning/libsodium-example) - A simple example on how to use the libsodium crypto library
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [jwerle/b64.c](https://github.com/jwerle/b64.c) - Base64 encode/decode
-- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [steshaw/gtk-examples](https://github.com/steshaw/gtk-examples) - Examples from "Developing Linux Applications with GTK+ and GDK" by Eric Harlow
@@ -972,7 +971,7 @@
 - [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter) - A ruTorrent-based client in Flutter
 - [WorldHealthOrganization/app](https://github.com/WorldHealthOrganization/app) - COVID-19 App
 - [appditto/natrium_wallet_flutter](https://github.com/appditto/natrium_wallet_flutter) - Natrium - Fast, Robust & Secure NANO Wallet, now written with Flutter.
-- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
+- [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 - [glitchpizza/morii](https://github.com/glitchpizza/morii) - A mobile app for PixelFed
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [jeroensmeets/11t](https://github.com/jeroensmeets/11t) - 11t is an iOS and Android app for connecting to Mastodon, written in Flutter. 11t lets you use any Mastodon instance.
@@ -3361,6 +3360,7 @@
 - [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [jeaye/nix-files](https://github.com/jeaye/nix-files) - NixOS for my VPS
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
@@ -3699,6 +3699,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [aeris/gdpr](https://github.com/aeris/gdpr) - GDPR letter template
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [MorteNoir1/virtualbox_e1000_0day](https://github.com/MorteNoir1/virtualbox_e1000_0day) - VirtualBox E1000 Guest-to-Host Escape
 - [woj-ciech/kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
@@ -4386,7 +4387,6 @@
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [wrjlewis/notion-search-alfred-workflow](https://github.com/wrjlewis/notion-search-alfred-workflow) - An Alfred workflow to search Notion with instant results
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [anaclumos/hangulbreak](https://github.com/anaclumos/hangulbreak) - 👨‍💻 Playing with Hangul 한글
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
@@ -5036,6 +5036,10 @@
 
 ## Rust 
 
+- [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+- [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
+- [PhilippRados/wrecc](https://github.com/PhilippRados/wrecc) - A x86_64 C99 compiler written in Rust from scratch
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal) - embedded-hal implementation for Rust on ESP32 and ESP-IDF

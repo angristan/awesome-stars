@@ -568,6 +568,7 @@
 
 ## C# # 
 
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [BouyguesTelecom/CheckVoisinageInteropFibre](https://github.com/BouyguesTelecom/CheckVoisinageInteropFibre) - 
 - [cjmanca/plex-credits-detect](https://github.com/cjmanca/plex-credits-detect) - Augments plex's built in intro detection, additionally detecting credits.
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
@@ -5035,7 +5036,6 @@
 
 ## Rust 
 
-- [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.

@@ -1246,7 +1246,7 @@
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
-- [micro/micro](https://github.com/micro/micro) - A Go API development platform
+- [micro/micro](https://github.com/micro/micro) - A Go service development platform
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
@@ -5004,7 +5004,7 @@
 - [zzet/rbenv](https://github.com/zzet/rbenv) - Ansible role for installing rbenv.
 - [dev-sec/ansible-nginx-hardening](https://github.com/dev-sec/ansible-nginx-hardening) - This Ansible role provides secure nginx configurations.
 - [telus/ansible-apt-repository](https://github.com/telus/ansible-apt-repository) - Ansible (meta-) Role for adding apt repositories
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [thbar/kiba-ruby-benchmarks](https://github.com/thbar/kiba-ruby-benchmarks) - A little repo to determine the impact of Ruby releases on Kiba jobs speed

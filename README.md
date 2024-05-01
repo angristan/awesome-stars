@@ -894,6 +894,7 @@
 - [Extum/signature](https://github.com/Extum/signature) - ✍️ Add signature support to your Flarum forum.
 - [Extum/editor](https://github.com/Extum/editor) - ⌨️ Add a simple Markdown editor to your Flarum forum.
 - [marmelab/universal.css](https://github.com/marmelab/universal.css) - The only CSS you will ever need
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [monsieurhiboux/TorrentSpeak](https://github.com/monsieurhiboux/TorrentSpeak) - TorrentSpeak is a talking torrent client on Mac OSX.
 - [Kikobeats/uno-zen](https://github.com/Kikobeats/uno-zen) - Minimalist and Elegant theme for Ghost. Demo @ https://kikobeats.com
 - [CamTosh/Ethereum](https://github.com/CamTosh/Ethereum) - old and ugly code - Small dashboard to monitor your mining rigs (Support AMD and Nvidia GPU)
@@ -1188,7 +1189,7 @@
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator.
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
-- [ddosify/go-faker](https://github.com/ddosify/go-faker) - Faker for golang. Random data generator. Compatible with postman dynamic variables.
+- [getanteon/go-faker](https://github.com/getanteon/go-faker) - Faker for golang. Random data generator. Compatible with postman dynamic variables.
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [pioz/god](https://github.com/pioz/god) - Automation tool to deploy and manage Go services using systemd on GNU/Linux machines
@@ -1350,7 +1351,7 @@
 - [bep/s3deploy](https://github.com/bep/s3deploy) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. "Cache-Control")
 - [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆
 - [mattermost/mattermost-cloud](https://github.com/mattermost/mattermost-cloud) - Tools and services for running Mattermost Cloud :cloud:
 - [google/go-pbmoney](https://github.com/google/go-pbmoney) - Go utilities for google/type/money.proto
@@ -2846,7 +2847,7 @@
 - [jithurjacob/vscode-nbpreviewer](https://github.com/jithurjacob/vscode-nbpreviewer) - A VS Code extension for previewing Jupyter Notebook
 - [JunoLab/atom-julia-client](https://github.com/JunoLab/atom-julia-client) - Juno a good IDE?
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -4539,7 +4540,7 @@
 - [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-- [antoiner77/caddy-ansible](https://github.com/antoiner77/caddy-ansible) - Ansible playbook for caddy
+- [antoinerrr/caddy-ansible](https://github.com/antoinerrr/caddy-ansible) - Ansible playbook for caddy
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
@@ -5369,7 +5370,6 @@
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [dxprog/anime-bracket](https://github.com/dxprog/anime-bracket) - The code that runs animebracket.com
 - [mastodon/documentation](https://github.com/mastodon/documentation) - Mastodon documentation
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [zutrinken/bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 
 ## SaltStack 
@@ -5944,7 +5944,7 @@
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [metabolist/metatext](https://github.com/metabolist/metatext) - A free, open-source iOS Mastodon client.
-- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
+- [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image
 - [jamsinclair/ballast](https://github.com/jamsinclair/ballast) - Keep your audio balance from drifting! OSX Status Bar App

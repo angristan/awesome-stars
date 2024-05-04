@@ -236,7 +236,7 @@
 - [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
-- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring and tuning software designed for 64-bit processors.
+- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
 - [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
@@ -1065,6 +1065,8 @@
 
 ## Go 
 
+- [manyminds/api2go](https://github.com/manyminds/api2go) - JSONAPI.org Implementation for Go
+- [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP / Ping & MTR & TCP Port & HTTP Get - Network Prometheus exporter
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
@@ -1439,6 +1441,7 @@
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [abiosoft/caddy-json-schema](https://github.com/abiosoft/caddy-json-schema) - JSON schema generator for Caddy v2
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
@@ -1641,6 +1644,7 @@
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [cds-snc/covid-alert-server](https://github.com/cds-snc/covid-alert-server) - Exposure Notification: Diagnosis Server implementation / Notification d’exposition : Mise en œuvre du serveur de diagnostic
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
@@ -2501,7 +2505,7 @@
 - [datagouv/sorry.data.gouv.fr](https://github.com/datagouv/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 56 stars 7 forks.
-- [RealPeha/This-Repo-Has-1748-Stars](https://github.com/RealPeha/This-Repo-Has-1748-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1749-Stars](https://github.com/RealPeha/This-Repo-Has-1749-Stars) - Yes, it's true :purple_heart:
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [Azure/appservice-settings](https://github.com/Azure/appservice-settings) - Automate your GitHub workflows using Azure Action for AppService
@@ -3581,6 +3585,7 @@
 - [thank-you-github/thank-you-github](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
+- [Homebrew/homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - 💀 Alternate versions of Casks (deprecated)
 - [casualjim/vscode-gotemplate](https://github.com/casualjim/vscode-gotemplate) - 
 - [skullface/awesome-acnh](https://github.com/skullface/awesome-acnh) - 🏝 Curated list of resources and tips for Animal Crossing: New Horizons
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
@@ -4348,7 +4353,7 @@
 - [tatsuhiro-t/apt-metalink](https://github.com/tatsuhiro-t/apt-metalink) - Make 'apt-get' faster by downloading Debian/Ubuntu packages from multiple servers concurrently.
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [rtorrent-community/rtorrent-docs](https://github.com/rtorrent-community/rtorrent-docs) - “rTorrent Handbook” community project
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns your Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fas
 - [Fribb/MyAnimeList.bundle](https://github.com/Fribb/MyAnimeList.bundle) - Plex Media Server Metadata Agent for MyAnimeList.net
 - [Dingmatt/AMSA](https://github.com/Dingmatt/AMSA) - A Plex anime agent using TVDB and AniDB data
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
@@ -4894,7 +4899,6 @@
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
 - [thoughtbot/paperclip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
-- [Homebrew/homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - 🔢 Alternate versions of Casks
 - [imax9000/homebrew-autoremove](https://github.com/imax9000/homebrew-autoremove) - ARCHIVED: External command for Homebrew to remove orphaned dependencies
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
@@ -5839,7 +5843,6 @@
 
 ## Svelte 
 
-- [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
 - [mquandalle/mesaidesvelo](https://github.com/mquandalle/mesaidesvelo) - Découvrez les aides à l’achat d’un vélo
@@ -6219,7 +6222,6 @@
 - [tunnelvisionlabs/antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts) - Optimized TypeScript target for ANTLR 4
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub action for golangci-lint from its authors
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -6301,7 +6303,6 @@
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [kisstkondoros/codemetrics](https://github.com/kisstkondoros/codemetrics) - VSCode extension which shows the complexity information for TypeScript class members
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.

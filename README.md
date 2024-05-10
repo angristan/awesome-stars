@@ -3505,6 +3505,7 @@
 - [techiescamp/kubernetes-prometheus](https://github.com/techiescamp/kubernetes-prometheus) - Kubernetes Manifest files for setting up Prometheus monitoring on the Kubernetes cluster.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers.
 - [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
@@ -6674,7 +6675,6 @@
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 
 
 ## License

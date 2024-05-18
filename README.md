@@ -1493,7 +1493,7 @@
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralize, Self-host Cloud Gaming/Application
 - [Hugoch/s3-consistency](https://github.com/Hugoch/s3-consistency) - S3 object storage consistency benchmark
-- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
+- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - The Evolution of a Go Programmer
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
@@ -2299,7 +2299,7 @@
 - [Netflix/EVCache](https://github.com/Netflix/EVCache) - A distributed in-memory data store for the cloud
 - [Jigsaw-Code/Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 - [logstash-plugins/logstash-input-beats](https://github.com/logstash-plugins/logstash-input-beats) - 
-- [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
+- [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
 - [alfio-event/alf.io](https://github.com/alfio-event/alf.io) - alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups
 - [spacewalkproject/spacewalk](https://github.com/spacewalkproject/spacewalk) - The master repository for the Spacewalk Project.
 - [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
@@ -2382,6 +2382,7 @@
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [Strajk/strava-enhancement-suite](https://github.com/Strajk/strava-enhancement-suite) - Handy tools and improvements to Strava.com
 - [izuolan/next-craft](https://github.com/izuolan/next-craft) - Using Craft.do pages as a blog
+- [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
 - [mapbox/mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) - Draw tools for mapbox-gl-js
 - [fawmi/vue-google-maps](https://github.com/fawmi/vue-google-maps) - Reactive Vue 3 components for Google maps
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
@@ -3899,7 +3900,6 @@
 - [spatie/laravel-deleted-models](https://github.com/spatie/laravel-deleted-models) - Automatically copy deleted records to a separate table
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
 - [spatie/laravel-login-link](https://github.com/spatie/laravel-login-link) - A Blade component to quickly login to your local environment
-- [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [protonemedia/laravel-splade](https://github.com/protonemedia/laravel-splade) - 💫 The magic of Inertia.js with the simplicity of Blade 💫 - Splade provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, and sparkle it to make it in
@@ -4819,6 +4819,7 @@
 
 ## Ruby 
 
+- [yammer/circuitbox](https://github.com/yammer/circuitbox) - Circuit breaker built with large Ruby apps in mind.
 - [moneta-rb/moneta](https://github.com/moneta-rb/moneta) - a unified interface to key/value stores
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [jsonapi-serializer/jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)

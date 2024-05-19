@@ -1737,7 +1737,7 @@
 - [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
 - [caddyserver/dnsproviders](https://github.com/caddyserver/dnsproviders) - OBSOLETE: DNS providers adapted for use in Caddy to solve the ACME DNS challenge - for Caddy v1 only. See caddy-dns for v2.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -4164,7 +4164,7 @@
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx
 - [yoe/SReview](https://github.com/yoe/SReview) - sreview review system
-- [OutsideIT/check_netapp_ontap](https://github.com/OutsideIT/check_netapp_ontap) - :four_leaf_clover: Check NetApp Ontap :four_leaf_clover:
+- [district09/check_netapp_ontap](https://github.com/district09/check_netapp_ontap) - :four_leaf_clover: Check NetApp Ontap :four_leaf_clover:
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer

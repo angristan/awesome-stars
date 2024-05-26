@@ -1067,6 +1067,7 @@
 
 ## Go 
 
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [qonto/postgresql-partition-manager](https://github.com/qonto/postgresql-partition-manager) - Simplified PostgreSQL partioning management
 - [manyminds/api2go](https://github.com/manyminds/api2go) - JSONAPI.org Implementation for Go
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
@@ -5082,7 +5083,7 @@
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
@@ -5919,7 +5920,7 @@
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [aataraxiaa/ScalingCarousel](https://github.com/aataraxiaa/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift
-- [TelemetryDeck/SwiftClient](https://github.com/TelemetryDeck/SwiftClient) - Swift SDK for TelemetryDeck, a privacy-conscious analytics service for apps and websites.
+- [TelemetryDeck/SwiftSDK](https://github.com/TelemetryDeck/SwiftSDK) - Swift SDK for TelemetryDeck, a privacy-conscious analytics service for apps and websites.
 - [appcoda/SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - A search bar built entirely in SwiftUI
 - [Haneke/HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
@@ -6033,6 +6034,8 @@
 
 ## TypeScript 
 
+- [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
+- [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [cloudflare/orange](https://github.com/cloudflare/orange) - 
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
 - [hallard/WeMos-TIC](https://github.com/hallard/WeMos-TIC) - WeMos ESP8266/ESP32 Teleinfo (TIC) Shield

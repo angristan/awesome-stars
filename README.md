@@ -3298,7 +3298,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
-- [nzws/nzws.me](https://github.com/nzws/nzws.me) - My website built with Next.js 13, deployed on ▲Vercel
+- [nzws/nzws.me](https://github.com/nzws/nzws.me) - My cool website, built with App Router
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 
 ## Makefile 

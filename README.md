@@ -360,7 +360,7 @@
 - [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [dark/dropbox-filesystem-fix](https://github.com/dark/dropbox-filesystem-fix) - Fix the filesystem detection in the Linux Dropbox client
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webass
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [GNOME/gnome-builder](https://github.com/GNOME/gnome-builder) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-builder
@@ -1002,7 +1002,7 @@
 - [NixOS/docker](https://github.com/NixOS/docker) - DEPRECATED! Dockerfiles to package Nix in a minimal docker container
 - [Xe/furry-happiness](https://github.com/Xe/furry-happiness) - A proof of concept dockerfile that uses user mode linux
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven
 - [caesarnine/data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [ricardbejarano/nginx](https://github.com/ricardbejarano/nginx) - 🦅 Built-from-source container image of NGINX
@@ -1137,7 +1137,7 @@
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [minio/dperf](https://github.com/minio/dperf) - Drive performance measurement tool
@@ -1215,7 +1215,7 @@
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [yamnikov-oleg/nasmfmt](https://github.com/yamnikov-oleg/nasmfmt) - Formatter for NASM source files
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
-- [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
+- [upper/db](https://github.com/upper/db) - Data Access Layer (DAL) for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -1392,7 +1392,7 @@
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go
-- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (originally github.com/theckman/go-flock)
+- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [LK4D4/trylock](https://github.com/LK4D4/trylock) - TryLock for Go
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
@@ -3027,7 +3027,7 @@
 - [storj-archived/storjshare-gui](https://github.com/storj-archived/storjshare-gui) - Development on pause
 - [storj-archived/storjshare-daemon](https://github.com/storj-archived/storjshare-daemon) - Deprecated. Docker  Daemon + CLI for farming data on the Storj v2 network.
 - [aragon/client](https://github.com/aragon/client) - (Aragon 1) Create and manage decentralized organizations on Ethereum.
-- [stellar/stellar-wallet](https://github.com/stellar/stellar-wallet) - Holds encrypted data. Used by stellar-client to store the user's key in a secure way.
+- [stellar-deprecated/stellar-wallet](https://github.com/stellar-deprecated/stellar-wallet) - Holds encrypted data. Used by stellar-client to store the user's key in a secure way.
 - [vertcoin-project/insight-vtc-ui](https://github.com/vertcoin-project/insight-vtc-ui) - A vertcoin blockchain explorer and API
 - [stellarchat/desktop-client](https://github.com/stellarchat/desktop-client) - Please use new github repository to download the client.
 - [LesterCovax/crypto-sheets](https://github.com/LesterCovax/crypto-sheets) - Google Sheets script editor code for managing a cryptocurrency tracking spreadsheet
@@ -3199,7 +3199,7 @@
 - [id101010/ansible-archlinux](https://github.com/id101010/ansible-archlinux) - Automated arch linux desktop environment
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [geerlingguy/ansible-role-composer](https://github.com/geerlingguy/ansible-role-composer) - Ansible Role - Composer PHP Dependency Manager
-- [MyStarInYourSky/docker-postal](https://github.com/MyStarInYourSky/docker-postal) - Docker container for Postal (atech/postal)
+- [starlightcrafted/docker-postal](https://github.com/starlightcrafted/docker-postal) - Docker container for Postal (atech/postal)
 - [manala/ansible-role-influxdb](https://github.com/manala/ansible-role-influxdb) - [READ-ONLY] Ansible role dealing installation and configuration of InfluxDB time-series database
 - [rossmcdonald/telegraf](https://github.com/rossmcdonald/telegraf) - Ansible role for installing, configuring, and maintaining Telegraf
 - [dj-wasabi/ansible-telegraf](https://github.com/dj-wasabi/ansible-telegraf) - Installing and configuring Telegraf via Ansible for RedHat/Debian/Ubuntu/Windows/Suse.
@@ -6628,7 +6628,7 @@
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [wklken/vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
 - [LnL7/vim-nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix http://nixos.org/nix
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [pearofducks/ansible-vim](https://github.com/pearofducks/ansible-vim) - A vim plugin for syntax highlighting Ansible's common filetypes
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [junegunn/seoul256.vim](https://github.com/junegunn/seoul256.vim) - :deciduous_tree: Low-contrast Vim color scheme based on Seoul Colors

@@ -1014,6 +1014,7 @@
 - [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc) - Carefully crafted Alpine Docker image with glibc (~12MB)
 - [osminogin/docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software based on Alpine
 - [rlister/dockerfiles](https://github.com/rlister/dockerfiles) - Collection of dockerfiles for hub.docker.com/u/rlister
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [docker-library/httpd](https://github.com/docker-library/httpd) - Docker Official Image packaging for Apache HTTP Server
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -1071,7 +1072,7 @@
 ## Go 
 
 - [VictoriaMetrics/metrics](https://github.com/VictoriaMetrics/metrics) - Lightweight alternative to github.com/prometheus/client_golang
-- [openhue/openhue-go](https://github.com/openhue/openhue-go) - OpenHue Go is a library written in Golang for interacting with the Philips Hue smart lighting systems.
+- [openhue/openhue-go](https://github.com/openhue/openhue-go) - OpenHue Go is a library written in Golang for interacting with the Philips Hue smart lighting systems
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) - A drop-in replacement for SQS designed for great developer experience and efficiency.
@@ -1641,7 +1642,7 @@
 - [juliangruber/go-intersect](https://github.com/juliangruber/go-intersect) - Find the intersection of two iterable values
 - [adidas/s3-upload-cleaner](https://github.com/adidas/s3-upload-cleaner) - 
 - [RediSearch/redisearch-go](https://github.com/RediSearch/redisearch-go) - Go client for RediSearch
-- [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
+- [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go
@@ -2224,7 +2225,7 @@
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [radicle-dev/radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
-- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
+- [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
 - [as-capabl/armageddon](https://github.com/as-capabl/armageddon) - GUI mastodon client written in Haskell
@@ -3772,7 +3773,6 @@
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
 - [Dryusdan/unsplash-wallpaper](https://github.com/Dryusdan/unsplash-wallpaper) - Script who change automatically your gnome / cinnamon wallpaper
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [gled-rs/mastodo](https://github.com/gled-rs/mastodo) - A fork of the GNU Social/AP-compatible microblogging server
@@ -5699,6 +5699,7 @@
 - [Kotaimen/docker-pgbouncer](https://github.com/Kotaimen/docker-pgbouncer) - PostgreSQL Connection Pooler in Docker.
 - [fjudith/docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [ProtonVPN/protonvpn-cli](https://github.com/ProtonVPN/protonvpn-cli) - Legacy protonvpn-cli: ProtonVPN Command-Line Tool for Linux and macOS. This has been superseded by https://github.com/ProtonVPN/protonvpn-cli-ng
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
 - [docker-library/wordpress](https://github.com/docker-library/wordpress) - Docker Official Image packaging for WordPress
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
@@ -5714,7 +5715,6 @@
 - [MariaDB/mariadb-docker](https://github.com/MariaDB/mariadb-docker) - Docker Official Image packaging for MariaDB
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [ByScripts/fish-config](https://github.com/ByScripts/fish-config) - Fish Shell configuration files
 - [zsh-users/fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
@@ -6384,7 +6384,7 @@
 - [djedlajn/nestjs-minio-client](https://github.com/djedlajn/nestjs-minio-client) - Minio client sdk for NestJS
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) - A collection of badass modules and utilities to help you level up your NestJS applications 🚀
 - [jmcdo29/testing-nestjs](https://github.com/jmcdo29/testing-nestjs) - A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [nestjs/schematics](https://github.com/nestjs/schematics) - Nest architecture element generation based on Angular schematics 🎬
 - [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks, Snippets and Notes Manager for Developers & Co (website)

@@ -205,7 +205,6 @@
 - [open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 - [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
-- [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
 - [GNOME/libxml2](https://github.com/GNOME/libxml2) - Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
@@ -621,7 +620,7 @@
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [improv-wifi/sdk-cpp](https://github.com/improv-wifi/sdk-cpp) - 
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
 - [tomba/kmsxx](https://github.com/tomba/kmsxx) - KMS++: C++17 library, utilities and python bindings for Linux kernel mode setting
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -1071,6 +1070,8 @@
 
 ## Go 
 
+- [qonto/standards-insights](https://github.com/qonto/standards-insights) - Ensure microservices are applying your latest standard to deliver consistent improvements across your organization
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [VictoriaMetrics/metrics](https://github.com/VictoriaMetrics/metrics) - Lightweight alternative to github.com/prometheus/client_golang
 - [openhue/openhue-go](https://github.com/openhue/openhue-go) - OpenHue Go is a library written in Golang for interacting with the Philips Hue smart lighting systems
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
@@ -1253,7 +1254,7 @@
 - [hedhyw/gherkingen](https://github.com/hedhyw/gherkingen) - Behaviour Driven Development tests generator for Golang
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - Backup and restore Ed25519 SSH keys with seed words 🫠
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
@@ -2370,6 +2371,8 @@
 
 ## JavaScript 
 
+- [rmosolgo/graphiql-rails](https://github.com/rmosolgo/graphiql-rails) - Mount the GraphiQL query editor in a Rails app
+- [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [esp-rs/book](https://github.com/esp-rs/book) - The Rust on ESP Book
 - [innocenat/kindle-epub-fix](https://github.com/innocenat/kindle-epub-fix) - A simple Javascript website to fix common EPUB problem for Amazon's Send to Kindle.
 - [sahir2k/twitter_face_swap](https://github.com/sahir2k/twitter_face_swap) - 
@@ -2408,7 +2411,7 @@
 - [jfdelarosa/twitter-view-count-remover](https://github.com/jfdelarosa/twitter-view-count-remover) - Simple browser extension that removes view count from tweets.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
-- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
+- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [JeanJouliaCode/wipeClean](https://github.com/JeanJouliaCode/wipeClean) - 
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
@@ -3711,7 +3714,6 @@
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
 - [vbarbaresi/MetroGit](https://github.com/vbarbaresi/MetroGit) - Paris Metro lines on a Git graph
 - [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker for Codewars
@@ -3738,6 +3740,7 @@
 - [pires/kubernetes-elasticsearch-cluster](https://github.com/pires/kubernetes-elasticsearch-cluster) - Elasticsearch cluster on top of Kubernetes made easy.
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+- [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [buildkite/example-pipelines](https://github.com/buildkite/example-pipelines) - A list of all the example Buildkite pipelines for various tools, languages and frameworks
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
@@ -4280,7 +4283,6 @@
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [koenrh/delete-tweets](https://github.com/koenrh/delete-tweets) - Delete tweets from your timeline.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [confluentinc/kafka-images](https://github.com/confluentinc/kafka-images) - Confluent Docker images for Apache Kafka
 - [ZeroIntensity/pointers.py](https://github.com/ZeroIntensity/pointers.py) - Bringing the hell of pointers to Python.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
@@ -4827,6 +4829,7 @@
 
 ## Ruby 
 
+- [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL
 - [socketry/flappy-bird](https://github.com/socketry/flappy-bird) - 
 - [rswag/rswag](https://github.com/rswag/rswag) - Seamlessly adds a Swagger to Rails-based API's
 - [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby
@@ -5063,6 +5066,7 @@
 
 ## Rust 
 
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -6049,6 +6053,7 @@
 
 ## TypeScript 
 
+- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Mesh - The Graph of Everything - Federated architecture for any API service
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
@@ -6515,7 +6520,6 @@
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
-- [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify) - Use Spotify inside vscode(on Mac, Windows, and Linux).
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps

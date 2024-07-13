@@ -2127,7 +2127,6 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [njh/google-ipv6](https://github.com/njh/google-ipv6) - Per-country ranking table based on data from Google IPv6 Statistics page
-- [AwsGeek/aws-history](https://github.com/AwsGeek/aws-history) - 
 - [paquettg/php-html-parser](https://github.com/paquettg/php-html-parser) - An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.
 - [apilayer/geolocationapi](https://github.com/apilayer/geolocationapi) - IP Geolocation API is a free service for locating your visitors in real-time with detailed country information.
 - [la-rache/la-rache.com](https://github.com/la-rache/la-rache.com) - Site web
@@ -4829,6 +4828,7 @@
 
 ## Ruby 
 
+- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails
 - [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL
 - [socketry/flappy-bird](https://github.com/socketry/flappy-bird) - 
 - [rswag/rswag](https://github.com/rswag/rswag) - Seamlessly adds a Swagger to Rails-based API's
@@ -5066,6 +5066,7 @@
 
 ## Rust 
 
+- [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime) - 
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -6674,6 +6675,7 @@
 
 ## Vue 
 
+- [arnoclr/panam](https://github.com/arnoclr/panam) - Ⓜ️ Temps d'attente et info trafic de vos métros comme en gare
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma

@@ -188,6 +188,7 @@
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [dresden-elektronik/gcfflasher](https://github.com/dresden-elektronik/gcfflasher) - GCFFlasher is the tool to program the firmware of dresden elektronik's Zigbee products.
 - [Irqbalance/irqbalance](https://github.com/Irqbalance/irqbalance) - The irqbalance source tree - The new official site for irqbalance
+- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [collectd/collectd](https://github.com/collectd/collectd) - The system statistics collection daemon. Please send Pull Requests here!
 - [frank-w/BPI-Router-Linux](https://github.com/frank-w/BPI-Router-Linux) - Linux kernel 4.14+ for BPI-R2, 5.4+ for R64, 6.1+ for R2Pro and R3
 - [openwrt/mt76](https://github.com/openwrt/mt76) - mac80211 driver for MediaTek MT76x0e, MT76x2e, MT7603, MT7615, MT7628 and MT7688
@@ -1612,7 +1613,7 @@
 - [YoannMa/scaleway_exporter](https://github.com/YoannMa/scaleway_exporter) - Prometheus exporter for Scaleway Elements metrics (LB, Database).
 - [kirsch33/realip](https://github.com/kirsch33/realip) - realip module for Caddy v2
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
-- [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Crypto.org Chain⛓: Croeseid Testnet and beyond development
+- [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Cronos POS Chain⛓: Croeseid Testnet and beyond development
 - [nmapx/revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - An agent to enable remote management of your EC2 instances, on-premises servers, or virtual machines (VMs).
@@ -2725,7 +2726,7 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [evgeni/qifi](https://github.com/evgeni/qifi) - pure JS WiFi QR Code Generator
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
-- [Protoqol/Prequel](https://github.com/Protoqol/Prequel) - Prequel for Laravel. Clear and concise database management.
+- [Protoqol/Prequel](https://github.com/Protoqol/Prequel) - Prequel for Laravel. Clear and concise database management. Unfortunately, not actively maintained due to time constraints.
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [nzws/mastodon-custom-emoji-viewer](https://github.com/nzws/mastodon-custom-emoji-viewer) - 
 - [00-matt/node-fist](https://github.com/00-matt/node-fist) - Node.js client library for Fist full text search
@@ -3330,7 +3331,6 @@
 ## Makefile 
 
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issu
-- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [moul/http2curl](https://github.com/moul/http2curl) - :triangular_ruler: Convert Golang's http.Request to CURL command line
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker

@@ -1072,6 +1072,7 @@
 
 ## Go 
 
+- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song matching algorithm.
 - [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo
 - [pojntfx/multiplex](https://github.com/pojntfx/multiplex) - Watch torrents with your friends.
 - [qonto/standards-insights](https://github.com/qonto/standards-insights) - Ensure microservices are applying your latest standard to deliver consistent improvements across your organization

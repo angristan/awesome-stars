@@ -4913,7 +4913,7 @@
 - [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
 - [demarches-simplifiees/demarches-simplifiees.fr](https://github.com/demarches-simplifiees/demarches-simplifiees.fr) - Dématérialiser et simplifier les démarches administratives
 - [Shopify/bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster
-- [mcmire/super_diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
+- [jas14/super_diff](https://github.com/jas14/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [geon/geon.github.com](https://github.com/geon/geon.github.com) - This would be my website, I guess.
 - [rubocop/rubocop-rspec](https://github.com/rubocop/rubocop-rspec) - Code style checking for RSpec files.
 - [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers) - Keep your Selenium WebDrivers updated automatically

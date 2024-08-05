@@ -6143,7 +6143,7 @@
 - [moalamri/vscode-inline-fold](https://github.com/moalamri/vscode-inline-fold) - A custom decorator that "fold" matching content in single line
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
-- [irsyadadl/inertia.ts](https://github.com/irsyadadl/inertia.ts) - Inertia React with Typescript implementation.
+- [justdlabs/inertia.ts](https://github.com/justdlabs/inertia.ts) - Inertia React with Typescript implementation.
 - [mantinedev/ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev) - Mantine UI website and components
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web

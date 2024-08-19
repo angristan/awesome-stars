@@ -539,7 +539,7 @@
 - [haiwen/seafile-server](https://github.com/haiwen/seafile-server) - Seafile Server Core
 - [solus-project/linux-steam-integration](https://github.com/solus-project/linux-steam-integration) - Helper for enabling better Steam integration on Linux
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [CipherShed/CipherShed](https://github.com/CipherShed/CipherShed) - Main CipherShed Development
 - [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.

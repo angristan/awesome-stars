@@ -846,10 +846,10 @@
 - [BenoitPE/MyGESPlanning](https://github.com/BenoitPE/MyGESPlanning) - Ce repo est une application web semblable à celle de MyGES mais en plus légère L'application web permet d'éviter d’aller sur MyGES (qui est hors service régulièrement) et de récupérer directement les 
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
 - [ChristopherBiscardi/gatsby-starter-mdx-basic](https://github.com/ChristopherBiscardi/gatsby-starter-mdx-basic) - A minimal gatsby-mdx starter that only tries to set up config to work in src/pages.
 - [Fmstrat/diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
-- [QuickBox/club-QuickBox](https://github.com/QuickBox/club-QuickBox) - club-QuickBox is a fresh and modernized skin for rTorrent GUI, ruTorrent. This theme is featured on QuickBox and has been made exclusively for QuickBox.IO. Welcome to club-QuickBox!
 - [artyuum/3rd-party-rutorrent-themes](https://github.com/artyuum/3rd-party-rutorrent-themes) - A collection of 3rd party themes for ruTorrent found on the web.
 - [p-cauty/clic-attestation](https://github.com/p-cauty/clic-attestation) - 
 - [trwnh/mastomods](https://github.com/trwnh/mastomods) - CSS tweaks and custom themes for Mastodon.
@@ -1073,6 +1073,8 @@
 
 ## Go 
 
+- [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) - A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
+- [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
 - [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [vikstrous/dataloadgen](https://github.com/vikstrous/dataloadgen) - An implementation of Facebook's DataLoader in Go
@@ -2569,6 +2571,7 @@
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [ewoken/nuclear-monitor](https://github.com/ewoken/nuclear-monitor) - 
 - [Secretmapper/combustion](https://github.com/Secretmapper/combustion) - Combustion is a sleek, modern web interface for Transmission
+- [QuickBox/club-QuickBox](https://github.com/QuickBox/club-QuickBox) - club-QuickBox is a fresh and modernized skin for rTorrent GUI, ruTorrent. This theme is featured on QuickBox and has been made exclusively for QuickBox.IO. Welcome to club-QuickBox!
 - [khanhas/Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
 - [MathRobin/Never-Consent](https://github.com/MathRobin/Never-Consent) - Never consent to any GDPR consent management platform
 - [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
@@ -5397,7 +5400,6 @@
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 - [getzola/book](https://github.com/getzola/book) - Gitbook theme for Zola
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [getzola/after-dark](https://github.com/getzola/after-dark) - A dark theme for Zola
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification

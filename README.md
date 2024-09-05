@@ -1073,6 +1073,7 @@
 
 ## Go 
 
+- [olivere/elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
 - [connectrpc/grpchealth-go](https://github.com/connectrpc/grpchealth-go) - gRPC-compatible health checks for any net/http server.
 - [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) - A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
 - [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time

@@ -43,7 +43,6 @@
 - [Groff](#groff)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Hack](#hack)
 - [Haml](#haml)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
@@ -826,6 +825,7 @@
 - [primecoin/primecoin](https://github.com/primecoin/primecoin) - Primecoin - Cryptocurrency with Useful PoW Consensus
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
+- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [apache/incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod) - Apache module for rewriting web pages to reduce latency and bandwidth.
@@ -1009,7 +1009,6 @@
 - [carlossg/docker-maven](https://github.com/carlossg/docker-maven) - Official Docker image with Maven
 - [caesarnine/data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [ricardbejarano/nginx](https://github.com/ricardbejarano/nginx) - 🦅 Built-from-source container image of NGINX
-- [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [Poludo/docker-plex-remote-transcoder](https://github.com/Poludo/docker-plex-remote-transcoder) - Plex Media Server + Transcoder that can be deployed on remote nodes
 - [silvio/matrix-riot-docker](https://github.com/silvio/matrix-riot-docker) - riot.im webclient in a container
 - [AVENTER-UG/docker-matrix-riot](https://github.com/AVENTER-UG/docker-matrix-riot) - riot.im webclient in a container
@@ -2225,10 +2224,6 @@
 - [rapid7/hackazon](https://github.com/rapid7/hackazon) - A modern vulnerable web app
 - [mihneadb/no-nonsense](https://github.com/mihneadb/no-nonsense) - Fully featured, content-focused Ghost theme
 
-## Hack 
-
-- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
-
 ## Haml 
 
 - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
@@ -2591,7 +2586,7 @@
 - [smooth-code/smooth-ui](https://github.com/smooth-code/smooth-ui) - Modern React UI library 💅👩‍🎤🍭
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana + InfluxDB + Speedtest.net results
-- [song940/node-dns](https://github.com/song940/node-dns) - :globe_with_meridians:  DNS Server and Client Implementation in Pure JavaScript with no dependencies.
+- [lsongdev/node-dns](https://github.com/lsongdev/node-dns) - :globe_with_meridians:  DNS Server and Client Implementation in Pure JavaScript with no dependencies.
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [atomheartother/wanwan-html5](https://github.com/atomheartother/wanwan-html5) - HTML5 version of the flash animation WAN WAN INTENSIFIES.swf
 - [alias-rahil/handwritten.js](https://github.com/alias-rahil/handwritten.js) - Convert typed text to realistic handwriting!
@@ -5620,6 +5615,7 @@
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux (read-only mirror)
+- [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [docker-library/mysql](https://github.com/docker-library/mysql) - Docker Official Image packaging for MySQL Community Server
 - [corneliusweig/kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container

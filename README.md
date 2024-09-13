@@ -177,6 +177,7 @@
 
 ## C 
 
+- [Xinyuan-LilyGO/T-Display-S3-AMOLED](https://github.com/Xinyuan-LilyGO/T-Display-S3-AMOLED) - An upgraded version of T-Display-S3. It has a high-resolution color screen and more configurable GPIO ports. Enrich your needs.
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
@@ -5093,7 +5094,7 @@
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [beowolx/haiku-search](https://github.com/beowolx/haiku-search) - Haiku-Search is a high-performance fuzzy search library designed for web applications. It is built using Rust and compiled to WebAssembly
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.

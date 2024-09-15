@@ -2086,6 +2086,7 @@
 - [eidam/cf-workers-zero-trust-terraform-state](https://github.com/eidam/cf-workers-zero-trust-terraform-state) - Zero-Trust @HashiCorp Terraform state backend
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [knadh/dont.build](https://github.com/knadh/dont.build) - A simple, opinionated decision system to help decide whether to build a software feature or not.
+- [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
 - [lanlanblue/ikea-stock-notifier](https://github.com/lanlanblue/ikea-stock-notifier) - A notifier that lets users subscribe to their favorite IKEA products which are unavailable. This notifier will crawl the stock status every hour and notify users immediately once the products are back
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -2442,7 +2443,6 @@
 - [cloudflare/workers-chat-demo](https://github.com/cloudflare/workers-chat-demo) - 
 - [CorentinGC/reddit-place-kcorp](https://github.com/CorentinGC/reddit-place-kcorp) - UserScript de l'overlay de la KCorp pour le /r/place 2022
 - [JasonEtco/is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action) - 💖🔖 A GitHub Action that labels issues/PRs if the author sponsors the owner of the repo
-- [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
 - [fastmail/overture](https://github.com/fastmail/overture) - Overture is a powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.
 - [bitquant/amazon-s3](https://github.com/bitquant/amazon-s3) - 
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
@@ -5084,6 +5084,7 @@
 
 ## Rust 
 
+- [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [rafaelmardojai/share-preview](https://github.com/rafaelmardojai/share-preview) - Test social media cards locally
@@ -5749,7 +5750,7 @@
 - [geerlingguy/ansible-role-backup](https://github.com/geerlingguy/ansible-role-backup) - Ansible Role - Backup for simple servers
 - [peterhurford/git-it-on.zsh](https://github.com/peterhurford/git-it-on.zsh) - Quickly navigate GitHub from the command line.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -6078,7 +6079,7 @@
 ## TypeScript 
 
 - [sst/ion](https://github.com/sst/ion) - SST v3
-- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Minimal GraphQL client
+- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
@@ -6236,7 +6237,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [torifat/xiaomi-mi-air-purifier](https://github.com/torifat/xiaomi-mi-air-purifier) - Homebridge plugin for Xiaomi Mi Air Purifier
 - [daneden/photos.daneden.me](https://github.com/daneden/photos.daneden.me) - 📸 A React.js-based gallery of some of my favorite photos
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [squidjs/terminal](https://github.com/squidjs/terminal) - The extendible Shell and SSH terminal, with E2E encryption in the cloud.
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)

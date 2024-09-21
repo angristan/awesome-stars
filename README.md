@@ -5092,7 +5092,7 @@
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime) - Wakatime Client Plugin for Zed
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The GraphQL Federation platform
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash

@@ -212,7 +212,6 @@
 - [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) - Transpiling C code to Go code
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [bitly/simplehttp](https://github.com/bitly/simplehttp) - a family of libraries and daemons for building scalable web infrastructure
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [cirocosta/hello-world-lkm](https://github.com/cirocosta/hello-world-lkm) - A "hello-world" loadable kernel module
 - [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -543,7 +542,7 @@
 - [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
-- [JFreegman/toxic](https://github.com/JFreegman/toxic) - A Tox-based instant messaging and video chat client
+- [JFreegman/toxic](https://github.com/JFreegman/toxic) - A Tox-based instant messaging and video chat client.
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
@@ -636,6 +635,7 @@
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [apiaryio/drafter](https://github.com/apiaryio/drafter) - API Blueprint Parser (C++)
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
@@ -2786,7 +2786,6 @@
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 - [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-- [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - Web-based CIDR / netmask / IP address visualizer
 - [danielrw7/lastfm-batch-edit](https://github.com/danielrw7/lastfm-batch-edit) - Batch edit scrobbles in last.fm
 - [nextcloud/files_rightclick](https://github.com/nextcloud/files_rightclick) - 👉 Right click menu for Nextcloud
 - [meganz/webclient](https://github.com/meganz/webclient) - The mega.nz web client
@@ -3071,6 +3070,7 @@
 - [TryGhost/Ghost-CLI](https://github.com/TryGhost/Ghost-CLI) - CLI Tool for installing & updating Ghost
 - [nextcloud/weather](https://github.com/nextcloud/weather) - ⛅️ Weather app for Nextcloud
 - [westberliner/checksum](https://github.com/westberliner/checksum) - Plugin for Nextcloud and ownCloud to create hashes of files.
+- [nextcloud/unsplash](https://github.com/nextcloud/unsplash) - 📸🔀☁️ Random Nextcloud log in background from Unsplash
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
 - [nextcloud/documents](https://github.com/nextcloud/documents) - 💀 Nextcloud Documents is 💀 DEPRECATED 💀 UNDEAD 💀 collaborative editing of rich-text documents.
@@ -4088,7 +4088,6 @@
 - [KyranRana/cloudflare-bypass](https://github.com/KyranRana/cloudflare-bypass) - A new and improved PHP library which bypasses the Cloudflare IUAM page using cURL
 - [nextcloud/dashboard](https://github.com/nextcloud/dashboard) - ARCHIVED, new Dashboard is in the server
 - [gino0631/nextcloud-metadata](https://github.com/gino0631/nextcloud-metadata) - A Nextcloud plugin for displaying file metadata.
-- [nextcloud/unsplash](https://github.com/nextcloud/unsplash) - 📸🔀☁️ Random Nextcloud log in background from Unsplash
 - [nextcloud/ransomware_protection](https://github.com/nextcloud/ransomware_protection) - An app that prevents uploading files that have names that are linked to known ransomware
 - [pawelrojek/nextcloud-drawio](https://github.com/pawelrojek/nextcloud-drawio) - Draw.io intergration app
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
@@ -6509,6 +6508,7 @@
 - [dreamerslab/node.inflection](https://github.com/dreamerslab/node.inflection) - A port of inflection-js to node.js module
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [kokororin/vscode-phpfmt](https://github.com/kokororin/vscode-phpfmt) - Integrates phpfmt into VS Code
+- [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - Web-based CIDR / netmask / IP address visualizer
 - [xdebug/vscode-php-debug](https://github.com/xdebug/vscode-php-debug) - PHP Debug Adapter for Visual Studio Code 🐞⛔
 - [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
 - [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform) - HashiCorp Terraform VSCode extension

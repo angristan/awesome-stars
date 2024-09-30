@@ -874,7 +874,6 @@
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [widget-/slack-black-theme](https://github.com/widget-/slack-black-theme) - A darker, more contrasty, Slack theme.
 - [caddyserver/examples](https://github.com/caddyserver/examples) - OBSOLETE. This repo was for Caddy v1. For v2 and newer, see our forum's wiki category.
-- [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [nodeschool/paris](https://github.com/nodeschool/paris) - Chapitre parisien de NodeSchool
 - [nabla-containers/nabla-containers.github.io](https://github.com/nabla-containers/nabla-containers.github.io) - Nabla Containers blog
@@ -2988,7 +2987,7 @@
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [pfn/keepasshttp](https://github.com/pfn/keepasshttp) - KeePass plugin to expose password entries securely (256bit AES/CBC) over HTTP
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
@@ -5237,7 +5236,7 @@
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [rambler-digital-solutions/actix-web-validator](https://github.com/rambler-digital-solutions/actix-web-validator) - Rust library for providing validation mechanism to actix-web with Validator crate.
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source. —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [lucky/bad_actor_poc](https://github.com/lucky/bad_actor_poc) - 
@@ -6535,6 +6534,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [buttercup/buttercup-mobile](https://github.com/buttercup/buttercup-mobile) - :iphone: React-Native mobile application for Buttercup
 - [buttercup/buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension
+- [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web

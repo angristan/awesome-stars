@@ -431,7 +431,6 @@
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [steshaw/gtk-examples](https://github.com/steshaw/gtk-examples) - Examples from "Developing Linux Applications with GTK+ and GDK" by Eric Harlow
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
 - [tokers/zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression
 - [relan/exfat](https://github.com/relan/exfat) - Free exFAT file system implementation
@@ -577,7 +576,6 @@
 - [cjmanca/plex-credits-detect](https://github.com/cjmanca/plex-credits-detect) - Augments plex's built in intro detection, additionally detecting credits.
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
 - [jellyfin/jellyfin-plugin-playbackreporting](https://github.com/jellyfin/jellyfin-plugin-playbackreporting) - Playback Statistics Plugin for Jellyfin
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 - [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
@@ -2830,6 +2828,7 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [lebab/lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.
 - [cjgammon/diving-in](https://github.com/cjgammon/diving-in) - Diving in Tutorial Examples
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
@@ -3330,7 +3329,6 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation) - https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
@@ -4224,6 +4222,8 @@
 
 ## Python 
 
+- [jameno/Simple-Apple-Health-XML-to-CSV](https://github.com/jameno/Simple-Apple-Health-XML-to-CSV) - A simple script to convert all records from an Apple Health 'export.xml' file into a csv
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [JohnScolaro/active-statistics](https://github.com/JohnScolaro/active-statistics) - Open Source Strava Data Visualisation
 - [savdagod/TidbytAssistant](https://github.com/savdagod/TidbytAssistant) - Send custom apps, notifications or plain text to a Tidbyt device from HomeAssistant!
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
@@ -4843,6 +4843,8 @@
 
 ## Ruby 
 
+- [lostisland/faraday](https://github.com/lostisland/faraday) - Simple, but flexible HTTP client library, with support for multiple backends.
+- [arthurnn/twirp-ruby](https://github.com/arthurnn/twirp-ruby) - Twirp services in Ruby
 - [ruby-concurrency/concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails
 - [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL
@@ -5236,7 +5238,7 @@
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [rambler-digital-solutions/actix-web-validator](https://github.com/rambler-digital-solutions/actix-web-validator) - Rust library for providing validation mechanism to actix-web with Validator crate.
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source. —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [lucky/bad_actor_poc](https://github.com/lucky/bad_actor_poc) - 
@@ -6248,6 +6250,7 @@
 - [pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - :pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [kyleawayan/vintage-influxdb](https://github.com/kyleawayan/vintage-influxdb) - Record your Spotify listening data on InfluxDB.
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
@@ -6534,7 +6537,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [buttercup/buttercup-mobile](https://github.com/buttercup/buttercup-mobile) - :iphone: React-Native mobile application for Buttercup
 - [buttercup/buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension
-- [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
+- [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API documentation
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web

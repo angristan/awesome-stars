@@ -1075,6 +1075,7 @@
 
 ## Go 
 
+- [vektah/gqlparser](https://github.com/vektah/gqlparser) - A port of the parser from graphql-js into golang
 - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 - [connectrpc/validate-go](https://github.com/connectrpc/validate-go) - Flexible, efficient request validation for Connect.
 - [connectrpc/otelconnect-go](https://github.com/connectrpc/otelconnect-go) - OpenTelemetry tracing and metrics for Connect.
@@ -2033,7 +2034,6 @@
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
 - [cloudflare/tls-tris](https://github.com/cloudflare/tls-tris) - crypto/tls, now with 100% more 1.3. THE API IS NOT STABLE AND DOCUMENTATION IS NOT GUARANTEED.
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
-- [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
 - [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
 - [benjojo/totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level (this is a bad idea, don't really use this please)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -2591,6 +2591,7 @@
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana + InfluxDB + Speedtest.net results
 - [lsongdev/node-dns](https://github.com/lsongdev/node-dns) - :globe_with_meridians:  DNS Server and Client Implementation in Pure JavaScript with no dependencies.
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [atomheartother/wanwan-html5](https://github.com/atomheartother/wanwan-html5) - HTML5 version of the flash animation WAN WAN INTENSIFIES.swf
 - [alias-rahil/handwritten.js](https://github.com/alias-rahil/handwritten.js) - Convert typed text to realistic handwriting!
 - [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
@@ -3244,7 +3245,6 @@
 
 ## Julia 
 
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 
 ## Jupyter Notebook 
@@ -5300,7 +5300,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [alex/just-use](https://github.com/alex/just-use) - Just Use /dev/urandom -- now with more safety at early boot
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [woubuc/sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds
 - [twilco/kosmonaut](https://github.com/twilco/kosmonaut) - A web browser engine for the space age :rocket:
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
@@ -6642,6 +6642,7 @@
 - [FullScreenShenanigans/FullScreenPokemon](https://github.com/FullScreenShenanigans/FullScreenPokemon) - A free HTML5 remake of the original Pokemon, expanded for modern browsing.
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 - [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
+- [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [bnjjj/my-infra](https://github.com/bnjjj/my-infra) - My infra is a mobile application to manage some of the OVH products and services.

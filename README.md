@@ -1577,7 +1577,7 @@
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [itchyny/timefmt-go](https://github.com/itchyny/timefmt-go) - Efficient time formatting library (strftime, strptime) for Golang
 - [scotwells/prometheus-by-example](https://github.com/scotwells/prometheus-by-example) - Examples of adding Prometheus Monitoring to your Golang applications 📈
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [gonetx/httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
 - [philippta/web-frontend-demo](https://github.com/philippta/web-frontend-demo) - 
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
@@ -1653,7 +1653,7 @@
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
 - [julieqiu/opensourcelive](https://github.com/julieqiu/opensourcelive) - [Tutorial] Level Up: Go Package Discovery and editor tooling
-- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
+- [prometheus/OpenMetrics](https://github.com/prometheus/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [lithdew/reliable](https://github.com/lithdew/reliable) - A reliability layer for UDP connections in Go.
@@ -2716,7 +2716,7 @@
 - [harthur/clustering](https://github.com/harthur/clustering) - K-means and hierarchical clustering
 - [xanderlewis/colour-palettes](https://github.com/xanderlewis/colour-palettes) - Generate colour palettes from an image. 🎨
 - [colorjs/color-namer](https://github.com/colorjs/color-namer) - :art: Give me a color and I'll name it.
-- [derogab/coingraph](https://github.com/derogab/coingraph) - Coingraph is a real-time graph for cryptocurrencies.
+- [derogab/coingraph](https://github.com/derogab/coingraph) - Coingraph is a real-time graph for cryptocurrencies that fetches real-time cryptocurrency prices, saves the data offline in a JSON file at regular intervals, and displays it through a minimalistic gra
 - [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
 - [realdennis/md2pdf](https://github.com/realdennis/md2pdf) - Offline markdown to pdf, choose -&gt; edit -&gt; transform 🥂
 - [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - :octocat: Deploy your Ghost theme with Github Actions
@@ -3323,6 +3323,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
+- [dougblack/dotfiles](https://github.com/dougblack/dotfiles) - Config files.
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [blankoworld/makefly](https://github.com/blankoworld/makefly) - [ABANDONNED] Makefly is a fast and lightweight command line alternative to Nanoblogger static weblog engine
@@ -4850,6 +4851,7 @@
 
 ## Ruby 
 
+- [lostisland/faraday-retry](https://github.com/lostisland/faraday-retry) - Catches exceptions and retries each request a limited number of times
 - [rubysherpas/paranoia](https://github.com/rubysherpas/paranoia) - acts_as_paranoid for Rails 5, 6 and 7
 - [lostisland/faraday](https://github.com/lostisland/faraday) - Simple, but flexible HTTP client library, with support for multiple backends.
 - [arthurnn/twirp-ruby](https://github.com/arthurnn/twirp-ruby) - Twirp services in Ruby
@@ -6695,7 +6697,6 @@
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [sjl/badwolf](https://github.com/sjl/badwolf) - A Vim color scheme.
-- [dougblack/dotfiles](https://github.com/dougblack/dotfiles) - Config files.
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [dylanaraps/dotfiles](https://github.com/dylanaraps/dotfiles) - 🍙 dotfiles

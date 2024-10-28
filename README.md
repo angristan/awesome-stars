@@ -91,6 +91,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Solidity](#solidity)
 - [SourcePawn](#sourcepawn)
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
@@ -195,7 +196,7 @@
 - [openwrt/mt76](https://github.com/openwrt/mt76) - mac80211 driver for MediaTek MT76x0e, MT76x2e, MT7603, MT7615, MT7628 and MT7688
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [FrameOS/frameos](https://github.com/FrameOS/frameos) - Operating system for single function smart frames
-- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
+- [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
@@ -622,7 +623,7 @@
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [improv-wifi/sdk-cpp](https://github.com/improv-wifi/sdk-cpp) - 
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
 - [tomba/kmsxx](https://github.com/tomba/kmsxx) - KMS++: C++17 library, utilities and python bindings for Linux kernel mode setting
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -1075,6 +1076,7 @@
 
 ## Go 
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - gqlfmt formats your GraphQL files. like gofmt.
 - [Yamashou/gqlgenc](https://github.com/Yamashou/gqlgenc) - This is Go library for building GraphQL client with gqlgen
 - [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
@@ -1307,7 +1309,7 @@
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [xperimental/netatmo-exporter](https://github.com/xperimental/netatmo-exporter) - Prometheus exporter for Netatmo sensor data.
-- [quentinselle/velib-exporter](https://github.com/quentinselle/velib-exporter) - An exporter for velib-metropole.fr to track my rides.
+- [qselle/velib-exporter](https://github.com/qselle/velib-exporter) - An exporter for velib-metropole.fr to track my rides.
 - [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
@@ -2247,6 +2249,7 @@
 - [honest-technology/api.unverified.email](https://github.com/honest-technology/api.unverified.email) - A service to help with testing of sending the right emails
 - [Xetera/placewaifu](https://github.com/Xetera/placewaifu) - 🎀 An incredibly cute placeholder service
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [radicle-dev/radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
 - [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
@@ -2291,7 +2294,7 @@
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [sstrickx/yahoofinance-api](https://github.com/sstrickx/yahoofinance-api) - Java Client API for Yahoo Finance
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
@@ -2358,7 +2361,7 @@
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [Samourai-Wallet/samourai-wallet-android](https://github.com/Samourai-Wallet/samourai-wallet-android) - Bitcoin Wallet strongly focused on privacy when transacting on the bitcoin network
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [collicalex/JPEGOptimizer](https://github.com/collicalex/JPEGOptimizer) - Reduce jpeg size without lossing visual quality!
 - [stephane-rbn/ChristmasTree](https://github.com/stephane-rbn/ChristmasTree) - How to build a kawai Christmas tree
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
@@ -2452,7 +2455,6 @@
 - [fastmail/overture](https://github.com/fastmail/overture) - Overture is a powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.
 - [bitquant/amazon-s3](https://github.com/bitquant/amazon-s3) - 
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [francoismari/elyze](https://github.com/francoismari/elyze) - 
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -2603,7 +2605,7 @@
 - [all-contributors/cli](https://github.com/all-contributors/cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
 - [viorelsfetea/commenter](https://github.com/viorelsfetea/commenter) - A web-extension that takes the URL you're visiting and searches submissions on other websites.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [binance-academy/slugify](https://github.com/binance-academy/slugify) - Generate a slug from a string
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [sand-lang/playground](https://github.com/sand-lang/playground) - Sand interractive playground
@@ -3422,7 +3424,6 @@
 - [NixOS/aarch64-build-box](https://github.com/NixOS/aarch64-build-box) - Config for the Community aarch64 NixOS box
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [primeos/nixos-slides](https://github.com/primeos/nixos-slides) - Slides for a Nix(OS) presentation
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [nh2/nixops-tutorial](https://github.com/nh2/nixops-tutorial) - Tutorial for practical deployments with NixOps
 - [justinwoo/format-nix](https://github.com/justinwoo/format-nix) - A simple formatter for Nix using tree-sitter-nix.
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
@@ -3507,6 +3508,7 @@
 
 ## Others 
 
+- [paseto-standard/paseto-spec](https://github.com/paseto-standard/paseto-spec) - Specification for Platform Agnostic SEcurity TOkens (PASETO)
 - [dariusz-wozniak/awesome-strava](https://github.com/dariusz-wozniak/awesome-strava) - A curated list of awesome Strava tools & resources
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
@@ -4360,7 +4362,7 @@
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [Alfex4936/python-bigO-calculator](https://github.com/Alfex4936/python-bigO-calculator) - Python sorting functions time complexity calculator
 - [Fumaz/haveibeenfacebooked-api](https://github.com/Fumaz/haveibeenfacebooked-api) - 
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -4678,7 +4680,7 @@
 - [apg-intel/ipv6tools](https://github.com/apg-intel/ipv6tools) - IPv6Tools is a robust modular framework that enables the ability to visually audit an IPv6 enabled network.
 - [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
-- [googlefonts/roboto](https://github.com/googlefonts/roboto) - The Roboto family of fonts
+- [googlefonts/roboto-2](https://github.com/googlefonts/roboto-2) - The Roboto family of fonts
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [SublimeGit/SublimeGit](https://github.com/SublimeGit/SublimeGit) - Git integration for Sublime Text 2 and 3
 - [anforaProject/anfora](https://github.com/anforaProject/anfora) - 🏺 Self-hosted photo gallery social network. Under development
@@ -5548,7 +5550,7 @@
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [rikumi/iconsur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator
 - [tianon/docker-brew-ubuntu-core](https://github.com/tianon/docker-brew-ubuntu-core) - DEPRECATED; see https://github.com/tianon/docker-brew-ubuntu-core/pull/248
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [simnalamburt/cgitc](https://github.com/simnalamburt/cgitc) - :shipit: Close Git Combat
@@ -5887,6 +5889,10 @@
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [LevelUpEducation/kubernetes-demo](https://github.com/LevelUpEducation/kubernetes-demo) - 
 
+## Solidity 
+
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+
 ## SourcePawn 
 
 - [Maxximou5/csgo-deathmatch](https://github.com/Maxximou5/csgo-deathmatch) - Enables deathmatch style gameplay (respawning, gun selection, spawn protection, etc).
@@ -5921,7 +5927,7 @@
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [aheze/Setting](https://github.com/aheze/Setting) - Compose beautiful preference panels.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [2009-Nissan-Cube/About-This-Hack](https://github.com/2009-Nissan-Cube/About-This-Hack) - Discover your hardware on macOS with this simple, user-friendly hardware info app that retains the beloved design language of the classic 'About This Mac' interface, while gaining access to a wealth o
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [lovetodream/gitimoji](https://github.com/lovetodream/gitimoji) - Gitimoji is a Gitmoji App for macOS
@@ -6089,7 +6095,7 @@
 
 ## TypeScript 
 
-- [sst/ion](https://github.com/sst/ion) - SST v3
+- [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
 - [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs

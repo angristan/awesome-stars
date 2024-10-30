@@ -599,7 +599,7 @@
 - [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [koush/UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
 - [skid9000/Crunchyroll-Downloader](https://github.com/skid9000/Crunchyroll-Downloader) - A little GUI to download crap from crunchyroll.
-- [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
+- [OhhSoWzrd/FileMasta](https://github.com/OhhSoWzrd/FileMasta) - A search application to explore, discover and share online files
 - [mike-ward/Markdown-Edit](https://github.com/mike-ward/Markdown-Edit) - My attempt at a markdown editor for windows
 - [navossoc/KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [x64architecture/wnmp](https://github.com/x64architecture/wnmp) - An easy Nginx, MariaDB and PHP environment for Windows.
@@ -1714,7 +1714,7 @@
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [lqez/awesome-hangul](https://github.com/lqez/awesome-hangul) - An awesome list of Hangul/Korean related libraries and modules
-- [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy!
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [kalbhor/tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
@@ -1757,7 +1757,6 @@
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
-- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [gomodule/redigo](https://github.com/gomodule/redigo) - Go client for Redis
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
@@ -1958,7 +1957,6 @@
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider
@@ -2357,8 +2355,6 @@
 - [ukanth/afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android
 - [AnalyseSI/AnalyseSI](https://github.com/AnalyseSI/AnalyseSI) - 
 - [TryGhost/Ghost-Android](https://github.com/TryGhost/Ghost-Android) - 🤖 Ghost for Android
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [Samourai-Wallet/samourai-wallet-android](https://github.com/Samourai-Wallet/samourai-wallet-android) - Bitcoin Wallet strongly focused on privacy when transacting on the bitcoin network
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
@@ -2390,6 +2386,7 @@
 - [bboyairwreck/PieMessage](https://github.com/bboyairwreck/PieMessage) - This is project allows Android clients to communicate using iMessage
 - [haiwen/seadroid](https://github.com/haiwen/seadroid) - Android client for Seafile
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
+- [SilenceIM/Silence](https://github.com/SilenceIM/Silence) - PROJECT MOVED: https://git.silence.dev/Silence/Silence-Android/ (GitHub is just a mirror.)
 - [brave/link-bubble](https://github.com/brave/link-bubble) - Brave Link Bubble Browser
 - [ValQuev/MyPOV](https://github.com/ValQuev/MyPOV) - Projet tutoré S3 de l'IUT de Laval du crew
 - [dropbox/hackpad](https://github.com/dropbox/hackpad) - Hackpad is a web-based realtime wiki.
@@ -2683,7 +2680,7 @@
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
 - [budui/go-isso](https://github.com/budui/go-isso) - a commenting server similar to Disqus - rewrite isso with golang
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - Web Client for Jellyfin
@@ -5551,7 +5548,7 @@
 - [rikumi/iconsur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator
 - [tianon/docker-brew-ubuntu-core](https://github.com/tianon/docker-brew-ubuntu-core) - DEPRECATED; see https://github.com/tianon/docker-brew-ubuntu-core/pull/248
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [simnalamburt/cgitc](https://github.com/simnalamburt/cgitc) - :shipit: Close Git Combat
 - [simnalamburt/shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
@@ -5918,6 +5915,7 @@
 
 ## Swift 
 
+- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale) - Metal-powered video upscaling
 - [anyproto/anytype-swift](https://github.com/anyproto/anytype-swift) - Official Anytype client for iOS
@@ -6095,6 +6093,7 @@
 
 ## TypeScript 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
 - [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...
@@ -6321,7 +6320,6 @@
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - A nestjs module that provide a cli to your application.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
-- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [remjx/coindrop](https://github.com/remjx/coindrop) - Create a custom webpage for zero-fee payments/donations/tips

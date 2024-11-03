@@ -183,7 +183,7 @@
 - [Xinyuan-LilyGO/T-Display-S3-AMOLED](https://github.com/Xinyuan-LilyGO/T-Display-S3-AMOLED) - An upgraded version of T-Display-S3. It has a high-resolution color screen and more configurable GPIO ports. Enrich your needs.
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [fairecasoimeme/ZiPulses](https://github.com/fairecasoimeme/ZiPulses) - Pulses Zigbee sensor to capture Gazpar or water counter
 - [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
@@ -599,7 +599,7 @@
 - [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [koush/UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
 - [skid9000/Crunchyroll-Downloader](https://github.com/skid9000/Crunchyroll-Downloader) - A little GUI to download crap from crunchyroll.
-- [OhhSoWzrd/FileMasta](https://github.com/OhhSoWzrd/FileMasta) - A search application to explore, discover and share online files
+- [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
 - [mike-ward/Markdown-Edit](https://github.com/mike-ward/Markdown-Edit) - My attempt at a markdown editor for windows
 - [navossoc/KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [x64architecture/wnmp](https://github.com/x64architecture/wnmp) - An easy Nginx, MariaDB and PHP environment for Windows.
@@ -3609,7 +3609,6 @@
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - The previous version of Pyston, a faster implementation of the Python programming language.  Please use this link for the new repository:
 - [738/awesome-sushi](https://github.com/738/awesome-sushi) - 🍣 국내 스시 오마카세 맛집 리스트
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [MuxaJlbl4/Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita
 - [ttohin/tdesktop-gruvbox-dark-medium](https://github.com/ttohin/tdesktop-gruvbox-dark-medium) - Telegram Desktop Gruvbox dark (medium) Theme.
 - [climate-strike/license](https://github.com/climate-strike/license) - Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.
@@ -4231,6 +4230,7 @@
 
 ## Python 
 
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
 - [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
 - [NabuCasa/snitun](https://github.com/NabuCasa/snitun) - End-to-End encryption with SNI proxy on top of a TCP multiplexer
 - [jameno/Simple-Apple-Health-XML-to-CSV](https://github.com/jameno/Simple-Apple-Health-XML-to-CSV) - A simple script to convert all records from an Apple Health 'export.xml' file into a csv
@@ -4627,7 +4627,7 @@
 - [pereorga/csvfaker](https://github.com/pereorga/csvfaker) - Generate CSV files with fake data from the command line
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [jobroche/libssh-scanner](https://github.com/jobroche/libssh-scanner) - Script to identify hosts vulnerable to CVE-2018-10933
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
 - [ansible/galaxy](https://github.com/ansible/galaxy) - Legacy Galaxy still available as read-only on  https://old-galaxy.ansible.com - looking for the new galaxy -&gt; https://github.com/ansible/galaxy_ng
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -4853,6 +4853,7 @@
 
 ## Ruby 
 
+- [rails-api/active_model_serializers](https://github.com/rails-api/active_model_serializers) - ActiveModel::Serializer implementation and Rails hooks
 - [lostisland/faraday-retry](https://github.com/lostisland/faraday-retry) - Catches exceptions and retries each request a limited number of times
 - [rubysherpas/paranoia](https://github.com/rubysherpas/paranoia) - acts_as_paranoid for Rails 5, 6 and 7
 - [lostisland/faraday](https://github.com/lostisland/faraday) - Simple, but flexible HTTP client library, with support for multiple backends.
@@ -5246,7 +5247,7 @@
 - [tailhook/self-meter](https://github.com/tailhook/self-meter) - A tiny library to measure resource usage of the process it's used in
 - [hpjansson/fornalder](https://github.com/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [rambler-digital-solutions/actix-web-validator](https://github.com/rambler-digital-solutions/actix-web-validator) - Rust library for providing validation mechanism to actix-web with Validator crate.
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
@@ -5922,7 +5923,7 @@
 - [huggingface/swift-chat](https://github.com/huggingface/swift-chat) - Mac app to demonstrate swift-transformers
 - [lukepistrol/TimeMachineStatus](https://github.com/lukepistrol/TimeMachineStatus) - TimeMachineStatus is a little menu bar application for macOS which aims to show more useful information than the system default.
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [aheze/Setting](https://github.com/aheze/Setting) - Compose beautiful preference panels.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -6093,6 +6094,8 @@
 
 ## TypeScript 
 
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
+- [microsoft/vscode-data-analysis-for-copilot](https://github.com/microsoft/vscode-data-analysis-for-copilot) - 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
 - [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.

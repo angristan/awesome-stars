@@ -1081,6 +1081,7 @@
 
 ## Go 
 
+- [PeterKwesiAnsah/bitty](https://github.com/PeterKwesiAnsah/bitty) - A bitTorrent client built from scratch using Go.
 - [DataDog/jsonapi](https://github.com/DataDog/jsonapi) - A marshaler/unmarshaler for JSON:API.
 - [jesusprubio/up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection
 - [chengjiagan/twirp-opentelemetry](https://github.com/chengjiagan/twirp-opentelemetry) - Simple OpenTelemetry hooks for Twirp
@@ -3788,7 +3789,7 @@
 - [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
 - [denji/nginx-tuning](https://github.com/denji/nginx-tuning) - NGINX tuning for best performance
 - [selfagency/microsoft-drop-ice](https://github.com/selfagency/microsoft-drop-ice) - Tell Microsoft to drop ICE as a client or lose us as GitHub users
-- [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - macFUSE umbrella repository
+- [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [upend/IF_MS_BUYS_GITHUB_IMMA_OUT](https://github.com/upend/IF_MS_BUYS_GITHUB_IMMA_OUT) - GitHub has sold us out. Time to get out.
 - [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
@@ -3900,6 +3901,7 @@
 
 ## PHP 
 
+- [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda
 - [mateusjunges/laravel-kafka](https://github.com/mateusjunges/laravel-kafka) - Use Kafka Producers and Consumers in your laravel app with ease!
 - [hirethunk/verbs](https://github.com/hirethunk/verbs) - Verbs is an event sourcing package for PHP artisans
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure.

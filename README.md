@@ -180,6 +180,7 @@
 
 - [laravel-frontend-presets/tall](https://github.com/laravel-frontend-presets/tall) - A TALL (Tailwind CSS, Alpine.js, Laravel and Livewire) Preset for Laravel
 - [laravel/laravel.com](https://github.com/laravel/laravel.com) - The source code of the official Laravel website.
+- [firevel/firevel](https://github.com/firevel/firevel) - 100% serverless Laravel Framework
 
 ## C 
 
@@ -628,7 +629,7 @@
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [improv-wifi/sdk-cpp](https://github.com/improv-wifi/sdk-cpp) - 
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
 - [tomba/kmsxx](https://github.com/tomba/kmsxx) - KMS++: C++17 library, utilities and python bindings for Linux kernel mode setting
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -1081,6 +1082,7 @@
 
 ## Go 
 
+- [orsinium-labs/valdo](https://github.com/orsinium-labs/valdo) - ✅ Go package for validating JSON. It's the first Go package that can generate JSON Schema (OpeanAPI-compatible), produces user-friendly errors, and supports translations.
 - [PeterKwesiAnsah/bitty](https://github.com/PeterKwesiAnsah/bitty) - A bitTorrent client built from scratch using Go.
 - [DataDog/jsonapi](https://github.com/DataDog/jsonapi) - A marshaler/unmarshaler for JSON:API.
 - [jesusprubio/up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection
@@ -1778,7 +1780,7 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [vrongmeal/caddygit](https://github.com/vrongmeal/caddygit) - Git module for Caddy v2
 - [derekparker/delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 - [scaleway/c14-cli](https://github.com/scaleway/c14-cli) - [EOL] 💻  Manage your C14 Online Cold Storage  from Command Line
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
@@ -1829,7 +1831,7 @@
 - [automaticserver/lxe](https://github.com/automaticserver/lxe) - Kubernetes CRI shim for lxd. Initially contributed by Automatic Server AG (http://www.automatic-server.com)
 - [jzelinskie/faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ -- process various formats with libjq
 - [OperatorFoundation/shapeshifter-dispatcher](https://github.com/OperatorFoundation/shapeshifter-dispatcher) - Shapeshifter Dispatcher converts Pluggable Transports that implement the Go API from the Pluggable Transports 2.1 specification into proxies usable by applications. Several proxy modes are provided, i
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [munnerz/kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -2674,7 +2676,7 @@
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines
 - [pinojs/pino-http](https://github.com/pinojs/pino-http) - 🌲 high-speed HTTP logger for Node.js
 - [richardschneider/express-mung](https://github.com/richardschneider/express-mung) - Express response transformations (or make until no good)
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
+- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (In Maintenance Mode, End-of-Life on 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/a
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [mikenicholson/passport-jwt](https://github.com/mikenicholson/passport-jwt) - Passport authentication using JSON Web Tokens
@@ -3999,7 +4001,6 @@
 - [Imangazaliev/DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser
 - [binarycabin/laravel-uuid](https://github.com/binarycabin/laravel-uuid) - A wrapper for webpatser/laravel-uuid with additional integration
 - [webpatser/laravel-uuid](https://github.com/webpatser/laravel-uuid) - Laravel package to generate and to validate a UUID according to the RFC 4122 standard. Only support for version 1, 3, 4 and 5 UUID are built-in.
-- [firevel/firevel](https://github.com/firevel/firevel) - 100% serverless Laravel Framework
 - [bugsnag/bugsnag-laravel](https://github.com/bugsnag/bugsnag-laravel) - BugSnag notifier for the Laravel PHP framework. Monitor and report Laravel errors.
 - [DaltonWebDev/console.chat](https://github.com/DaltonWebDev/console.chat) - A chat room inside your browser's console.
 - [PhpUnitsOfMeasure/php-units-of-measure](https://github.com/PhpUnitsOfMeasure/php-units-of-measure) - A library for handling physical quantities and the units of measure in which they're represented.
@@ -4206,7 +4207,7 @@
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [richardforth/apache2buddy](https://github.com/richardforth/apache2buddy) - apache2buddy
-- [KTamas/pflogsumm](https://github.com/KTamas/pflogsumm) - NOT MAINTAINED
+- [sarahkadar/pflogsumm](https://github.com/sarahkadar/pflogsumm) - NOT MAINTAINED
 - [scanterog/munin-plugin-docker](https://github.com/scanterog/munin-plugin-docker) - Munin plugin for monitoring docker container memory and CPU usage
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
@@ -4228,7 +4229,6 @@
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [hahndorf/Set-Privacy](https://github.com/hahndorf/Set-Privacy) - PowerShell script to batch-change privacy settings in Windows 10
 
 ## Prolog 
@@ -4243,6 +4243,7 @@
 
 ## Python 
 
+- [SolaWing/xcode-build-server](https://github.com/SolaWing/xcode-build-server) - a build server protocol implementation for integrate xcode with sourcekit-lsp
 - [ssenart/PyGazpar](https://github.com/ssenart/PyGazpar) - Python library to download gas consumption from a Grdf account
 - [ssenart/home-assistant-gazpar](https://github.com/ssenart/home-assistant-gazpar) - GrDF Gazpar meter integration for Home Assistant
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
@@ -4545,7 +4546,7 @@
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [gentoo/portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
-- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [wakatime/legacy-python-cli](https://github.com/wakatime/legacy-python-cli) - Command line interface used by all WakaTime text editor plugins.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
@@ -4567,7 +4568,7 @@
 - [archf/ansidoc](https://github.com/archf/ansidoc) - A simple tool to generate Ansible roles' documentation
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [alcarithemad/zfsp](https://github.com/alcarithemad/zfsp) - ZFS, in Python, without reading the original C.
 - [sdushantha/insta-dl](https://github.com/sdushantha/insta-dl) - 📷 Download Instagram images from a public user.
 - [corrad1nho/qomui](https://github.com/corrad1nho/qomui) - Qomui (Qt OpenVPN Management UI)
@@ -4695,6 +4696,7 @@
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [googlefonts/roboto-2](https://github.com/googlefonts/roboto-2) - The Roboto family of fonts
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [SublimeGit/SublimeGit](https://github.com/SublimeGit/SublimeGit) - Git integration for Sublime Text 2 and 3
 - [anforaProject/anfora](https://github.com/anforaProject/anfora) - 🏺 Self-hosted photo gallery social network. Under development
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -4869,6 +4871,7 @@
 
 ## Ruby 
 
+- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) - A pure Ruby code highlighter that is compatible with Pygments
 - [rails-api/active_model_serializers](https://github.com/rails-api/active_model_serializers) - ActiveModel::Serializer implementation and Rails hooks
 - [lostisland/faraday-retry](https://github.com/lostisland/faraday-retry) - Catches exceptions and retries each request a limited number of times
 - [rubysherpas/paranoia](https://github.com/rubysherpas/paranoia) - acts_as_paranoid for Rails 5, 6 and 7
@@ -4962,7 +4965,7 @@
 - [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [DatabaseCleaner/database_cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Strategies for cleaning databases in Ruby.  Can be used to ensure a clean state for testing.
 - [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Simple one-liner tests for common Rails functionality
-- [rspec/rspec-rails](https://github.com/rspec/rspec-rails) - RSpec for Rails 6+
+- [rspec/rspec-rails](https://github.com/rspec/rspec-rails) - RSpec for Rails 7+
 - [Yleisradio/homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - Homebrew repository for a Terraform version switcher and all Terraform versions
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
 - [thoughtbot/paperclip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord
@@ -5176,6 +5179,7 @@
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
+- [pxp-lang/pxp](https://github.com/pxp-lang/pxp) - A suite of high-performance tools for PHP developers – includes a code formatter, static analyser, language server and superset language.
 - [konradsz/igrep](https://github.com/konradsz/igrep) - Interactive Grep
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -5580,7 +5584,7 @@
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [bltavares/actions](https://github.com/bltavares/actions) - Collection of linters and fixers as Github Actions - Alpha
-- [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - Heroku's buildpack for Node.js applications.
+- [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - Heroku's classic buildpack for Node.js applications.
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [teymour/attestation-covid19](https://github.com/teymour/attestation-covid19) - Generateur d'attestation numérique covid19
@@ -5650,7 +5654,7 @@
 - [docker-library/mysql](https://github.com/docker-library/mysql) - Docker Official Image packaging for MySQL Community Server
 - [corneliusweig/kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-- [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4). Community developed and maintained.
+- [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 - [hetzneronline/installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
@@ -5933,6 +5937,10 @@
 
 ## Swift 
 
+- [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
+- [swiftlang/swift-format](https://github.com/swiftlang/swift-format) - Formatting technology for Swift source code
+- [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
+- [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - A little beautifier tool for xcodebuild
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale) - Metal-powered video upscaling
@@ -6111,6 +6119,11 @@
 
 ## TypeScript 
 
+- [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
+- [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
 - [theosanderson/firehose](https://github.com/theosanderson/firehose) - 
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service

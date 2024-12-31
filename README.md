@@ -179,6 +179,7 @@
 
 ## Blade 
 
+- [fly-apps/dockerfile-laravel](https://github.com/fly-apps/dockerfile-laravel) - 
 - [laravel-frontend-presets/tall](https://github.com/laravel-frontend-presets/tall) - A TALL (Tailwind CSS, Alpine.js, Laravel and Livewire) Preset for Laravel
 - [laravel/laravel.com](https://github.com/laravel/laravel.com) - The source code of the official Laravel website.
 - [firevel/firevel](https://github.com/firevel/firevel) - 100% serverless Laravel Framework
@@ -1007,6 +1008,7 @@
 
 ## Dockerfile 
 
+- [exaco/laravel-octane-dockerfile](https://github.com/exaco/laravel-octane-dockerfile) - Production-ready Dockerfile for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
 - [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode) - Studio Code Server - Home Assistant Community Add-ons
 - [mariomka/regex-benchmark](https://github.com/mariomka/regex-benchmark) - It's just a simple regex benchmark of different programming languages.
@@ -1088,6 +1090,9 @@
 
 ## Go 
 
+- [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [chanced/caps](https://github.com/chanced/caps) - a unicode-aware, case conversion library for Go
 - [openai/openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
@@ -2423,6 +2428,8 @@
 
 ## JavaScript 
 
+- [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
+- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [primefaces/primevue-tailwind](https://github.com/primefaces/primevue-tailwind) - PrimeVue Components Styled with Tailwind CSS
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -2430,7 +2437,7 @@
 - [yungifez/artisan-ui](https://github.com/yungifez/artisan-ui) - Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJS
 - [wire-elements/wire-spy](https://github.com/wire-elements/wire-spy) - WireSpy—a sleek new debug bar for Livewire
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, open source & free. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support & hundreds of improvements. Open source & free. Made with Svelte.
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [mebeim/linux-syscalls](https://github.com/mebeim/linux-syscalls) - 🌐🐧 Browsable linux kernel syscall tables built with Systrack (https://github.com/mebeim/systrack)
 - [rmosolgo/graphiql-rails](https://github.com/rmosolgo/graphiql-rails) - Mount the GraphiQL query editor in a Rails app
@@ -2530,7 +2537,7 @@
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
 - [hmanzur/actions-set-secret](https://github.com/hmanzur/actions-set-secret) - Create or update secrets in github repository
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website simulating Ubuntu 20.04, made using NEXT.js & tailwind CSS
+- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [JMPerez/spotify-app-stats](https://github.com/JMPerez/spotify-app-stats) - A library to fetch the stats for your Spotify App from Spotify's developer site
@@ -3235,7 +3242,6 @@
 - [ivanseidel/IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
-- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
@@ -3544,6 +3550,8 @@
 
 ## Others 
 
+- [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
+- [michael-rubel/laravel-octane-best-practices](https://github.com/michael-rubel/laravel-octane-best-practices) - A compiled list of Laravel Octane best practices for your team to follow.
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 - [robsontenorio/voltage](https://github.com/robsontenorio/voltage) - Livewire Volt + Blade Intellisense for VSCode/Cursor/Windsurf
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -3581,7 +3589,6 @@
 - [holman/extended-exercise-windows](https://github.com/holman/extended-exercise-windows) - A list of startups that have employee-friendly terms for exercising your options past 90 days.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
-- [formsend/nano](https://github.com/formsend/nano) - ⚠️ Moved ⚠️
 - [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
 - [Mindinventory/Mindful-SWIFT-Animation-Library](https://github.com/Mindinventory/Mindful-SWIFT-Animation-Library) - Collection of Beautiful Open Source SWIFT Animation Libraries and Demos
 - [kokizzu/list-of-tech-migrations](https://github.com/kokizzu/list-of-tech-migrations) - list of public tech migrations
@@ -3930,6 +3937,16 @@
 
 ## PHP 
 
+- [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
+- [onliner/imgproxy-php](https://github.com/onliner/imgproxy-php) - ImgProxy url builder for PHP.
+- [crocodile2u/imgproxy-php](https://github.com/crocodile2u/imgproxy-php) - URL generator for darthsim/imgproxy
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [getsentry/sentry-laravel](https://github.com/getsentry/sentry-laravel) - The official Laravel SDK for Sentry (sentry.io)
+- [monicahq/laravel-cloudflare](https://github.com/monicahq/laravel-cloudflare) - Add Cloudflare ip addresses to trusted proxies for Laravel.
+- [spatie/laravel-horizon-watcher](https://github.com/spatie/laravel-horizon-watcher) - Automatically restart Horizon when local PHP files change
+- [unicodeveloper/complete-laravel-on-railway](https://github.com/unicodeveloper/complete-laravel-on-railway) - This starter app deploys a simple majestic Laravel monolith with 5 (web, worker, cron, mysql, and redis) services on Railway
+- [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
+- [brefphp/laravel-bridge](https://github.com/brefphp/laravel-bridge) - Package to use Laravel on AWS Lambda with Bref
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) - The easiest way to get started with event sourcing in Laravel
 - [laravel-notification-channels/telegram](https://github.com/laravel-notification-channels/telegram) - ✈️ Telegram Notifications Channel for Laravel
 - [Wulfheart/laravel-actions-ide-helper](https://github.com/Wulfheart/laravel-actions-ide-helper) - 
@@ -4922,6 +4939,7 @@
 
 ## Ruby 
 
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) - A pure Ruby code highlighter that is compatible with Pygments
 - [rails-api/active_model_serializers](https://github.com/rails-api/active_model_serializers) - ActiveModel::Serializer implementation and Rails hooks
 - [lostisland/faraday-retry](https://github.com/lostisland/faraday-retry) - Catches exceptions and retries each request a limited number of times
@@ -5167,6 +5185,7 @@
 
 ## Rust 
 
+- [railwayapp/cli](https://github.com/railwayapp/cli) - Railway CLI
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
@@ -5528,6 +5547,10 @@
 
 ## Shell 
 
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets.
+- [php-actions/composer](https://github.com/php-actions/composer) - Use the Composer CLI in your Github Actions.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
+- [railwayapp-templates/postgres-ssl](https://github.com/railwayapp-templates/postgres-ssl) - 
 - [brenner-tobias/addon-cloudflared](https://github.com/brenner-tobias/addon-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
@@ -5855,7 +5878,7 @@
 - [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
 - [acmesh-official/get.acme.sh](https://github.com/acmesh-official/get.acme.sh) - get.acme.sh
 - [benweissmann/getmic.ro](https://github.com/benweissmann/getmic.ro) - The fastest way to install Micro
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
@@ -5978,6 +6001,7 @@
 
 ## Svelte 
 
+- [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
 - [mquandalle/mesaidesvelo](https://github.com/mquandalle/mesaidesvelo) - Découvrez les aides à l’achat d’un vélo
@@ -6170,6 +6194,11 @@
 
 ## TypeScript 
 
+- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
+- [mlocati/php-cs-fixer-configurator](https://github.com/mlocati/php-cs-fixer-configurator) - Inspect PHP-CS-Fixer fixers and easily configure them
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
+- [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
+- [uiwjs/react-split](https://github.com/uiwjs/react-split) - A piece of view can be divided into areas where the width or height can be adjusted by dragging.
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - Hook into advanced CSS features from native inline styles.
 - [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev) - Generate custom placeholder images, powered by Cloudflare Workers in 330+ edge locations
@@ -6369,7 +6398,7 @@
 - [pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - :pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [kyleawayan/vintage-influxdb](https://github.com/kyleawayan/vintage-influxdb) - Record your Spotify listening data on InfluxDB.
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
@@ -6763,6 +6792,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [kresusapp/kresus](https://github.com/kresusapp/kresus) - Get rich, or die codin'
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [bitshares/bitshares-pts](https://github.com/bitshares/bitshares-pts) - This is the repository for the original PoW-based BitShares-PTS (aka ProtoShares) blockchain, which has stopped running since late 2014 due to lack of miners. BitShares PTS is being upgraded to DPOS b
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
@@ -6836,13 +6866,12 @@
 - [vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - vue-leaflet compatible with vue3
 - [laravel/breeze](https://github.com/laravel/breeze) - Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.
 - [MTES-MCT/Dossier-Facile-Frontend](https://github.com/MTES-MCT/Dossier-Facile-Frontend) - 
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
+- [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker) - Chrome Extension that tracks and limits time you spent on sites
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
 - [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
-- [Kylart/KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
@@ -6865,6 +6894,7 @@
 
 ## Zig 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.

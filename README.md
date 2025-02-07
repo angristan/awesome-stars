@@ -930,7 +930,7 @@
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [swannodette/mori](https://github.com/swannodette/mori) - ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -1088,6 +1088,9 @@
 
 ## Go 
 
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
+- [getseabird/seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop IDE designed for seamless cluster exploration
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 - [m-adawi/swarm-cd](https://github.com/m-adawi/swarm-cd) - SwarmCD: Declarative GitOps and Continuous Deployment tool for Docker Swarm.
@@ -1362,7 +1365,7 @@
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+- [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [mergestat/timediff](https://github.com/mergestat/timediff) - Go library for printing human readable, relative time differences 🕰️
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
@@ -2128,6 +2131,7 @@
 
 ## HTML 
 
+- [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [aarol/hugo-theme-groovy](https://github.com/aarol/hugo-theme-groovy) - 
@@ -2451,6 +2455,7 @@
 
 ## JavaScript 
 
+- [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
@@ -2532,7 +2537,7 @@
 - [etcet/HNES](https://github.com/etcet/HNES) - Hacker News Extension Suite
 - [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news) - ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
-- [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**      NFT.Storage Classic (classic.nft.storage) offers free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.  June 2024 Upd
+- [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**
 - [trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) - Personal blockchain for Ethereum development
 - [ralphtheninja/await-spawn](https://github.com/ralphtheninja/await-spawn) - child_process.spawn() wrapped in a Promise
 - [poolifier/poolifier](https://github.com/poolifier/poolifier) - Fast and small Node.js worker_threads and cluster worker pool
@@ -3583,6 +3588,8 @@
 
 ## Others 
 
+- [cablespaghetti/k3s-monitoring](https://github.com/cablespaghetti/k3s-monitoring) - A quick start guide for getting a full monitoring and alerting stack up and running on your k3s cluster, with Prometheus Operator and the kube-prometheus-stack Helm Chart.
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [michael-rubel/laravel-octane-best-practices](https://github.com/michael-rubel/laravel-octane-best-practices) - A compiled list of Laravel Octane best practices for your team to follow.
@@ -3659,7 +3666,7 @@
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
 - [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
 - [letsencrypt/openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases) - 
-- [seedboxer/1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate](https://github.com/seedboxer/1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate) - rtorrent.rc & sysctl.config For 1 Gigabit File Server/Seedbox Boilerplate
+- [seedboxer/1-Gigabit-Plus-File-Server-Seedbox-Optimisation-Boilerplate](https://github.com/seedboxer/1-Gigabit-Plus-File-Server-Seedbox-Optimisation-Boilerplate) - rtorrent.rc & sysctl.config For 1 Gigabit File Server/Seedbox Boilerplate
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [cucumber/common](https://github.com/cucumber/common) - A home for issues that are common to multiple cucumber repositories
 - [crypto-org-chain/crossfire](https://github.com/crypto-org-chain/crossfire) - 🔥 The Crypto.com Chain Mainnet Dry-Run 🔥
@@ -3719,7 +3726,6 @@
 - [reobin/spacecamp-iterm](https://github.com/reobin/spacecamp-iterm) - SpaceCamp vim theme for iTerm2
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [FaithfulTeam/Faithful](https://github.com/FaithfulTeam/Faithful) - Faithful x32
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [JohnSundell/IndieSupportWeeks](https://github.com/JohnSundell/IndieSupportWeeks) - A two-week effort to help support indie developers shipping apps on Apple's platforms who have been financially impacted by the COVID-19 pandemic.
 - [cloudflare/linux](https://github.com/cloudflare/linux) - Cloudflare Linux Kernel Patches
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
@@ -5501,7 +5507,7 @@
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [svenstaro/memefs](https://github.com/svenstaro/memefs) - Mount your memes using FUSE
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
@@ -5599,6 +5605,7 @@
 
 ## Shell 
 
+- [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [fluxcd/flux2-monitoring-example](https://github.com/fluxcd/flux2-monitoring-example) - Prometheus monitoring for the Flux control plane
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
@@ -6036,6 +6043,7 @@
 
 ## Smarty 
 
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts) - A collection of Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts
@@ -6255,6 +6263,10 @@
 
 ## TypeScript 
 
+- [nizzyabi/Mail0](https://github.com/nizzyabi/Mail0) - open source gmail alternative (coming soon). join the discord: https://discord.gg/5nwrvt3JH2
+- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
+- [rocicorp/mono](https://github.com/rocicorp/mono) - 
+- [kamilkisiela/graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [un/augment](https://github.com/un/augment) - Open Source Longevity System; Live Longer + Sharper + Better
 - [antfu/vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart selection with double clicks for VS Code.

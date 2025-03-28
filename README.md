@@ -1099,7 +1099,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
-- [nubskr/nubmq](https://github.com/nubskr/nubmq) - A high performant key value caching engine engineered from first principles
+- [nubskr/nubmq](https://github.com/nubskr/nubmq) - A high performant key value caching engine
 - [DataDog/watermarkpodautoscaler](https://github.com/DataDog/watermarkpodautoscaler) - Custom controller that extends the Horizontal Pod Autoscaler
 - [tailscale/go-cache-plugin](https://github.com/tailscale/go-cache-plugin) - A Go toolchain cache plugin backed by S3.
 - [talent-plan/tinysql](https://github.com/talent-plan/tinysql) - A course to build the SQL layer of a distributed database.
@@ -1491,7 +1491,7 @@
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆
 - [mattermost/mattermost-cloud](https://github.com/mattermost/mattermost-cloud) - Tools and services for running Mattermost Cloud :cloud:
 - [google/go-pbmoney](https://github.com/google/go-pbmoney) - Go utilities for google/type/money.proto
-- [formancehq/ledger](https://github.com/formancehq/ledger) - A Programmable Core Ledger
+- [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source ledger for fintechs
 - [ceph/go-ceph](https://github.com/ceph/go-ceph) - Go bindings for Ceph :octopus: :octopus: :octopus:
 - [darkowlzz/ignite-cntr](https://github.com/darkowlzz/ignite-cntr) - 
 - [timescale/promscale](https://github.com/timescale/promscale) - [DEPRECATED] Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
@@ -5770,7 +5770,7 @@
 - [rikumi/iconsur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator
 - [tianon/docker-brew-ubuntu-core](https://github.com/tianon/docker-brew-ubuntu-core) - DEPRECATED; see https://github.com/tianon/docker-brew-ubuntu-core/pull/248
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [simnalamburt/cgitc](https://github.com/simnalamburt/cgitc) - :shipit: Close Git Combat
 - [simnalamburt/shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
@@ -6329,6 +6329,7 @@
 
 ## TypeScript 
 
+- [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) - Official plugins of the Headlamp project
 - [meetpateltech/convelyze](https://github.com/meetpateltech/convelyze) - Visualize your ChatGPT usage with interactive charts and insights.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.

@@ -67,6 +67,7 @@
 - [NSIS](#nsis)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nu](#nu)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -158,6 +159,7 @@
 
 ## Batchfile 
 
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 
@@ -514,7 +516,7 @@
 - [rolinh/dfc](https://github.com/rolinh/dfc) - Report file system space usage information with style
 - [ruby/openssl](https://github.com/ruby/openssl) - Provides SSL, TLS and general purpose cryptography.
 - [vitorafsr/i8kutils](https://github.com/vitorafsr/i8kutils) - Fan control for some Dell laptops
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [fhanau/Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool) - Fast and effective C++ file optimizer
 - [lmatteis/torrent-net](https://github.com/lmatteis/torrent-net) - Distributed search engines using BitTorrent and SQLite
@@ -628,6 +630,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [sensy-one/S1](https://github.com/sensy-one/S1) - Welcome to the official GitHub repository for the Sensy-One S1 mmWave sensor – a compact, high-performance sensor designed for smart home and automation projects. Here, you'll find all the detailed sp
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [felixrieseberg/electron-native-code-demos](https://github.com/felixrieseberg/electron-native-code-demos) - Add native UI and code to your Electron apps
 - [menloresearch/cortex.cpp](https://github.com/menloresearch/cortex.cpp) - Local AI API Platform
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly.
@@ -1392,7 +1395,7 @@
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
-- [micro/micro](https://github.com/micro/micro) - A Go microservices toolkit
+- [micro/micro](https://github.com/micro/micro) - A microservices toolkit
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
@@ -1411,7 +1414,7 @@
 - [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
-- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
+- [yaonyan/ghdl](https://github.com/yaonyan/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
@@ -1817,7 +1820,7 @@
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
-- [miguelmota/streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐
+- [miguelmota/streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐 by @miguelmota
 - [gammazero/workerpool](https://github.com/gammazero/workerpool) - Concurrency limiting goroutine pool
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
@@ -2512,8 +2515,8 @@
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [cyu/rack-cors](https://github.com/cyu/rack-cors) - Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
 - [59de44955ebd/twitter-to-bsky](https://github.com/59de44955ebd/twitter-to-bsky) - Crosspost from Twitter/X to Bluesky and Mastodon directly in the web browser
+- [Yelp/dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - 🤖 dataloader-codegen is an opinionated JavaScript library for automatically generating DataLoaders over a set of resources (e.g. HTTP endpoints).
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
@@ -2669,7 +2672,7 @@
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
-- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone
 - [delta-kor/forever-iz](https://github.com/delta-kor/forever-iz) - FOREVER*IZ Interactive Video
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [datagouv/sorry.data.gouv.fr](https://github.com/datagouv/sorry.data.gouv.fr) - Maintenance page
@@ -3543,7 +3546,6 @@
 
 ## Nix 
 
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
@@ -3580,6 +3582,10 @@
 - [kalbasit/shabka](https://github.com/kalbasit/shabka) - Shabka. Declaritive description of my network, workstations and servers.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
+## Nu 
+
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
+
 ## Nunjucks 
 
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
@@ -3598,7 +3604,7 @@
 
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [robaho/seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us
-- [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line interface for the built-in speech recognition and transcription in macOS
+- [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line interface for the built-in speech recognition and transcription capabilities in macOS
 - [mariociabarra/wifriedx](https://github.com/mariociabarra/wifriedx) - Band-aid for Yosemite WiFi Issues.  Menu bar item which disables/enables awdl0 interface.  Brings interface up/down with PriviledgedHelper
 - [owntracks/ios](https://github.com/owntracks/ios) - OwnTracks' iPhone App
 - [niw/HapticKey](https://github.com/niw/HapticKey) - A simple utility application to trigger haptic feedback when tapping Touch Bar.
@@ -4579,7 +4585,7 @@
 - [tatsuhiro-t/apt-metalink](https://github.com/tatsuhiro-t/apt-metalink) - Make 'apt-get' faster by downloading Debian/Ubuntu packages from multiple servers concurrently.
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [rtorrent-community/rtorrent-docs](https://github.com/rtorrent-community/rtorrent-docs) - “rTorrent Handbook” community project
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
 - [Fribb/MyAnimeList.bundle](https://github.com/Fribb/MyAnimeList.bundle) - Plex Media Server Metadata Agent for MyAnimeList.net
 - [Dingmatt/AMSA](https://github.com/Dingmatt/AMSA) - A Plex anime agent using TVDB and AniDB data
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
@@ -5377,6 +5383,7 @@
 - [ryangjchandler/pxp](https://github.com/ryangjchandler/pxp) - An early-stage project to develop high-performance tools for PHP developers.
 - [konradsz/igrep](https://github.com/konradsz/igrep) - Interactive Grep
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -5680,7 +5687,6 @@
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [php-actions/composer](https://github.com/php-actions/composer) - Use the Composer CLI in your Github Actions.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [railwayapp-templates/postgres-ssl](https://github.com/railwayapp-templates/postgres-ssl) - 
@@ -5795,7 +5801,7 @@
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [teymour/attestation-covid19](https://github.com/teymour/attestation-covid19) - Generateur d'attestation numérique covid19
-- [aghorler/cloudflare-warp-wg-client](https://github.com/aghorler/cloudflare-warp-wg-client) - A Cloudflare Warp connection script for Linux-based operating systems
+- [a449707101729771095/cloudflare-warp-wg-client](https://github.com/a449707101729771095/cloudflare-warp-wg-client) - A Cloudflare Warp connection script for Linux-based operating systems
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [MoonCactus/scaleway_remote_backup](https://github.com/MoonCactus/scaleway_remote_backup) - Bash script to trigger remote backups of scaleway server instances
 - [scaleway/initrd](https://github.com/scaleway/initrd) - :wrench: Initrd builder with qemu nbd metadata for Scaleway boot (armhf + x86_64)
@@ -5915,7 +5921,6 @@
 - [gluster/gluster-kubernetes](https://github.com/gluster/gluster-kubernetes) - GlusterFS Native Storage Service for Kubernetes
 - [gokulchandra/k8s-ingress-setup](https://github.com/gokulchandra/k8s-ingress-setup) - 
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [romana/romana](https://github.com/romana/romana) - The Romana Project - Installation scripts, documentation, issue tracker and wiki. Start here.
 - [nginx/docker-nginx](https://github.com/nginx/docker-nginx) - Official NGINX Dockerfiles
 - [KrustyHack/docker-privilege-escalation](https://github.com/KrustyHack/docker-privilege-escalation) - A docker example for privilege escalation
@@ -6349,7 +6354,6 @@
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
-- [Yelp/dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - 🤖 dataloader-codegen is an opinionated JavaScript library for automatically generating DataLoaders over a set of resources (e.g. HTTP endpoints).
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation) - React wrapper for rough-notation
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -6569,7 +6573,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [france-connect/sources](https://github.com/france-connect/sources) - 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.

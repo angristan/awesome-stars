@@ -2516,7 +2516,6 @@
 ## JavaScript 
 
 - [bertrandda/par-ici-tennis](https://github.com/bertrandda/par-ici-tennis) - Book Paris tennis court (include CAPTCHA bypass)
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [cyu/rack-cors](https://github.com/cyu/rack-cors) - Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
 - [59de44955ebd/twitter-to-bsky](https://github.com/59de44955ebd/twitter-to-bsky) - Crosspost from Twitter/X to Bluesky and Mastodon directly in the web browser
@@ -3373,6 +3372,7 @@
 - [geerlingguy/ansible-role-php](https://github.com/geerlingguy/ansible-role-php) - Ansible Role - PHP
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [jdauphant/ansible-role-nginx](https://github.com/jdauphant/ansible-role-nginx) - Ansible role to install and manage nginx configuration
+- [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Julia 
@@ -4909,7 +4909,6 @@
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [scragg0x/realms-wiki](https://github.com/scragg0x/realms-wiki) - Git based wiki inspired by Gollum
 - [jaywink/socialhome](https://github.com/jaywink/socialhome) - A federated social home
-- [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
 - [hardpixel/devdocs-desktop](https://github.com/hardpixel/devdocs-desktop) - GTK3 application for DevDocs API documentation browser.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
@@ -5315,7 +5314,7 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [indiv0/aoc-fastest](https://github.com/indiv0/aoc-fastest) - Fastest Known Solutions to Advent of Code 2024
 - [railwayapp/cli](https://github.com/railwayapp/cli) - Railway CLI
-- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
@@ -6336,6 +6335,7 @@
 
 ## TypeScript 
 
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq
 - [Pocket/pocket-monorepo](https://github.com/Pocket/pocket-monorepo) - Monorepo of all Pocket App Typescript Backend Sevices
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser

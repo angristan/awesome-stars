@@ -545,7 +545,7 @@
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [haiwen/seafile-server](https://github.com/haiwen/seafile-server) - Seafile Server Core
 - [solus-project/linux-steam-integration](https://github.com/solus-project/linux-steam-integration) - Helper for enabling better Steam integration on Linux
-- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [CipherShed/CipherShed](https://github.com/CipherShed/CipherShed) - Main CipherShed Development
 - [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
@@ -2793,6 +2793,7 @@
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
 - [wcoder/highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js) - Line numbering plugin for Highlight.js
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [webpack-contrib/terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser Plugin
@@ -3404,7 +3405,7 @@
 
 - [dkobak/elections](https://github.com/dkobak/elections) - Statistical anomalies in Russian elections
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge's notes on the various go profiling methods that are available.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [charliezcr/Kpop-Data-Analysis](https://github.com/charliezcr/Kpop-Data-Analysis) - Data analysis about K-pop industry, artists, and companies. Visualized business performances of public K-pop companies and analyzed artist management and international marketing strategies
@@ -4061,6 +4062,7 @@
 
 ## PHP 
 
+- [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
 - [usetrmnl/byos_laravel](https://github.com/usetrmnl/byos_laravel) - DIY server in PHP/Laravel for self hosted screen generation.
 - [spatie/laravel-schedule-monitor](https://github.com/spatie/laravel-schedule-monitor) - Monitor scheduled tasks in a Laravel app
 - [wincelau/ratpstatus](https://github.com/wincelau/ratpstatus) - Page de suivi et d'historisation de l'état du trafic des Ⓜ️ Métros, 🚆 RER / Transiliens et 🚈 Tramways d'Île de France
@@ -4192,7 +4194,7 @@
 - [yannickglt/alfred-devdocs](https://github.com/yannickglt/alfred-devdocs) - Alfred workflow for devdocs.io
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
-- [ibericode/koko-analytics](https://github.com/ibericode/koko-analytics) - Privacy-friendly, open-source and lightweight analytics plugin for WordPress.
+- [ibericode/koko-analytics](https://github.com/ibericode/koko-analytics) - Privacy-friendly, open-source analytics for WordPress — GDPR compliant, cookieless, and fast
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers.
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email address validator
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel
@@ -4809,7 +4811,7 @@
 - [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
-- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [antoinerrr/caddy-ansible](https://github.com/antoinerrr/caddy-ansible) - Ansible playbook for caddy
@@ -5750,6 +5752,7 @@
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
 - [ThePrimeagen/vmrss](https://github.com/ThePrimeagen/vmrss) - 
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [nix-community/nix-zsh-completions](https://github.com/nix-community/nix-zsh-completions) - ZSH Completions for Nix
@@ -6416,7 +6419,7 @@
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
 - [graphql-hive/graphql-inspector](https://github.com/graphql-hive/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall — Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [un/potential](https://github.com/un/potential) - Ai Health coach to live Longer + Sharper + Better; Open Source alternative to Death
 - [antfu/vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart selection with double clicks for VS Code.
 - [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension
@@ -6512,10 +6515,9 @@
 - [nisargjhaveri/vscode-ios-debug](https://github.com/nisargjhaveri/vscode-ios-debug) - iOS debugging in Visual Studio Code
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [Erisa/sdxl-worker](https://github.com/Erisa/sdxl-worker) - Stable Diffusion XL Workers AI demo
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
 - [roblourens/chat-agent-dalle](https://github.com/roblourens/chat-agent-dalle) - 
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [sportstimes/f1](https://github.com/sportstimes/f1) - Second edition of F1 Calendar  🏎📅
 - [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extention for Ollama
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
@@ -6844,7 +6846,6 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [ambroiseRabier/typeorm-nestjs-migration-example](https://github.com/ambroiseRabier/typeorm-nestjs-migration-example) - "Example of how to use migrations feature of TypeORM with NestJS.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
 - [palantir/tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
@@ -6951,7 +6952,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [buttercup/buttercup-mobile](https://github.com/buttercup/buttercup-mobile) - :iphone: React-Native mobile application for Buttercup
 - [buttercup/buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension
-- [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API documentation
+- [AniList/docs](https://github.com/AniList/docs) - AniList API documentation
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web

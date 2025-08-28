@@ -584,6 +584,7 @@
 
 ## C# # 
 
+- [RawAccelOfficial/rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
 - [BouyguesTelecom/CheckVoisinageInteropFibre](https://github.com/BouyguesTelecom/CheckVoisinageInteropFibre) - 
 - [cjmanca/plex-credits-detect](https://github.com/cjmanca/plex-credits-detect) - Augments plex's built in intro detection, additionally detecting credits.
@@ -684,7 +685,7 @@
 - [AsahiLinux/macvdmtool](https://github.com/AsahiLinux/macvdmtool) - Apple Silicon to Apple Silicon VDM utility
 - [jesec/libtorrent](https://github.com/jesec/libtorrent) - 
 - [kasbert/OS-X-SAT-SMART-Driver](https://github.com/kasbert/OS-X-SAT-SMART-Driver) - Max OS X kernel driver for providing access to external drive SMART data
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [dekuNukem/pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -1121,7 +1122,6 @@
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) - MCP server and CLI tool for searching and downloading documents from Anna's Archive
 - [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs) - High performance FUSE filesystem for AI workloads with S3 compatible backends
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [ahmetb/kubectl-node_resource](https://github.com/ahmetb/kubectl-node_resource) - Query node allocations/utilizations in kubectl
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -4324,7 +4324,6 @@
 - [owncloud/music](https://github.com/owncloud/music) - :notes: Music app for ownCloud
 - [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server) - PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
-- [azlux/mymonitor](https://github.com/azlux/mymonitor) - Personnal monitor used on raspberry
 - [Automattic/regenerate-thumbnails](https://github.com/Automattic/regenerate-thumbnails) - WordPress plugin for regenerating thumbnails of uploaded images. Over 1 million active users and counting.
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [sbriskin/ifconfig.php](https://github.com/sbriskin/ifconfig.php) - Simple PHP script to show IP, UserAgent and some other info like ifconfig.me do.
@@ -6397,6 +6396,7 @@
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [Nerivec/zigbee2mqtt-windfront](https://github.com/Nerivec/zigbee2mqtt-windfront) - Open Source frontend for Zigbee2MQTT
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 

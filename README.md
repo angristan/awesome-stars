@@ -626,6 +626,8 @@
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [BradyBrenot/huestacean](https://github.com/BradyBrenot/huestacean) - Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [memgraph/mgconsole](https://github.com/memgraph/mgconsole) - mgconsole is a command-line interface (CLI) used to interact with Memgraph from any terminal or operating system.
@@ -1110,6 +1112,7 @@
 
 ## Go 
 
+- [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
 - [fisherevans/ha2trmnl](https://github.com/fisherevans/ha2trmnl) - A utility that polls HomeAssistant for enity metadata, and publishes it to a TRMNL webhook
@@ -3436,7 +3439,7 @@
 - [k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) - GitHub star ranking for users, organizations and repositories
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 - [JetBrains/pest-intellij](https://github.com/JetBrains/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
-- [awslabs/aws-sdk-kotlin](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
+- [aws/aws-sdk-kotlin](https://github.com/aws/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [happysingh23828/Android-Clean-Architecture](https://github.com/happysingh23828/Android-Clean-Architecture) - This is a sample movie list Android application built to demonstrate use of Clean Architecture tools. Dedicated to all Android Developers - (Kotlin, MVVM, Clean Architecture, Rx-Java, Dagger, OkHttp, 
@@ -4453,6 +4456,7 @@
 
 ## Python 
 
+- [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyager is an interactive RGBD video generation model conditioned on camera trajectory, and supports real-time 3D reconstruction.
 - [DataDog/integrations-extras](https://github.com/DataDog/integrations-extras) - Community developed integrations and plugins for the Datadog Agent.
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
@@ -4528,7 +4532,7 @@
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
@@ -5733,6 +5737,7 @@
 
 ## Shell 
 
+- [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [iHost-Open-Source-Project/hassio-ihost-addon](https://github.com/iHost-Open-Source-Project/hassio-ihost-addon) - This repository contains a set of Home Assistant add-ons developed specifically for SONOFF iHost.
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
@@ -6397,6 +6402,7 @@
 
 ## TypeScript 
 
+- [steam3d/MagicPodsDecky](https://github.com/steam3d/MagicPodsDecky) - Monitor the battery level of your AirPods, Beats and Galaxy Buds. Easily switch between noise cancellation modes and enjoy the magic.
 - [alexandersimoes/tradle](https://github.com/alexandersimoes/tradle) - OEC Tradle
 - [dnlzro/horizon](https://github.com/dnlzro/horizon) - The current sky at your approximate location, rendered as a CSS gradient
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.

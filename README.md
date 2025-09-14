@@ -586,6 +586,8 @@
 
 ## C# # 
 
+- [Paliverse/DualSenseX](https://github.com/Paliverse/DualSenseX) - Connect your DualSense Controller, use Adaptive Triggers, Emulate Xbox 360 or DualShock 4 through USB or Bluetooth on PC
+- [cosmii02/RacingDSX](https://github.com/cosmii02/RacingDSX) - 
 - [emoacht/Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
 - [RawAccelOfficial/rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
@@ -627,6 +629,7 @@
 
 ## C++ 
 
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
@@ -4503,7 +4506,7 @@
 - [petretiandrea/home-assistant-tapo-p100](https://github.com/petretiandrea/home-assistant-tapo-p100) - A custom integration to control Tapo devices from home assistant.
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
 - [zigpy/zigpy](https://github.com/zigpy/zigpy) - Library implementing a Zigbee stack
-- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for the search feature
+- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for qBittorrent search feature
 - [yukulehe/gazpar2mqtt](https://github.com/yukulehe/gazpar2mqtt) - Python script to fetch GRDF's website data and publish data to a mqtt broker.
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [zigpy/zigpy-znp](https://github.com/zigpy/zigpy-znp) - TI CC2531, CC13x2, CC26x2 radio support for Zigpy and ZHA
@@ -5677,7 +5680,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts.
 - [rustodon/rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
@@ -6209,7 +6212,7 @@
 
 ## Svelte 
 
-- [trakt/trakt-web](https://github.com/trakt/trakt-web) - Discover movies and shows you will love and where they are streaming right now. Track every movie, episode, and season you’ve seen, all in one place. Share opinions, ratings, and lists that others wil
+- [trakt/trakt-web](https://github.com/trakt/trakt-web) - Unlock the secrets of your watch history, explore hidden connections between films, and delve into the depths of personalized recommendations. But tread carefully, for the Trakt API holds powers that 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
@@ -6356,7 +6359,7 @@
 - [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
 - [amiantos/lifesaver](https://github.com/amiantos/lifesaver) - Conway's Game of Life implemented as an artistic, abstract macOS screensaver and tvOS app using SpriteKit
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [mhdhejazi/CoronaTracker](https://github.com/mhdhejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with maps & charts
 - [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify & Apple Music in your macOS menu bar

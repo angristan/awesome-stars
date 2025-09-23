@@ -848,7 +848,7 @@
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [zenfone-legacy/android_device_asus_T00F](https://github.com/zenfone-legacy/android_device_asus_T00F) - 
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [LineageOS/android_device_oneplus_oneplus3](https://github.com/LineageOS/android_device_oneplus_oneplus3) - 
 - [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1038,7 +1038,6 @@
 ## Dockerfile 
 
 - [exaco/laravel-octane-dockerfile](https://github.com/exaco/laravel-octane-dockerfile) - Production-ready Docker setup for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
 - [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode) - Studio Code Server - Home Assistant Community Add-ons
 - [mariomka/regex-benchmark](https://github.com/mariomka/regex-benchmark) - It's just a simple regex benchmark of different programming languages.
@@ -1521,7 +1520,7 @@
 - [egoist/bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases, interactively.
 - [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
 - [vartanbeno/go-reddit](https://github.com/vartanbeno/go-reddit) - Go library for accessing the Reddit API.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [bnb-chain/bsc](https://github.com/bnb-chain/bsc) - A BNB Smart Chain client based on the go-ethereum fork
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against any site.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
@@ -1543,7 +1542,7 @@
 - [bep/s3deploy](https://github.com/bep/s3deploy) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. "Cache-Control")
 - [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆
 - [mattermost/mattermost-cloud](https://github.com/mattermost/mattermost-cloud) - Tools and services for running Mattermost Cloud :cloud:
 - [google/go-pbmoney](https://github.com/google/go-pbmoney) - Go utilities for google/type/money.proto
@@ -1694,7 +1693,7 @@
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [jbszczepaniak/slicegraph](https://github.com/jbszczepaniak/slicegraph) - Slice graph uses graphviz in order to pretty print slices for you.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
@@ -1941,7 +1940,7 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [jason0x43/alfred-weather](https://github.com/jason0x43/alfred-weather) - Get weather forecast using Alfred
 - [lox/alfred-timezone](https://github.com/lox/alfred-timezone) - An alfred workflow for searching timezones
 - [deanishe/alfred-ssh](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections from Alfred 3+
@@ -3041,7 +3040,7 @@
 - [dgraham/eslint-plugin-jquery](https://github.com/dgraham/eslint-plugin-jquery) - Disallow jQuery functions with native equivalents.
 - [ghuser-io/ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
-- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+- [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [npm/uid-number](https://github.com/npm/uid-number) - Convert a username/group name to a uid/gid number
 - [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
 - [mgechev/guess-next](https://github.com/mgechev/guess-next) - 🔮 Demo application showing the integration of Guess.js with Next.js
@@ -3721,7 +3720,7 @@
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [ept/hermitage](https://github.com/ept/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels.
 - [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors) - 
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [joewdavies/geoblender](https://github.com/joewdavies/geoblender) - Tutorials for making 3D-looking maps with Blender and QGIS
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [toptal/active-job-style-guide](https://github.com/toptal/active-job-style-guide) - This Background Jobs style guide is a list of best practices working with Ruby background jobs.
@@ -4940,7 +4939,6 @@
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [SublimeGit/SublimeGit](https://github.com/SublimeGit/SublimeGit) - Git integration for Sublime Text 2 and 3
 - [anforaProject/anfora](https://github.com/anforaProject/anfora) - 🏺 Self-hosted photo gallery social network. Under development
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [snwh/paper-icon-theme](https://github.com/snwh/paper-icon-theme) - Paper Icon Theme
 - [maldevel/gdog](https://github.com/maldevel/gdog) - A fully featured Windows backdoor that uses Gmail as a C&C server
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -5772,6 +5770,7 @@
 - [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image.
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
 - [ubune/openwrt-livebox](https://github.com/ubune/openwrt-livebox) - Tuto: remplacement Livebox par Routeur Openwrt.
 - [hassio-addons/bashio](https://github.com/hassio-addons/bashio) - Bashio - Home Assistant Community Add-ons
@@ -6039,6 +6038,7 @@
 - [gilbertchen/cloud-storage-comparison](https://github.com/gilbertchen/cloud-storage-comparison) - Performance comparisons of cloud backup storages as Duplicacy backends
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [blacklabelops-legacy/jobber-cron](https://github.com/blacklabelops-legacy/jobber-cron) - Docker Container Cron Alternative With Jobber.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [hackmdio/docker-hackmd](https://github.com/hackmdio/docker-hackmd) - DEPRECATION: Please read our online documentation instead
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [tigerlinux/tigerlinux-extra-recipes](https://github.com/tigerlinux/tigerlinux-extra-recipes) - 

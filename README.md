@@ -1398,7 +1398,7 @@
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
-- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [danielvegamyhre/minicache](https://github.com/danielvegamyhre/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both REST and gRPC interfaces secured with mTLS.
 - [AlekSi/pointer](https://github.com/AlekSi/pointer) - Go package pointer provides helpers to get pointers to values of built-in types.
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
@@ -1589,7 +1589,6 @@
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [florensie/hcloud-snapshot-backup](https://github.com/florensie/hcloud-snapshot-backup) - Hetzner Cloud backups but cheaper thanks to snapshots
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [o1egl/paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang)
@@ -2822,7 +2821,7 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
-- [webpack-contrib/terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser Plugin
+- [webpack/terser-webpack-plugin](https://github.com/webpack/terser-webpack-plugin) - Terser Plugin
 - [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -2846,7 +2845,7 @@
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines
 - [pinojs/pino-http](https://github.com/pinojs/pino-http) - 🌲 high-speed HTTP logger for Node.js
 - [richardschneider/express-mung](https://github.com/richardschneider/express-mung) - Express response transformations (or make until no good)
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (In Maintenance Mode, End-of-Life on 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/a
+- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (End-of-Life as of 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/aws-sdk-js-v3
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [mikenicholson/passport-jwt](https://github.com/mikenicholson/passport-jwt) - Passport authentication using JSON Web Tokens
@@ -3394,7 +3393,7 @@
 
 ## Jinja 
 
-- [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
+- [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.
 - [sleighzy/ansible-kafka](https://github.com/sleighzy/ansible-kafka) - Ansible role for installing and configuring Apache Kafka on RedHat and Debian platforms.
 - [Sh4d1/k8s-infra](https://github.com/Sh4d1/k8s-infra) - 
 - [DataDog/ansible-datadog](https://github.com/DataDog/ansible-datadog) - Ansible role for Datadog Agent

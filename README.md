@@ -654,7 +654,7 @@
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [felixrieseberg/electron-native-code-demos](https://github.com/felixrieseberg/electron-native-code-demos) - Add native UI and code to your Electron apps
-- [menloresearch/cortex.cpp](https://github.com/menloresearch/cortex.cpp) - Local AI API Platform
+- [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Local AI API Platform
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -6254,7 +6254,7 @@
 - [swiftlang/swift-format](https://github.com/swiftlang/swift-format) - Formatting technology for Swift source code
 - [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - A little beautifier tool for xcodebuild
-- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
+- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale) - Metal-powered video upscaling
 - [anyproto/anytype-swift](https://github.com/anyproto/anytype-swift) - Official Anytype client for iOS
@@ -6594,7 +6594,7 @@
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind.
 - [raunofreiberg/inspx](https://github.com/raunofreiberg/inspx) - Pixel perfect layout inspection.
-- [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
+- [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.

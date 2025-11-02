@@ -346,7 +346,7 @@
 - [NVIDIA/open-gpu-doc](https://github.com/NVIDIA/open-gpu-doc) - Documentation of NVIDIA chip/hardware interfaces
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [i-rinat/apulse](https://github.com/i-rinat/apulse) - PulseAudio emulation for ALSA
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [angt/glorytun](https://github.com/angt/glorytun) - Multipath UDP tunnel
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [trondn/libmemcached](https://github.com/trondn/libmemcached) - Where I do my development for libmemcached

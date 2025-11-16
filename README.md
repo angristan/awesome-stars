@@ -249,7 +249,6 @@
 - [cyrusimap/cyrus-imapd](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [ioi/isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [cjdelisle/packetcrypt_rs](https://github.com/cjdelisle/packetcrypt_rs) - PacketCrypt in Rust
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
@@ -1525,6 +1524,7 @@
 - [arnarg/plex_exporter](https://github.com/arnarg/plex_exporter) - A Prometheus exporter for a few metrics from Plex Media Server
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [egoist/bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases, interactively.
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
 - [vartanbeno/go-reddit](https://github.com/vartanbeno/go-reddit) - Go library for accessing the Reddit API.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -2278,7 +2278,7 @@
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
-- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 Robust, scalable, and open-source online code execution system.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
 - [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 - [intorust/intorust.com](https://github.com/intorust/intorust.com) - Learn Rust real good.
 - [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
@@ -2727,7 +2727,7 @@
 - [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [datagouv/sorry.data.gouv.fr](https://github.com/datagouv/sorry.data.gouv.fr) - Maintenance page
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 61 stars 7 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 58 stars 7 forks.
 - [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [Lisonallie/NyanCat](https://github.com/Lisonallie/NyanCat) - Exercise in beginning JavaScript to recreate the famous Nyan Cat website with my own twist.
@@ -2741,6 +2741,7 @@
 - [crash0verride11/DarkLight-qBittorent-WebUI](https://github.com/crash0verride11/DarkLight-qBittorent-WebUI) - A version of the default webUI that supports OS Dark Mode and is toggle-able, made using CSS properties and SASS.
 - [Micdu70/geoip2-rutorrent](https://github.com/Micdu70/geoip2-rutorrent) - New geoip plugin for ruTorrent working with GeoLite2 (MaxMind DB Files)
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability
+- [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [iancoleman/bip39](https://github.com/iancoleman/bip39) - A web tool for converting BIP39 mnemonic codes
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
@@ -5363,7 +5364,6 @@
 - [Gargron/cobalt](https://github.com/Gargron/cobalt) - An open-source self-hosted YouTube alternative. Subscribe to other users on other servers using ActivityPub. Reduced bandwidth costs for server owners via WebTorrent.
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 - [edas/TweetDeletion](https://github.com/edas/TweetDeletion) - Remove old tweets
-- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [pixiv/mastodon](https://github.com/pixiv/mastodon) - A GNU Social-compatible microblogging server
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
@@ -5701,6 +5701,7 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts.
 - [rustodon/rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -6137,6 +6138,7 @@
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 - [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram during boot.
+- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [syscl/XPS9350-macOS](https://github.com/syscl/XPS9350-macOS) - macOS patches for Dell XPS 13 9350 (Skylake)
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [tonikelope/megadown](https://github.com/tonikelope/megadown) - Bash script for download files and get metadata from mega.nz and megacrypter links
@@ -6461,7 +6463,7 @@
 - [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) - Official plugins of the Headlamp project
 - [meetpateltech/convelyze](https://github.com/meetpateltech/convelyze) - Visualize your ChatGPT usage with interactive charts and insights.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
+- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit) - 
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
@@ -6521,6 +6523,7 @@
 - [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
 - [DigiLive/mushroom-strategy](https://github.com/DigiLive/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [electron/rebuild](https://github.com/electron/rebuild) - Package to rebuild native Node.js modules against the currently installed Electron version
@@ -6623,7 +6626,7 @@
 - [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode
+- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 在提交信息中添加表情符号的 VS Code 扩展
 - [lalalilo/gitmemoji](https://github.com/lalalilo/gitmemoji) - An app to learn gitmoji emojis
 - [grafana/strava-datasource](https://github.com/grafana/strava-datasource) - Strava datasource for Grafana dashboard
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
@@ -6673,7 +6676,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [2022etmoi/2022etmoi](https://github.com/2022etmoi/2022etmoi) - Test en ligne pour se comparer aux candidats de l'élection présidentielle sur une trentaine de propositions.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
@@ -7076,7 +7079,6 @@
 - [getsolus/help-center-docs](https://github.com/getsolus/help-center-docs) - Solus's Help Center documentation as well as previous User Guide.
 - [OttoAllmendinger/gnome-shell-screenshot](https://github.com/OttoAllmendinger/gnome-shell-screenshot) - Gnome Shell extension for making and uploading screenshots
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -7186,7 +7188,6 @@
 
 - [arnoclr/syspad](https://github.com/arnoclr/syspad) - 🚊 Temps d'attente et desserte du prochain RER comme en gare
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
-- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue) - The Ultimate Laravel Starter Kit for Modern SaaS (VILT) with Shadcn Components (Vue, Inertia & Shadcn)
 - [arnoclr/panam](https://github.com/arnoclr/panam) - Ⓜ️ Temps d'attente et info trafic de vos métros comme en gare
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
@@ -7202,7 +7203,6 @@
 - [samuelhorn/jamdocs](https://github.com/samuelhorn/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
-- [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?

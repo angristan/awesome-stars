@@ -2235,7 +2235,6 @@
 ## HTML 
 
 - [DataDog/documentation](https://github.com/DataDog/documentation) - The source for Datadog's documentation site.
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [stoyan/perfplanet](https://github.com/stoyan/perfplanet) - 
 - [sensy-one/S1](https://github.com/sensy-one/S1) - Welcome to the official GitHub repository for the Sensy-One S1 mmWave sensor – a compact, high-performance sensor designed for smart home and automation projects. Here, you'll find all the detailed sp
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
@@ -3193,7 +3192,6 @@
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [GGBRW/BOOLR](https://github.com/GGBRW/BOOLR) - A digital logic simulator
-- [nextcloud/end_to_end_encryption](https://github.com/nextcloud/end_to_end_encryption) - :closed_lock_with_key: Server API to support End-to-End Encryption
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -4327,6 +4325,7 @@
 - [anjaraeu/rcgp](https://github.com/anjaraeu/rcgp) - Random Cute Girl Programming Api
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
+- [nextcloud/end_to_end_encryption](https://github.com/nextcloud/end_to_end_encryption) - :closed_lock_with_key: Server API to support End-to-End Encryption
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [SatelliteWP/rocket-nginx](https://github.com/SatelliteWP/rocket-nginx) - Rocket-Nginx is a Nginx configuration that makes WP-Rocket even faster by serving static pages directly without loading WordPress or PHP.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -5390,6 +5389,7 @@
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [azerpas/bourso-api](https://github.com/azerpas/bourso-api) - Boursorama / BoursoBank unofficial API and CLI
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB

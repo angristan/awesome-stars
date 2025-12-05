@@ -6444,6 +6444,8 @@
 
 ## TypeScript 
 
+- [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
+- [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [wakatime/claude-code-wakatime](https://github.com/wakatime/claude-code-wakatime) - Track how much time you spend using Claude Code to AI-code
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)

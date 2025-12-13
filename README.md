@@ -1124,6 +1124,7 @@
 
 ## Go 
 
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [felixge/httpsnoop](https://github.com/felixge/httpsnoop) - Package httpsnoop provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's http.Handlers.
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
@@ -3525,7 +3526,7 @@
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [nzws/nzws.me](https://github.com/nzws/nzws.me) - My cool website, built with App Router
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -3704,7 +3705,6 @@
 ## Others 
 
 - [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with GitHub's integration for Slack
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [Tomasak/Console-Visuals](https://github.com/Tomasak/Console-Visuals) - GTA 4 Console visuals
 - [valentyn-l/GTAIV.EFLC.Various.Fixes](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes) - Various Fixes is a modification for Grand Theft Auto IV and EFLC, purpose of which is fix various kinds of bugs in game.
 - [Tomasak/GTA-Downgraders](https://github.com/Tomasak/GTA-Downgraders) - 
@@ -4096,6 +4096,7 @@
 
 ## PHP 
 
+- [noweh/twitter-api-v2-php](https://github.com/noweh/twitter-api-v2-php) - PHP package providing easy and fast access to Twitter API V2.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
 - [usetrmnl/byos_laravel](https://github.com/usetrmnl/byos_laravel) - A self-hosted server (BYOS) in PHP's Laravel framework
@@ -4382,7 +4383,6 @@
 - [PeeHaa/OpCacheGUI](https://github.com/PeeHaa/OpCacheGUI) - GUI for PHP's OpCache
 - [tontof/kriss_feed](https://github.com/tontof/kriss_feed) - A simple and smart (or stupid) feed reader
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [tomusborne/generatepress](https://github.com/tomusborne/generatepress) - 
 - [mondediefr/fluxbb_to_flarum](https://github.com/mondediefr/fluxbb_to_flarum) - :rocket:  FluxBB to Flarum importer
 - [pantheon-systems/wp-redis](https://github.com/pantheon-systems/wp-redis) - WordPress Object Cache using Redis.
 - [ericmann/Redis-Object-Cache](https://github.com/ericmann/Redis-Object-Cache) - A WordPress object cache that uses Redis for storage.
@@ -5350,7 +5350,6 @@
 - [gyazo/Gyazo-for-Linux](https://github.com/gyazo/Gyazo-for-Linux) - Gyazo for Linux
 - [zzet/rbenv](https://github.com/zzet/rbenv) - Ansible role for installing rbenv.
 - [dev-sec/ansible-nginx-hardening](https://github.com/dev-sec/ansible-nginx-hardening) - This Ansible role provides secure nginx configurations.
-- [telus/ansible-apt-repository](https://github.com/telus/ansible-apt-repository) - Ansible (meta-) Role for adding apt repositories
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
@@ -5782,6 +5781,8 @@
 
 ## Shell 
 
+- [TinCanTech/easy-tls](https://github.com/TinCanTech/easy-tls) - Manage and Inline OpenVPN TLS keys and Easy-RSA PKI credentials. Supports OpenVPN TLS-Crypt-V2 key system and OpenVPN Peer-Fingerprint mode.
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
@@ -6450,6 +6451,8 @@
 
 ## TypeScript 
 
+- [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - 
+- [HGHugo/FreeboxOS-Ultra-Dashboard](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard) - Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargeme
 - [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
@@ -6527,7 +6530,7 @@
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [lbenie/reading-time-estimator](https://github.com/lbenie/reading-time-estimator) - A medium's like reading time estimator with internationalization support
-- [rocicorp/hello-zero](https://github.com/rocicorp/hello-zero) - 
+- [rocicorp/hello-zero](https://github.com/rocicorp/hello-zero) - Quickstart for Zero & React.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
 - [icflorescu/mantine-contextmenu-v6](https://github.com/icflorescu/mantine-contextmenu-v6) - The lightweight yet customisable context-menu for your Mantine applications, with a succinct API and dark-theme support. Compatible with Mantine V6.
 - [RubixCube-Innovations/mantine-theme-builder](https://github.com/RubixCube-Innovations/mantine-theme-builder) - MantineHub (previously Mantine Theme Builder) is an open-source tool to create modern, customizable shadcn inspired themes for Mantine UI components. Easily adjust styles, colors, radius, and light/da

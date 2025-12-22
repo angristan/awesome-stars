@@ -1123,6 +1123,8 @@
 
 ## Go 
 
+- [matzehuels/stacktower](https://github.com/matzehuels/stacktower) - Visualize package dependencies as XKCD-style tower diagrams. Supports Python, Rust, JavaScript, Ruby, PHP, Java, and Go.
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [felixge/httpsnoop](https://github.com/felixge/httpsnoop) - Package httpsnoop provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's http.Handlers.
@@ -2563,6 +2565,7 @@
 
 ## JavaScript 
 
+- [DamonOehlman/detect-browser](https://github.com/DamonOehlman/detect-browser) - Unpack a browser type and version from the useragent string
 - [johannago/trmnl-spotify-stats](https://github.com/johannago/trmnl-spotify-stats) - Display your Spotify listening statistics on your TRMNL e-ink display, including top artists, top tracks, and recently played songs.
 - [RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username) - 
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -2687,7 +2690,7 @@
 - [JMPerez/spotify-app-stats](https://github.com/JMPerez/spotify-app-stats) - A library to fetch the stats for your Spotify App from Spotify's developer site
 - [cdeleeuwe/netlify-plugin-hugo-cache-resources](https://github.com/cdeleeuwe/netlify-plugin-hugo-cache-resources) - A netlify plugin to cache Hugo resources
 - [ausi/respimagelint](https://github.com/ausi/respimagelint) - Linter for Responsive Images - https://ausi.github.io/respimagelint/
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
 - [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 - [Tom-Bonnike/netlify-plugin-inline-critical-css](https://github.com/Tom-Bonnike/netlify-plugin-inline-critical-css) - A Netlify plugin to inline your critical CSS, built on top of the `critical` package.
@@ -3693,6 +3696,7 @@
 
 ## Objective-C++ 
 
+- [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 - [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming s
 
 ## Open Policy Agent 
@@ -3705,6 +3709,8 @@
 
 ## Others 
 
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+- [DGoettlich/history-llms](https://github.com/DGoettlich/history-llms) - Information hub for our project training the largest possible historical LLMs.
 - [daniellockyer/awesome-performance](https://github.com/daniellockyer/awesome-performance) - ⚡️ A curated list of awesome performance stories
 - [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with GitHub's integration for Slack
 - [Tomasak/Console-Visuals](https://github.com/Tomasak/Console-Visuals) - GTA 4 Console visuals
@@ -3922,7 +3928,6 @@
 - [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [nurkiewicz/crypto-hall-of-shame](https://github.com/nurkiewicz/crypto-hall-of-shame) - Scams, hacks and fails of cryptocurrencies
 - [whitecloud/ansible-styleguide](https://github.com/whitecloud/ansible-styleguide) - Ansible styleguide used at WhiteCloud
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
@@ -4101,7 +4106,7 @@
 - [noweh/twitter-api-v2-php](https://github.com/noweh/twitter-api-v2-php) - PHP package providing easy and fast access to Twitter API V2.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
-- [usetrmnl/byos_laravel](https://github.com/usetrmnl/byos_laravel) - A self-hosted server (BYOS) in PHP's Laravel framework
+- [usetrmnl/byos_laravel](https://github.com/usetrmnl/byos_laravel) - A self-hosted, community-driven server (BYOS) with Recipe support in PHP's Laravel framework
 - [spatie/laravel-schedule-monitor](https://github.com/spatie/laravel-schedule-monitor) - Monitor scheduled tasks in a Laravel app
 - [wincelau/ratpstatus](https://github.com/wincelau/ratpstatus) - Page de suivi et d'historisation de l'état du trafic des Ⓜ️ Métros, 🚆 RER / Transiliens et 🚈 Tramways d'Île de France
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
@@ -4482,6 +4487,17 @@
 
 ## Python 
 
+- [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+- [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
+- [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
+- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [mysql/mysql-connector-python](https://github.com/mysql/mysql-connector-python) - MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. No MySQL libraries are needed, and no compilation is necessary to run this Python DB API v2.0 compliant dr
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
+- [lnqs/textual-image](https://github.com/lnqs/textual-image) - Render images in the terminal with Textual and rich
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
@@ -5139,7 +5155,7 @@
 
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
 - [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb) - Datadog's client library for Ruby
-- [usetrmnl/byos_hanami](https://github.com/usetrmnl/byos_hanami) - A TRMNL BYOS application.
+- [usetrmnl/byos_hanami](https://github.com/usetrmnl/byos_hanami) - The flagship TRMNL BYOS application.
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 - [bilbof/whoishiring-ratio](https://github.com/bilbof/whoishiring-ratio) - how many job seekers there are vs how many jobs on HN
 - [MiniProfiler/rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
@@ -5240,7 +5256,7 @@
 - [thoughtbot/factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Factory Bot ♥ Rails
 - [rspec/rspec-rails](https://github.com/rspec/rspec-rails) - RSpec for Rails 7+
 - [tmatilai/homebrew-terraforms](https://github.com/tmatilai/homebrew-terraforms) - Homebrew repository for a Terraform version switcher and all Terraform versions
-- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking.
 - [thoughtbot/paperclip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [imax9000/homebrew-autoremove](https://github.com/imax9000/homebrew-autoremove) - ARCHIVED: External command for Homebrew to remove orphaned dependencies
@@ -5389,6 +5405,9 @@
 
 ## Rust 
 
+- [willmcgugan/textual-speedups](https://github.com/willmcgugan/textual-speedups) - 
+- [quickwit-oss/tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Python bindings for Tantivy
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -6455,7 +6474,12 @@
 
 ## TypeScript 
 
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - Monorepo for pi packages: TUI library, agent framework, and pod management CLI
+- [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [astral-sh/ty-vscode](https://github.com/astral-sh/ty-vscode) - A Visual Studio Code extension for ty.
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+- [mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql) - 
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - 
 - [HGHugo/FreeboxOS-Ultra-Dashboard](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard) - Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargeme
 - [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
@@ -6486,7 +6510,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle
 - [Pocket/pocket-monorepo](https://github.com/Pocket/pocket-monorepo) - Monorepo of all Pocket App Typescript Backend Sevices
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
@@ -7031,6 +7055,7 @@
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
 - [nonoroazoro/vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync all of your VSCode settings across multiple devices.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.

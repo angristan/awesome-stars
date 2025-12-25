@@ -177,6 +177,7 @@
 
 ## Blade 
 
+- [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) - 
 - [fly-apps/dockerfile-laravel](https://github.com/fly-apps/dockerfile-laravel) - 
 - [laravel-frontend-presets/tall](https://github.com/laravel-frontend-presets/tall) - A TALL (Tailwind CSS, Alpine.js, Laravel and Livewire) Preset for Laravel
 - [firevel/firevel](https://github.com/firevel/firevel) - 100% serverless Laravel Framework
@@ -184,6 +185,7 @@
 
 ## C 
 
+- [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [OpenVPN/ovpn-dco](https://github.com/OpenVPN/ovpn-dco) - OpenVPN Data Channel Offload in the linux kernel (BUGFIXING ONLY - check ovpn-net-next repository for the latest development)
 - [zsteig/.watch](https://github.com/zsteig/.watch) - Source code and hardware design for the STM32-based "./watch" OLED digital watch
 - [intel/xess](https://github.com/intel/xess) - Intel XeSS SDK
@@ -1123,6 +1125,7 @@
 
 ## Go 
 
+- [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli) - Command line interface used by all WakaTime text editor plugins
 - [matzehuels/stacktower](https://github.com/matzehuels/stacktower) - Visualize package dependencies as XKCD-style tower diagrams. Supports Python, Rust, JavaScript, Ruby, PHP, Java, and Go.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
@@ -2296,6 +2299,7 @@
 - [Miaourt/niu-ending](https://github.com/Miaourt/niu-ending) - End of niu.moe - the credit animation
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [devadvance/terminalcheatsheet](https://github.com/devadvance/terminalcheatsheet) - All the knowledge you need to get up and running on terminals across operating systems. If you are contributing to open issue on this repo, please ask to be assigned to the issue so people know you ar
+- [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard Mini for macOS
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [mpsq/arewewaylandyet](https://github.com/mpsq/arewewaylandyet) - Sources for https://arewewaylandyet.com
@@ -2565,6 +2569,7 @@
 
 ## JavaScript 
 
+- [ahonn/mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) - A Model Context Protocol (MCP) server providing access to Google Search Console
 - [DamonOehlman/detect-browser](https://github.com/DamonOehlman/detect-browser) - Unpack a browser type and version from the useragent string
 - [johannago/trmnl-spotify-stats](https://github.com/johannago/trmnl-spotify-stats) - Display your Spotify listening statistics on your TRMNL e-ink display, including top artists, top tracks, and recently played songs.
 - [RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username) - 
@@ -2581,7 +2586,6 @@
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
-- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [primefaces/primevue-tailwind](https://github.com/primefaces/primevue-tailwind) - PrimeVue Components Styled with Tailwind CSS
 - [luvi-ui/laravel-luvi](https://github.com/luvi-ui/laravel-luvi) - UI components for Laravel you can copy and paste into your app. shadcn-ui like. Built with Blade and AlpineJS. Usable with Livewire.
@@ -2765,7 +2769,6 @@
 - [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [lannonbr/vscode-issue-tracker](https://github.com/lannonbr/vscode-issue-tracker) - A webapp to visualize the issue count of Microsoft/vscode
-- [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [cthackers/adm-zip](https://github.com/cthackers/adm-zip) - A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [binance-academy/eslint-config-bnb](https://github.com/binance-academy/eslint-config-bnb) - Custom set of ESLint rules for React and Nextjs based on Airbnb ESLint config
@@ -3336,7 +3339,7 @@
 - [salut-c-leo/ChooseYourDistro](https://github.com/salut-c-leo/ChooseYourDistro) - A website composed of questions to determine which GNU/Linux distro is the best for the user
 - [samyk/poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
 - [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
-- [jackd248/temps](https://github.com/jackd248/temps) - Simple menubar application based on Electron with actual weather information and forecast.
+- [konradmichalik/temps](https://github.com/konradmichalik/temps) - Simple menubar application based on Electron with actual weather information and forecast.
 - [TryGhost/Ghost-Config](https://github.com/TryGhost/Ghost-Config) - Cross-platform meta data and configurations
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
@@ -4487,6 +4490,10 @@
 
 ## Python 
 
+- [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
+- [IxayWolf/get-coco-attention](https://github.com/IxayWolf/get-coco-attention) - A tool that controls hue lights in the room of my boyfriend in order to get his attention
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
@@ -5491,7 +5498,6 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
@@ -6474,6 +6480,9 @@
 
 ## TypeScript 
 
+- [ahrefs/ahrefs-mcp-server](https://github.com/ahrefs/ahrefs-mcp-server) - Official Ahrefs MCP Server
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [jlongster/tigma](https://github.com/jlongster/tigma) - 
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [astral-sh/ty-vscode](https://github.com/astral-sh/ty-vscode) - A Visual Studio Code extension for ty.
@@ -6569,6 +6578,7 @@
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
 - [uiwjs/react-split](https://github.com/uiwjs/react-split) - A piece of view can be divided into areas where the width or height can be adjusted by dragging.
+- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - Hook into advanced CSS features from native inline styles.
 - [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev) - Generate custom placeholder images, powered by Cloudflare Workers in 330+ edge locations
@@ -6645,6 +6655,7 @@
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [standardrb/vscode-standard-ruby](https://github.com/standardrb/vscode-standard-ruby) - The official VS Code extension for the Standard Ruby linter and code formatter
 - [bokub/linky](https://github.com/bokub/linky) - 🔌 CLI tool to retrieve Linky smart meters data
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
@@ -6806,7 +6817,6 @@
 - [tunnelvisionlabs/antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts) - Optimized TypeScript target for ANTLR 4
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
-- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.

@@ -147,7 +147,6 @@
 
 - [chrismwilliams/astro-theme-cactus](https://github.com/chrismwilliams/astro-theme-cactus) - A simple Astro theme. Use it to create your blog or website.
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
-- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [will-stone/plastic](https://github.com/will-stone/plastic) - ♻ A simple theme.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
@@ -185,6 +184,7 @@
 
 ## C 
 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [OpenVPN/ovpn-dco](https://github.com/OpenVPN/ovpn-dco) - OpenVPN Data Channel Offload in the linux kernel (BUGFIXING ONLY - check ovpn-net-next repository for the latest development)
 - [zsteig/.watch](https://github.com/zsteig/.watch) - Source code and hardware design for the STM32-based "./watch" OLED digital watch
@@ -637,6 +637,7 @@
 
 ## C++ 
 
+- [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
 - [gennariarmando/iv-centered-vehicle-cam](https://github.com/gennariarmando/iv-centered-vehicle-cam) - Centered vehicle camera for GTA IV CE
 - [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch
@@ -904,6 +905,7 @@
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [popey/makealinux.app](https://github.com/popey/makealinux.app) - Source for makealinux app website
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
+- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [cheeaun/hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
 - [betagouv/api.gouv.fr](https://github.com/betagouv/api.gouv.fr) - Liste les API disponibles au sein de l'administration française
@@ -1004,7 +1006,7 @@
 
 ## Crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
 - [kemalcr/kemal](https://github.com/kemalcr/kemal) - Fast, Effective, Simple Web Framework
 - [veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
@@ -1125,6 +1127,15 @@
 
 ## Go 
 
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [blugelabs/bluge](https://github.com/blugelabs/bluge) - indexing library for Go
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
+- [anyproto/tantivy-go](https://github.com/anyproto/tantivy-go) - Tantivy go bindings
+- [hashicorp/mdns](https://github.com/hashicorp/mdns) - Simple mDNS client/server library in Golang
+- [grandcat/zeroconf](https://github.com/grandcat/zeroconf) - mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+- [openhue/openhue-cli](https://github.com/openhue/openhue-cli) - OpenHue CLI is a command-line interface for interacting with Philips Hue smart lighting systems.
 - [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli) - Command line interface used by all WakaTime text editor plugins
 - [matzehuels/stacktower](https://github.com/matzehuels/stacktower) - Visualize package dependencies as XKCD-style tower diagrams. Supports Python, Rust, JavaScript, Ruby, PHP, Java, and Go.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
@@ -1655,7 +1666,7 @@
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go]
 - [auxten/go-sqldb](https://github.com/auxten/go-sqldb) - A pure golang SQL database for database theory research
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
-- [akatsuki105/magia](https://github.com/akatsuki105/magia) - magia is a toy GBA emulator written in golang.
+- [akatsuki105/magia](https://github.com/akatsuki105/magia) - This emulator is OLD and BAD, please visit DawnGBA
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [Sh4d1/scaleway-k8s-node-coffee](https://github.com/Sh4d1/scaleway-k8s-node-coffee) - 
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
@@ -2266,6 +2277,7 @@
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [eidam/cf-workers-zero-trust-terraform-state](https://github.com/eidam/cf-workers-zero-trust-terraform-state) - Zero-Trust @HashiCorp Terraform state backend
+- [blrchen/aws-speed-test](https://github.com/blrchen/aws-speed-test) - AWS speed test tool. Test your network latency to AWS datacenters around the world.
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [knadh/dont.build](https://github.com/knadh/dont.build) - A simple, opinionated decision system to help decide whether to build a software feature or not.
 - [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
@@ -2690,7 +2702,6 @@
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
-- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [JMPerez/spotify-app-stats](https://github.com/JMPerez/spotify-app-stats) - A library to fetch the stats for your Spotify App from Spotify's developer site
 - [cdeleeuwe/netlify-plugin-hugo-cache-resources](https://github.com/cdeleeuwe/netlify-plugin-hugo-cache-resources) - A netlify plugin to cache Hugo resources
 - [ausi/respimagelint](https://github.com/ausi/respimagelint) - Linter for Responsive Images - https://ausi.github.io/respimagelint/
@@ -4490,6 +4501,9 @@
 
 ## Python 
 
+- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
+- [home-assistant-libs/aiohue](https://github.com/home-assistant-libs/aiohue) - Python3 asyncio package to talk to Philips Hue
+- [mittagessen/kraken](https://github.com/mittagessen/kraken) - OCR engine for all the languages
 - [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
@@ -5412,6 +5426,7 @@
 
 ## Rust 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [willmcgugan/textual-speedups](https://github.com/willmcgugan/textual-speedups) - 
 - [quickwit-oss/tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Python bindings for Tantivy
 - [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
@@ -5808,6 +5823,7 @@
 
 ## Shell 
 
+- [simonw/uv-init-demos](https://github.com/simonw/uv-init-demos) - What you get when you run different uv init commands
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [TinCanTech/easy-tls](https://github.com/TinCanTech/easy-tls) - Manage and Inline OpenVPN TLS keys and Easy-RSA PKI credentials. Supports OpenVPN TLS-Crypt-V2 key system and OpenVPN Peer-Fingerprint mode.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
@@ -6178,7 +6194,7 @@
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare - Secure File Sharing
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
-- [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram during boot.
+- [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram in early userspace.
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [syscl/XPS9350-macOS](https://github.com/syscl/XPS9350-macOS) - macOS patches for Dell XPS 13 9350 (Skylake)
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -6289,6 +6305,7 @@
 
 ## Swift 
 
+- [tobi/AudioPriorityBar](https://github.com/tobi/AudioPriorityBar) - A native macOS menu bar app for managing audio device priorities
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 - [wakatime/macos-wakatime](https://github.com/wakatime/macos-wakatime) - Mac system tray app for automatic time tracking and metrics generated from your Xcode, Figma, Postman, etc. usage.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
@@ -6363,7 +6380,7 @@
 - [EthanLipnik/Blobmorphism](https://github.com/EthanLipnik/Blobmorphism) - Blobmorphism is a brand new design language I've created to break free of the material overload in iOS, built in SwiftUI. Everything feels smooth and fluid.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
-- [aataraxiaa/ScalingCarousel](https://github.com/aataraxiaa/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift
+- [aataraxiaa/scalingcarousel](https://github.com/aataraxiaa/scalingcarousel) - A super simple carousel view with scaling transitions written in Swift
 - [TelemetryDeck/SwiftSDK](https://github.com/TelemetryDeck/SwiftSDK) - Swift SDK for TelemetryDeck, a privacy-conscious analytics service for apps and websites.
 - [appcoda/SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - A search bar built entirely in SwiftUI
 - [Haneke/HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
@@ -6480,6 +6497,7 @@
 
 ## TypeScript 
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [ahrefs/ahrefs-mcp-server](https://github.com/ahrefs/ahrefs-mcp-server) - Official Ahrefs MCP Server
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [jlongster/tigma](https://github.com/jlongster/tigma) - 
@@ -6736,7 +6754,6 @@
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
 - [status-base/statusbase-nuxt](https://github.com/status-base/statusbase-nuxt) - A modern, zero-dependency uptime monitoring tool & status page based on GitHub Actions & Nuxt Content v2.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [blrchen/aws-speed-test](https://github.com/blrchen/aws-speed-test) - AWS speed test tool. Test your network latency to AWS datacenters around the world.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
@@ -6802,6 +6819,7 @@
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [Xetera/kiyomi](https://github.com/Xetera/kiyomi) - 💃 Kpop image aggregator
 - [South-Paw/action-netlify-deploy](https://github.com/South-Paw/action-netlify-deploy) - 🙌 Netlify deployments via GitHub actions
 - [lexanth/python-ast](https://github.com/lexanth/python-ast) - Python (3) Parser for JavaScript/TypeScript (based on antlr4ts)

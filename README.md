@@ -1043,6 +1043,7 @@
 
 ## Dockerfile 
 
+- [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) - Docker image with PHP-FPM 8.4 & Nginx 1.28 on Alpine Linux
 - [exaco/laravel-docktane](https://github.com/exaco/laravel-docktane) - Production-ready Docker setup for Laravel powered web services and microservices. Done right.
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
 - [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode) - Studio Code Server - Home Assistant Community Add-ons
@@ -1071,7 +1072,6 @@
 - [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc) - Carefully crafted Alpine Docker image with glibc (~12MB)
 - [osminogin/docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software based on Alpine
 - [rlister/dockerfiles](https://github.com/rlister/dockerfiles) - Collection of dockerfiles for hub.docker.com/u/rlister
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [docker-library/httpd](https://github.com/docker-library/httpd) - Docker Official Image packaging for Apache HTTP Server
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -1127,6 +1127,7 @@
 
 ## Go 
 
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
 - [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -2888,7 +2889,7 @@
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
 - [budui/go-isso](https://github.com/budui/go-isso) - a commenting server similar to Disqus - rewrite isso with golang
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
@@ -3726,6 +3727,7 @@
 
 ## Others 
 
+- [senyo888/Humidity-Intelligence](https://github.com/senyo888/Humidity-Intelligence) - Smart humidity intelligence for Home Assistant – badges, comfort band and 24-hour multi-room chart.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [DGoettlich/history-llms](https://github.com/DGoettlich/history-llms) - Information hub for our project training the largest possible historical LLMs.
 - [daniellockyer/awesome-performance](https://github.com/daniellockyer/awesome-performance) - ⚡️ A curated list of awesome performance stories
@@ -4120,6 +4122,7 @@
 
 ## PHP 
 
+- [antonioribeiro/google2fa](https://github.com/antonioribeiro/google2fa) - A One Time Password Authentication package, compatible with Google Authenticator.
 - [noweh/twitter-api-v2-php](https://github.com/noweh/twitter-api-v2-php) - PHP package providing easy and fast access to Twitter API V2.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
@@ -4504,6 +4507,7 @@
 
 ## Python 
 
+- [zigpy/zha-device-handlers](https://github.com/zigpy/zha-device-handlers) - ZHA device handlers bridge the functionality gap created when manufacturers deviate from the ZCL specification, handling deviations and exceptions by parsing custom messages to and from Zigbee devices
 - [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [home-assistant-libs/aiohue](https://github.com/home-assistant-libs/aiohue) - Python3 asyncio package to talk to Philips Hue
@@ -5178,6 +5182,7 @@
 
 ## Ruby 
 
+- [tenderlove/pixoo-rb](https://github.com/tenderlove/pixoo-rb) - Pixoo client for Ruby
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
 - [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb) - Datadog's client library for Ruby
 - [usetrmnl/byos_hanami](https://github.com/usetrmnl/byos_hanami) - The flagship TRMNL BYOS application.
@@ -5273,7 +5278,6 @@
 - [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
 - [teamcapybara/capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications
 - [piotrmurach/rspec-benchmark](https://github.com/piotrmurach/rspec-benchmark) - Performance testing matchers for RSpec
-- [mattsears/nyan-cat-formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
 - [drivy/jobs](https://github.com/drivy/jobs) - Getaround EU (previously Drivy)
 - [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [DatabaseCleaner/database_cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Strategies for cleaning databases in Ruby.  Can be used to ensure a clean state for testing.
@@ -5430,6 +5434,7 @@
 
 ## Rust 
 
+- [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Next-gen very fast Ruby tooling
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
@@ -6143,6 +6148,7 @@
 - [MariaDB/mariadb-docker](https://github.com/MariaDB/mariadb-docker) - Docker Official Image packaging for MariaDB
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [ByScripts/fish-config](https://github.com/ByScripts/fish-config) - Fish Shell configuration files
 - [zsh-users/fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
@@ -6521,13 +6527,13 @@
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [wakatime/claude-code-wakatime](https://github.com/wakatime/claude-code-wakatime) - Track how much time you spend using Claude Code to AI-code
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [memgraph/orb](https://github.com/memgraph/orb) - Graph visualization library
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 - [coinbase/cds](https://github.com/coinbase/cds) - Coinbase Design System
@@ -6541,7 +6547,7 @@
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [Nerivec/zigbee2mqtt-windfront](https://github.com/Nerivec/zigbee2mqtt-windfront) - Open Source frontend for Zigbee2MQTT
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
@@ -6560,12 +6566,12 @@
 - [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit) - 
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation) - React wrapper for rough-notation
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [PeerRich/ossacc](https://github.com/PeerRich/ossacc) - Everything is build with Open Source. The modern world we live in today would simply not exist.
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️ Track prices of the Hetzner dedicated server auction
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
@@ -6634,7 +6640,7 @@
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [microsoft/vscode-data-analysis-for-copilot](https://github.com/microsoft/vscode-data-analysis-for-copilot) - 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-- [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
+- [anomalyco/ion](https://github.com/anomalyco/ion) - Moved to https://github.com/sst/sst
 - [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs

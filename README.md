@@ -446,7 +446,7 @@
 - [mickdec/Haremg0.B-cl](https://github.com/mickdec/Haremg0.B-cl) - Fully obfuscated trojan generator for windows.
 - [lxc/python3-lxc](https://github.com/lxc/python3-lxc) - Python 3.x binding for liblxc
 - [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
-- [stephane-rbn/max-min-criterion](https://github.com/stephane-rbn/max-min-criterion) - Small kata using Criterion - a unit testing framework
+- [stephanerbn/max-min-criterion](https://github.com/stephanerbn/max-min-criterion) - Small kata using Criterion - a unit testing framework
 - [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [alisdair/jsmn-example](https://github.com/alisdair/jsmn-example) - Sample code for using Serge Zaitsev's awesome jsmn JSON parsing library
 - [mwarning/libsodium-example](https://github.com/mwarning/libsodium-example) - A simple example on how to use the libsodium crypto library
@@ -460,7 +460,7 @@
 - [tokers/zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression
 - [relan/exfat](https://github.com/relan/exfat) - Free exFAT file system implementation
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
-- [stephane-rbn/1ESGI2-C1](https://github.com/stephane-rbn/1ESGI2-C1) - Notes de C
+- [stephanerbn/1ESGI2-C1](https://github.com/stephanerbn/1ESGI2-C1) - Notes de C
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [traviscross/mtr](https://github.com/traviscross/mtr) - Official repository for mtr, a network diagnostic tool
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
@@ -508,7 +508,7 @@
 - [cntools/cnping](https://github.com/cntools/cnping) - Minimal Graphical Ping Tool
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
-- [stephane-rbn/makefile-initiation](https://github.com/stephane-rbn/makefile-initiation) - Small C program to teach myself how to write makefiles
+- [stephanerbn/makefile-initiation](https://github.com/stephanerbn/makefile-initiation) - Small C program to teach myself how to write makefiles
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
 - [solus-project/linux-driver-management](https://github.com/solus-project/linux-driver-management) - Linux Driver Management
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
@@ -1127,6 +1127,7 @@
 
 ## Go 
 
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
@@ -1158,7 +1159,7 @@
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 - [DataDog/dd-otel-host-profiler](https://github.com/DataDog/dd-otel-host-profiler) - The opentelemetry profiler by Datadog
 - [qonto/oteltwirp](https://github.com/qonto/oteltwirp) - Simple OpenTelemetry hooks for Twirp
@@ -1201,7 +1202,7 @@
 - [thanos-io/objstore](https://github.com/thanos-io/objstore) - Go module providing unified interface and efficient clients to work with various object storage providers until like GCS, S3, Azure, SWIFT, COS and more.
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.1+. Producing, consuming, transacting, administrating, etc.
 - [yandex-cloud/k8s-csi-s3](https://github.com/yandex-cloud/k8s-csi-s3) - GeeseFS-based CSI for mounting S3 buckets as PersistentVolumes
-- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
@@ -1859,6 +1860,7 @@
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [cds-snc/covid-alert-server](https://github.com/cds-snc/covid-alert-server) - Exposure Notification: Diagnosis Server implementation / Notification d’exposition : Mise en œuvre du serveur de diagnostic
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
@@ -2551,7 +2553,7 @@
 - [Samourai-Wallet/samourai-wallet-android](https://github.com/Samourai-Wallet/samourai-wallet-android) - Bitcoin Wallet strongly focused on privacy when transacting on the bitcoin network
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [collicalex/JPEGOptimizer](https://github.com/collicalex/JPEGOptimizer) - Reduce jpeg size without lossing visual quality!
-- [stephane-rbn/ChristmasTree](https://github.com/stephane-rbn/ChristmasTree) - How to build a kawai Christmas tree
+- [stephanerbn/ChristmasTree](https://github.com/stephanerbn/ChristmasTree) - How to build a kawai Christmas tree
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
 - [raulhaag/MiMangaNu](https://github.com/raulhaag/MiMangaNu) - *ES - Lector de Manga online / offline, gratuito y de código abierto.  *EN - Manga reader online / offline, free and open source.  *FR - Lecteur de manga en ligne / hors ligne, gratuit et open source.
 - [Koitharu/OpenManga](https://github.com/Koitharu/OpenManga) - Manga reader for Android - MOVED TO https://github.com/nv95/Kotatsu
@@ -3418,6 +3420,7 @@
 
 ## Jinja 
 
+- [senyo888/Humidity-Intelligence](https://github.com/senyo888/Humidity-Intelligence) - Smart humidity intelligence for Home Assistant – badges, comfort band and 24-hour multi-room chart.
 - [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.
 - [sleighzy/ansible-kafka](https://github.com/sleighzy/ansible-kafka) - Ansible role for installing and configuring Apache Kafka on RedHat and Debian platforms.
 - [Sh4d1/k8s-infra](https://github.com/Sh4d1/k8s-infra) - 
@@ -3733,7 +3736,6 @@
 ## Others 
 
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
-- [senyo888/Humidity-Intelligence](https://github.com/senyo888/Humidity-Intelligence) - Smart humidity intelligence for Home Assistant – badges, comfort band and 24-hour multi-room chart.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [DGoettlich/history-llms](https://github.com/DGoettlich/history-llms) - Information hub for our project training the largest possible historical LLMs.
 - [daniellockyer/awesome-performance](https://github.com/daniellockyer/awesome-performance) - ⚡️ A curated list of awesome performance stories
@@ -4064,7 +4066,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [jgraichen/debian-isso](https://github.com/jgraichen/debian-isso) - lightweight web-based commenting system
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
-- [stephane-rbn/Practice-SQL](https://github.com/stephane-rbn/Practice-SQL) - Small guide for myself originally from Code School
+- [stephanerbn/Practice-SQL](https://github.com/stephanerbn/Practice-SQL) - Small guide for myself originally from Code School
 - [advancingu/XPS13Linux](https://github.com/advancingu/XPS13Linux) - Public collection of issues with running Linux on a Dell XPS 13 (2015 edition)
 - [npm/registry-issue-archive](https://github.com/npm/registry-issue-archive) - An archive of the old npm registry issue tracker
 - [lidel/linux-on-huawei-matebook-x-2017](https://github.com/lidel/linux-on-huawei-matebook-x-2017) - Brain dump: Huawei MateBook X running Debian Linux
@@ -4303,7 +4305,7 @@
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
 - [laravel/tinker](https://github.com/laravel/tinker) - Powerful REPL for the Laravel framework.
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [thedevsaddam/laravel-schema](https://github.com/thedevsaddam/laravel-schema) - Display the connected database information from Terminal.
 - [dwightwatson/validating](https://github.com/dwightwatson/validating) - Automatically validating Eloquent models for Laravel
@@ -4347,7 +4349,7 @@
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
-- [stephane-rbn/soundbase](https://github.com/stephane-rbn/soundbase) - Free online audio distribution platform that enables its users to upload, promote & share their originally-created sounds
+- [stephanerbn/soundbase](https://github.com/stephanerbn/soundbase) - Free online audio distribution platform that enables its users to upload, promote & share their originally-created sounds
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
 - [Chalarangelo/30-seconds-of-php](https://github.com/Chalarangelo/30-seconds-of-php) - Short PHP code snippets for all your development needs
@@ -4678,7 +4680,7 @@
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
 - [gitless-vcs/gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps App and data parsers that powers the world's most comprehensive electricity data platform
+- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform
 - [nanovms/ops-examples](https://github.com/nanovms/ops-examples) - A repository of basic and advanced examples using Ops
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers.
@@ -5397,7 +5399,7 @@
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [eagletmt/switch_point](https://github.com/eagletmt/switch_point) - Switching database connection between readonly one and writable one
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [stephane-rbn/gistapp](https://github.com/stephane-rbn/gistapp) - A very simple fake GitHubGist app
+- [stephanerbn/gistapp](https://github.com/stephanerbn/gistapp) - A very simple fake GitHubGist app
 - [SUSE/Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (v2)
 - [gyazo/Gyazo-for-Linux](https://github.com/gyazo/Gyazo-for-Linux) - Gyazo for Linux
 - [zzet/rbenv](https://github.com/zzet/rbenv) - Ansible role for installing rbenv.
@@ -6950,7 +6952,6 @@
 - [kisstkondoros/codemetrics](https://github.com/kisstkondoros/codemetrics) - VSCode extension which shows the complexity information for TypeScript class members
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
@@ -7114,7 +7115,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
-- [nonoroazoro/vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync all of your VSCode settings across multiple devices.
+- [nonoroazoro/vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: Sync all of your VSCode settings across multiple devices, supports any VSCode variant.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you

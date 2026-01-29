@@ -186,6 +186,7 @@
 
 ## C 
 
+- [antirez/whisperbot](https://github.com/antirez/whisperbot) - Telegram bot that transcribes audio messages via whisper.cpp
 - [awesometic/realtek-r8125-dkms](https://github.com/awesometic/realtek-r8125-dkms) - A DKMS package for easy use of Realtek r8125 driver, which supports 2.5 GbE.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
@@ -1654,7 +1655,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [shkh/lastfm-go](https://github.com/shkh/lastfm-go) - Golang wrapper for the Last.fm API 2.0
 - [ahmdrz/goinsta](https://github.com/ahmdrz/goinsta) - Unofficial Instagram API written in Golang
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [jbarone/ghostToHugo](https://github.com/jbarone/ghostToHugo) - Convert Ghost blog export to Hugo posts
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
@@ -2126,7 +2127,7 @@
 - [kubernetes-retired/contrib](https://github.com/kubernetes-retired/contrib) - [EOL] This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core.
 - [kubernetes-retired/external-storage](https://github.com/kubernetes-retired/external-storage) - [EOL] External storage plugins, provisioners, and helper libraries
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+- [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [drone-plugins/drone-docker](https://github.com/drone-plugins/drone-docker) - Drone plugin for publishing Docker images
 - [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
@@ -5984,7 +5985,7 @@
 - [rikumi/iconsur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator
 - [tianon/docker-brew-ubuntu-core](https://github.com/tianon/docker-brew-ubuntu-core) - DEPRECATED; see https://github.com/tianon/docker-brew-ubuntu-core/pull/248
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [simnalamburt/cgitc](https://github.com/simnalamburt/cgitc) - :shipit: Close Git Combat
 - [simnalamburt/shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme

@@ -1134,6 +1134,7 @@
 
 ## Go 
 
+- [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -5467,6 +5468,7 @@
 
 ## Rust 
 
+- [dtolnay/star-history](https://github.com/dtolnay/star-history) - Graph history of GitHub stars of a user or repo over time
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Embedded micro-VM sandbox for running AI agents.
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp.
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
@@ -5911,7 +5913,7 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [home-assistant/version](https://github.com/home-assistant/version) - Home Assistant versions data
-- [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale) - Tailscale - Home Assistant Community Add-ons
+- [hassio-addons/app-tailscale](https://github.com/hassio-addons/app-tailscale) - Tailscale - Home Assistant Community App
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
@@ -6351,6 +6353,7 @@
 
 ## Swift 
 
+- [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [raspu/Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
@@ -6560,7 +6563,7 @@
 - [PierreLouisLetoquart/runstral](https://github.com/PierreLouisLetoquart/runstral) - Your smart running companion
 - [digitarald/mcp-apps-playground](https://github.com/digitarald/mcp-apps-playground) - 
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.

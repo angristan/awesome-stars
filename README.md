@@ -475,7 +475,7 @@
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [mysql/mysql-proxy](https://github.com/mysql/mysql-proxy) - MySQL Proxy is a simple program that sits between your client and MySQL server(s) and that can monitor, analyze or transform their communication. Its flexibility allows for a wide variety of uses, inc
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge) - Hardware backdoors in some x86 CPUs
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -941,7 +941,7 @@
 - [xiaoluoboding/ghost-theme-kaldorei](https://github.com/xiaoluoboding/ghost-theme-kaldorei) - 🎨 A Simple And Elegant Ghost Theme Derive From Default Theme Casper
 - [csalmeida/protonmail-themes](https://github.com/csalmeida/protonmail-themes) - Customise ProtonMail with themes and enhance your encrypted email experience.
 - [lacymorrow/casper](https://github.com/lacymorrow/casper) - Casper 👻 theme for Wordpress
-- [TryGhost/Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
+- [TryGhost/Casper](https://github.com/TryGhost/Casper) - A classic theme for Ghost
 - [VottonDev/pomfe.co-file-hosting](https://github.com/VottonDev/pomfe.co-file-hosting) - Pomfe.co File Hosting Site Source Code
 - [myriadteam/myriadteam.github.io](https://github.com/myriadteam/myriadteam.github.io) - New website for Myriad
 - [atom/one-dark-ui](https://github.com/atom/one-dark-ui) - Atom One dark UI theme
@@ -1134,6 +1134,9 @@
 
 ## Go 
 
+- [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
+- [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
+- [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [lordmathis/llamactl](https://github.com/lordmathis/llamactl) - Unified management and routing for llama.cpp, MLX and vLLM models with web dashboard.
 - [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
 - [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes
@@ -2340,7 +2343,7 @@
 - [Miaourt/niu-ending](https://github.com/Miaourt/niu-ending) - End of niu.moe - the credit animation
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [devadvance/terminalcheatsheet](https://github.com/devadvance/terminalcheatsheet) - All the knowledge you need to get up and running on terminals across operating systems. If you are contributing to open issue on this repo, please ask to be assigned to the issue so people know you ar
-- [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard Mini for macOS
+- [AdguardTeam/AdguardMiniForMac](https://github.com/AdguardTeam/AdguardMiniForMac) - AdGuard Mini for macOS
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [mpsq/arewewaylandyet](https://github.com/mpsq/arewewaylandyet) - Sources for https://arewewaylandyet.com
@@ -2610,6 +2613,7 @@
 
 ## JavaScript 
 
+- [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [polymath-ventures/bugsappleloves](https://github.com/polymath-ventures/bugsappleloves) - A satirical website documenting how much time humanity wastes because of bugs that Apple seemingly loves so much that they keep them around forever
 - [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
@@ -3572,6 +3576,7 @@
 
 ## MDX 
 
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation) - https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
@@ -3709,6 +3714,7 @@
 
 ## Objective-C 
 
+- [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - This application gives Mac users in enterprise environments control over the administration of their machines by elevating their access level to administrator privileges on macOS. Users can set a time
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [robaho/seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us
@@ -5473,6 +5479,7 @@
 
 ## Rust 
 
+- [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
 - [dtolnay/star-history](https://github.com/dtolnay/star-history) - Graph history of GitHub stars of a user or repo over time
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Local-first sandbox for AI agents.
@@ -5850,7 +5857,7 @@
 - [TryGhost/Massively](https://github.com/TryGhost/Massively) - A free, open source theme for Ghost
 - [drone/docs](https://github.com/drone/docs) - Documentation for the Drone Continuous Integration project
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [linuxfrorg/linuxfr.org](https://github.com/linuxfrorg/linuxfr.org) - LinuxFr.org content management system, in Ruby on Rails. It was NoNo's resolution for 2009, deployed in 2011. You may add other enhancements at https://linuxfr.org/suivi/ as you have a look at the web
+- [linuxfrorg/linuxfr.org](https://github.com/linuxfrorg/linuxfr.org) - LinuxFr.org content management system, in Ruby on Rails.You may add other enhancements at https://linuxfr.org/suivi/ as you have a look at the website (in French)
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [dxprog/anime-bracket](https://github.com/dxprog/anime-bracket) - The code that runs animebracket.com
 - [mastodon/documentation](https://github.com/mastodon/documentation) - Mastodon documentation
@@ -6563,6 +6570,10 @@
 
 ## TypeScript 
 
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
+- [wakatime/browser-wakatime](https://github.com/wakatime/browser-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [slopus/happy-server](https://github.com/slopus/happy-server) - Happy Coder backend
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent

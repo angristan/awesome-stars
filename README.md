@@ -3427,7 +3427,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [SuphanutJui/Material-Sidenav-Ghost-Theme](https://github.com/SuphanutJui/Material-Sidenav-Ghost-Theme) - A Ghost blogging-platform theme, based on Materialize.css.
 - [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
 - [portly/pairish](https://github.com/portly/pairish) - Pair Programming made user-friendly with your web browser.
 - [samhocevar/dtcloud](https://github.com/samhocevar/dtcloud) - Le vrai visage du Cloud™
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -4581,6 +4581,7 @@
 
 ## Python 
 
+- [joshavant/clawbox](https://github.com/joshavant/clawbox) - OpenClaw-ready macOS VMs
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [alexzhang13/rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
@@ -5508,6 +5509,7 @@
 
 ## Rust 
 
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [openebs/mayastor](https://github.com/openebs/mayastor) - Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack.
 - [rogercoll/eprofiler-tui](https://github.com/rogercoll/eprofiler-tui) - eBPF profiler flamegraph based TUI 🐧🐝
@@ -6942,7 +6944,7 @@
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
+- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and serialiser for JavaScript
 - [jhaemin/game-of-life-3d](https://github.com/jhaemin/game-of-life-3d) - An experimental all-in-one project for learning frontend technologies.
 - [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Official React Component for Font Awesome Icons
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - ⚠️ This repo has moved to https://github.com/LibreScore/dl-librescore ⚠️ | Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login

@@ -903,7 +903,6 @@
 - [koalaman/linuxatemyram.com](https://github.com/koalaman/linuxatemyram.com) - The contents on linuxatemyram.com
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, customizable Hugo theme
-- [BenoitPE/MyGESPlanning](https://github.com/BenoitPE/MyGESPlanning) - Ce repo est une application web semblable à celle de MyGES mais en plus légère L'application web permet d'éviter d’aller sur MyGES (qui est hors service régulièrement) et de récupérer directement les 
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
@@ -1053,6 +1052,7 @@
 
 ## Dockerfile 
 
+- [nginx/docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged) - Unprivileged NGINX Dockerfiles
 - [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) - Docker image with PHP-FPM 8.4 & Nginx 1.28 on Alpine Linux
 - [exaco/laravel-docktane](https://github.com/exaco/laravel-docktane) - Production-ready Docker setup for Laravel powered web services and microservices. Done right.
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
@@ -1141,6 +1141,10 @@
 
 ## Go 
 
+- [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
+- [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
+- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [home-operations/tuppr](https://github.com/home-operations/tuppr) - Kubernetes controller to upgrade Talos and Kubernetes
 - [rothgar/kvmm](https://github.com/rothgar/kvmm) - KVM Manager for when you have too many JetKVMs
@@ -2329,7 +2333,6 @@
 - [bugbytes-io/htmx-go-demo](https://github.com/bugbytes-io/htmx-go-demo) - HTMX demo with a Go backend
 - [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade.
-- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [joewdavies/geoblender](https://github.com/joewdavies/geoblender) - Tutorials for making 3D-looking maps with Blender and QGIS
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -3053,6 +3056,7 @@
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [hapijs/boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
 - [hapijs/hapi-pino](https://github.com/hapijs/hapi-pino) - 🌲 Hapi plugin for the Pino logger
+- [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2) - :zap: fast mysqljs/mysql compatible mysql driver for node.js
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [auth0-blog/hapi-jwt-authentication](https://github.com/auth0-blog/hapi-jwt-authentication) - 
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -4268,7 +4272,7 @@
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [spatie/laravel-queueable-action](https://github.com/spatie/laravel-queueable-action) - Queueable actions in Laravel
 - [brendt/php-sparkline](https://github.com/brendt/php-sparkline) - Generate GitHub style sparkline graphs with PHP
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own -
 - [brendt/aggregate.stitcher.io](https://github.com/brendt/aggregate.stitcher.io) - A community-driven content aggregator
 - [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task
@@ -6856,6 +6860,7 @@
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [nhedger/vscode-inertia](https://github.com/nhedger/vscode-inertia) - Visual Studio Code extension for Inertia.js
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [moalamri/vscode-inline-fold](https://github.com/moalamri/vscode-inline-fold) - A custom decorator that "fold" matching content in single line
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
@@ -7226,7 +7231,6 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [dreamerslab/node.inflection](https://github.com/dreamerslab/node.inflection) - A port of inflection-js to node.js module
-- [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2) - :zap: fast mysqljs/mysql compatible mysql driver for node.js
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [kokororin/vscode-phpfmt](https://github.com/kokororin/vscode-phpfmt) - Integrates phpfmt into VS Code
 - [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - CIDR Calculator and Subnetting Visualizer
@@ -7355,7 +7359,7 @@
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 - [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
 - [clarkwinkelmann/flarum-ext-emojionearea](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) - Add EmojioneArea emoji picker to Flarum
-- [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
+- [pritunl/pritunl-client](https://github.com/pritunl/pritunl-client) - Pritunl OpenVPN client
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [debugger22/github-audio](https://github.com/debugger22/github-audio) - Listen to music generated by events happening across GitHub :octocat: 🎷

@@ -4597,6 +4597,7 @@
 
 ## Python 
 
+- [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
 - [mistralai/client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
 - [re-actors/alls-green](https://github.com/re-actors/alls-green) - A check for whether the dependency jobs are all green.
 - [joshavant/clawbox](https://github.com/joshavant/clawbox) - OpenClaw-ready macOS VMs
@@ -5281,7 +5282,7 @@
 - [tenderlove/pixoo-rb](https://github.com/tenderlove/pixoo-rb) - Pixoo client for Ruby
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
 - [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb) - Datadog's client library for Ruby
-- [usetrmnl/byos_hanami](https://github.com/usetrmnl/byos_hanami) - The flagship TRMNL BYOS application.
+- [usetrmnl/terminus](https://github.com/usetrmnl/terminus) - The flagship TRMNL BYOS application.
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 - [bilbof/whoishiring-ratio](https://github.com/bilbof/whoishiring-ratio) - how many job seekers there are vs how many jobs on HN
 - [MiniProfiler/rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
@@ -5513,6 +5514,7 @@
 - [Gargron/cobalt](https://github.com/Gargron/cobalt) - An open-source self-hosted YouTube alternative. Subscribe to other users on other servers using ActivityPub. Reduced bandwidth costs for server owners via WebTorrent.
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 - [edas/TweetDeletion](https://github.com/edas/TweetDeletion) - Remove old tweets
+- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [pixiv/mastodon](https://github.com/pixiv/mastodon) - A GNU Social-compatible microblogging server
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
@@ -5563,7 +5565,7 @@
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [rtroncoso/ursa-minor-ffb](https://github.com/rtroncoso/ursa-minor-ffb) - Ursa Minor FFB
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -6324,7 +6326,6 @@
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 - [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram in early userspace.
-- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [syscl/XPS9350-macOS](https://github.com/syscl/XPS9350-macOS) - macOS patches for Dell XPS 13 9350 (Skylake)
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [tonikelope/megadown](https://github.com/tonikelope/megadown) - Bash script for download files and get metadata from mega.nz and megacrypter links
@@ -6632,6 +6633,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 - [computesdk/benchmarks](https://github.com/computesdk/benchmarks) - Compare startup time-to-interactive for top sandbox providers.
 - [kewonit/aeris](https://github.com/kewonit/aeris) - Aeris is a real-time 3D flight radar for the web
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.

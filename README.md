@@ -258,7 +258,7 @@
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [openresty/echo-nginx-module](https://github.com/openresty/echo-nginx-module) - An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
 - [Cogmasters/concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library made in C
-- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
+- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 - [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [intel/haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
@@ -1143,7 +1143,6 @@
 ## Gherkin 
 
 - [eloyesp/jekyll_ghost_importer](https://github.com/eloyesp/jekyll_ghost_importer) - Post importer from Ghost backup files.
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 
@@ -2974,7 +2973,7 @@
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
 - [budui/go-isso](https://github.com/budui/go-isso) - a commenting server similar to Disqus - rewrite isso with golang
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
@@ -3509,7 +3508,7 @@
 - [id101010/ansible-archlinux](https://github.com/id101010/ansible-archlinux) - Automated arch linux desktop environment
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [geerlingguy/ansible-role-composer](https://github.com/geerlingguy/ansible-role-composer) - Ansible Role - Composer PHP Dependency Manager
-- [starlightcrafted/docker-postal](https://github.com/starlightcrafted/docker-postal) - Docker container for Postal (atech/postal)
+- [eveandcats/docker-postal](https://github.com/eveandcats/docker-postal) - Docker container for Postal (atech/postal)
 - [manala/ansible-role-influxdb](https://github.com/manala/ansible-role-influxdb) - [READ-ONLY] Ansible role dealing installation and configuration of InfluxDB time-series database
 - [rossmcdonald/telegraf](https://github.com/rossmcdonald/telegraf) - Ansible role for installing, configuring, and maintaining Telegraf
 - [dj-wasabi/ansible-telegraf](https://github.com/dj-wasabi/ansible-telegraf) - Installing and configuring Telegraf via Ansible for RedHat/Debian/Ubuntu/Windows/Suse.
@@ -4218,7 +4217,7 @@
 - [dear-github/dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
 - [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
-- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [cgapps/vendor_google](https://github.com/cgapps/vendor_google) - 
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [solus-cold-storage/arc-desktop](https://github.com/solus-cold-storage/arc-desktop) - This work is done, go see the main budgie-desktop repo
@@ -4618,7 +4617,7 @@
 - [ad4mts/zfdash](https://github.com/ad4mts/zfdash) - ZFS Management GUI & Web UI for Linux, macOS and FreeBSD. Provides both Desktop GUI and  Web UI interfaces. Simplifies common ZFS administration tasks for pools, datasets, volumes, and snapshots, incl
 - [RedBearAK/Toshy](https://github.com/RedBearAK/Toshy) - Keymapper config to make Linux keyboard shortcuts work like a 'Tosh! And more. (A Kinto alternative.)
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
 - [mistralai/client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
 - [re-actors/alls-green](https://github.com/re-actors/alls-green) - A check for whether the dependency jobs are all green.
@@ -6074,6 +6073,7 @@
 - [jedisct1/bitbar-dnscrypt-proxy-switcher](https://github.com/jedisct1/bitbar-dnscrypt-proxy-switcher) - BitBar plugin to control dnscrypt-proxy usage
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [oracle/centos2ol](https://github.com/oracle/centos2ol) - Script and documentation to switch CentOS/Rocky Linux to Oracle Linux
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [jakejarvis/cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website's cache via the Cloudflare API
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS

@@ -4246,7 +4246,7 @@
 - [laravel/pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
-- [onliner/imgproxy-php](https://github.com/onliner/imgproxy-php) - ImgProxy url builder for PHP.
+- [onliner/imgproxy-php](https://github.com/onliner/imgproxy-php) - Imgproxy URL builder for PHP with URL signing and flexible path generation.
 - [crocodile2u/imgproxy-php](https://github.com/crocodile2u/imgproxy-php) - URL generator for darthsim/imgproxy
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [getsentry/sentry-laravel](https://github.com/getsentry/sentry-laravel) - The official Laravel SDK for Sentry (sentry.io)

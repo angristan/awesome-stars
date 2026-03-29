@@ -1298,7 +1298,7 @@
 - [iancoleman/strcase](https://github.com/iancoleman/strcase) - A golang package for converting to snake_case or CamelCase
 - [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
 - [umegbewe/dhcpd](https://github.com/umegbewe/dhcpd) - A fast DHCP server
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
@@ -4613,6 +4613,7 @@
 
 ## Python 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [DataDog/supply-chain-firewall](https://github.com/DataDog/supply-chain-firewall) - Supply-Chain Firewall (SCFW) is a tool for preventing the installation of malicious npm and PyPI packages :fire:
 - [ad4mts/zfdash](https://github.com/ad4mts/zfdash) - ZFS Management GUI & Web UI for Linux, macOS and FreeBSD. Provides both Desktop GUI and  Web UI interfaces. Simplifies common ZFS administration tasks for pools, datasets, volumes, and snapshots, incl
 - [RedBearAK/Toshy](https://github.com/RedBearAK/Toshy) - Keymapper config to make Linux keyboard shortcuts work like a 'Tosh! And more. (A Kinto alternative.)

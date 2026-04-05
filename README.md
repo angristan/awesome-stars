@@ -2310,7 +2310,7 @@
 
 ## Groff 
 
-- [benlinton/slugify](https://github.com/benlinton/slugify) - Bash command that converts filenames and directories to a web friendly format.
+- [jabbercube/slugify](https://github.com/jabbercube/slugify) - Bash command that converts filenames and directories to a web friendly format.
 
 ## HCL 
 
@@ -5557,7 +5557,7 @@
 ## Rust 
 
 - [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm) - reference impl with llama.cpp compiled to distributed inference across machines, with real end to end demo
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
 - [rust-nvml/nvml-wrapper](https://github.com/rust-nvml/nvml-wrapper) - Safe Rust wrapper for the NVIDIA Management Library
 - [Dreaming-Codes/nvidia_oc](https://github.com/Dreaming-Codes/nvidia_oc) - A simple command line tool to overclock Nvidia GPUs using the NVML library on Linux. This supports both X11 and Wayland.
@@ -6817,7 +6817,7 @@
 - [KevinVandy/mantine-react-table](https://github.com/KevinVandy/mantine-react-table) - A fully featured Mantine V7 implementation of TanStack React Table V8, forked from Material React Table
 - [Viijay-Kr/react-ts-css](https://github.com/Viijay-Kr/react-ts-css) - VS Code Extension for CSS modules in typescript based react projects
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-- [gfazioli/mantine-split-pane](https://github.com/gfazioli/mantine-split-pane) - A Mantine UI Library Extension component that manages split panes allows users to divide and resize content areas within a layout efficiently.
+- [gfazioli/mantine-split-pane](https://github.com/gfazioli/mantine-split-pane) - A Mantine 9 React component for resizable split pane layouts with 7 resizer variants, context-based prop inheritance, responsive orientation, and dynamic pane generation.
 - [johnwalley/allotment](https://github.com/johnwalley/allotment) - A React component for resizable split views
 - [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
 - [DigiLive/mushroom-strategy](https://github.com/DigiLive/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards

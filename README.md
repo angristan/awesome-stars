@@ -190,6 +190,7 @@
 
 ## C 
 
+- [DistroHopper39B/ATV1sm](https://github.com/DistroHopper39B/ATV1sm) - Bypass for the original Apple TV's EFI verification, allowing it to boot any EFI-capable OS
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
@@ -637,7 +638,7 @@
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
-- [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
+- [DNSCrypt/SimpleDnsCrypt](https://github.com/DNSCrypt/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [koush/UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
 - [skid9000/Crunchyroll-Downloader](https://github.com/skid9000/Crunchyroll-Downloader) - A little GUI to download crap from crunchyroll.
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
@@ -668,9 +669,9 @@
 - [BradyBrenot/huestacean](https://github.com/BradyBrenot/huestacean) - Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [memgraph/mgconsole](https://github.com/memgraph/mgconsole) - mgconsole is a command-line interface (CLI) used to interact with Memgraph from any terminal or operating system.
-- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
+- [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL e-ink device firmware
+- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -993,7 +994,6 @@
 - [mbertolacci/lorem-rss](https://github.com/mbertolacci/lorem-rss) - Code for a webservice that generates Lorem Ipsum RSS at specified intervals, available at http://lorem-rss.herokuapp.com
 - [turbolinks/turbolinks-classic](https://github.com/turbolinks/turbolinks-classic) - Classic version of Turbolinks. Now deprecated in favor of Turbolinks 5.
 - [atmos/camo](https://github.com/atmos/camo) - :lock: an http proxy to route images through SSL
-- [rs/node-netmask](https://github.com/rs/node-netmask) - Parse and lookup IP network blocks
 - [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
 - [hmatsuda/ruby-block](https://github.com/hmatsuda/ruby-block) - highlight matching ruby block on Atom editor
 - [yasuyuky/autocomplete-clang](https://github.com/yasuyuky/autocomplete-clang) - 
@@ -1109,7 +1109,7 @@
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [edance/openpace](https://github.com/edance/openpace) - 🏃 Track Runs and Workouts
 - [derpibooru/philomena](https://github.com/derpibooru/philomena) - Next-generation imageboard
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 - [aleph-naught2tog/live_tinkering](https://github.com/aleph-naught2tog/live_tinkering) - Little toy demos for Phoenix LiveView
 - [techgaun/ex_pwned](https://github.com/techgaun/ex_pwned) - Elixir client for haveibeenpwned.com
@@ -1863,7 +1863,7 @@
 - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
 - [arl/statsviz](https://github.com/arl/statsviz) - Visualise Go runtime metrics in real time
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
-- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
+- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 - [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
@@ -2687,7 +2687,7 @@
 - [DataDog/dd-trace-js](https://github.com/DataDog/dd-trace-js) - Datadog APM client for Node.js
 - [philipp-spiess/claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) - 
 - [bertrandda/par-ici-tennis](https://github.com/bertrandda/par-ici-tennis) - Book Paris tennis court (include CAPTCHA bypass)
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @backblaze @hetzner
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [cyu/rack-cors](https://github.com/cyu/rack-cors) - Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
 - [59de44955ebd/twitter-to-bsky](https://github.com/59de44955ebd/twitter-to-bsky) - Crosspost from Twitter/X to Bluesky and Mastodon directly in the web browser
 - [Yelp/dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - 🤖 dataloader-codegen is an opinionated JavaScript library for automatically generating DataLoaders over a set of resources (e.g. HTTP endpoints).
@@ -3310,6 +3310,7 @@
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [mozilla/fxa-content-server](https://github.com/mozilla/fxa-content-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
 - [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
@@ -3375,6 +3376,7 @@
 - [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
 - [dschep/proven](https://github.com/dschep/proven) - 🔑✅ An alternative to Twitter's verified accounts powered by Keybase.
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
@@ -3548,6 +3550,7 @@
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern, bright color theme for Sublime Text
 - [Psycojoker/pokefight](https://github.com/Psycojoker/pokefight) - a mastodon bot to generate fights between users
+- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.
 
 ## Just 
 
@@ -3672,6 +3675,7 @@
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
+- [MuxaJlbl4/Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita
 - [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
@@ -3828,6 +3832,7 @@
 
 ## Others 
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [GeekMagicClock/smalltv-ultra](https://github.com/GeekMagicClock/smalltv-ultra) - Ultra version firmware of GeekMagic smalltv
 - [CachyOS/proton-cachyos](https://github.com/CachyOS/proton-cachyos) - Compatibility tool for Steam Play based on Wine and additional components
 - [osendowment/foundation](https://github.com/osendowment/foundation) - Key docs and discussions for donors
@@ -3961,7 +3966,6 @@
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - The previous version of Pyston, a faster implementation of the Python programming language.  Please use this link for the new repository:
 - [738/awesome-sushi](https://github.com/738/awesome-sushi) - 🍣 국내 스시 오마카세 맛집 리스트
-- [MuxaJlbl4/Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita
 - [ttohin/tdesktop-gruvbox-dark-medium](https://github.com/ttohin/tdesktop-gruvbox-dark-medium) - Telegram Desktop Gruvbox dark (medium) Theme.
 - [climate-strike/license](https://github.com/climate-strike/license) - Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.
 - [DBraun/kpop_midi](https://github.com/DBraun/kpop_midi) - MIDI transcriptions of kpop songs. Most examples focus on piano chord progressions.
@@ -4475,7 +4479,6 @@
 - [nextcloud/end_to_end_encryption](https://github.com/nextcloud/end_to_end_encryption) - :closed_lock_with_key: Server API to support End-to-End Encryption
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [SatelliteWP/rocket-nginx](https://github.com/SatelliteWP/rocket-nginx) - Rocket-Nginx is a Nginx configuration that makes WP-Rocket even faster by serving static pages directly without loading WordPress or PHP.
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [elementary/website](https://github.com/elementary/website) - The elementary.io website
 - [ValdikSS/p0f-mtu-script](https://github.com/ValdikSS/p0f-mtu-script) - ＷＩＴＣＨ？(VPN detector) source code
@@ -4622,6 +4625,7 @@
 
 ## Python 
 
+- [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [DataDog/supply-chain-firewall](https://github.com/DataDog/supply-chain-firewall) - Supply-Chain Firewall (SCFW) is a tool for preventing the installation of malicious npm and PyPI packages :fire:
 - [ad4mts/zfdash](https://github.com/ad4mts/zfdash) - ZFS Management GUI & Web UI for Linux, macOS and FreeBSD. Provides both Desktop GUI and  Web UI interfaces. Simplifies common ZFS administration tasks for pools, datasets, volumes, and snapshots, incl
@@ -4832,7 +4836,7 @@
 - [k-acper/lastfm](https://github.com/k-acper/lastfm) - 
 - [pushingkarmaorg/python-plexapi](https://github.com/pushingkarmaorg/python-plexapi) - Python bindings for the Plex API.
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive public file downloader when curl/wget fails.
 - [rmartin16/qbittorrent-api](https://github.com/rmartin16/qbittorrent-api) - Python client implementation for qBittorrent's Web API
 - [danhab99/ledcapture](https://github.com/danhab99/ledcapture) - Flashes keyboard leds on incoming/outgoing network packets
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
@@ -5235,7 +5239,6 @@
 - [HelloZeroNet/ZeroBundle](https://github.com/HelloZeroNet/ZeroBundle) - Packed ZeroNet dependecies
 - [YoloSwagTeam/t2m](https://github.com/YoloSwagTeam/t2m) - Twitter to Mastodon timeline forwarding tool
 - [hishamhm/usercount](https://github.com/hishamhm/usercount) - User statistics bot for Mastodon
-- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.
 - [josefkenny/usercount](https://github.com/josefkenny/usercount) - User statistics bot for Mastodon
 - [shevabam/TweetBoxBot](https://github.com/shevabam/TweetBoxBot) - TweetBoxBot automatically tweets random informations from a Linux machine
 - [favll/pogom](https://github.com/favll/pogom) - The fastest Pokémon Go Map available.
@@ -5846,7 +5849,7 @@
 - [gsquire/topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [brauner/rlxc](https://github.com/brauner/rlxc) - LXC binary written in Rust
@@ -6358,7 +6361,6 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [anjaraeu/nocdn](https://github.com/anjaraeu/nocdn) - Self-hosted alternative to CDNs.
 - [hardware/nsd-dnssec](https://github.com/hardware/nsd-dnssec) - :warning: UNMAINTAINED -Simple authoritative name server with DNSSEC support using Docker
-- [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
 - [packetcat/mastible](https://github.com/packetcat/mastible) - An Ansible playbook to install Mastodon
 - [afontenot/firefox-clean](https://github.com/afontenot/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
@@ -6462,7 +6464,6 @@
 - [trakt/trakt-web](https://github.com/trakt/trakt-web) - Unlock the secrets of your watch history, explore hidden connections between films, and delve into the depths of personalized recommendations. But tread carefully, for the Trakt API holds powers that 
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mquandalle/mesaidesvelo](https://github.com/mquandalle/mesaidesvelo) - Découvrez les aides à l’achat d’un vélo
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [Kaiak/kaiak-wallet](https://github.com/Kaiak/kaiak-wallet) - A secure and fast way to send and receive Nano cryptocurrency in KaiOS.
@@ -6968,6 +6969,7 @@
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [sjwall/mdx-mermaid](https://github.com/sjwall/mdx-mermaid) - Plug and play Mermaid in MDX
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
@@ -7266,6 +7268,7 @@
 - [microsoft/node-pty](https://github.com/microsoft/node-pty) - Fork pseudoterminals in Node.JS
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
+- [rs/node-netmask](https://github.com/rs/node-netmask) - Parse and lookup IP network blocks
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [RiFi2k/format-html-in-php](https://github.com/RiFi2k/format-html-in-php) - Basically this vscode extension uses all your standard configurations for html formatting, and your standard configurations for format on save, etc. It more or less works exactly how vscode should alr
 - [HvyIndustries/crane](https://github.com/HvyIndustries/crane) - PHP Intellisense/code-completion for VS Code

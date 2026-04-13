@@ -454,7 +454,7 @@
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [paolostivanin/libbaseencode](https://github.com/paolostivanin/libbaseencode) - Library written in C for encoding and decoding data using base32 or base64 (RFC-4648)
 - [paolostivanin/libcotp](https://github.com/paolostivanin/libcotp) - C library that generates TOTP and HOTP
-- [paolostivanin/OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK3 that supports both TOTP and HOTP
+- [paolostivanin/OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and user-friendly OTP client written in C with GTK4/libadwaita, supporting both TOTP and HOTP.
 - [tleonhardt/practical_cryptography_engineering](https://github.com/tleonhardt/practical_cryptography_engineering) - Cryptography code examples using libsodium and mbedtls C libraries and Python cryptography and PyNaCl modules
 - [zilder/pg_lz4](https://github.com/zilder/pg_lz4) - lz4 compression for PostgreSQL 12+ (dev)
 - [danghvu/mod_dumpost](https://github.com/danghvu/mod_dumpost) - Small and lightweight Apache module to log POST data of a HTTP request
@@ -3103,7 +3103,6 @@
 - [ColinEberhardt/applause-button](https://github.com/ColinEberhardt/applause-button) - A zero-configuration medium-style button for adding applause / claps / kudos to web pages and blog posts
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
-- [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [happypandax/happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
@@ -3550,7 +3549,6 @@
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern, bright color theme for Sublime Text
 - [Psycojoker/pokefight](https://github.com/Psycojoker/pokefight) - a mastodon bot to generate fights between users
-- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.
 
 ## Just 
 
@@ -3833,6 +3831,7 @@
 ## Others 
 
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+- [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
 - [GeekMagicClock/smalltv-ultra](https://github.com/GeekMagicClock/smalltv-ultra) - Ultra version firmware of GeekMagic smalltv
 - [CachyOS/proton-cachyos](https://github.com/CachyOS/proton-cachyos) - Compatibility tool for Steam Play based on Wine and additional components
 - [osendowment/foundation](https://github.com/osendowment/foundation) - Key docs and discussions for donors
@@ -4625,7 +4624,6 @@
 
 ## Python 
 
-- [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [DataDog/supply-chain-firewall](https://github.com/DataDog/supply-chain-firewall) - Supply-Chain Firewall (SCFW) is a tool for preventing the installation of malicious npm and PyPI packages :fire:
 - [ad4mts/zfdash](https://github.com/ad4mts/zfdash) - ZFS Management GUI & Web UI for Linux, macOS and FreeBSD. Provides both Desktop GUI and  Web UI interfaces. Simplifies common ZFS administration tasks for pools, datasets, volumes, and snapshots, incl
@@ -5239,6 +5237,7 @@
 - [HelloZeroNet/ZeroBundle](https://github.com/HelloZeroNet/ZeroBundle) - Packed ZeroNet dependecies
 - [YoloSwagTeam/t2m](https://github.com/YoloSwagTeam/t2m) - Twitter to Mastodon timeline forwarding tool
 - [hishamhm/usercount](https://github.com/hishamhm/usercount) - User statistics bot for Mastodon
+- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.
 - [josefkenny/usercount](https://github.com/josefkenny/usercount) - User statistics bot for Mastodon
 - [shevabam/TweetBoxBot](https://github.com/shevabam/TweetBoxBot) - TweetBoxBot automatically tweets random informations from a Linux machine
 - [favll/pogom](https://github.com/favll/pogom) - The fastest Pokémon Go Map available.
@@ -5992,7 +5991,7 @@
 
 ## Shell 
 
-- [maximilionus/lucidglyph](https://github.com/maximilionus/lucidglyph) - Tuning the Linux font rendering stack for a more visually pleasing output
+- [maximilionus/lucidglyph](https://github.com/maximilionus/lucidglyph) - Improvements for the Linux font rendering stack
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
 - [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera models
@@ -7312,6 +7311,7 @@
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
 - [nonoroazoro/vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: Sync all of your VSCode settings across multiple devices, supports any VSCode variant.
+- [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you

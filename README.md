@@ -190,6 +190,7 @@
 
 ## C 
 
+- [fabienmillet/WiiFin](https://github.com/fabienmillet/WiiFin) - Jellyfin Client for Wii
 - [Tarsnap/tarsnap](https://github.com/Tarsnap/tarsnap) - Command-line client code for Tarsnap.
 - [DistroHopper39B/ATV1sm](https://github.com/DistroHopper39B/ATV1sm) - Bypass for the original Apple TV's EFI verification, allowing it to boot any EFI-capable OS
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
@@ -606,7 +607,7 @@
 - [CyanogenMod/android_kernel_asus_grouper](https://github.com/CyanogenMod/android_kernel_asus_grouper) - 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Metallice/android_kernel_grouper](https://github.com/Metallice/android_kernel_grouper) - Linux 3.1 for Google Nexus 7
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [shellinabox/shellinabox](https://github.com/shellinabox/shellinabox) - Official-ish Fork of Shell In A Box
 - [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench) - Automatically exported from code.google.com/p/byte-unixbench
 
@@ -1153,6 +1154,7 @@
 
 ## Go 
 
+- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [gorilla/feeds](https://github.com/gorilla/feeds) - Package gorilla/feeds is a golang rss/atom generator library
@@ -6096,7 +6098,7 @@
 - [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh securely - used by 5k+ workflows!
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
 - [input-output-hk/cardano-haskell](https://github.com/input-output-hk/cardano-haskell) - Top level repository for building the Cardano Haskell node and related components and dependencies.
-- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🌴
+- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
 - [mbentley/docker-timemachine](https://github.com/mbentley/docker-timemachine) - Docker image to run Samba (compatible Time Machine for macOS)
 - [munki/bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume.
@@ -6535,7 +6537,7 @@
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [nerdsupremacist/Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps.   100% in SwiftUI.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
-- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
 - [JosephDuffy/Overamped](https://github.com/JosephDuffy/Overamped) - Safari Web Extension to disable AMP ⚡️
 - [jordansinger/SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
 - [V8tr/InfiniteListSwiftUI](https://github.com/V8tr/InfiniteListSwiftUI) - Paginated endless scroll using the SwiftUI and Combine frameworks
@@ -7061,7 +7063,7 @@
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) - The official website's repository for the Snap store
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React

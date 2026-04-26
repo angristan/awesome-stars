@@ -754,7 +754,7 @@
 - [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
 - [jontaylor/DDC-CI-Tools-for-OS-X](https://github.com/jontaylor/DDC-CI-Tools-for-OS-X) - DDC/CI Tools for OS X, control your monitor through software
 - [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
-- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [mLupine/SoundflowerBed](https://github.com/mLupine/SoundflowerBed) - SoundflowerBed 2, a Soundflowerbed fork
 - [jakobkogler/Algorithm-DataStructures](https://github.com/jakobkogler/Algorithm-DataStructures) - Implementations of Algorithms and Data Structures
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
@@ -1607,7 +1607,7 @@
 - [gamalan/caddy-tlsredis](https://github.com/gamalan/caddy-tlsredis) - Redis Storage using for Caddy TLS Data
 - [bouk/monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
-- [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
+- [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - [Moved to Codeberg] Simple local scanner for vulnerable log4j instances
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
 - [kmikiy/go-icloud-private-relay](https://github.com/kmikiy/go-icloud-private-relay) - Detect iCloud Private Relay IP Addresses
 - [stripe/smokescreen](https://github.com/stripe/smokescreen) - A simple HTTP proxy that fogs over naughty URLs

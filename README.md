@@ -30,7 +30,6 @@
 - [Dart](#dart)
 - [Dhall](#dhall)
 - [Dockerfile](#dockerfile)
-- [Eagle](#eagle)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
@@ -246,6 +245,7 @@
 - [schweikert/fping](https://github.com/schweikert/fping) - High performance ping tool
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
+- [hallard/teleinfo](https://github.com/hallard/teleinfo) - Projets dédié à la téléinformation
 - [raspberrypi/utils](https://github.com/raspberrypi/utils) - A collection of scripts and simple applications
 - [open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 - [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
@@ -1103,10 +1103,6 @@
 - [plesk/docker](https://github.com/plesk/docker) - Dockerfiles for Plesk
 - [alexhaydock/BoringNginx](https://github.com/alexhaydock/BoringNginx) - Nginx + Docker + BoringSSL = ✔️ Easy TLS 1.3
 
-## Eagle 
-
-- [hallard/teleinfo](https://github.com/hallard/teleinfo) - Projets dédié à la téléinformation
-
 ## Elixir 
 
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
@@ -1359,7 +1355,7 @@
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) - An improved drop-in replacement for SQS
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
-- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 and 3.1 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [qonto/postgresql-partition-manager](https://github.com/qonto/postgresql-partition-manager) - Simplified PostgreSQL partioning management
@@ -3696,7 +3692,6 @@
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools
-- [radicle-dev/radicle.xyz-old](https://github.com/radicle-dev/radicle.xyz-old) - The website
 
 ## NSIS 
 
@@ -5632,7 +5627,7 @@
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [gwennlbh/zed-wakatime](https://github.com/gwennlbh/zed-wakatime) - Wakatime Client Plugin for Zed
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The Grafbase GraphQL Federation Gateway
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - [Acquired by The Guild] The Grafbase GraphQL Federation Gateway
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -7381,7 +7376,7 @@
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [miniorg/miniverse](https://github.com/miniorg/miniverse) - Miniverse is a microblogging software.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code

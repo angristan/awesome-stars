@@ -1189,7 +1189,7 @@
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend ZFS data storage stack.
-- [entireio/cli](https://github.com/entireio/cli) - Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
+- [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
@@ -4623,6 +4623,7 @@
 
 ## Python 
 
+- [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant
 - [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [DataDog/supply-chain-firewall](https://github.com/DataDog/supply-chain-firewall) - Supply-Chain Firewall (SCFW) is a tool for preventing the installation of malicious npm and PyPI packages :fire:
@@ -6376,7 +6377,7 @@
 - [tonikelope/megadown](https://github.com/tonikelope/megadown) - Bash script for download files and get metadata from mega.nz and megacrypter links
 - [FredBezies/arch-tuto-installation](https://github.com/FredBezies/arch-tuto-installation) - Version en ligne de mon tutoriel pour installer Archlinux
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [YunoHost-Apps/mastodon_ynh](https://github.com/YunoHost-Apps/mastodon_ynh) - Free, open-source social network for YunoHost
 - [simonclausen/dnscrypt-autoinstall](https://github.com/simonclausen/dnscrypt-autoinstall) - Automatic installation and configuration of DNSCrypt (on Debian + Redhat like systems). This script will install DNSCrypt and configure it to start on boot and use an optional dnscrypt service.
@@ -7024,7 +7025,6 @@
 - [prettymuchbryce/http-status-codes](https://github.com/prettymuchbryce/http-status-codes) - Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
 - [remix-project-org/remix-project](https://github.com/remix-project-org/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
-- [pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - :pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️

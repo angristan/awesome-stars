@@ -218,6 +218,7 @@
 - [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder) - Silicon Labs firmware builder
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [aws/pgactive](https://github.com/aws/pgactive) - 
+- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
 - [RedisTimeSeries/RedisTimeSeries](https://github.com/RedisTimeSeries/RedisTimeSeries) - Time Series data structure for Redis
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [alegrey91/harpoon](https://github.com/alegrey91/harpoon) - 🔍  Function-level tracing tool for Seccomp profiling, with eBPF
@@ -675,7 +676,6 @@
 - [memgraph/mgconsole](https://github.com/memgraph/mgconsole) - mgconsole is a command-line interface (CLI) used to interact with Memgraph from any terminal or operating system.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -3051,7 +3051,6 @@
 - [mpiannucci/gnome-shell-extended-gestures](https://github.com/mpiannucci/gnome-shell-extended-gestures) - Better touchpad gesture handling for GNOME
 - [antoineguilbert/android-messages-for-desktop](https://github.com/antoineguilbert/android-messages-for-desktop) - An Electron wrapper around android messages web interface enhanced with native notifications and badges
 - [gabLaroche/death-to-ie11](https://github.com/gabLaroche/death-to-ie11) - Countdown for IE11 end of support
-- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [adelphes/android-dev-ext](https://github.com/adelphes/android-dev-ext) - Android debugging support for VS Code
 - [DiemasMichiels/emulator](https://github.com/DiemasMichiels/emulator) - Run Android emulator and iOS simulator easily from VScode!
 - [Vincit/tarn.js](https://github.com/Vincit/tarn.js) - Simple and robust resource pool for node.js
@@ -5215,7 +5214,7 @@
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
-- [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
+- [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - 💻 Maintained fork of the original Archey (Linux) system tool
 - [kudelskisecurity/EdDSA-fault-attack](https://github.com/kudelskisecurity/EdDSA-fault-attack) - Fault attack agaisnt EdDSA demonstrated on an Arduino Nano board, allowing for partial key recovery and fake signatures.
 - [TheEnigmaBlade/holo](https://github.com/TheEnigmaBlade/holo) - Episode discussion bot for /r/anime.
 - [rareyman/HTMLBeautify](https://github.com/rareyman/HTMLBeautify) - A plugin for Sublime Text that formats (indents) HTML source code. It makes code easier for humans to read.
@@ -6684,6 +6683,7 @@
 
 ## TypeScript 
 
+- [t3dotgg/azure-bench](https://github.com/t3dotgg/azure-bench) - Showing azure foundry's awful perf on openai models
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [hinosxz/tax-helper](https://github.com/hinosxz/tax-helper) - Tool for French & US citizens struggling with filing taxes for income from company equity
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
@@ -7287,6 +7287,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [rubyide/vscode-ruby](https://github.com/rubyide/vscode-ruby) - Provides Ruby language and debugging support for Visual Studio Code
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces

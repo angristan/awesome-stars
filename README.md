@@ -2676,7 +2676,6 @@
 - [polymath-ventures/bugsappleloves](https://github.com/polymath-ventures/bugsappleloves) - A satirical website documenting how much time humanity wastes because of bugs that Apple seemingly loves so much that they keep them around forever
 - [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [DamonOehlman/detect-browser](https://github.com/DamonOehlman/detect-browser) - Unpack a browser type and version from the useragent string
 - [johannago/trmnl-spotify-stats](https://github.com/johannago/trmnl-spotify-stats) - Display your Spotify listening statistics on your TRMNL e-ink display, including top artists, top tracks, and recently played songs.
 - [RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username) - 
@@ -3338,6 +3337,7 @@
 - [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [borgbackup/borgweb](https://github.com/borgbackup/borgweb) - Web UI for Borg Backup
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [eevans/grafana-backup](https://github.com/eevans/grafana-backup) - Backup Grafana dashboards
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [LedgerHQ/ledger-wallet-ripple](https://github.com/LedgerHQ/ledger-wallet-ripple) - 
@@ -3758,7 +3758,6 @@
 
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [la-rache/la-rache.com](https://github.com/la-rache/la-rache.com) - Site web
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## Nushell 
 
@@ -4650,6 +4649,7 @@
 - [mittagessen/kraken](https://github.com/mittagessen/kraken) - OCR engine for all the languages
 - [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [IxayWolf/get-coco-attention](https://github.com/IxayWolf/get-coco-attention) - A tool that controls hue lights in the room of my boyfriend in order to get his attention
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
@@ -4695,7 +4695,7 @@
 - [SolaWing/xcode-build-server](https://github.com/SolaWing/xcode-build-server) - a build server protocol implementation for integrate xcode with sourcekit-lsp
 - [ssenart/PyGazpar](https://github.com/ssenart/PyGazpar) - Python library to download gas consumption from a Grdf account
 - [ssenart/home-assistant-gazpar](https://github.com/ssenart/home-assistant-gazpar) - GrDF Gazpar meter integration for Home Assistant
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
 - [NabuCasa/snitun](https://github.com/NabuCasa/snitun) - End-to-End encryption with SNI proxy on top of a TCP multiplexer
 - [jameno/Simple-Apple-Health-XML-to-CSV](https://github.com/jameno/Simple-Apple-Health-XML-to-CSV) - A simple script to convert all records from an Apple Health 'export.xml' file into a csv
@@ -4748,7 +4748,7 @@
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -5585,7 +5585,6 @@
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
 - [dtolnay/star-history](https://github.com/dtolnay/star-history) - Graph history of GitHub stars of a user or repo over time
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Sandboxes for every agent. Embeddable, stateful, snapshots, and hardware isolation.
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
@@ -6704,6 +6703,7 @@
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [slopus/happy-server](https://github.com/slopus/happy-server) - Happy Coder backend
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Sandboxes for every agent. Embeddable, stateful, snapshots, and hardware isolation.
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
 - [chongdashu/cc-statusline](https://github.com/chongdashu/cc-statusline) - Transform your Claude Code experience with a beautiful, informative statusline
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 

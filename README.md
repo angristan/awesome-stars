@@ -4164,7 +4164,7 @@
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -4749,7 +4749,7 @@
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
@@ -6703,7 +6703,7 @@
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [slopus/happy-server](https://github.com/slopus/happy-server) - Happy Coder backend
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Sandboxes for every agent. Embeddable, stateful, snapshots, and hardware isolation.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
 - [chongdashu/cc-statusline](https://github.com/chongdashu/cc-statusline) - Transform your Claude Code experience with a beautiful, informative statusline
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 

@@ -2223,6 +2223,7 @@
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [Oxalide/vsphere-influxdb-go](https://github.com/Oxalide/vsphere-influxdb-go) - Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [kryptco/kr](https://github.com/kryptco/kr) - DEPRECATED A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
@@ -2931,7 +2932,7 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
-- [webpack/terser-webpack-plugin](https://github.com/webpack/terser-webpack-plugin) - Terser Plugin
+- [webpack/minimizer-webpack-plugin](https://github.com/webpack/minimizer-webpack-plugin) - Minimizer Plugin
 - [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -5139,7 +5140,6 @@
 - [anforaProject/anfora](https://github.com/anforaProject/anfora) - 🏺 Self-hosted photo gallery social network. Under development
 - [snwh/paper-icon-theme](https://github.com/snwh/paper-icon-theme) - Paper Icon Theme
 - [maldevel/gdog](https://github.com/maldevel/gdog) - A fully featured Windows backdoor that uses Gmail as a C&C server
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [furlongm/openvpn-monitor](https://github.com/furlongm/openvpn-monitor) - openvpn-monitor is a web based OpenVPN monitor, that shows current connection information, such as users, location and data transferred.
 - [claranet/cloud-deploy](https://github.com/claranet/cloud-deploy) - Claranet Cloud Deploy
@@ -6838,7 +6838,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
 - [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
-- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.

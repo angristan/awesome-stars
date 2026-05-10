@@ -1152,6 +1152,7 @@
 
 ## Go 
 
+- [systemli/prometheus-mastodon-exporter](https://github.com/systemli/prometheus-mastodon-exporter) - Prometheus Exporter for Mastodon
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.

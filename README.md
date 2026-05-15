@@ -1326,7 +1326,7 @@
 - [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
 - [bufbuild/protovalidate-go](https://github.com/bufbuild/protovalidate-go) - Protocol Buffer Validation for Go
 - [vektah/dataloaden](https://github.com/vektah/dataloaden) - go generate based DataLoader
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
 - [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - gqlfmt formats your GraphQL files. like gofmt.
 - [gqlgo/gqlgenc](https://github.com/gqlgo/gqlgenc) - This is Go library for building GraphQL client with gqlgen
 - [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
@@ -1864,6 +1864,7 @@
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
+- [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [Sioro-Neoku/go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Go Peerflix
@@ -4745,7 +4746,7 @@
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -5382,7 +5383,6 @@
 - [jm/toml](https://github.com/jm/toml) - Parse TOML.  Like a bawss.
 - [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers
 - [dbreunig/git-scraper-extractor](https://github.com/dbreunig/git-scraper-extractor) - Pull out versions of specific files from a gitscraping repo into individual files.
-- [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [sverrirs/jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2) - Pagination Generator for Jekyll 3 (enhanced replacement for the old built-in jekyll-paginate gem) ⛺
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) - :inbox_tray: The "jekyll import" command for importing from various blogs to Jekyll format.
 - [tmm1/stackprof](https://github.com/tmm1/stackprof) - a sampling call-stack profiler for ruby 2.2+
@@ -5689,6 +5689,7 @@
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
@@ -6680,6 +6681,7 @@
 
 ## TypeScript 
 
+- [DataDog/IDE-SHEPHERD-extension](https://github.com/DataDog/IDE-SHEPHERD-extension) - A VS Code/Cursor extension capable of performing realtime security monitoring from inside the IDE
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [t3dotgg/azure-bench](https://github.com/t3dotgg/azure-bench) - Showing azure foundry's awful perf on openai models
@@ -7546,7 +7548,6 @@
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 

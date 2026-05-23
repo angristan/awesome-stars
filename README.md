@@ -150,7 +150,7 @@
 ## Astro 
 
 - [chrismwilliams/astro-theme-cactus](https://github.com/chrismwilliams/astro-theme-cactus) - A simple Astro theme. Use it to create your blog or website.
-- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
+- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme.
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [will-stone/plastic](https://github.com/will-stone/plastic) - ♻ A simple theme.
@@ -1152,6 +1152,7 @@
 
 ## Go 
 
+- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made
 - [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [systemli/prometheus-mastodon-exporter](https://github.com/systemli/prometheus-mastodon-exporter) - Prometheus Exporter for Mastodon
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
@@ -1254,7 +1255,7 @@
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
@@ -1457,7 +1458,7 @@
 - [bradleyjkemp/cupaloy](https://github.com/bradleyjkemp/cupaloy) - Simple Go snapshot testing
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
 - [bombsimon/wsl](https://github.com/bombsimon/wsl) - ␊ whitespace linter - Forces you to use empty lines!
-- [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy) - A tool to check for vulnerabilities in your Golang dependencies, powered by Sonatype OSS Index
+- [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy) - A tool to check for vulnerabilities in your Golang dependencies, powered by Sonatype Guide and Sonatype Lifecycle Index
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
@@ -3242,7 +3243,6 @@
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [voxmedia/meme](https://github.com/voxmedia/meme) - Meme generator
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [brownbaglunch/bblfr_data](https://github.com/brownbaglunch/bblfr_data) - Brown Bag Lunch baggers database
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) - qrcode generation standalone (doesn't depend on external services)
@@ -3833,7 +3833,7 @@
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 - [openebs/openebs](https://github.com/openebs/openebs) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [p-lemonish/ollama-x-opencode](https://github.com/p-lemonish/ollama-x-opencode) - Step-by-step guide of how I setup opencode's agentic workflow to be compatible with ollama's models that are capable of using tools
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [DataDog/datadog-for-vscode](https://github.com/DataDog/datadog-for-vscode) - Datadog for VS Code
@@ -5564,6 +5564,7 @@
 
 ## Rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
 - [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
@@ -7209,7 +7210,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [nestjs/schematics](https://github.com/nestjs/schematics) - Nest architecture element generation based on Angular schematics 🎬
-- [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks, Snippets and Notes Manager for Developers & Co (website)
+- [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [cyrilletuzi/typescript-strictly-typed](https://github.com/cyrilletuzi/typescript-strictly-typed) - Automatic configuration for fully typed TypeScript. Because strict mode is not enough.
@@ -7382,6 +7383,7 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [microsoft/linkcheckermd](https://github.com/microsoft/linkcheckermd) - A VSCode extension that check links in Markdown to ensure they are valid.

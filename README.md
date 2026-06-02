@@ -1154,6 +1154,7 @@
 
 ## Go 
 
+- [WeebDataHoarder/go-away](https://github.com/WeebDataHoarder/go-away) - [Mirror] Self-hosted abuse detection and rule enforcement against low-effort mass AI scraping and bots.
 - [matrix-org/complement](https://github.com/matrix-org/complement) - Matrix compliance test suite
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [grafana/sobek](https://github.com/grafana/sobek) - 
@@ -5923,6 +5924,7 @@
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [ha-shine/rustagram](https://github.com/ha-shine/rustagram) - Instagram filters in Rust 💫
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [LeChatP/RootAsRole](https://github.com/LeChatP/RootAsRole) - A better alternative to sudo(-rs)/su • ⚡ Blazing fast • 🛡️ Memory-safe • 🔐 Security-oriented
@@ -6698,6 +6700,7 @@
 
 ## TypeScript 
 
+- [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) - MCP server for Shodan — search internet-connected devices, IP reconnaissance, DNS lookups, and CVE/CPE vulnerability intelligence. Works with Claude Code, Codex, Gemini CLI, and Claude Desktop.
 - [earthtojake/step.parts](https://github.com/earthtojake/step.parts) - 12,000+ open source STEP parts for your next CAD project
 - [DataDog/IDE-SHEPHERD-extension](https://github.com/DataDog/IDE-SHEPHERD-extension) - A VS Code/Cursor extension capable of performing realtime security monitoring from inside the IDE
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -7346,7 +7349,6 @@
 - [GNS3/gns3-web-ui](https://github.com/GNS3/gns3-web-ui) - WebUI implementation for GNS3
 - [mozilla/shumway](https://github.com/mozilla/shumway) - Shumway is a Flash VM and runtime written in JavaScript
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [buttercup/buttercup-mobile](https://github.com/buttercup/buttercup-mobile) - :iphone: React-Native mobile application for Buttercup
 - [buttercup/buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension
 - [AniList/docs](https://github.com/AniList/docs) - AniList API documentation

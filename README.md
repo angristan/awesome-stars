@@ -657,6 +657,7 @@
 
 ## C++ 
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
@@ -1870,7 +1871,7 @@
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
 - [arl/statsviz](https://github.com/arl/statsviz) - Visualise Go runtime metrics in real time
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 - [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
@@ -3831,6 +3832,7 @@
 
 ## Others 
 
+- [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
@@ -4628,6 +4630,7 @@
 
 ## Python 
 
+- [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [iamdual/ua-generator](https://github.com/iamdual/ua-generator) - 💻 A random user-agent generator.
@@ -5578,6 +5581,8 @@
 
 ## Rust 
 
+- [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
+- [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) - CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
 - [wakatime/zed-wakatime](https://github.com/wakatime/zed-wakatime) - Zed plugin for automatic time tracking and metrics generated from your programming activity.
@@ -6493,6 +6498,7 @@
 
 ## Swift 
 
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
 - [viktorstrate/mactrix](https://github.com/viktorstrate/mactrix) - Native Matrix client for macOS
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents

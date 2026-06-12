@@ -1155,6 +1155,7 @@
 
 ## Go 
 
+- [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - Use CH-UI to work with your data from Click House self-hosted with a user-friendly interface. CH-UI is a modern and feature-rich user interface for ClickHouse databases. It offers an intuitive platfor
 - [grafana/gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana Cloud resources. Optimized for agentic usage.
 - [WeebDataHoarder/go-away](https://github.com/WeebDataHoarder/go-away) - [Mirror] Self-hosted abuse detection and rule enforcement against low-effort mass AI scraping and bots.
 - [matrix-org/complement](https://github.com/matrix-org/complement) - Matrix compliance test suite

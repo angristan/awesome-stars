@@ -1155,6 +1155,7 @@
 
 ## Go 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - Use CH-UI to work with your data from Click House self-hosted with a user-friendly interface. CH-UI is a modern and feature-rich user interface for ClickHouse databases. It offers an intuitive platfor
 - [grafana/gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana Cloud resources. Optimized for agentic usage.
 - [WeebDataHoarder/go-away](https://github.com/WeebDataHoarder/go-away) - [Mirror] Self-hosted abuse detection and rule enforcement against low-effort mass AI scraping and bots.
@@ -2495,7 +2496,7 @@
 - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - Deprecated: A fork of the iconic font and CSS toolkit
 - [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - MIRROR of https://codeberg.org/thefederationinfo/the-federation.info
 - [jpescador/hugo-future-imperfect](https://github.com/jpescador/hugo-future-imperfect) - A ported theme with some extras for the Hugo static website engine
-- [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
+- [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server Side TLS Tools have moved
 - [walletgeneratornet/WalletGenerator.net](https://github.com/walletgeneratornet/WalletGenerator.net) - Universal JavaScript Client-Side Wallet Generator
 - [Pizzacus/satania.moe](https://github.com/Pizzacus/satania.moe) - Satania IS the BEST waifu, no really, she is, if you don't believe me, this website will convince you
 - [jatchili/minimalist-ripple-client](https://github.com/jatchili/minimalist-ripple-client) - minimalist ripple client
@@ -3835,7 +3836,6 @@
 
 ## Others 
 
-- [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
@@ -4284,6 +4284,7 @@
 - [soloterm/solo](https://github.com/soloterm/solo) - Your all-in-one Laravel command to tame local development
 - [ijpatricio/mingle](https://github.com/ijpatricio/mingle) - Use JS components with Vue or React in a Laravel Livewire and/or Filament application
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid generates modern, powerful and easy-to-customize data tables using Laravel Livewire.
 - [wireui/wireui](https://github.com/wireui/wireui) - TallStack UI components
 - [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.
@@ -4986,7 +4987,7 @@
 - [m1keil/alfred-vagrant-workflow](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant with Alfred2/3
 - [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
@@ -5632,7 +5633,7 @@
 - [rtroncoso/ursa-minor-ffb](https://github.com/rtroncoso/ursa-minor-ffb) - Ursa Minor FFB
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [azerpas/bourso-api](https://github.com/azerpas/bourso-api) - Boursorama / BoursoBank unofficial API and CLI
@@ -6505,7 +6506,9 @@
 
 - [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) - Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
+- [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [viktorstrate/mactrix](https://github.com/viktorstrate/mactrix) - Native Matrix client for macOS
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
@@ -6873,7 +6876,6 @@
 - [DigiLive/mushroom-strategy](https://github.com/DigiLive/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [electron/rebuild](https://github.com/electron/rebuild) - Package to rebuild native Node.js modules against the currently installed Electron version
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
@@ -7384,7 +7386,7 @@
 - [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify) - Use Spotify inside vscode(on Mac, Windows, and Linux).
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
-- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [julia-vscode/julia-vscode](https://github.com/julia-vscode/julia-vscode) - Julia extension for Visual Studio Code
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL

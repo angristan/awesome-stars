@@ -1155,6 +1155,7 @@
 
 ## Go 
 
+- [go-enry/go-enry](https://github.com/go-enry/go-enry) - A faster file programming language detector
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - Use CH-UI to work with your data from Click House self-hosted with a user-friendly interface. CH-UI is a modern and feature-rich user interface for ClickHouse databases. It offers an intuitive platfor
 - [grafana/gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana Cloud resources. Optimized for agentic usage.

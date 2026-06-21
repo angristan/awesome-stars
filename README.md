@@ -3048,7 +3048,6 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [evgeni/qifi](https://github.com/evgeni/qifi) - pure JS WiFi QR Code Generator
 - [Protoqol/Prequel](https://github.com/Protoqol/Prequel) - Prequel for Laravel. Clear and concise database management. Unfortunately, not actively maintained due to time constraints.
-- [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [nzws/mastodon-custom-emoji-viewer](https://github.com/nzws/mastodon-custom-emoji-viewer) - 
 - [00-matt/node-fist](https://github.com/00-matt/node-fist) - Node.js client library for Fist full text search
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
@@ -5964,7 +5963,7 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [segersniels/supdock](https://github.com/segersniels/supdock) - What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts.
 - [rustodon/rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -7319,6 +7318,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+- [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [microsoft/node-pty](https://github.com/microsoft/node-pty) - Fork pseudoterminals in Node.JS
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client

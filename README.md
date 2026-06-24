@@ -775,7 +775,7 @@
 - [johang/vlc-bittorrent](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
 - [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [javafxports/openjdk-jfx](https://github.com/javafxports/openjdk-jfx) - The openjfx repo has moved to:
-- [romgrk/node-gtk](https://github.com/romgrk/node-gtk) - GTK bindings for NodeJS (via GObject introspection)
+- [romgrk/node-gtk](https://github.com/romgrk/node-gtk) - GTK bindings for NodeJS
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -1298,7 +1298,7 @@
 - [abiosoft/caddy-inspect](https://github.com/abiosoft/caddy-inspect) - HTTP request inspector for Caddy web server
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [goravel/goravel](https://github.com/goravel/goravel) - The full-featured Golang Development Framework skeleton
-- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
+- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
@@ -6387,7 +6387,7 @@
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [Wonderfall/docker-ghost](https://github.com/Wonderfall/docker-ghost) - Dockerfile for Ghost CMS.
-- [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
+- [TryGhost/docker-library-ghost](https://github.com/TryGhost/docker-library-ghost) - Docker Official Image packaging for Ghost
 - [deadhead420/fetchmirrors](https://github.com/deadhead420/fetchmirrors) - Arch Linux pacman mirrorlist update utility
 - [hhvm/hhvm-docker](https://github.com/hhvm/hhvm-docker) - Dockerfiles for HHVM
 - [iljaweis/vault-bash-completion](https://github.com/iljaweis/vault-bash-completion) - bash completion for Hashicorp Vault
@@ -6516,7 +6516,7 @@
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [viktorstrate/mactrix](https://github.com/viktorstrate/mactrix) - Native Matrix client for macOS
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.

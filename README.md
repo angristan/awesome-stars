@@ -657,6 +657,7 @@
 
 ## C++ 
 
+- [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser

@@ -843,6 +843,7 @@
 - [facebookarchive/Flicks](https://github.com/facebookarchive/Flicks) - A unit of time defined in C++.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Namecoin full node + wallet based on the current Bitcoin Core codebase.
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -2726,7 +2727,7 @@
 - [yungifez/april-ui](https://github.com/yungifez/april-ui) - Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJS
 - [wire-elements/wire-spy](https://github.com/wire-elements/wire-spy) - WireSpy—a sleek new debug bar for Livewire
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [mebeim/linux-syscalls](https://github.com/mebeim/linux-syscalls) - 🌐🐧 Browsable Linux kernel syscall tables built with Systrack (https://github.com/mebeim/systrack)
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
@@ -3631,6 +3632,7 @@
 
 ## Lua 
 
+- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [dlyongemallo/diffview-plus.nvim](https://github.com/dlyongemallo/diffview-plus.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev (actively maintained fork).
@@ -3804,6 +3806,7 @@
 
 ## Objective-C 
 
+- [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl) - A Mac utility to automatically disable AWDL to reduce lag spikes when playing online games
 - [FuzzyIdeas/MusicDecoy](https://github.com/FuzzyIdeas/MusicDecoy) - 
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - This application gives Mac users in enterprise environments control over the administration of their machines by elevating their access level to administrator privileges on macOS. Users can set a time
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
@@ -4194,7 +4197,6 @@
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [jdauphant/ansible-role-ssl-certs](https://github.com/jdauphant/ansible-role-ssl-certs) - Generate and/or deploy SSL certificate
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [distantorigin/XPS-Enhancements](https://github.com/distantorigin/XPS-Enhancements) - Detailed instructions and resources to improve the experience for new Dell XPS 93XX users
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -4547,7 +4549,6 @@
 - [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload) - The file upload extension with insane intelligence for your Flarum forum.
 - [sijad/flarum-ext-auth-steam](https://github.com/sijad/flarum-ext-auth-steam) - Allow users to log into flarum with their steam account
 - [scottmac/opengraph](https://github.com/scottmac/opengraph) - Helper class for accessing the OpenGraph Protocol
-- [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [halfdan/IPv6Usage](https://github.com/halfdan/IPv6Usage) - Piwik Plugin to track whether visitors are using IPv4 or IPv6
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -5622,6 +5623,7 @@
 
 ## Rust 
 
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
 - [codifryed/coolercontrol](https://github.com/codifryed/coolercontrol) - This is mirror of the official repository on GitLab. Please go there for reporting issues, requesting new features, and creating pull requests.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser

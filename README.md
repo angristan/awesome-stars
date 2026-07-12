@@ -1157,6 +1157,7 @@
 
 ## Go 
 
+- [siderolabs/terraform-provider-talos](https://github.com/siderolabs/terraform-provider-talos) - 
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
@@ -2561,6 +2562,7 @@
 
 ## Java 
 
+- [xandergos/terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - Procedural terrain generation with diffusion models (in Minecraft)
 - [apache/nutch](https://github.com/apache/nutch) - Apache Nutch is an extensible and scalable web crawler
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [palantir/palantir-java-format](https://github.com/palantir/palantir-java-format) - A modern, lambda-friendly, 120 character Java formatter.
@@ -6773,6 +6775,9 @@
 
 ## TypeScript 
 
+- [IgorWarzocha/howaboua-pi-stuff](https://github.com/IgorWarzocha/howaboua-pi-stuff) - A monorepo of extensions and skills by yours truly.
+- [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
+- [mikeyobrien/pi-tidy-tools](https://github.com/mikeyobrien/pi-tidy-tools) - Tidy, reason-first tool output for pi. Every tool call in two lines: why it ran, and what it returned. Diffs and output on demand.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [partment/opencode-openai-compact](https://github.com/partment/opencode-openai-compact) - Use OpenAI Responses API native compaction in OpenCode

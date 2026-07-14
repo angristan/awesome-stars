@@ -74,7 +74,6 @@
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
-- [Open Policy Agent](#open-policy-agent)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -190,6 +189,7 @@
 
 ## C 
 
+- [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
 - [frankcrawford/it87](https://github.com/frankcrawford/it87) - 
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly
 - [fabienmillet/WiiFin](https://github.com/fabienmillet/WiiFin) - Jellyfin Client for Wii
@@ -659,6 +659,7 @@
 
 ## C++ 
 
+- [vitalif/vitastor](https://github.com/vitalif/vitastor) - Simplified distributed block and file storage with strong consistency, like in Ceph (repository mirror)
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
@@ -843,7 +844,6 @@
 - [facebookarchive/Flicks](https://github.com/facebookarchive/Flicks) - A unit of time defined in C++.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Namecoin full node + wallet based on the current Bitcoin Core codebase.
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -1158,6 +1158,7 @@
 
 ## Go 
 
+- [topolvm/topolvm](https://github.com/topolvm/topolvm) - Capacity-aware CSI plugin for Kubernetes
 - [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
 - [siderolabs/terraform-provider-talos](https://github.com/siderolabs/terraform-provider-talos) - 
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) - A simple daemon providing dynamic fan speed control based on temperature sensors.
@@ -2373,7 +2374,7 @@
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [stoyan/perfplanet](https://github.com/stoyan/perfplanet) - 
-- [sensy-one/S1](https://github.com/sensy-one/S1) - Welcome to the official GitHub repository for the Sensy-One S1 mmWave sensor – a compact, high-performance sensor designed for smart home and automation projects. Here, you'll find all the detailed sp
+- [sensy-one/S1](https://github.com/sensy-one/S1) - Welcome to the official GitHub repository for the Sensy-One S1 mmWave sensor, a compact, high-performance sensor designed for smart home and automation projects. Here, you'll find all the detailed spe
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
@@ -2564,6 +2565,7 @@
 
 ## Java 
 
+- [LINBIT/linstor-server](https://github.com/LINBIT/linstor-server) - High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
 - [xandergos/terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - Procedural terrain generation with diffusion models (in Minecraft)
 - [apache/nutch](https://github.com/apache/nutch) - Apache Nutch is an extensible and scalable web crawler
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
@@ -3525,6 +3527,7 @@
 
 ## Jinja 
 
+- [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions) - Defines standards for generating consistent, accessible telemetry across a variety of domains
 - [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.
 - [sleighzy/ansible-kafka](https://github.com/sleighzy/ansible-kafka) - Ansible role for installing and configuring Apache Kafka on RedHat and Debian platforms.
 - [Sh4d1/k8s-infra](https://github.com/Sh4d1/k8s-infra) - 
@@ -3856,10 +3859,6 @@
 
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 - [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming s
-
-## Open Policy Agent 
-
-- [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions) - Defines standards for generating consistent, accessible telemetry across a variety of domains
 
 ## OpenSCAD 
 
@@ -4203,6 +4202,7 @@
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [jdauphant/ansible-role-ssl-certs](https://github.com/jdauphant/ansible-role-ssl-certs) - Generate and/or deploy SSL certificate
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [distantorigin/XPS-Enhancements](https://github.com/distantorigin/XPS-Enhancements) - Detailed instructions and resources to improve the experience for new Dell XPS 93XX users
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -4664,6 +4664,8 @@
 
 ## Python 
 
+- [Swival/swival](https://github.com/Swival/swival) - A small, powerful, open-source CLI coding agent that works with open models.
+- [ceph/ceph-nvmeof](https://github.com/ceph/ceph-nvmeof) - Service to provide Ceph storage over NVMe-oF/TCP protocol
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems lik
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
@@ -5764,7 +5766,7 @@
 - [ThePrimeagen/htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - its so over
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -6778,6 +6780,7 @@
 
 ## TypeScript 
 
+- [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
 - [IgorWarzocha/howaboua-pi-stuff](https://github.com/IgorWarzocha/howaboua-pi-stuff) - A monorepo of extensions and skills by yours truly.
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [mikeyobrien/pi-tidy-tools](https://github.com/mikeyobrien/pi-tidy-tools) - Tidy, reason-first tool output for pi. Every tool call in two lines: why it ran, and what it returned. Diffs and output on demand.
@@ -7363,7 +7366,7 @@
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - :octocat: Deploy your Ghost theme with Github Actions
+- [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - GitHub Action that packages and deploys Ghost themes through the Ghost Admin API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.

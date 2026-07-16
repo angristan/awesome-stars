@@ -318,7 +318,7 @@
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
-- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
 - [Kong/kong-cjson](https://github.com/Kong/kong-cjson) - Lua CJSON is a fast JSON encoding/parsing module for Lua
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [iputils/iputils](https://github.com/iputils/iputils) - The iputils package is set of small old utilities for Linux networking.
@@ -4355,7 +4355,6 @@
 - [nunomaduro/skeleton-php](https://github.com/nunomaduro/skeleton-php) - ⚡️ This package provides a wonderful PHP skeleton to start building your next package idea.
 - [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) - The Laravel adapter for Inertia.js.
 - [BenSampo/laravel-enum](https://github.com/BenSampo/laravel-enum) - Simple, extensible and powerful enumeration implementation for Laravel.
-- [AsimovMac/asimov](https://github.com/AsimovMac/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [willvincent/feeds](https://github.com/willvincent/feeds) - A simple Laravel service provider for including the SimplePie library.
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function
 - [spatie/laravel-deleted-models](https://github.com/spatie/laravel-deleted-models) - Automatically copy deleted records to a separate table
@@ -6137,6 +6136,7 @@
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [aglipanci/laravel-pint-action](https://github.com/aglipanci/laravel-pint-action) - GitHub Action for Laravel Pint
+- [AsimovMac/asimov](https://github.com/AsimovMac/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [posva/task-logger.sh](https://github.com/posva/task-logger.sh) - :art: shell library to log tasks with nice output. Supports zsh and bash
 - [php-actions/phpstan](https://github.com/php-actions/phpstan) - PHP Static Analysis in Github Actions.
 - [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application.

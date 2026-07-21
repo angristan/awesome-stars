@@ -1161,6 +1161,9 @@
 
 ## Go 
 
+- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [topolvm/topolvm](https://github.com/topolvm/topolvm) - Capacity-aware CSI plugin for Kubernetes
 - [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
@@ -5642,6 +5645,8 @@
 
 ## Rust 
 
+- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [googlefonts/fontations](https://github.com/googlefonts/fontations) - Reading and writing font files
@@ -6469,7 +6474,7 @@
 - [anjaraeu/nocdn](https://github.com/anjaraeu/nocdn) - Self-hosted alternative to CDNs.
 - [hardware/nsd-dnssec](https://github.com/hardware/nsd-dnssec) - :warning: UNMAINTAINED -Simple authoritative name server with DNSSEC support using Docker
 - [packetcat/mastible](https://github.com/packetcat/mastible) - An Ansible playbook to install Mastodon
-- [afontenot/firefox-clean](https://github.com/afontenot/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
+- [lmfont/firefox-clean](https://github.com/lmfont/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 - [rogalmic/vscode-bash-debug](https://github.com/rogalmic/vscode-bash-debug) - Bash shell debugger extension for VSCode (based on bashdb)
 - [denysvitali/linux-on-pixel-c](https://github.com/denysvitali/linux-on-pixel-c) - Documentation on how to run a Linux Distro on the Google Pixel C (2015)
@@ -6794,6 +6799,7 @@
 
 ## TypeScript 
 
+- [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 - [qselle/pi-extensions](https://github.com/qselle/pi-extensions) - A personal collection of extensions for the pi coding agent.
 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 - [Effect-TS/skills](https://github.com/Effect-TS/skills) - 

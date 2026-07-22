@@ -949,6 +949,7 @@
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI. （该项目不再维护。）
+- [borgbackup/borgbackup.github.io](https://github.com/borgbackup/borgbackup.github.io) - BorgBackup project web site
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [widget-/slack-black-theme](https://github.com/widget-/slack-black-theme) - A darker, more contrasty, Slack theme.
@@ -1073,7 +1074,7 @@
 ## Dockerfile 
 
 - [nginx/docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged) - Unprivileged NGINX Dockerfiles
-- [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) - Docker image with PHP-FPM 8.5 & Nginx 1.28 on Alpine Linux
+- [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) - Docker image with PHP-FPM 8.5 & Nginx 1.30 on Alpine Linux
 - [exaco/laravel-docktane](https://github.com/exaco/laravel-docktane) - Production-ready Docker setup for Laravel powered web services and microservices. Done right.
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
 - [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode) - Studio Code Server - Home Assistant Community Add-ons
@@ -2402,7 +2403,6 @@
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [eidam/cf-workers-zero-trust-terraform-state](https://github.com/eidam/cf-workers-zero-trust-terraform-state) - Zero-Trust @HashiCorp Terraform state backend
-- [blrchen/aws-speed-test](https://github.com/blrchen/aws-speed-test) - AWS speed test tool. Test your network latency to AWS datacenters around the world.
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [knadh/dont.build](https://github.com/knadh/dont.build) - A simple, opinionated decision system to help decide whether to build a software feature or not.
 - [LHemon412/korean-number](https://github.com/LHemon412/korean-number) - 
@@ -2486,7 +2486,6 @@
 - [arielf/cuts](https://github.com/arielf/cuts) - Unix 'cut' (and 'paste') on steroids: more flexible select columns from files
 - [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
-- [borgbackup/borgbackup.github.io](https://github.com/borgbackup/borgbackup.github.io) - BorgBackup project web site
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [zadewg/LIVEBOX-0DAY](https://github.com/zadewg/LIVEBOX-0DAY) - CVE-2018-20377; 20575; 20576; 20577 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -2725,7 +2724,6 @@
 - [DataDog/dd-trace-js](https://github.com/DataDog/dd-trace-js) - Datadog APM client for Node.js
 - [philipp-spiess/claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) - 
 - [bertrandda/par-ici-tennis](https://github.com/bertrandda/par-ici-tennis) - Book Paris tennis court (include CAPTCHA bypass)
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [cyu/rack-cors](https://github.com/cyu/rack-cors) - Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
 - [59de44955ebd/twitter-to-bsky](https://github.com/59de44955ebd/twitter-to-bsky) - Crosspost from Twitter/X to Bluesky and Mastodon directly in the web browser
 - [Yelp/dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - 🤖 dataloader-codegen is an opinionated JavaScript library for automatically generating DataLoaders over a set of resources (e.g. HTTP endpoints).
@@ -6899,6 +6897,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [Pocket/pocket-monorepo](https://github.com/Pocket/pocket-monorepo) - Monorepo of all Pocket App Typescript Backend Sevices
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -7114,6 +7113,7 @@
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
 - [status-base/statusbase-nuxt](https://github.com/status-base/statusbase-nuxt) - A modern, zero-dependency uptime monitoring tool & status page based on GitHub Actions & Nuxt Content v2.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [blrchen/aws-speed-test](https://github.com/blrchen/aws-speed-test) - AWS speed test tool. Test your network latency to AWS datacenters around the world.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭

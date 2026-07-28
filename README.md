@@ -1998,7 +1998,7 @@
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [lqez/awesome-hangul](https://github.com/lqez/awesome-hangul) - An awesome list of Hangul/Korean related libraries and modules
-- [minekube/gate](https://github.com/minekube/gate) - Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering our production scale global Connect network. Runs with 10MB.
+- [minekube/gate](https://github.com/minekube/gate) - Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering the production scale global Connect network. Runs with 10MB.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [kalbhor/tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.

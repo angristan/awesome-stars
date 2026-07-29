@@ -848,7 +848,6 @@
 - [facebookarchive/Flicks](https://github.com/facebookarchive/Flicks) - A unit of time defined in C++.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Namecoin full node + wallet based on the current Bitcoin Core codebase.
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -3008,6 +3007,7 @@
 - [kgretzky/pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.
 - [Rejectedus/rejected.us](https://github.com/Rejectedus/rejected.us) - :cry: The codebase for rejected.us
 - [rage/java-programming](https://github.com/rage/java-programming) - 
+- [feedbin/extract](https://github.com/feedbin/extract) - 
 - [sagarkarira/coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli) - Track conronavirus cases from command line. curl https://corona-stats.online/
 - [tegon/traktflix](https://github.com/tegon/traktflix) - Trakt.tv + Netflix = :heart:
 - [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker) - The worker that serves Cloudflare's security.txt!
@@ -3016,7 +3016,7 @@
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
 - [budui/go-isso](https://github.com/budui/go-isso) - a commenting server similar to Disqus - rewrite isso with golang
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
@@ -4212,6 +4212,7 @@
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [jdauphant/ansible-role-ssl-certs](https://github.com/jdauphant/ansible-role-ssl-certs) - Generate and/or deploy SSL certificate
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [distantorigin/XPS-Enhancements](https://github.com/distantorigin/XPS-Enhancements) - Detailed instructions and resources to improve the experience for new Dell XPS 93XX users
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -5504,7 +5505,6 @@
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
 - [blindsidenetworks/scalelite](https://github.com/blindsidenetworks/scalelite) - Scalable load balancer for BigBlueButton.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
-- [feedbin/extract](https://github.com/feedbin/extract) - 
 - [scaleway/homebrew-scaleway](https://github.com/scaleway/homebrew-scaleway) - :beer: `brew tap scaleway/scaleway`
 - [jin5354/alfred3-workflow-CurrencyConvert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) - This alfred3 workflow can convert currency conveniently.
 - [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) - Vagrant provider for libvirt.
@@ -6595,7 +6595,7 @@
 - [viktorstrate/mactrix](https://github.com/viktorstrate/mactrix) - Native Matrix client for macOS
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [raspu/Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.

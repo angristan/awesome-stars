@@ -3138,7 +3138,6 @@
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [happypandax/happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
-- [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) - 🔍 Index the content of your files
 - [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [mattatz/THREE.Tree](https://github.com/mattatz/THREE.Tree) - a Tree geometry generator for three.js.
@@ -3243,7 +3242,7 @@
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [mjackson/expect](https://github.com/mjackson/expect) - Write better assertions
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
@@ -4488,6 +4487,7 @@
 - [phansible/phansible](https://github.com/phansible/phansible) - Phansible - generate Vagrant + Ansible dev environments for PHP
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [pixelfedLabs/state](https://github.com/pixelfedLabs/state) - [READ-ONLY] - Project no longer maintained
+- [nextcloud/files_fulltextsearch](https://github.com/nextcloud/files_fulltextsearch) - 🔍 Index the content of your files
 - [landrok/activitypub](https://github.com/landrok/activitypub) - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.
 - [wizaplace/github-to-mysql](https://github.com/wizaplace/github-to-mysql) - Synchronizes GitHub data (issues, labels, ...) to a MySQL database
 - [interconnectit/Search-Replace-DB](https://github.com/interconnectit/Search-Replace-DB) - This script was made to aid the process of migrating PHP and MySQL based websites. Works with most common CMSes.
@@ -5665,7 +5665,7 @@
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
 - [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) - CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
 - [wakatime/zed-wakatime](https://github.com/wakatime/zed-wakatime) - Zed plugin for automatic time tracking and metrics generated from your programming activity.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
@@ -6805,6 +6805,7 @@
 
 ## TypeScript 
 
+- [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [kavinsood/yaos](https://github.com/kavinsood/yaos) - A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.
 - [cloudflare/chanfana](https://github.com/cloudflare/chanfana) - OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more!

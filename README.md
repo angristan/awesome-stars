@@ -581,7 +581,7 @@
 - [solus-project/linux-steam-integration](https://github.com/solus-project/linux-steam-integration) - Helper for enabling better Steam integration on Linux
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [CipherShed/CipherShed](https://github.com/CipherShed/CipherShed) - Main CipherShed Development
-- [alibaba/tengine](https://github.com/alibaba/tengine) - High-performance web server and reverse proxy: HTTP/3, Kubernetes Ingress, zero-downtime dynamic configuration, active upstream health checks, and NTLS (SM2/SM3/SM4). 100% nginx-compatible, battle-tes
+- [alibaba/tengine](https://github.com/alibaba/tengine) - A high-performance web server and reverse proxy, 100% compatible with nginx.
 - [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
@@ -1476,7 +1476,7 @@
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go
 - [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -3749,7 +3749,6 @@
 
 ## Nim 
 
-- [FrameOS/frameos](https://github.com/FrameOS/frameos) - Operating system for single function smart frames
 - [oakes/vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -5204,7 +5203,7 @@
 - [andsens/bootstrap-vz](https://github.com/andsens/bootstrap-vz) - Bootstrap Debian images for virtualized environments
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [lxc-webpanel/LXC-Web-Panel](https://github.com/lxc-webpanel/LXC-Web-Panel) - LXC Web Panel repository
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [boto/s3transfer](https://github.com/boto/s3transfer) - Amazon S3 Transfer Manager for Python
@@ -6803,6 +6802,7 @@
 
 ## TypeScript 
 
+- [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [kavinsood/yaos](https://github.com/kavinsood/yaos) - A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.
@@ -7018,6 +7018,7 @@
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
+- [FrameOS/frameos](https://github.com/FrameOS/frameos) - Operating system for single function smart frames
 - [publicodes/publicodes](https://github.com/publicodes/publicodes) - Le langage pour les algorithmes d'intérêt public
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
@@ -7169,7 +7170,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [squidjs/terminal](https://github.com/squidjs/terminal) - The extendible Shell and SSH terminal, with E2E encryption in the cloud.
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
 - [cotag/ts-md5](https://github.com/cotag/ts-md5) - Typescript MD5 implemenation
 - [prettymuchbryce/http-status-codes](https://github.com/prettymuchbryce/http-status-codes) - Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.

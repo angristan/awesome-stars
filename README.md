@@ -1335,7 +1335,7 @@
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
@@ -2087,7 +2087,6 @@
 - [deanishe/alfred-ssh](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections from Alfred 3+
 - [jamescun/wg-api](https://github.com/jamescun/wg-api) - WG-API is a JSON-RPC Server for WireGuard
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [shawn1m/overture](https://github.com/shawn1m/overture) - A customized DNS relay server
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -2347,7 +2346,7 @@
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
-- [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts
+- [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - Official Helm charts for the operator, database clusters and the Barman Cloud plugin.
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [drone-plugins/drone-base](https://github.com/drone-plugins/drone-base) - Base image used by the plugins
 
@@ -3243,6 +3242,7 @@
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [mjackson/expect](https://github.com/mjackson/expect) - Write better assertions
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
@@ -5646,7 +5646,7 @@
 
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX & HTML to SVG or images. 160+ CSS properties supported. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX & HTML to SVG or images. 170+ CSS properties supported. Drop-in next/og replacement.
 - [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -6826,7 +6826,7 @@
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [mikeyobrien/pi-tidy-tools](https://github.com/mikeyobrien/pi-tidy-tools) - Tidy, reason-first tool output for pi. Every tool call in two lines: why it ran, and what it returned. Diffs and output on demand.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [partment/opencode-openai-compact](https://github.com/partment/opencode-openai-compact) - Use OpenAI Responses API native compaction in OpenCode
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration.
 - [ArthurHeitmann/arctic_shift](https://github.com/ArthurHeitmann/arctic_shift) - Making Reddit data accessible to researchers, moderators and everyone else.  Interact with the data through large dumps, an API or web interface.

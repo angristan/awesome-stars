@@ -2048,7 +2048,7 @@
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [Masterminds/glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [qiniu/iconv](https://github.com/qiniu/iconv) - Golang bindings to libiconv - Convert string to requested character encoding
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [vrongmeal/caddygit](https://github.com/vrongmeal/caddygit) - Git module for Caddy v2
 - [derekparker/delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - This SDK has reached end-of-support. The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
@@ -2356,6 +2356,7 @@
 
 ## HCL 
 
+- [terrapkg/packages](https://github.com/terrapkg/packages) - Monorepo for Terra Packages
 - [hcloud-k8s/terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [asdf-community/infrastructure](https://github.com/asdf-community/infrastructure) - Infrastructure configuration files [maintainer=@smorimoto]
 - [cirruslabs/macos-image-templates](https://github.com/cirruslabs/macos-image-templates) - 
@@ -5352,7 +5353,7 @@
 - [hiimim/RPiMonitoring](https://github.com/hiimim/RPiMonitoring) - RaspberryPi monitoring with Twitter and Python
 - [kuba/simp_le](https://github.com/kuba/simp_le) - Simple Let's Encrypt Client
 - [joaquinlpereyra/twitterImgBot](https://github.com/joaquinlpereyra/twitterImgBot) - Ever wanted to randomly tweet pictures from a folder? No? Well, maybe you do now.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [iBaa/PlexConnect](https://github.com/iBaa/PlexConnect) - Plex @ aTV - think different...
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery

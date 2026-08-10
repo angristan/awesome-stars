@@ -1166,6 +1166,7 @@
 
 ## Go 
 
+- [uozalp/kangal-patch](https://github.com/uozalp/kangal-patch) - Automates rolling upgrades of Talos Linux nodes in Kubernetes clusters.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
@@ -3088,7 +3089,6 @@
 - [clearlinux/clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [gatsbyjs/gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world) - Starter with the bare essentials needed for a Gatsby site
 - [davidmaillo/instagram-images-download-extension](https://github.com/davidmaillo/instagram-images-download-extension) - Google Chrome extension to download Instagram images
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [mpiannucci/gnome-shell-extended-gestures](https://github.com/mpiannucci/gnome-shell-extended-gestures) - Better touchpad gesture handling for GNOME
 - [antoineguilbert/android-messages-for-desktop](https://github.com/antoineguilbert/android-messages-for-desktop) - An Electron wrapper around android messages web interface enhanced with native notifications and badges
 - [gabLaroche/death-to-ie11](https://github.com/gabLaroche/death-to-ie11) - Countdown for IE11 end of support
@@ -5658,7 +5658,7 @@
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX & HTML to image, SVG or PDF. 170+ CSS properties supported. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render OG images and paged PDFs from JSX, HTML, and CSS. No headless browser. Runs on Node.js, Cloudflare Workers, browsers, and Rust.
 - [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -7447,6 +7447,7 @@
 - [mathieu-anderson/js-equality-jackpot](https://github.com/mathieu-anderson/js-equality-jackpot) - Those weird equalities don't seem to pop up that often 🤔
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [felixfbecker/vscode-php-intellisense](https://github.com/felixfbecker/vscode-php-intellisense) - Advanced PHP IntelliSense for Visual Studio Code 🆚💬
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.

@@ -4679,6 +4679,7 @@
 
 ## Python 
 
+- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [Gamezxz/pixel-art-studio](https://github.com/Gamezxz/pixel-art-studio) - Agent Skill that makes Claude a pixel artist — no Aseprite, no MCP, no diffusion. Every pixel is a decision.
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
@@ -6916,7 +6917,7 @@
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [wakatime/claude-code-wakatime](https://github.com/wakatime/claude-code-wakatime) - Track how much time you spend using Claude Code to AI-code
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [memgraph/orb](https://github.com/memgraph/orb) - Graph visualization library
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 - [coinbase/cds](https://github.com/coinbase/cds) - Coinbase Design System

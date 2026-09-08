@@ -3519,7 +3519,6 @@
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [kevana/ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
 - [jaredly/hexo-admin](https://github.com/jaredly/hexo-admin) - An Admin Interface for Hexo
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [SuphanutJui/Material-Sidenav-Ghost-Theme](https://github.com/SuphanutJui/Material-Sidenav-Ghost-Theme) - A Ghost blogging-platform theme, based on Materialize.css.
 - [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and live streams
@@ -4161,7 +4160,6 @@
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
 - [vbarbaresi/MetroGit](https://github.com/vbarbaresi/MetroGit) - Paris Metro lines on a Git graph
-- [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher) - Start here: what OSWatcher is, how the pieces fit together, and which repository to open next
 - [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker for Codewars
 - [aeris/gdpr](https://github.com/aeris/gdpr) - GDPR letter template
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
@@ -4175,7 +4173,6 @@
 - [gluster/gluster-ansible-cluster](https://github.com/gluster/gluster-ansible-cluster) - Ansible role to create and deploy a Gluster cluster.
 - [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials) - Iptables Essentials: Common Firewall Rules and Commands.
 - [gluster/gluster-ansible](https://github.com/gluster/gluster-ansible) - A core library of gluster specific roles and modules for ansible/ansible tower.
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [dominictarr/your-web-app-is-bloated](https://github.com/dominictarr/your-web-app-is-bloated) - measuring memory usage of popular webapps
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
@@ -4705,6 +4702,7 @@
 
 ## Python 
 
+- [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [daijro/browserforge](https://github.com/daijro/browserforge) - 🎭 Intelligent browser header & fingerprint generator
 - [cxcscmu/Craw4LLM](https://github.com/cxcscmu/Craw4LLM) - Official repository for "Craw4LLM: Efficient Web Crawling for LLM Pretraining"
@@ -5691,6 +5689,8 @@
 
 ## Rust 
 
+- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
@@ -6410,6 +6410,7 @@
 - [GNS3/gns3-vm](https://github.com/GNS3/gns3-vm) - FOR DEVELOPMENT ONLY GO TO GNS3.COM FOR THE VM WITH GNS3 INCLUDED
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [jessfraz/shaking-finger-action](https://github.com/jessfraz/shaking-finger-action) - A GitHub action that displays a gif of Conan O'Brien shaking his finger to a pull request on fail.
+- [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher) - Start here: what OSWatcher is, how the pieces fit together, and which repository to open next
 - [nodequery/nq-agent](https://github.com/nodequery/nq-agent) - The NodeQuery agent collects selected linux server data and sends them to our monitoring system for further processing.
 - [docker-library/hello-world](https://github.com/docker-library/hello-world) - 
 - [ehough/docker-nfs-server](https://github.com/ehough/docker-nfs-server) - A lightweight, robust, flexible, and containerized NFS server.
@@ -6419,6 +6420,7 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Convenience shortname repository for asdf community plugins
 - [rasa/vmware-tools-patches](https://github.com/rasa/vmware-tools-patches) - Patch and build VMware tools automatically
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
 - [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
@@ -6645,6 +6647,7 @@
 
 ## Swift 
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [subpop/Relay](https://github.com/subpop/Relay) - All the power of Matrix. None of the complexity.
 - [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) - Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.
@@ -6652,7 +6655,7 @@
 - [viktorstrate/mactrix](https://github.com/viktorstrate/mactrix) - Native Matrix client for macOS
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [raspu/Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
@@ -6863,6 +6866,7 @@
 
 ## TypeScript 
 
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [quint-co/quint](https://github.com/quint-co/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
@@ -7451,7 +7455,7 @@
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [SocialGouv/code-du-travail-numerique](https://github.com/SocialGouv/code-du-travail-numerique) - Code du Travail Numérique
 - [onehungrymind/angular-core-workshop](https://github.com/onehungrymind/angular-core-workshop) - Code for the "Angular Core" Course on Frontend Masters
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [mike-works/typescript-fundamentals](https://github.com/mike-works/typescript-fundamentals) - Mike North's 2018 TypeScript Fundamentals Course
 - [iamolegga/nestjs-pino](https://github.com/iamolegga/nestjs-pino) - Platform agnostic logger for NestJS based on Pino with REQUEST CONTEXT IN EVERY LOG
@@ -7659,6 +7663,7 @@
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [debugger22/github-audio](https://github.com/debugger22/github-audio) - Listen to music generated by events happening across GitHub :octocat: 🎷
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [bnjjj/my-infra](https://github.com/bnjjj/my-infra) - My infra is a mobile application to manage some of the OVH products and services.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.

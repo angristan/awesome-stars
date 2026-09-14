@@ -834,7 +834,7 @@
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
-- [gaspardpetit/base64](https://github.com/gaspardpetit/base64) - 
+- [gaspardpetit/base64-benchmark](https://github.com/gaspardpetit/base64-benchmark) - 
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
 - [KDE/konsole](https://github.com/KDE/konsole) - Terminal emulator by KDE

@@ -1489,7 +1489,7 @@
 - [t-yuki/gocover-cobertura](https://github.com/t-yuki/gocover-cobertura) - golang : go tool cover to XML (Cobertura) export tool.
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
 - [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
@@ -4714,7 +4714,7 @@
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [Gamezxz/pixel-art-studio](https://github.com/Gamezxz/pixel-art-studio) - Agent Skill that makes Claude a pixel artist — no Aseprite, no MCP, no diffusion. Every pixel is a decision.
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 - [Swival/swival](https://github.com/Swival/swival) - A small, powerful, open-source CLI coding agent that works with open models.
 - [ceph/ceph-nvmeof](https://github.com/ceph/ceph-nvmeof) - Service to provide Ceph storage over NVMe-oF/TCP protocol
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems lik
@@ -7124,7 +7124,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [standardrb/vscode-standard-ruby](https://github.com/standardrb/vscode-standard-ruby) - The official VS Code extension for the Standard Ruby linter and code formatter
 - [bokub/linky](https://github.com/bokub/linky) - 🔌 CLI tool to retrieve Linky smart meters data
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server

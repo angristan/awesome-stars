@@ -2608,7 +2608,6 @@
 - [LINBIT/linstor-server](https://github.com/LINBIT/linstor-server) - High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
 - [xandergos/terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - Procedural terrain generation with diffusion models (in Minecraft)
 - [apache/nutch](https://github.com/apache/nutch) - Apache Nutch is an extensible and scalable web crawler
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [palantir/palantir-java-format](https://github.com/palantir/palantir-java-format) - A modern, lambda-friendly, 120 character Java formatter.
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
 - [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
@@ -2749,7 +2748,7 @@
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [JadenJSJ/yt-watch-later-tools](https://github.com/JadenJSJ/yt-watch-later-tools) - Userscript to automate removing videos from YouTube Watch Later. Say bye to "Maximum playlist size exceeded"
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [polymath-ventures/bugsappleloves](https://github.com/polymath-ventures/bugsappleloves) - A satirical website documenting how much time humanity wastes because of bugs that Apple seemingly loves so much that they keep them around forever
 - [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
@@ -3049,7 +3048,7 @@
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
 - [budui/go-isso](https://github.com/budui/go-isso) - a commenting server similar to Disqus - rewrite isso with golang
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
@@ -6407,7 +6406,7 @@
 - [GNS3/gns3-vm](https://github.com/GNS3/gns3-vm) - FOR DEVELOPMENT ONLY GO TO GNS3.COM FOR THE VM WITH GNS3 INCLUDED
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [jessfraz/shaking-finger-action](https://github.com/jessfraz/shaking-finger-action) - A GitHub action that displays a gif of Conan O'Brien shaking his finger to a pull request on fail.
-- [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher) - Start here: what OSWatcher is, how the pieces fit together, and which repository to open next
+- [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher) - 
 - [nodequery/nq-agent](https://github.com/nodequery/nq-agent) - The NodeQuery agent collects selected linux server data and sends them to our monitoring system for further processing.
 - [docker-library/hello-world](https://github.com/docker-library/hello-world) - 
 - [ehough/docker-nfs-server](https://github.com/ehough/docker-nfs-server) - A lightweight, robust, flexible, and containerized NFS server.
@@ -6871,7 +6870,7 @@
 - [SableClient/Sable](https://github.com/SableClient/Sable) - An almost stable Matrix client.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or no
-- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not jus
+- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
@@ -6933,6 +6932,7 @@
 - [digitarald/mcp-apps-playground](https://github.com/digitarald/mcp-apps-playground) - 
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills

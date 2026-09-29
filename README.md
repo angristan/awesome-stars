@@ -3941,6 +3941,7 @@
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [paseto-standard/paseto-spec](https://github.com/paseto-standard/paseto-spec) - Specification for Platform Agnostic SEcurity TOkens (PASETO)
 - [dariusz-wozniak/awesome-strava](https://github.com/dariusz-wozniak/awesome-strava) - A curated list of awesome Strava tools & resources
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [esp-rs/book](https://github.com/esp-rs/book) - The Rust on ESP Book
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [gl-inet/gl-feeds](https://github.com/gl-inet/gl-feeds) - This repo is maintained by GL.iNet team. It includes packages which are missing in openwrt feeds or version is too old.
@@ -4704,6 +4705,7 @@
 
 ## Python 
 
+- [Vinyzu/cursory](https://github.com/Vinyzu/cursory) - Generate 100% human-realistic Mouse Trajectories with Timings.
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [Elijaht-dev/mistralai-conversation](https://github.com/Elijaht-dev/mistralai-conversation) - Mistral AI conversation integration for Home Assistant
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
@@ -5457,7 +5459,6 @@
 - [lostisland/faraday](https://github.com/lostisland/faraday) - Simple, but flexible HTTP client library, with support for multiple backends.
 - [arthurnn/twirp-ruby](https://github.com/arthurnn/twirp-ruby) - Twirp services in Ruby
 - [ruby-concurrency/concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails
 - [rmosolgo/graphiql-rails](https://github.com/rmosolgo/graphiql-rails) - Mount the GraphiQL query editor in a Rails app
 - [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL

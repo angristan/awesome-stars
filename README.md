@@ -671,6 +671,7 @@
 
 ## C++ 
 
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [Neroued/ninfer](https://github.com/Neroued/ninfer) - High-performance single-GPU inference for selected model checkpoints and GPUs.
 - [ThirteenAG/MaxPayne3.FusionFix](https://github.com/ThirteenAG/MaxPayne3.FusionFix) - New features and fixes for Max Payne 3
@@ -1348,7 +1349,7 @@
 - [yandex-cloud/k8s-csi-s3](https://github.com/yandex-cloud/k8s-csi-s3) - GeeseFS-based CSI for mounting S3 buckets as PersistentVolumes
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
-- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
+- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [abiosoft/caddy-inspect](https://github.com/abiosoft/caddy-inspect) - HTTP request inspector for Caddy web server
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
@@ -3555,7 +3556,7 @@
 - [hardware/ovh-availability](https://github.com/hardware/ovh-availability) - :warning: UNMAINTAINED - OVH, Kimsufi & SoYouStart servers availability checker
 - [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
 - [dconnolly/chromecast-backgrounds](https://github.com/dconnolly/chromecast-backgrounds) - Archive of all Chromecast background images.
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 
 ## Jinja 
@@ -7146,7 +7147,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [eyeix/meilisearch-ui](https://github.com/eyeix/meilisearch-ui) - 😎 Open-source, pretty, simple and fast ⚡ Meilisearch admin dashboard UI for managing your meilisearch instances 🕹
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
